@@ -24,6 +24,13 @@ html, body
 #navbar
   font-size: 1rem
   margin-top: 25px
+  padding-right: 10px
+  transition: margin-top 1s ease, background-color .3s ease, box-shadow .3s ease
+
+  .navbar-brand
+    img
+      transition: width .3s ease
+      width: 80px
 
   .navbar-nav
     .nav-link
@@ -43,6 +50,17 @@ html, body
     .show > .nav-link
       color: #4b7dc0
       background-position: -66% 0
+
+  &.scrolled
+    background: rgba(0, 0, 0, .1) !important
+    border-radius: 50px
+    margin-top: 10px
+    .navbar-brand
+      img
+        width: 50px
+    &:hover
+      background: #252525 !important
+      box-shadow: 0 0 25px rgba(0, 0, 0, .2)
 
 #header
   background: #252525
