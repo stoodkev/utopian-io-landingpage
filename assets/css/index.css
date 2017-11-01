@@ -155,29 +155,31 @@ html, body {
   #topics .carousel-control-prev:hover,
   #topics .carousel-control-next:hover {
     transform: scale(1.1); }
-#topics .carousel .carousel-inner {
-  padding: 25px; }
-  #topics .carousel .carousel-inner .card {
-    border-radius: 50px;
-    box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
-    border: solid 1px #eee; }
-    #topics .carousel .carousel-inner .card .card-img-top {
-      width: 59px; }
-    #topics .carousel .carousel-inner .card .btn-light {
-      border: solid 1px #ccc;
-      color: #999;
-      font-weight: bold;
-      font-size: 0.8rem;
-      background: #fff;
-      background-size: 400% 100%;
-      background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%);
-      -webkit-text-fill-color: transparent;
-      -webkit-background-clip: text;
-      transition: background-position 0.7s ease, border-color 0.3s ease; }
-      #topics .carousel .carousel-inner .card .btn-light:hover {
-        color: #4b7dc0;
-        background-position: -66% 0;
-        border-color: #4b7dc0; }
+#topics .carousel-control-prev {
+  left: -20px; }
+#topics .carousel-control-next {
+  right: -20px; }
+#topics .carousel .carousel-inner .card {
+  border-radius: 50px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
+  border: solid 1px #eee; }
+  #topics .carousel .carousel-inner .card .card-img-top {
+    width: 59px; }
+  #topics .carousel .carousel-inner .card .btn-light {
+    border: solid 1px #ccc;
+    color: #999;
+    font-weight: bold;
+    font-size: 0.8rem;
+    background: #fff;
+    background-size: 400% 100%;
+    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    transition: background-position 0.7s ease, border-color 0.3s ease; }
+    #topics .carousel .carousel-inner .card .btn-light:hover {
+      color: #4b7dc0;
+      background-position: -66% 0;
+      border-color: #4b7dc0; }
 
 #rewards {
   background: url("../img/rewards-bg.jpg") center center;
