@@ -5,6 +5,7 @@ html, body
 .btn
   border-radius: 25px
   &.btn-primary
+    background-color: #4b7dc0
     background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%)
     background-size: 200% 100%
     border: none
@@ -12,6 +13,7 @@ html, body
     transition: transform .3s ease, background-position 1s ease
     &:hover,
     &:focus
+      background-color: #9d3393
       background-size: 300% 100%
       background-position: -100% 0
       transform: scale(1.05)
@@ -21,7 +23,7 @@ html, body
 
 #navbar
   font-size: 1rem
-  margin-top: 50px
+  margin-top: 25px
 
   .navbar-nav
     .nav-link
@@ -67,8 +69,9 @@ html, body
       bottom: 100px
       height: 290px
       background-image: url('../img/wave-grey1.png')
+      filter: blur(.3px)
     &#wave-grey2
-      bottom: 200px
+      bottom: 100px
       height: 482px
       background-image: url('../img/wave-grey2.png')
     &#wave-white

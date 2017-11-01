@@ -5,19 +5,21 @@ html, body {
 .btn {
   border-radius: 25px; }
   .btn.btn-primary {
+    background-color: #4b7dc0;
     background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%);
     background-size: 200% 100%;
     border: none;
     padding: 0.7rem 1rem;
     transition: transform 0.3s ease, background-position 1s ease; }
     .btn.btn-primary:hover, .btn.btn-primary:focus {
+      background-color: #9d3393;
       background-size: 300% 100%;
       background-position: -100% 0;
       transform: scale(1.05); }
 
 #navbar {
   font-size: 1rem;
-  margin-top: 50px; }
+  margin-top: 25px; }
   #navbar .navbar-nav .nav-link {
     color: #fff;
     padding-left: 1rem;
@@ -57,9 +59,10 @@ html, body {
     #header .parallax-wave#wave-grey1 {
       bottom: 100px;
       height: 290px;
-      background-image: url("../img/wave-grey1.png"); }
+      background-image: url("../img/wave-grey1.png");
+      filter: blur(0.3px); }
     #header .parallax-wave#wave-grey2 {
-      bottom: 200px;
+      bottom: 100px;
       height: 482px;
       background-image: url("../img/wave-grey2.png"); }
     #header .parallax-wave#wave-white {
