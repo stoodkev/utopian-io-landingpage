@@ -71,10 +71,9 @@ $(function () {
 
   let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {
     opacity: 0,
-    top: -10,
     ease: Back.easeInOut,
     delay: 1
-  }, .05);
+  });
 
   let topicArrowsScene = new ScrollMagic.Scene({
     triggerElement: '#github-trigger',
