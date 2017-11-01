@@ -1,0 +1,84 @@
+html, body
+  font-family: 'Open Sans', sans-serif
+  height: 100%
+
+.btn
+  border-radius: 25px
+  &.btn-primary
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%)
+    background-size: 200% 100%
+    border: none
+    padding: 0.7rem 1rem
+    transition: transform .3s ease, background-position 1s ease
+    &:hover,
+    &:focus
+      background-size: 300% 100%
+      background-position: -100% 0
+      transform: scale(1.05)
+
+
+
+
+#navbar
+  font-size: 1rem
+  margin-top: 50px
+
+  .navbar-nav
+    .nav-link
+      color: #fff
+      padding-left: 1rem
+      padding-right: 1rem
+      background-size: 400% 100%
+      background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%)
+      -webkit-text-fill-color: transparent
+      -webkit-background-clip: text
+      transition: background-position .5s ease
+    .active > .nav-link,
+    .nav-link.active,
+    .nav-link.show,
+    .nav-link:focus,
+    .nav-link:hover,
+    .show > .nav-link
+      color: #4b7dc0
+      background-position: -66% 0
+
+#header
+  background: #252525
+  height: 768px
+  position: relative
+
+  #header-content
+    padding-top: 200px
+    h1
+      font-size: 4rem
+
+  .parallax-wave
+    position: absolute
+    bottom: 0
+    left: 0
+    right: 0
+    width: 100%
+    background-color: transparent
+    background-size: cover
+    background-position: 0 0
+    background-repeat: repeat-x
+
+    &#wave-grey1
+      bottom: 100px
+      height: 290px
+      background-image: url('../img/wave-grey1.png')
+    &#wave-grey2
+      bottom: 200px
+      height: 482px
+      background-image: url('../img/wave-grey2.png')
+    &#wave-white
+      bottom: -1px
+      height: 367px
+      background-image: url('../img/wave-white.png')
+
+#screen
+  margin-top: -350px
+  position: relative
+  z-index: 99
+  img
+    width: 500px
