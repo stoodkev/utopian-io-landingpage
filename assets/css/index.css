@@ -162,7 +162,8 @@ html, body {
 #topics .carousel .carousel-inner .card {
   border-radius: 50px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
-  border: solid 1px #eee; }
+  border: solid 1px #fff;
+  margin: 25px 0; }
   #topics .carousel .carousel-inner .card .card-img-top {
     width: 59px; }
   #topics .carousel .carousel-inner .card .btn-light {
