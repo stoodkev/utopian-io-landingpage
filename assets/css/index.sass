@@ -25,6 +25,7 @@ html, body
   font-size: 1rem
   margin-top: 25px
   padding-right: 10px
+  border-radius: 50px
   transition: margin-top 1s ease, background-color .3s ease, box-shadow .3s ease
 
   .navbar-brand
@@ -53,7 +54,6 @@ html, body
 
   &.scrolled
     background: rgba(0, 0, 0, .8) !important
-    border-radius: 50px
     margin-top: 10px
     .navbar-brand
       img
@@ -134,7 +134,7 @@ html, body
   #github-text
     font-size: 1.3rem
     position: relative
-    background-color: #f8f8f8
+    background-color: #f2f2f2
     color: #444
     border-radius: 50px
     z-index: 100
@@ -147,7 +147,7 @@ html, body
       height: 0
       border-top: 35px solid transparent
       border-bottom: 35px solid transparent
-      border-right: 35px solid #f8f8f8
+      border-right: 35px solid #f2f2f2
       position: absolute
       top: 50px
       left: -34px
@@ -202,13 +202,31 @@ html, body
   margin-top: 100px
   padding: 50px 0
 
+  h2
+    margin-top: -80px
+    text-align: center
+    span
+      background-color: #4a6aac
+      background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%)
+      background-size: 200% 100%
+      padding: 0.7rem 1rem
+      color: #fff
+      display: inline-block
+      margin: 0 auto
+      border: solid 5px #fff
+      border-radius: 25px
+      font-size: 1.5rem
+      font-weight: bold
+
   .counter
     border-radius: 35px
     background: rgba(255, 2555, 255, .1)
     color: #fff
     text-align: center
-    padding: 25px
+    padding: 25px 25px 10px
+    min-height: 200px
 
     h3
       font-size: 3rem
       font-weight: bold
+      margin: 20px auto
