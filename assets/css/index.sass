@@ -197,36 +197,83 @@ html, body
             border-color: #4b7dc0
 
 #rewards
-  background: url('../img/rewards-bg.jpg') center center
-  background-size: cover
-  margin-top: 100px
-  padding: 50px 0
+  #counters
+    background: url('../img/rewards-bg.jpg') center center
+    background-size: cover
+    margin-top: 100px
+    padding: 50px 0
 
-  h2
-    margin-top: -80px
-    text-align: center
-    span
-      background-color: #4a6aac
-      background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%)
-      background-size: 200% 100%
-      padding: 0.7rem 1rem
+    h2
+      margin-top: -80px
+      text-align: center
+      span
+        background-color: #4a6aac
+        background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%)
+        background-size: 200% 100%
+        padding: 0.7rem 1rem
+        color: #fff
+        display: inline-block
+        margin: 0 auto
+        border: solid 5px #fff
+        border-radius: 25px
+        font-size: 1.5rem
+        font-weight: bold
+
+    .counter
+      border-radius: 35px
+      background: rgba(255, 2555, 255, .1)
       color: #fff
+      text-align: center
+      padding: 25px 25px 10px
+      min-height: 200px
+
+      h3
+        font-size: 3rem
+        font-weight: bold
+        margin: 20px auto
+
+  #steem
+    margin-top: 50px
+    #steem-logo-container
+      position: relative
       display: inline-block
-      margin: 0 auto
-      border: solid 5px #fff
-      border-radius: 25px
-      font-size: 1.5rem
-      font-weight: bold
+      &:after
+        content: ' '
+        position: absolute
+        bottom: 0
+        left: 0
+        width: 60%
+        margin-left: 25%
+        height: 16px
+        background: rgba(0, 0, 0, 0.3)
+        border-radius: 50% / 8px
+        filter: blur(5px)
+      #steem-logo
+        width: 250px
+        max-width: 250px
+        position: relative
+        margin: 25px 25px 0
+      .upvote,
+      .dollar
+        position: absolute
+        bottom: 0
+        left: 0
+        color: #4b7dc0
+        background: #fff
+        border: solid 2px #4b7dc0
+        border-radius: 50%
+        width: 20px
+        height: 20px
+        line-height: 14px
+        opacity: .9
+      .dollar
+        font-size: 12px
+        line-height: 17px
+        color: #9d3393
+        border-color: #9d3393
 
-  .counter
-    border-radius: 35px
-    background: rgba(255, 2555, 255, .1)
-    color: #fff
-    text-align: center
-    padding: 25px 25px 10px
-    min-height: 200px
-
-    h3
-      font-size: 3rem
-      font-weight: bold
-      margin: 20px auto
+footer
+  background: #333
+  color: #ccc
+  padding: 50px 0
+  text-align: center

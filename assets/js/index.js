@@ -38,6 +38,7 @@ $(function () {
     offset: -300
   })
     .setTween(octocatTween)
+    // .addIndicators()
     .addTo(scrollController);
 
   let textTween = new TweenMax.from('#github-text', 1, {
@@ -52,6 +53,7 @@ $(function () {
     offset: -300
   })
     .setTween(textTween)
+    // .addIndicators()
     .addTo(scrollController);
 
   // topics
@@ -64,9 +66,10 @@ $(function () {
 
   let topicsScene = new ScrollMagic.Scene({
     triggerElement: '#github-trigger',
-    offset: '-50%'
+    offset: -50
   })
     .setTween(topicTween)
+    // .addIndicators()
     .addTo(scrollController);
 
   let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {
@@ -77,8 +80,42 @@ $(function () {
 
   let topicArrowsScene = new ScrollMagic.Scene({
     triggerElement: '#github-trigger',
-    offset: '-50%'
+    offset: -50
   })
     .setTween(topicArrowsTween)
+    // .addIndicators()
     .addTo(scrollController);
+
+  // steem
+  let steemTween = new TweenMax.from('#steem-logo-container', 1.5, {
+    opacity: 0,
+    bottom: -50,
+    ease: Power2.easeInOut,
+  }, .05);
+
+  let steemScene = new ScrollMagic.Scene({
+    triggerElement: '#rewards-trigger'
+  })
+    .setTween(steemTween)
+    // .addIndicators()
+    .addTo(scrollController);
+
+  // upvotes & dollars
+  for (let i = 0; i < 6; i++){
+    let bubble = document.createElement('i');
+    // TweenLite.set(bubble, {attr: {class: (i%2 ? 'fa fa-angle-up upvote' : 'fa fa-dollar dollar')}, left: R(0, 100) + '%', bottom: R(0, 100) + '%', scale: R(.5, 2)});
+    TweenLite.set(bubble, {attr: {class: 'fa fa-angle-up upvote'}, left: R(0, 100) + '%', bottom: R(0, 100) + '%', scale: R(.5, 2)});
+    $('#steem-logo-container').append(bubble);
+  }
+
+  let upvotesTimeline = new TimelineMax({repeat: -1, delay: 0});
+  upvotesTimeline
+    .staggerFrom('.upvote', .5, {scale: 0, opacity: 0, ease: Back.easeOut.config(4)}, 1)
+    .staggerTo('.upvote', 2, {bottom: "+=25", opacity: 0, ease: Power1.easeInOut}, 1, '-=5');
+
+
 });
+
+function R(min,max) {
+  return min+Math.random()*(max-min)
+}
