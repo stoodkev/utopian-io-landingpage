@@ -17,6 +17,21 @@ html, body {
       background-size: 300% 100%;
       background-position: -100% 0;
       transform: scale(1.05); }
+  .btn.btn-light {
+    border: solid 1px #ccc;
+    color: #999;
+    font-weight: bold;
+    font-size: 0.8rem;
+    background: #fff;
+    background-size: 400% 100%;
+    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    transition: background-position 0.7s ease, border-color 0.3s ease; }
+    .btn.btn-light:hover {
+      color: #4b7dc0;
+      background-position: -66% 0;
+      border-color: #4b7dc0; }
 
 #navbar {
   font-size: 1rem;
@@ -113,8 +128,7 @@ html, body {
 
 #intro {
   margin: 50px auto;
-  columns: 2;
-  font-size: 1.2rem; }
+  columns: 2; }
 
 #github {
   margin-top: 100px;
@@ -140,8 +154,8 @@ html, body {
       top: 50px;
       left: -34px; }
 
-#topics .carousel-control-prev,
-#topics .carousel-control-next {
+body .carousel-control-prev,
+body .carousel-control-next {
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -152,45 +166,33 @@ html, body {
   color: #ccc;
   opacity: 1;
   transition: transform 0.3s; }
-  #topics .carousel-control-prev:hover,
-  #topics .carousel-control-next:hover {
-    transform: scale(1.1); }
-#topics .carousel-control-prev {
+  body .carousel-control-prev:hover, body .carousel-control-prev:focus, body .carousel-control-prev:active,
+  body .carousel-control-next:hover,
+  body .carousel-control-next:focus,
+  body .carousel-control-next:active {
+    transform: scale(1.1);
+    color: #ccc; }
+body .carousel-control-prev {
   left: -20px; }
-#topics .carousel-control-next {
+body .carousel-control-next {
   right: -20px; }
-#topics .carousel .carousel-inner .card {
+body .carousel .carousel-inner .card {
   border-radius: 50px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
   border: solid 1px #fff;
   margin: 25px 0; }
-  #topics .carousel .carousel-inner .card .card-img-top {
+  body .carousel .carousel-inner .card .card-img-top {
     width: 59px; }
-  #topics .carousel .carousel-inner .card .btn-light {
-    border: solid 1px #ccc;
-    color: #999;
-    font-weight: bold;
-    font-size: 0.8rem;
-    background: #fff;
-    background-size: 400% 100%;
-    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    transition: background-position 0.7s ease, border-color 0.3s ease; }
-    #topics .carousel .carousel-inner .card .btn-light:hover {
-      color: #4b7dc0;
-      background-position: -66% 0;
-      border-color: #4b7dc0; }
 
-#rewards #counters {
-  background: url("../img/rewards-bg.jpg") center center;
+.header {
+  background-position: center center;
   background-size: cover;
   margin-top: 100px;
-  padding: 50px 0; }
-  #rewards #counters h2 {
-    margin-top: -80px;
+  padding: 70px 0; }
+  .header h2 {
+    margin-top: -100px;
     text-align: center; }
-    #rewards #counters h2 span {
+    .header h2 span {
       background-color: #4a6aac;
       background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%);
       background-size: 200% 100%;
@@ -202,17 +204,23 @@ html, body {
       border-radius: 25px;
       font-size: 1.5rem;
       font-weight: bold; }
-  #rewards #counters .counter {
+  .header .counter {
     border-radius: 35px;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
     text-align: center;
     padding: 25px 25px 10px;
-    min-height: 200px; }
-    #rewards #counters .counter h3 {
+    min-height: 250px; }
+    .header .counter h3 {
       font-size: 3rem;
       font-weight: bold;
-      margin: 20px auto; }
+      margin: 40px auto; }
+      .header .counter h3 img {
+        width: 100%;
+        max-width: 100px; }
+
+#rewards .header {
+  background-image: url("../img/rewards-bg.jpg"); }
 #rewards #steem {
   margin-top: 50px; }
   #rewards #steem #steem-logo-container {
@@ -252,6 +260,18 @@ html, body {
       line-height: 17px;
       color: #9d3393;
       border-color: #9d3393; }
+
+#rules .header {
+  background-image: url("../img/rules-bg.jpg"); }
+  #rules .header .counter {
+    min-height: 300px; }
+#rules #topic-rules .carousel-item {
+  padding-left: 50px;
+  padding-right: 50px; }
+  #rules #topic-rules .carousel-item .list-group-item .fa-exclamation {
+    font-size: 22px;
+    margin-right: 8px;
+    color: #9d3393; }
 
 footer {
   background: #333;
