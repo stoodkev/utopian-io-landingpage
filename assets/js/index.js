@@ -38,7 +38,6 @@ $(function () {
     offset: -300
   })
     .setTween(octocatTween)
-    // .addIndicators()
     .addTo(scrollController);
 
   let textTween = new TweenMax.from('#github-text', 1, {
@@ -53,7 +52,6 @@ $(function () {
     offset: -300
   })
     .setTween(textTween)
-    // .addIndicators()
     .addTo(scrollController);
 
   // topics
@@ -69,7 +67,6 @@ $(function () {
     offset: -50
   })
     .setTween(topicTween)
-    // .addIndicators()
     .addTo(scrollController);
 
   let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {
@@ -83,7 +80,6 @@ $(function () {
     offset: -50
   })
     .setTween(topicArrowsTween)
-    // .addIndicators()
     .addTo(scrollController);
 
   // steem
@@ -97,13 +93,11 @@ $(function () {
     triggerElement: '#rewards-trigger'
   })
     .setTween(steemTween)
-    // .addIndicators()
     .addTo(scrollController);
 
   // upvotes & dollars
   for (let i = 0; i < 6; i++){
     let bubble = document.createElement('i');
-    // TweenLite.set(bubble, {attr: {class: (i%2 ? 'fa fa-angle-up upvote' : 'fa fa-dollar dollar')}, left: R(0, 100) + '%', bottom: R(0, 100) + '%', scale: R(.5, 2)});
     TweenLite.set(bubble, {attr: {class: 'fa fa-angle-up upvote'}, left: R(0, 100) + '%', bottom: R(0, 100) + '%', scale: R(.5, 2)});
     $('#steem-logo-container').append(bubble);
   }
@@ -114,6 +108,14 @@ $(function () {
     .staggerTo('.upvote', 2, {bottom: "+=25", opacity: 0, ease: Power1.easeInOut}, 1, '-=5');
 
 
+  // blog
+  steemitWidgets.blog({
+    element: 'utopian-steemit-blog',
+    user: 'utopian-io',
+    limit: 10,
+    template: 'blog-template',
+    dateCallback: function (date) {return moment.utc(date).from(moment.utc().format('YYYY-MM-DD HH:mm:ss'));}
+  });
 });
 
 function R(min,max) {

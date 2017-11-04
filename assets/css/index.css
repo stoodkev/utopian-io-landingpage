@@ -37,11 +37,14 @@ html, body {
   font-size: 1rem;
   margin-top: 25px;
   padding-right: 10px;
-  border-radius: 50px;
+  border-radius: 30px;
   transition: margin-top 1s ease, background-color 0.3s ease, box-shadow 0.3s ease; }
   #navbar .navbar-brand img {
     transition: width 0.3s ease;
     width: 80px; }
+  #navbar .navbar-toggler {
+    padding-right: 10px;
+    border: none; }
   #navbar .navbar-nav .nav-link {
     color: #fff;
     padding-left: 1rem;
@@ -105,7 +108,8 @@ html, body {
   position: relative;
   z-index: 99; }
   #screen img {
-    width: 500px; }
+    width: 500px;
+    max-width: 100%; }
   #screen .play-video {
     width: 80px;
     height: 80px;
@@ -115,9 +119,10 @@ html, body {
     border-radius: 50%;
     color: #fff;
     position: absolute;
-    top: 100px;
+    top: 43%;
     left: 50%;
     margin-left: -40px;
+    margin-top: -40px;
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s ease; }
     #screen .play-video .fa-play {
@@ -133,6 +138,9 @@ html, body {
 #github {
   margin-top: 100px;
   margin-bottom: 50px; }
+  #github #octocat {
+    width: 100%;
+    max-width: 250px; }
   #github #github-text {
     font-size: 1.3rem;
     position: relative;
@@ -154,6 +162,15 @@ html, body {
       top: 50px;
       left: -34px; }
 
+#topics .image {
+  width: 100%;
+  height: 150px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: auto 80px; }
+  #topics .image:first-child {
+    background-size: auto 110px; }
+
 body .carousel-control-prev,
 body .carousel-control-next {
   width: 50px;
@@ -163,7 +180,7 @@ body .carousel-control-next {
   background: #fff;
   top: 50%;
   margin-top: -20px;
-  color: #ccc;
+  color: #ccc !important;
   opacity: 1;
   transition: transform 0.3s; }
   body .carousel-control-prev:hover, body .carousel-control-prev:focus, body .carousel-control-prev:active,
@@ -196,6 +213,48 @@ body .carousel .carousel-inner .card {
       background-color: #4a6aac;
       background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%);
       background-size: 200% 100%;
+      padding: 1rem 1.3rem;
+      color: #fff;
+      display: inline-block;
+      margin: 0 auto;
+      border: solid 5px #fff;
+      border-radius: 25px;
+      font-size: 1.5rem;
+      font-weight: bold; }
+  .header a {
+    color: #fff;
+    text-decoration: none; }
+  .header .box {
+    border-radius: 35px;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+    min-height: 250px; }
+    .header .box h3 {
+      font-size: 3rem;
+      font-weight: bold;
+      margin: 40px auto; }
+      .header .box h3 img {
+        width: 100%;
+        max-width: 100px; }
+
+.header-small {
+  background-position: center center;
+  background-size: cover;
+  margin-top: 100px;
+  padding: 70px 0 50px; }
+  .header-small h2 {
+    margin-top: -100px;
+    text-align: center;
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
+    background-position: center center;
+    background-size: 100% 2px;
+    background-repeat: no-repeat; }
+    .header-small h2 span {
+      background-color: #4a6aac;
+      background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%);
+      background-size: 200% 100%;
       padding: 0.7rem 1rem;
       color: #fff;
       display: inline-block;
@@ -204,20 +263,6 @@ body .carousel .carousel-inner .card {
       border-radius: 25px;
       font-size: 1.5rem;
       font-weight: bold; }
-  .header .counter {
-    border-radius: 35px;
-    background: rgba(255, 255, 255, 0.1);
-    color: #fff;
-    text-align: center;
-    padding: 25px 25px 10px;
-    min-height: 250px; }
-    .header .counter h3 {
-      font-size: 3rem;
-      font-weight: bold;
-      margin: 40px auto; }
-      .header .counter h3 img {
-        width: 100%;
-        max-width: 100px; }
 
 #rewards .header {
   background-image: url("../img/rewards-bg.jpg"); }
@@ -263,7 +308,7 @@ body .carousel .carousel-inner .card {
 
 #rules .header {
   background-image: url("../img/rules-bg.jpg"); }
-  #rules .header .counter {
+  #rules .header .box {
     min-height: 300px; }
 #rules #topic-rules .carousel-item {
   padding-left: 50px;
@@ -273,10 +318,121 @@ body .carousel .carousel-inner .card {
     margin-right: 8px;
     color: #9d3393; }
 
+#moderators .header {
+  color: #fff;
+  background-image: url("../img/rules-bg.jpg"); }
+  #moderators .header .box {
+    padding: 25px 15px 40px; }
+    #moderators .header .box .profile-image {
+      border-radius: 50%;
+      border: solid 2px #fff; }
+    #moderators .header .box h4 {
+      margin: 20px 0; }
+    #moderators .header .box .social-links img {
+      width: 100%;
+      max-width: 50px; }
+    #moderators .header .box .carousel-control-prev,
+    #moderators .header .box .carousel-control-next {
+      width: 30px;
+      height: 30px;
+      background: #fff;
+      border: none;
+      margin-top: -15px; }
+    #moderators .header .box .carousel-control-prev {
+      left: -25px; }
+    #moderators .header .box .carousel-control-next {
+      right: -25px; }
+  #moderators .header h3 {
+    font-size: 3em;
+    margin: 50px 0; }
+
+#faq #faq-accordion .card {
+  margin-bottom: 10px;
+  overflow: hidden; }
+  #faq #faq-accordion .card .card-header {
+    padding: 0;
+    border-bottom: 0; }
+    #faq #faq-accordion .card .card-header a {
+      display: block;
+      padding: 0.75rem 1.25rem;
+      color: #444;
+      background-color: #fff;
+      background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%);
+      background-size: 400% 100%;
+      transition: background-position 0.5s ease, background-color 0.5s ease, color 0.5s ease; }
+      #faq #faq-accordion .card .card-header a:hover, #faq #faq-accordion .card .card-header a:focus {
+        background-position: -66% 0;
+        text-decoration: none;
+        color: #fff; }
+  #faq #faq-accordion .card .card-body {
+    border-top: 1px solid rgba(0, 0, 0, 0.125); }
+
+#blog .blog-post {
+  display: block;
+  margin-bottom: 10px;
+  padding: 0.75rem 1.25rem;
+  color: #444;
+  font-size: 1.25rem;
+  background-color: #fff;
+  background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%);
+  background-size: 400% 100%;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  transition: background-position 0.5s ease, background-color 0.5s ease, color 0.5s ease; }
+  #blog .blog-post:hover, #blog .blog-post:focus {
+    background-position: -66% 0;
+    text-decoration: none;
+    color: #fff; }
+    #blog .blog-post:hover span, #blog .blog-post:focus span {
+      color: #fff;
+      transition: color 0.5s ease; }
+  #blog .blog-post span {
+    display: block;
+    color: #ccc;
+    font-size: 0.8rem; }
+
 footer {
   background: #333;
   color: #ccc;
-  padding: 50px 0;
+  padding-bottom: 50px;
   text-align: center; }
+  footer .border-top {
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
+    height: 10px; }
+  footer .social-links a {
+    display: inline-block;
+    margin: 50px 8px; }
+    footer .social-links a img {
+      width: 45px; }
+
+@media screen and (max-width: 991px) {
+  #header #header-content {
+    padding-top: 120px; }
+    #header #header-content h1 {
+      font-size: 3rem; }
+    #header #header-content h2 {
+      font-size: 1.5rem; }
+  #header .header .box {
+    margin-bottom: 25px; } }
+@media screen and (max-width: 767px) {
+  #header #header-content h1 {
+    font-size: 2.5rem; }
+  #header #header-content h2 {
+    font-size: 1rem; }
+
+  #intro {
+    columns: 1; }
+
+  #github #github-text:before {
+    content: " ";
+    width: 0;
+    height: 0;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 35px solid #f2f2f2;
+    position: absolute;
+    top: -70px;
+    left: 50%;
+    margin-left: -35px; } }
 
 /*# sourceMappingURL=index.css.map */
