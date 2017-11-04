@@ -103,7 +103,6 @@ $(function () {
   // upvotes & dollars
   for (let i = 0; i < 6; i++){
     let bubble = document.createElement('i');
-    // TweenLite.set(bubble, {attr: {class: (i%2 ? 'fa fa-angle-up upvote' : 'fa fa-dollar dollar')}, left: R(0, 100) + '%', bottom: R(0, 100) + '%', scale: R(.5, 2)});
     TweenLite.set(bubble, {attr: {class: 'fa fa-angle-up upvote'}, left: R(0, 100) + '%', bottom: R(0, 100) + '%', scale: R(.5, 2)});
     $('#steem-logo-container').append(bubble);
   }
