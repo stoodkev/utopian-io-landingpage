@@ -108,7 +108,8 @@ html, body {
   position: relative;
   z-index: 99; }
   #screen img {
-    width: 500px; }
+    width: 500px;
+    max-width: 100%; }
   #screen .play-video {
     width: 80px;
     height: 80px;
@@ -118,9 +119,10 @@ html, body {
     border-radius: 50%;
     color: #fff;
     position: absolute;
-    top: 100px;
+    top: 43%;
     left: 50%;
     margin-left: -40px;
+    margin-top: -40px;
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s ease; }
     #screen .play-video .fa-play {
@@ -395,9 +397,23 @@ footer {
       width: 45px; }
 
 @media screen and (max-width: 991px) {
-  .header .box {
+  #header #header-content {
+    padding-top: 120px; }
+    #header #header-content h1 {
+      font-size: 3rem; }
+    #header #header-content h2 {
+      font-size: 1.5rem; }
+  #header .header .box {
     margin-bottom: 25px; } }
 @media screen and (max-width: 767px) {
+  #header #header-content h1 {
+    font-size: 2.5rem; }
+  #header #header-content h2 {
+    font-size: 1rem; }
+
+  #intro {
+    columns: 1; }
+
   #github #github-text:before {
     content: " ";
     width: 0;
