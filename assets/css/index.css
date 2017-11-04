@@ -37,11 +37,14 @@ html, body {
   font-size: 1rem;
   margin-top: 25px;
   padding-right: 10px;
-  border-radius: 50px;
+  border-radius: 30px;
   transition: margin-top 1s ease, background-color 0.3s ease, box-shadow 0.3s ease; }
   #navbar .navbar-brand img {
     transition: width 0.3s ease;
     width: 80px; }
+  #navbar .navbar-toggler {
+    padding-right: 10px;
+    border: none; }
   #navbar .navbar-nav .nav-link {
     color: #fff;
     padding-left: 1rem;
