@@ -232,7 +232,7 @@ body .carousel .carousel-inner .card {
     text-align: center;
     background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
     background-position: center center;
-    background-size: 100% 5px;
+    background-size: 100% 2px;
     background-repeat: no-repeat; }
     .header-small h2 span {
       background-color: #4a6aac;
@@ -337,13 +337,41 @@ body .carousel .carousel-inner .card {
     #faq #faq-accordion .card .card-header a {
       display: block;
       padding: 0.75rem 1.25rem;
-      color: #4b7dc0; }
+      color: #444;
+      background-color: #fff;
+      background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%);
+      background-size: 400% 100%;
+      transition: background-position 0.5s ease, background-color 0.5s ease, color 0.5s ease; }
       #faq #faq-accordion .card .card-header a:hover, #faq #faq-accordion .card .card-header a:focus {
+        background-position: -66% 0;
         text-decoration: none;
-        background: #4b7dc0 -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
         color: #fff; }
   #faq #faq-accordion .card .card-body {
     border-top: 1px solid rgba(0, 0, 0, 0.125); }
+
+#blog .blog-post {
+  display: block;
+  margin-bottom: 10px;
+  padding: 0.75rem 1.25rem;
+  color: #444;
+  font-size: 1.25rem;
+  background-color: #fff;
+  background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%);
+  background-size: 400% 100%;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  transition: background-position 0.5s ease, background-color 0.5s ease, color 0.5s ease; }
+  #blog .blog-post:hover, #blog .blog-post:focus {
+    background-position: -66% 0;
+    text-decoration: none;
+    color: #fff; }
+    #blog .blog-post:hover span, #blog .blog-post:focus span {
+      color: #fff;
+      transition: color 0.5s ease; }
+  #blog .blog-post span {
+    display: block;
+    color: #ccc;
+    font-size: 0.8rem; }
 
 footer {
   background: #333;
