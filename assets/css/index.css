@@ -136,6 +136,9 @@ html, body {
 #github {
   margin-top: 100px;
   margin-bottom: 50px; }
+  #github #octocat {
+    width: 100%;
+    max-width: 250px; }
   #github #github-text {
     font-size: 1.3rem;
     position: relative;
@@ -315,7 +318,8 @@ body .carousel .carousel-inner .card {
     #moderators .header .box h4 {
       margin: 20px 0; }
     #moderators .header .box .social-links img {
-      width: 100%; }
+      width: 100%;
+      max-width: 50px; }
     #moderators .header .box .carousel-control-prev,
     #moderators .header .box .carousel-control-next {
       width: 30px;
@@ -389,5 +393,21 @@ footer {
     margin: 50px 8px; }
     footer .social-links a img {
       width: 45px; }
+
+@media screen and (max-width: 991px) {
+  .header .box {
+    margin-bottom: 25px; } }
+@media screen and (max-width: 767px) {
+  #github #github-text:before {
+    content: " ";
+    width: 0;
+    height: 0;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 35px solid #f2f2f2;
+    position: absolute;
+    top: -70px;
+    left: 50%;
+    margin-left: -35px; } }
 
 /*# sourceMappingURL=index.css.map */
