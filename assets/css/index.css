@@ -222,6 +222,31 @@ body .carousel .carousel-inner .card {
         width: 100%;
         max-width: 100px; }
 
+.header-small {
+  background-position: center center;
+  background-size: cover;
+  margin-top: 100px;
+  padding: 70px 0 50px; }
+  .header-small h2 {
+    margin-top: -100px;
+    text-align: center;
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
+    background-position: center center;
+    background-size: 100% 5px;
+    background-repeat: no-repeat; }
+    .header-small h2 span {
+      background-color: #4a6aac;
+      background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%);
+      background-size: 200% 100%;
+      padding: 0.7rem 1rem;
+      color: #fff;
+      display: inline-block;
+      margin: 0 auto;
+      border: solid 5px #fff;
+      border-radius: 25px;
+      font-size: 1.5rem;
+      font-weight: bold; }
+
 #rewards .header {
   background-image: url("../img/rewards-bg.jpg"); }
 #rewards #steem {
@@ -302,6 +327,23 @@ body .carousel .carousel-inner .card {
   #moderators .header h3 {
     font-size: 3em;
     margin: 50px 0; }
+
+#faq #faq-accordion .card {
+  margin-bottom: 10px;
+  overflow: hidden; }
+  #faq #faq-accordion .card .card-header {
+    padding: 0;
+    border-bottom: 0; }
+    #faq #faq-accordion .card .card-header a {
+      display: block;
+      padding: 0.75rem 1.25rem;
+      color: #4b7dc0; }
+      #faq #faq-accordion .card .card-header a:hover, #faq #faq-accordion .card .card-header a:focus {
+        text-decoration: none;
+        background: #4b7dc0 -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
+        color: #fff; }
+  #faq #faq-accordion .card .card-body {
+    border-top: 1px solid rgba(0, 0, 0, 0.125); }
 
 footer {
   background: #333;
