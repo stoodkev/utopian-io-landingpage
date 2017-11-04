@@ -177,7 +177,7 @@ body
     background: #fff
     top: 50%
     margin-top: -20px
-    color: #ccc
+    color: #ccc !important
     opacity: 1
     transition: transform .3s
     &:hover,
@@ -221,12 +221,16 @@ body
       font-size: 1.5rem
       font-weight: bold
 
-  .counter
+  a
+    color: #fff
+    text-decoration: none
+
+  .box
     border-radius: 35px
     background: rgba(255, 2555, 255, .1)
     color: #fff
     text-align: center
-    padding: 25px 25px 10px
+    padding: 25px
     min-height: 250px
 
     h3
@@ -284,7 +288,7 @@ body
 #rules
   .header
     background-image: url('../img/rules-bg.jpg')
-    .counter
+    .box
       min-height: 300px
   #topic-rules
     .carousel-item
@@ -296,8 +300,48 @@ body
           margin-right: 8px
           color: #9d3393
 
+#moderators
+  .header
+    color: #fff
+    background-image: url('../img/rules-bg.jpg')
+
+    .box
+      padding: 25px 15px 40px
+      .profile-image
+        border-radius: 50%
+        border: solid 2px #fff
+      h4
+        margin: 20px 0
+      .social-links
+        img
+          width: 100%
+      .carousel-control-prev,
+      .carousel-control-next
+        width: 30px
+        height: 30px
+        background: #fff
+        border: none
+        margin-top: -15px
+      .carousel-control-prev
+        left: -25px
+      .carousel-control-next
+        right: -25px
+
+    h3
+      font-size: 3em
+      margin: 50px 0
+
 footer
   background: #333
   color: #ccc
-  padding: 50px 0
+  padding-bottom: 50px
   text-align: center
+  .border-top
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%)
+    height: 10px
+  .social-links
+    a
+      display: inline-block
+      margin: 50px 8px
+      img
+        width: 45px

@@ -163,7 +163,7 @@ body .carousel-control-next {
   background: #fff;
   top: 50%;
   margin-top: -20px;
-  color: #ccc;
+  color: #ccc !important;
   opacity: 1;
   transition: transform 0.3s; }
   body .carousel-control-prev:hover, body .carousel-control-prev:focus, body .carousel-control-prev:active,
@@ -204,18 +204,21 @@ body .carousel .carousel-inner .card {
       border-radius: 25px;
       font-size: 1.5rem;
       font-weight: bold; }
-  .header .counter {
+  .header a {
+    color: #fff;
+    text-decoration: none; }
+  .header .box {
     border-radius: 35px;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
     text-align: center;
-    padding: 25px 25px 10px;
+    padding: 25px;
     min-height: 250px; }
-    .header .counter h3 {
+    .header .box h3 {
       font-size: 3rem;
       font-weight: bold;
       margin: 40px auto; }
-      .header .counter h3 img {
+      .header .box h3 img {
         width: 100%;
         max-width: 100px; }
 
@@ -263,7 +266,7 @@ body .carousel .carousel-inner .card {
 
 #rules .header {
   background-image: url("../img/rules-bg.jpg"); }
-  #rules .header .counter {
+  #rules .header .box {
     min-height: 300px; }
 #rules #topic-rules .carousel-item {
   padding-left: 50px;
@@ -273,10 +276,45 @@ body .carousel .carousel-inner .card {
     margin-right: 8px;
     color: #9d3393; }
 
+#moderators .header {
+  color: #fff;
+  background-image: url("../img/rules-bg.jpg"); }
+  #moderators .header .box {
+    padding: 25px 15px 40px; }
+    #moderators .header .box .profile-image {
+      border-radius: 50%;
+      border: solid 2px #fff; }
+    #moderators .header .box h4 {
+      margin: 20px 0; }
+    #moderators .header .box .social-links img {
+      width: 100%; }
+    #moderators .header .box .carousel-control-prev,
+    #moderators .header .box .carousel-control-next {
+      width: 30px;
+      height: 30px;
+      background: #fff;
+      border: none;
+      margin-top: -15px; }
+    #moderators .header .box .carousel-control-prev {
+      left: -25px; }
+    #moderators .header .box .carousel-control-next {
+      right: -25px; }
+  #moderators .header h3 {
+    font-size: 3em;
+    margin: 50px 0; }
+
 footer {
   background: #333;
   color: #ccc;
-  padding: 50px 0;
+  padding-bottom: 50px;
   text-align: center; }
+  footer .border-top {
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 100%);
+    height: 10px; }
+  footer .social-links a {
+    display: inline-block;
+    margin: 50px 8px; }
+    footer .social-links a img {
+      width: 45px; }
 
 /*# sourceMappingURL=index.css.map */
