@@ -1,3 +1,3 @@
 # Utopian.io Landingpage
 
-https://mktcode.github.io/utopian-io-landingpage/
+https://utopian-io.github.io/utopian-io-landingpage/
