@@ -1,6 +1,6 @@
 $(function () {
   // smoothscroll
-  $('#navbar').find('ul li a[href^="#"]').on('click', function(e) {
+  $('#navbar').find('a[href^="#"]').on('click', function(e) {
     e.preventDefault();
 
     let hash = this.hash;
