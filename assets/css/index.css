@@ -411,6 +411,15 @@ footer {
       width: 45px; }
 
 @media screen and (max-width: 991px) {
+  #navbar {
+    background: rgba(0, 0, 0, 0.8) !important;
+    margin-top: 10px; }
+    #navbar .navbar-brand img {
+      width: 50px; }
+    #navbar:hover {
+      background: #252525 !important;
+      box-shadow: 0 0 25px rgba(0, 0, 0, 0.2); }
+
   #header #header-content {
     padding-top: 120px; }
     #header #header-content h1 {
