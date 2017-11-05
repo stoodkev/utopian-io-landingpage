@@ -1,4 +1,15 @@
 $(function () {
+  // smoothscroll
+  $('#navbar').find('ul li a[href^="#"]').on('click', function(e) {
+    e.preventDefault();
+
+    let hash = this.hash;
+
+    $('html, body').animate({
+      scrollTop: $(hash).offset().top - 115
+    }, 1000);
+  });
+
   // init scroll animations
   let scrollController = new ScrollMagic.Controller();
 
