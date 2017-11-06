@@ -38,30 +38,13 @@ $(function () {
   waveGrey2.play();
 
   // github
-  let octocatTween = new TweenMax.from('#octocat', 1, {
-    scale: 0,
-    opacity: 0,
-    ease: Back.easeInOut
-  });
-
-  let octocatScene = new ScrollMagic.Scene({
-    triggerElement: '#github-trigger',
-    offset: -300
-  })
+  let octocatTween = new TweenMax.from('#octocat', 1, {scale: 0, opacity: 0, ease: Back.easeInOut});
+  let octocatScene = new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -300})
     .setTween(octocatTween)
     .addTo(scrollController);
 
-  let textTween = new TweenMax.from('#github-text', 1, {
-    delay: .3,
-    scale: 0,
-    opacity: 0,
-    ease: Back.easeInOut
-  });
-
-  let githubTextScene = new ScrollMagic.Scene({
-    triggerElement: '#github-trigger',
-    offset: -300
-  })
+  let textTween = new TweenMax.from('#github-text', 1, {delay: .3, scale: 0, opacity: 0, ease: Back.easeInOut});
+  let githubTextScene = new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -300})
     .setTween(textTween)
     .addTo(scrollController);
 
