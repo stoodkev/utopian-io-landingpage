@@ -117,7 +117,7 @@ $(function () {
     $('#steem-logo-container').append(bubble);
   }
 
-  let upvotesTimeline = new TimelineMax({repeat: -1, delay: 0});
+  let upvotesTimeline = new TimelineMax({repeat: -1});
   upvotesTimeline
     .staggerFrom('.upvote', .5, {scale: 0, opacity: 0, ease: Back.easeOut.config(4)}, 1)
     .staggerTo('.upvote', 2, {bottom: "+=25", opacity: 0, ease: Power1.easeInOut}, 1, '-=5');
