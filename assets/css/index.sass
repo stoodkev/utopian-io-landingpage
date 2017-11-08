@@ -45,6 +45,15 @@ a
       background-position: -66% 0
       border-color: #4b7dc0
 
+.slick-dots
+  li
+    &.slick-active
+      button
+        &:before
+          color: #9d3393
+          font-size: 50px
+          opacity: 1
+
 #navbar
   font-size: 1rem
   margin-top: 25px
@@ -183,8 +192,79 @@ a
       top: 50px
       left: -34px
 
+#projects
+  h3
+    font-size: 3em
+    margin-top: 100px
+    position: relative
+
+  #projects-container
+    margin-bottom: 75px
+    .slick-list
+      padding: 55px 50px !important
+      height: 430px
+      .slick-track
+        .project
+          border-radius: 10px
+          position: relative
+          display: block
+          padding: 10px
+          z-index: 5
+          transition: transform .3s ease, box-shadow .3s ease
+          background: #fff
+          img
+            width: 100%
+          h4
+            font-size: 1.3rem
+            color: #444
+            margin-top: 15px
+          p
+            font-size: 1rem
+            color: #aaa
+            margin: 0
+          &.slick-current
+            z-index: 6
+            transform: scale(1.15)
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.2)
+    .slick-dots
+      bottom: -50px
+    .slick-arrow
+      height: 100%
+      width: 25%
+      z-index: 10
+      &:before
+        color: #888
+        opacity: .3
+        font-size: 2rem
+        font-family: 'FontAwesome'
+        transition: opacity .3s ease
+      &.slick-prev
+        text-align: left
+        padding-left: 15px
+        background-image: -webkit-linear-gradient(left, #fff 0%, transparent 100%)
+        left: 0
+        &:before
+          content: '\f104'
+      &.slick-next
+        text-align: right
+        padding-right: 15px
+        background-image: -webkit-linear-gradient(left, transparent 0%, #fff 100%)
+        right: 0
+        &:before
+          content: '\f105'
+    &:hover
+      .slick-arrow
+        &:before
+          opacity: 1
+
 #topics
-  .card
+  h3
+    font-size: 3em
+    margin-top: 100px
+    position: relative
+  .topic
+    position: relative
+    margin-bottom: 25px
     .image
       width: 100%
       height: 150px
@@ -452,6 +532,18 @@ footer
       img
         width: 45px
 
+@media screen and (max-width: 1199px)
+  #projects
+    #projects-container
+      .slick-list
+        height: 475px
+
+@media screen and (max-width: 1050px)
+  #projects
+    #projects-container
+      .slick-list
+        height: 435px
+
 @media screen and (max-width: 991px)
   #navbar
     background: rgba(0, 0, 0, .8) !important
@@ -473,6 +565,11 @@ footer
     .header
       .box
         margin-bottom: 25px
+
+  #projects
+    #projects-container
+      .slick-list
+        height: 410px
 
 @media screen and (max-width: 767px)
   #header
@@ -498,3 +595,29 @@ footer
         top: -70px
         left: 50%
         margin-left: -35px
+
+  #projects
+    #projects-container
+      .slick-list
+        height: 390px
+
+@media screen and (max-width: 576px)
+  #projects
+    #projects-container
+      .slick-list
+        height: 555px
+      .slick-arrow
+        display: none !important
+
+@media screen and (max-width: 500px)
+  #projects
+    #projects-container
+      .slick-list
+        height: 480px
+
+
+@media screen and (max-width: 420px)
+  #projects
+    #projects-container
+      .slick-list
+        height: 430px

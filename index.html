@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="assets/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="assets/css/slick.css"/>
+    <link rel="stylesheet" href="assets/css/slick-theme.css"/>
     <link rel="stylesheet" href="assets/css/index.css"/>
 </head>
 <body data-spy="scroll" data-target="#navbar" data-offset="200">
@@ -103,108 +105,136 @@
         </div>
     </div>
 
+    <div id="projects-trigger"></div>
+    <div id="projects">
+        <h3 class="text-center mb-4" id="projects-header">Choose a project...</h3>
+
+        <div id="projects-container">
+            <a href="#" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
+                <h4>Busy.org</h4>
+                <p>Blockchain-based social network where anyone can earn rewards</p>
+            </a>
+            <a href="#" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
+                <h4>Busy.org</h4>
+                <p>Blockchain-based social network where anyone can earn rewards</p>
+            </a>
+            <a href="#" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
+                <h4>Busy.org</h4>
+                <p>Blockchain-based social network where anyone can earn rewards</p>
+            </a>
+            <a href="#" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
+                <h4>Busy.org</h4>
+                <p>Blockchain-based social network where anyone can earn rewards</p>
+            </a>
+            <a href="#" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
+                <h4>Busy.org</h4>
+                <p>Blockchain-based social network where anyone can earn rewards</p>
+            </a>
+            <a href="#" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
+                <h4>Busy.org</h4>
+                <p>Blockchain-based social network where anyone can earn rewards</p>
+            </a>
+        </div>
+
+        <div class="text-center all-projects">
+            <a href="#" class="btn btn-light">See all Projects</a>
+        </div>
+    </div>
+
+    <div id="topics-trigger"></div>
     <div class="container mt-5" id="topics">
-        <div id="carouselTopicsControls" class="carousel slide" data-autoplay="off">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/idea-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Idea/Feature</h4>
-                                        <p class="card-text text-center">Share ideas for new features that you would like to see in an Open Source project.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Submit Idea/Feature</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/code-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Development</h4>
-                                        <p class="card-text text-center">This category is meant only for developers pushing code updates to Open Source projects.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Share your development</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/bug-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Bug Hunting</h4>
-                                        <p class="card-text text-center">Help the developers to find and fix bugs in their software by providing detailed information.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Go hunting</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/translate-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Translation</h4>
-                                        <p class="card-text text-center">Translate labels, texts or documentation of Open Source projects via <a href="https://crowdin.com/" target="_blank">Crowdin</a> and other tools.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Translate</a></div>
-                                    </div>
-                                </div>
-                            </div>
+        <h3 class="text-center mb-5" id="topics-header">...and contribute!</h3>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/idea-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Idea/Feature</h4>
+                            <p class="card-text text-center">Share ideas for new features that you would like to see in an Open Source project.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Submit Idea/Feature</a></div>
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/graphic-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Graphics</h4>
-                                        <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/documentation-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Documentation</h4>
-                                        <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/analysis-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Analysis</h4>
-                                        <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="card">
-                                    <div class="image" style="background-image: url('assets/img/visibility-icon.png')"></div>
-                                    <div class="card-body">
-                                        <h4 class="card-title text-center text-uppercase">Visibility</h4>
-                                        <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
-                                        <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
-                                    </div>
-                                </div>
-                            </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/code-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Development</h4>
+                            <p class="card-text text-center">This category is meant only for developers pushing code updates to Open Source projects.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Share your development</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/bug-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Bug Hunting</h4>
+                            <p class="card-text text-center">Help the developers to find and fix bugs in their software by providing detailed information.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Go hunting</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/translate-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Translation</h4>
+                            <p class="card-text text-center">Translate labels, texts or documentation of Open Source projects via <a href="https://crowdin.com/" target="_blank">Crowdin</a> and other tools.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Translate</a></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <a class="carousel-control-prev" href="#carouselTopicsControls" role="button" data-slide="prev">
-                <i class="fa fa-2x fa-angle-left"></i>
-            </a>
-            <a class="carousel-control-next" href="#carouselTopicsControls" role="button" data-slide="next">
-                <i class="fa fa-2x fa-angle-right"></i>
-            </a>
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/graphic-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Graphics</h4>
+                            <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/documentation-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Documentation</h4>
+                            <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/analysis-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Analysis</h4>
+                            <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="image" style="background-image: url('assets/img/visibility-icon.png')"></div>
+                        <div class="card-body">
+                            <h4 class="card-title text-center text-uppercase">Visibility</h4>
+                            <p class="card-text text-center">Share ideas for new features that you would like to have in an Open Source project.</p>
+                            <div class="text-center"><a href="#" class="btn btn-light">Go somewhere</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -642,7 +672,9 @@
 <script type="text/javascript" src="assets/js/vue.min.js"></script>
 <script type="text/javascript" src="assets/js/ScrollMagic.min.js"></script>
 <script type="text/javascript" src="assets/js/animation.gsap.min.js"></script>
+<script type="text/javascript" src="assets/js/slick.min.js"></script>
 <script type="text/javascript" src="assets/js/index.js"></script>
+
 <script src="https://cdn.steemjs.com/lib/latest/steem.min.js"></script>
 <script src="https://mktcode.github.io/steemit-widgets/assets/js/steemit-widgets.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
