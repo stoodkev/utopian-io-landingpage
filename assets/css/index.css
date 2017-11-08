@@ -184,7 +184,7 @@ a {
   margin-bottom: 75px; }
   #projects #projects-container .slick-list {
     padding: 55px 50px !important;
-    height: 430px; }
+    height: 476px; }
     #projects #projects-container .slick-list .slick-track .project {
       border-radius: 10px;
       position: relative;
@@ -488,9 +488,6 @@ footer {
     footer .social-links a img {
       width: 45px; }
 
-@media screen and (max-width: 1199px) {
-  #projects #projects-container .slick-list {
-    height: 475px; } }
 @media screen and (max-width: 1050px) {
   #projects #projects-container .slick-list {
     height: 435px; } }
