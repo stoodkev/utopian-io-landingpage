@@ -41,11 +41,13 @@ $(function () {
   let octocatTween = new TweenMax.from('#octocat', 1, {scale: 0, opacity: 0, ease: Back.easeInOut});
   let octocatScene = new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -300})
     .setTween(octocatTween)
+    .reverse(false)
     .addTo(scrollController);
 
   let textTween = new TweenMax.from('#github-text', 1, {delay: .3, scale: 0, opacity: 0, ease: Back.easeInOut});
   let githubTextScene = new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -300})
     .setTween(textTween)
+    .reverse(false)
     .addTo(scrollController);
 
   // projects
@@ -80,45 +82,44 @@ $(function () {
   let projectsHeadlineTween = new TweenMax.from('#projects > #projects-header', 1, {opacity: 0, top: -10, ease: Back.easeInOut});
   let projectsHeadlineScene = new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
     .setTween(projectsHeadlineTween)
+    .reverse(false)
     .addTo(scrollController);
 
   let projectsTween = new TweenMax.staggerFrom('#projects .project', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
   let projectsScene = new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
     .setTween(projectsTween)
+    .reverse(false)
     .addTo(scrollController);
 
   let projectsDotsTween = new TweenMax.staggerFrom('#projects .slick-dots li', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
   let projectsDotsScene = new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
     .setTween(projectsDotsTween)
+    .reverse(false)
     .addTo(scrollController);
 
   let projectsBtnTween = new TweenMax.from('#projects .all-projects', 1, {opacity: 0, ease: Linear.easeInOut, delay: .3});
   let projectsBtnScene = new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
     .setTween(projectsBtnTween)
+    .reverse(false)
     .addTo(scrollController);
 
   // topics
   let topicsHeadlineTween = new TweenMax.from('#topics > #topics-header', 1, {opacity: 0, top: -10, ease: Back.easeInOut});
   let topicsHeadlineScene = new ScrollMagic.Scene({triggerElement: '#topics-trigger', offset: -100})
     .setTween(topicsHeadlineTween)
+    .reverse(false)
     .addTo(scrollController);
 
   let topicTween = new TweenMax.staggerFrom('#topics .topic', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
   let topicsScene = new ScrollMagic.Scene({triggerElement: '#topics-trigger', offset: -100})
     .setTween(topicTween)
+    .reverse(false)
     .addTo(scrollController);
 
-  let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {
-    opacity: 0,
-    ease: Back.easeInOut,
-    delay: 1
-  });
-
-  let topicArrowsScene = new ScrollMagic.Scene({
-    triggerElement: '#github-trigger',
-    offset: -50
-  })
+  let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {opacity: 0, ease: Back.easeInOut, delay: 1});
+  let topicArrowsScene = new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -50})
     .setTween(topicArrowsTween)
+    .reverse(false)
     .addTo(scrollController);
 
   // rewards
@@ -126,16 +127,10 @@ $(function () {
   setInterval(updateRewards, 30000);
 
   // steem
-  let steemTween = new TweenMax.from('#steem-logo-container', 1.5, {
-    opacity: 0,
-    bottom: -50,
-    ease: Power2.easeInOut,
-  }, .05);
-
-  let steemScene = new ScrollMagic.Scene({
-    triggerElement: '#rewards-trigger'
-  })
+  let steemTween = new TweenMax.from('#steem-logo-container', 1.5, {opacity: 0, bottom: -50, ease: Power2.easeInOut,}, .05);
+  let steemScene = new ScrollMagic.Scene({triggerElement: '#rewards-trigger'})
     .setTween(steemTween)
+    .reverse(false)
     .addTo(scrollController);
 
   // upvotes & dollars
