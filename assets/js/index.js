@@ -114,22 +114,36 @@ $(function () {
 
   // topics headline
   let topicsHeadlineTween = new TweenMax.from('#topics > #topics-header', 1, {opacity: 0, top: -10, ease: Back.easeInOut});
-  new ScrollMagic.Scene({triggerElement: '#topics-trigger', offset: -100})
+  new ScrollMagic.Scene({triggerElement: '#topics', offset: -100})
     .setTween(topicsHeadlineTween)
     .reverse(false)
     .addTo(scrollController);
 
   // topic items
   let topicTween = new TweenMax.staggerFrom('#topics .topic', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
-  new ScrollMagic.Scene({triggerElement: '#topics-trigger', offset: -100})
+  new ScrollMagic.Scene({triggerElement: '#topics', offset: -100})
     .setTween(topicTween)
     .reverse(false)
     .addTo(scrollController);
 
-  // topic carousel arrows
-  let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {opacity: 0, ease: Back.easeInOut, delay: 1});
-  new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -100})
-    .setTween(topicArrowsTween)
+  // crowdsourcing headline
+  let crowdsourcingHeadlineTween = new TweenMax.from('#crowdsourcing > #crowdsourcing-header', 1, {opacity: 0, top: -10, ease: Back.easeInOut});
+  new ScrollMagic.Scene({triggerElement: '#crowdsourcing', offset: -100})
+    .setTween(crowdsourcingHeadlineTween)
+    .reverse(false)
+    .addTo(scrollController);
+
+  // crowdsourcing text
+  let crowdsourcingTextTween = new TweenMax.from('#crowdsourcing > #crowdsourcing-text', 1, {opacity: 0, top: -10, ease: Back.easeInOut, delay: .3});
+  new ScrollMagic.Scene({triggerElement: '#crowdsourcing', offset: -100})
+    .setTween(crowdsourcingTextTween)
+    .reverse(false)
+    .addTo(scrollController);
+
+  // crowdsourcing items
+  let crowdsourcingTween = new TweenMax.staggerFrom('#crowdsourcing .topic', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
+  new ScrollMagic.Scene({triggerElement: '#crowdsourcing', offset: -100})
+    .setTween(crowdsourcingTween)
     .reverse(false)
     .addTo(scrollController);
 
