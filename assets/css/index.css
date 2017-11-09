@@ -317,15 +317,18 @@ body .carousel .carousel-inner .card {
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
     text-align: center;
-    padding: 25px;
-    min-height: 250px; }
+    overflow: hidden; }
     .header .box h3 {
       font-size: 3rem;
-      font-weight: bold;
-      margin: 40px auto; }
+      padding: 40px 0;
+      margin: 0; }
       .header .box h3 img {
         width: 100%;
         max-width: 100px; }
+    .header .box .caption {
+      background: rgba(255, 255, 255, 0.2);
+      margin: 0;
+      padding: 15px; }
 
 .header-small {
   background-position: center center;
@@ -396,8 +399,6 @@ body .carousel .carousel-inner .card {
 
 #rules .header {
   background-image: url("../img/rules-bg.jpg"); }
-  #rules .header .box {
-    min-height: 300px; }
 #rules #topic-rules .carousel-item {
   padding-left: 50px;
   padding-right: 50px; }
@@ -421,21 +422,13 @@ body .carousel .carousel-inner .card {
     #moderators .header .box .social-links img {
       width: 100%;
       max-width: 50px; }
-    #moderators .header .box .payouts {
-      color: #444;
-      background: #fff;
-      padding: 15px 0 25px; }
-      #moderators .header .box .payouts > .lead {
-        font-size: 1rem;
-        color: #777; }
-      #moderators .header .box .payouts small {
-        font-weight: 300;
-        margin-top: -5px;
-        display: block;
-        color: #777; }
-      #moderators .header .box .payouts .payout {
-        font-size: 1.5rem;
-        font-weight: 300; }
+    #moderators .header .box .caption .payout {
+      font-size: 1.5rem;
+      font-weight: 600; }
+    #moderators .header .box .caption small {
+      font-weight: 300;
+      margin-top: -5px;
+      display: block; }
     #moderators .header .box .carousel-control-prev,
     #moderators .header .box .carousel-control-next {
       width: 40px;
@@ -466,12 +459,13 @@ body .carousel .carousel-inner .card {
       color: #444;
       background-color: #fff;
       background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%);
-      background-size: 400% 100%;
-      transition: background-position 0.5s ease, background-color 0.5s ease, color 0.5s ease; }
+      background-size: 400% 4px;
+      background-repeat: repeat-x;
+      background-position: 0 bottom;
+      transition: background-position 1s ease, background-color 1s ease; }
       #faq #faq-accordion .card .card-header a:hover, #faq #faq-accordion .card .card-header a:focus {
-        background-position: -66% 0;
-        text-decoration: none;
-        color: #fff; }
+        background-position: -66% bottom;
+        text-decoration: none; }
   #faq #faq-accordion .card .card-body {
     border-top: 1px solid rgba(0, 0, 0, 0.125); }
 
@@ -481,22 +475,20 @@ body .carousel .carousel-inner .card {
   padding: 0.75rem 1.25rem;
   color: #444;
   font-size: 1.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 4px;
   background-color: #fff;
   background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%);
-  background-size: 400% 100%;
-  border-radius: 4px;
-  border: 1px solid rgba(0, 0, 0, 0.125);
-  transition: background-position 0.5s ease, background-color 0.5s ease, color 0.5s ease; }
+  background-size: 400% 4px;
+  background-repeat: repeat-x;
+  background-position: 0 bottom;
+  transition: background-position 1s ease, background-color 1s ease; }
   #blog .blog-post:hover, #blog .blog-post:focus {
-    background-position: -66% 0;
-    text-decoration: none;
-    color: #fff; }
-    #blog .blog-post:hover span, #blog .blog-post:focus span {
-      color: #fff;
-      transition: color 0.5s ease; }
+    background-position: -66% bottom;
+    text-decoration: none; }
   #blog .blog-post span {
     display: block;
-    color: #ccc;
+    color: #aaa;
     font-size: 0.8rem; }
 
 footer {

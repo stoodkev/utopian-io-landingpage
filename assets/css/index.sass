@@ -340,16 +340,20 @@ body
     background: rgba(255, 2555, 255, .1)
     color: #fff
     text-align: center
-    padding: 25px
-    min-height: 250px
+    overflow: hidden
 
     h3
       font-size: 3rem
-      font-weight: bold
-      margin: 40px auto
+      padding: 40px 0
+      margin: 0
       img
         width: 100%
         max-width: 100px
+
+    .caption
+      background: rgba(255, 255, 255, 0.2)
+      margin: 0
+      padding: 15px
 
 .header-small
   background-position: center center
@@ -424,8 +428,6 @@ body
 #rules
   .header
     background-image: url('../img/rules-bg.jpg')
-    .box
-      min-height: 300px
   #topic-rules
     .carousel-item
       padding-left: 50px
@@ -454,21 +456,14 @@ body
         img
           width: 100%
           max-width: 50px
-      .payouts
-        color: #444
-        background: #fff
-        padding: 15px 0 25px
-        > .lead
-          font-size: 1rem
-          color: #777
+      .caption
+        .payout
+          font-size: 1.5rem
+          font-weight: 600
         small
           font-weight: 300
           margin-top: -5px
           display: block
-          color: #777
-        .payout
-          font-size: 1.5rem
-          font-weight: 300
       .carousel-control-prev,
       .carousel-control-next
         width: 40px
@@ -502,13 +497,14 @@ body
           color: #444
           background-color: #fff
           background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%)
-          background-size: 400% 100%
-          transition: background-position .5s ease, background-color .5s ease, color .5s ease
+          background-size: 400% 4px
+          background-repeat: repeat-x
+          background-position: 0 bottom
+          transition: background-position 1s ease, background-color 1s ease
           &:hover,
           &:focus
-            background-position: -66% 0
+            background-position: -66% bottom
             text-decoration: none
-            color: #fff
       .card-body
         border-top: 1px solid rgba(0,0,0,.125)
 
@@ -519,23 +515,21 @@ body
     padding: .75rem 1.25rem
     color: #444
     font-size: 1.25rem
+    border: 1px solid rgba(0,0,0,.125)
+    border-radius: 4px
     background-color: #fff
     background-image: -webkit-linear-gradient(left, #fff 0%, #fff 25%, #4b7dc0 50%, #9d3393 75%, #fff 100%)
-    background-size: 400% 100%
-    border-radius: 4px
-    border: 1px solid rgba(0,0,0,.125)
-    transition: background-position .5s ease, background-color .5s ease, color .5s ease
+    background-size: 400% 4px
+    background-repeat: repeat-x
+    background-position: 0 bottom
+    transition: background-position 1s ease, background-color 1s ease
     &:hover,
     &:focus
-      background-position: -66% 0
+      background-position: -66% bottom
       text-decoration: none
-      color: #fff
-      span
-        color: #fff
-        transition: color .5s ease
     span
       display: block
-      color: #ccc
+      color: #aaa
       font-size: 0.8rem
 
 footer

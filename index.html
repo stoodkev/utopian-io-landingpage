@@ -338,19 +338,10 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3>
-                                <i class="fa fa-spin fa-spinner" v-if="rewards.pending == 0"></i>
-                                <span v-if="rewards.pending > 0">${{ rewards.pending | currency }}</span>
-                            </h3>
-                            <p>Pending Rewards</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="box mb-4">
-                            <h3>
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.authors == 0"></i>
                                 <span v-if="rewards.authors > 0">${{ rewards.authors | currency }}</span>
                             </h3>
-                            <p>Released Contributor Rewards</p>
+                            <p class="caption">Contributor Rewards</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
@@ -359,16 +350,25 @@
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.curators == 0"></i>
                                 <span v-if="rewards.curators > 0">${{ rewards.curators | currency }}</span>
                             </h3>
-                            <p>Released Curator Rewards</p>
+                            <p class="caption">Curator Rewards</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3>
+                                <i class="fa fa-spin fa-spinner" v-if="rewards.pending == 0"></i>
+                                <span v-if="rewards.pending > 0">${{ rewards.pending | currency }}</span>
+                            </h3>
+                            <p class="caption">Pending Rewards</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="box mb-4">
+                            <h3 class="font-weight-bold">
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.total == 0"></i>
                                 <span v-if="rewards.total > 0">${{ rewards.total | currency }}</span>
                             </h3>
-                            <p class="text-uppercase font-weight-bold">Total Generated</p>
+                            <p class="caption text-uppercase font-weight-bold">Total Generated</p>
                         </div>
                     </div>
                 </div>
@@ -452,25 +452,25 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/check-rules.svg"/></h3>
-                            <p>Abide by our rules!</p>
+                            <p class="caption">Abide by<br>our rules!</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/review.svg"/></h3>
-                            <p>Get reviewed by our moderators!</p>
+                            <p class="caption">Get reviewed by our<br>moderators!</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/community-vote.png"/></h3>
-                            <p>Get upvoted by Utopian.io and the community!</p>
+                            <p class="caption">Get upvoted by Utopian.io and the community!</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/wallet.svg"/></h3>
-                            <p>Get paid after 7 days!</p>
+                            <p class="caption">Get paid<br>after 7 days!</p>
                         </div>
                     </div>
                 </div>
@@ -593,8 +593,8 @@
                                                 {{ moderator.account }}
                                             </a>
                                         </h4>
-                                        <div class="container payouts">
-                                            <div class="lead">Rewards</div>
+                                        <div class="container caption">
+                                            Rewards
                                             <div class="row">
                                                 <div class="col-6">
                                                     <div class="payout">${{ moderator.should_receive_rewards | currency }}</div>
@@ -665,7 +665,7 @@
                 <div class="card">
                     <div class="card-header" role="tab" id="headingOne">
                         <h5 class="mb-0">
-                            <a data-toggle="collapse" href="#collapseOne">
+                            <a class="list-item" data-toggle="collapse" href="#collapseOne">
                                 1. What is Utopian?
                             </a>
                         </h5>
@@ -681,7 +681,7 @@
                 <div class="card">
                     <div class="card-header" role="tab" id="headingTwo">
                         <h5 class="mb-0">
-                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo">
+                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseTwo">
                                 2. What is Steem?
                             </a>
                         </h5>
@@ -697,7 +697,7 @@
                 <div class="card">
                     <div class="card-header" role="tab" id="headingThree">
                         <h5 class="mb-0">
-                            <a class="collapsed" data-toggle="collapse" href="#collapseThree">
+                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseThree">
                                 3. Where do the rewards come from?
                             </a>
                         </h5>
