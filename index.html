@@ -492,53 +492,41 @@
                         <div class="box">
                             <div id="carouselModeratorsControls" class="carousel slide" data-autoplay="off" data-interval="7000">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img src="assets/img/moderators/elear.png" class="profile-image" />
+                                    <div v-for="(moderator, i) in moderators" :class="'carousel-item' + (!i ? ' active' : '')">
+                                        <a :href="'https://steemit.com/@' + moderator.account">
+                                            <img :src="'https://img.busy.org/@' + moderator.account + '?s=150'" class="profile-image" />
+                                        </a>
                                         <h4>
-                                            <a href="https://steemit.com/@elear">
-                                                elear
+                                            <a :href="'https://steemit.com/@' + moderator.account">
+                                                {{ moderator.account }}
                                             </a>
                                         </h4>
-                                        <p class="lead">
-                                            &bdquo;Insert random quote from elear here.&rdquo;
-                                        </p>
-                                        <div class="container social-links">
-                                            <div class="text-center">
-                                                <a href="#">
-                                                    <img src="assets/img/instagram.png"/>
-                                                </a>
-                                                <a href="#">
-                                                    <img src="assets/img/linkedin.png"/>
-                                                </a>
-                                                <a href="#">
-                                                    <img src="assets/img/instagram.png"/>
-                                                </a>
+                                        <div class="container payouts">
+                                            <div class="lead">Rewards</div>
+                                            <div class="row">
+                                                <div class="col-6">
+                                                    <div class="payout">${{ moderator.should_receive_rewards | currency }}</div>
+                                                    <small>Pending</small>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div class="payout">${{ moderator.total_paid_rewards | currency }}</div>
+                                                    <small>Previous</small>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="assets/img/moderators/elear.png" class="profile-image" />
-                                        <h4>
-                                            <a href="https://steemit.com/@elear">
-                                                elear
-                                            </a>
-                                        </h4>
-                                        <p class="lead">
-                                            &bdquo;Insert quote from elear here.&rdquo;
-                                        </p>
-                                        <div class="container social-links">
-                                            <div class="text-center">
-                                                <a href="#">
-                                                    <img src="assets/img/instagram.png"/>
-                                                </a>
-                                                <a href="#">
-                                                    <img src="assets/img/linkedin.png"/>
-                                                </a>
-                                                <a href="#">
-                                                    <img src="assets/img/instagram.png"/>
-                                                </a>
-                                            </div>
-                                        </div>
+                                        <!--<div class="container social-links">-->
+                                            <!--<div class="text-center">-->
+                                                <!--<a href="#">-->
+                                                    <!--<img src="assets/img/instagram.png"/>-->
+                                                <!--</a>-->
+                                                <!--<a href="#">-->
+                                                    <!--<img src="assets/img/linkedin.png"/>-->
+                                                <!--</a>-->
+                                                <!--<a href="#">-->
+                                                    <!--<img src="assets/img/instagram.png"/>-->
+                                                <!--</a>-->
+                                            <!--</div>-->
+                                        <!--</div>-->
                                     </div>
                                 </div>
                                 <a class="carousel-control-prev" href="#carouselModeratorsControls" role="button" data-slide="prev">
@@ -551,17 +539,17 @@
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 col-xl-9 text-center">
-                        <h3 class="font-weight-bold text-uppercase">Meet our moderators</h3>
+                        <h3 class="mt-5 mt-2 font-weight-bold text-uppercase">Meet our moderators</h3>
                         <p class="lead">On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.</p>
                         <div class="container">
-                            <div class="row font-weight-bold">
+                            <div class="row">
                                 <div class="col col-6">
-                                    <h3 class="mb-4">$ 250</h3>
-                                    <p>Pending Payout</p>
+                                    <h3 class="mb-2">${{ rewards.moderators.pending | currency }}</h3>
+                                    <p class="lead">Pending Payout</p>
                                 </div>
                                 <div class="col col-6">
-                                    <h3 class="mb-4">$ 708</h3>
-                                    <p>Previous Payout</p>
+                                    <h3 class="mb-2">${{ rewards.moderators.previous | currency }}</h3>
+                                    <p class="lead">Previous Payout</p>
                                 </div>
                             </div>
                         </div>

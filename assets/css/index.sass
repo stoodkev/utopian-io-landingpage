@@ -441,31 +441,51 @@ body
     background-image: url('../img/rules-bg.jpg')
 
     .box
-      padding: 25px 15px 40px
+      overflow: hidden
+      padding: 25px 0 0
       .profile-image
         border-radius: 50%
         border: solid 2px #fff
+        background: #fff
       h4
-        margin: 20px 0
+        margin: 10px 0 20px
       .social-links
         img
           width: 100%
           max-width: 50px
+      .payouts
+        color: #444
+        background: #fff
+        padding: 15px 0 25px
+        > .lead
+          font-size: 1rem
+          color: #777
+        small
+          font-weight: 300
+          margin-top: -5px
+          display: block
+          color: #777
+        .payout
+          font-size: 1.5rem
+          font-weight: 300
       .carousel-control-prev,
       .carousel-control-next
-        width: 30px
-        height: 30px
+        width: 40px
+        height: 40px
         background: #fff
         border: none
-        margin-top: -15px
+        margin-top: -20px
       .carousel-control-prev
-        left: -25px
+        left: -20px
+        i
+          margin-right: -14px
       .carousel-control-next
-        right: -25px
+        right: -20px
+        i
+          margin-left: -14px
 
     h3
       font-size: 3em
-      margin: 50px 0
 
 #faq
   #faq-accordion

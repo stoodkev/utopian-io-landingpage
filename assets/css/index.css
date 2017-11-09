@@ -405,29 +405,49 @@ body .carousel .carousel-inner .card {
   color: #fff;
   background-image: url("../img/rules-bg.jpg"); }
   #moderators .header .box {
-    padding: 25px 15px 40px; }
+    overflow: hidden;
+    padding: 25px 0 0; }
     #moderators .header .box .profile-image {
       border-radius: 50%;
-      border: solid 2px #fff; }
+      border: solid 2px #fff;
+      background: #fff; }
     #moderators .header .box h4 {
-      margin: 20px 0; }
+      margin: 10px 0 20px; }
     #moderators .header .box .social-links img {
       width: 100%;
       max-width: 50px; }
+    #moderators .header .box .payouts {
+      color: #444;
+      background: #fff;
+      padding: 15px 0 25px; }
+      #moderators .header .box .payouts > .lead {
+        font-size: 1rem;
+        color: #777; }
+      #moderators .header .box .payouts small {
+        font-weight: 300;
+        margin-top: -5px;
+        display: block;
+        color: #777; }
+      #moderators .header .box .payouts .payout {
+        font-size: 1.5rem;
+        font-weight: 300; }
     #moderators .header .box .carousel-control-prev,
     #moderators .header .box .carousel-control-next {
-      width: 30px;
-      height: 30px;
+      width: 40px;
+      height: 40px;
       background: #fff;
       border: none;
-      margin-top: -15px; }
+      margin-top: -20px; }
     #moderators .header .box .carousel-control-prev {
-      left: -25px; }
+      left: -20px; }
+      #moderators .header .box .carousel-control-prev i {
+        margin-right: -14px; }
     #moderators .header .box .carousel-control-next {
-      right: -25px; }
+      right: -20px; }
+      #moderators .header .box .carousel-control-next i {
+        margin-left: -14px; }
   #moderators .header h3 {
-    font-size: 3em;
-    margin: 50px 0; }
+    font-size: 3em; }
 
 #faq #faq-accordion .card {
   margin-bottom: 10px;

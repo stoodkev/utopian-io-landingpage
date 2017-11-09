@@ -137,7 +137,8 @@ $(function () {
   new ScrollMagic.Scene({triggerElement: '#rewards', offset: -200})
     .reverse(false)
     .on('start', function () {
-      app.startRewards();
+      app.getRewards();
+      setInterval(app.getRewards, 30000);
     })
     .addTo(scrollController);
 
@@ -182,14 +183,18 @@ let app = new Vue({
       authors: 0,
       curators: 0,
       pending: 0,
-      total: 0
-    }
+      total: 0,
+      moderators: {
+        pending: 0,
+        previous: 0
+      }
+    },
+    moderators: []
+  },
+  created: function () {
+    this.getModerators();
   },
   methods: {
-    startRewards: function () {
-      this.getRewards();
-      setInterval(this.getRewards, 30000);
-    },
     getRewards: function () {
       $.ajax({
         url: 'https://api.utopian.io/api/stats',
@@ -214,6 +219,18 @@ let app = new Vue({
               that.rewards.total = this.total;
             }
           });
+        },
+      });
+    },
+    getModerators: function () {
+      $.ajax({
+        url: 'https://api.utopian.io/api/moderators',
+        success: (data) => {
+          this.moderators = data.results;
+          for (let i = 0; i < this.moderators.length; i++) {
+            this.rewards.moderators.pending += this.moderators[i].should_receive_rewards;
+            this.rewards.moderators.previous += this.moderators[i].total_paid_rewards;
+          }
         },
       });
     }
