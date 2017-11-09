@@ -245,32 +245,43 @@
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
-                            <h3 id="statsPendingRewards"><i class="fa fa-spin fa-spinner"></i></h3>
+                            <h3>
+                                <i class="fa fa-spin fa-spinner" v-if="rewards.pending == 0"></i>
+                                <span v-if="rewards.pending > 0">${{ rewards.pending | currency }}</span>
+                            </h3>
                             <p>Pending Rewards</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
-                            <h3 id="statsAuthorRewards"><i class="fa fa-spin fa-spinner"></i></h3>
+                            <h3>
+                                <i class="fa fa-spin fa-spinner" v-if="rewards.authors == 0"></i>
+                                <span v-if="rewards.authors > 0">${{ rewards.authors | currency }}</span>
+                            </h3>
                             <p>Released Contributor Rewards</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
-                            <h3 id="statsCuratorRewards"><i class="fa fa-spin fa-spinner"></i></h3>
+                            <h3>
+                                <i class="fa fa-spin fa-spinner" v-if="rewards.curators == 0"></i>
+                                <span v-if="rewards.curators > 0">${{ rewards.curators | currency }}</span>
+                            </h3>
                             <p>Released Curator Rewards</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
-                            <h3 id="statsTotalRewards"><i class="fa fa-spin fa-spinner"></i></h3>
+                            <h3>
+                                <i class="fa fa-spin fa-spinner" v-if="rewards.total == 0"></i>
+                                <span v-if="rewards.total > 0">${{ rewards.total | currency }}</span>
+                            </h3>
                             <p class="text-uppercase font-weight-bold">Total Generated</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="rewards-trigger"></div>
         <div class="container" id="steem">
             <div class="row">
                 <div class="col text-center mb-5 order-12 order-md-1">

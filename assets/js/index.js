@@ -128,14 +128,22 @@ $(function () {
 
   // topic carousel arrows
   let topicArrowsTween = new TweenMax.from('#topics .carousel-control-prev, #topics .carousel-control-next', 1, {opacity: 0, ease: Back.easeInOut, delay: 1});
-  new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -50})
+  new ScrollMagic.Scene({triggerElement: '#github-trigger', offset: -100})
     .setTween(topicArrowsTween)
     .reverse(false)
     .addTo(scrollController);
 
+  // trigger rewards animation
+  new ScrollMagic.Scene({triggerElement: '#rewards', offset: -200})
+    .reverse(false)
+    .on('start', function () {
+      app.startRewards();
+    })
+    .addTo(scrollController);
+
   // steem logo
   let steemTween = new TweenMax.from('#steem-logo-container', 1.5, {opacity: 0, bottom: -50, ease: Power2.easeInOut,}, .05);
-  new ScrollMagic.Scene({triggerElement: '#rewards-trigger'})
+  new ScrollMagic.Scene({triggerElement: '#steem'})
     .setTween(steemTween)
     .reverse(false)
     .addTo(scrollController);
@@ -153,10 +161,6 @@ $(function () {
     .staggerFrom('.upvote', .5, {scale: 0, opacity: 0, ease: Back.easeOut.config(4)}, 1)
     .staggerTo('.upvote', 2, {bottom: "+=25", opacity: 0, ease: Power1.easeInOut}, 1, '-=5');
 
-  // rewards
-  updateRewards();
-  setInterval(updateRewards, 30000);
-
   // blog
   steemitWidgets.blog({
     element: 'utopian-steemit-blog',
@@ -171,14 +175,52 @@ function randomNumberBetween(min,max) {
   return min + Math.random() * (max-min)
 }
 
-function updateRewards(){
-  $.ajax({
-    url: 'https://api.utopian.io/api/stats',
-    success: function(data){
-      $('#statsAuthorRewards').text('$' + parseInt(data['stats']['total_paid_authors']).toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
-      $('#statsCuratorRewards').text('$' + parseInt(data['stats']['total_paid_curators']).toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
-      $('#statsPendingRewards').text('$' + parseInt(data['stats']['total_pending_rewards']).toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
-      $('#statsTotalRewards').text('$' + (parseInt(data['stats']['total_paid_rewards']) + parseInt(data['stats']['total_pending_rewards'])).toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
+let app = new Vue({
+  el: '#app',
+  data: {
+    rewards: {
+      authors: 0,
+      curators: 0,
+      pending: 0,
+      total: 0
+    }
+  },
+  methods: {
+    startRewards: function () {
+      this.getRewards();
+      setInterval(this.getRewards, 30000);
     },
-  });
-}
+    getRewards: function () {
+      $.ajax({
+        url: 'https://api.utopian.io/api/stats',
+        success: (data) => {
+          let that = this;
+          $({
+            authors: this.rewards.authors,
+            curators: this.rewards.curators,
+            pending: this.rewards.pending,
+            total: this.rewards.total,
+          }).animate({
+            authors: parseInt(data['stats']['total_paid_authors']),
+            curators: parseInt(data['stats']['total_paid_curators']),
+            pending: parseInt(data['stats']['total_pending_rewards']),
+            total: parseInt(data['stats']['total_paid_rewards'] + data['stats']['total_pending_rewards']),
+          }, {
+            duration: 5000,
+            step: function() {
+              that.rewards.authors = this.authors;
+              that.rewards.curators = this.curators;
+              that.rewards.pending = this.pending;
+              that.rewards.total = this.total;
+            }
+          });
+        },
+      });
+    }
+  },
+  filters: {
+    currency: function (number) {
+      return number.toFixed(0).toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+    }
+  }
+});
