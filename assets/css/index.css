@@ -244,7 +244,8 @@ a {
 #topics .topic,
 #crowdsourcing .topic {
   position: relative;
-  margin-bottom: 25px; }
+  margin-bottom: 40px;
+  height: 100%; }
   #topics .topic .image,
   #crowdsourcing .topic .image {
     width: 100%;
@@ -258,6 +259,13 @@ a {
   #topics .topic h4,
   #crowdsourcing .topic h4 {
     font-size: 1.4rem; }
+  #topics .topic .button,
+  #crowdsourcing .topic .button {
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    left: 0;
+    right: 0; }
 
 body .carousel-control-prev,
 body .carousel-control-next {
