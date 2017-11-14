@@ -14,11 +14,11 @@
 </head>
 <body data-spy="scroll" data-target="#navbar" data-offset="200">
 
-<div id="app">
+<div id="app" v-cloak>
 
     <div class="container fixed-top">
         <nav class="navbar navbar-expand-lg navbar-dark bg-transparent text-uppercase font-weight-bold" id="navbar">
-            <a class="navbar-brand" href="#header">
+            <a class="navbar-brand smoothscroll" href="#header">
                 <img src="assets/img/logo-utopian.png"/>
             </a>
 
@@ -29,26 +29,36 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#header">Home</a>
+                        <a class="nav-link smoothscroll" href="#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#rewards">Rewards</a>
+                        <a class="nav-link smoothscroll" href="#rewards">{{ messages.nav.rewards }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#rules">Rules</a>
+                        <a class="nav-link smoothscroll" href="#rules">{{ messages.nav.rules }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#moderators">Moderators</a>
+                        <a class="nav-link smoothscroll" href="#moderators">{{ messages.nav.moderators }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#faq">FAQ</a>
+                        <a class="nav-link smoothscroll" href="#faq">{{ messages.nav.faq }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#blog">Blog</a>
+                        <a class="nav-link smoothscroll" href="#blog">{{ messages.nav.blog }}</a>
                     </li>
                 </ul>
                 <div class="text-right">
-                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-3 font-weight-bold">
+                    <div class="dropdown" id="language">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            {{ lang }} <i class="fa fa-angle-down"></i>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" @click="getMessages('en')">en</a>
+                            <a class="dropdown-item" @click="getMessages('de')">de</a>
+                            <a class="dropdown-item" @click="getMessages('en')">es</a>
+                        </div>
+                    </div>
+                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
                         Sign Up
                     </a>
                     <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary font-weight-bold">
@@ -77,15 +87,7 @@
         <!--</a>-->
     </div>
 
-    <div class="container lead" id="intro">
-        Our modern world is driven by <a href="https://en.wikipedia.org/wiki/Open-source_model">Open Source</a> software.
-        It runs on every computer, every smartphone or tablet and all your favorite websites can't live without it.
-        It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you.
-        Open Source software is free and common property and allows everyone to use it and alter it to their needs.
-        It relies on collective intelligence instead of the standards imposed by superiors.
-        All this work is done for free!
-        Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.
-    </div>
+    <div class="container lead" id="intro" v-html="messages.intro"></div>
 
     <div id="github-trigger"></div>
     <div class="container" id="github">
