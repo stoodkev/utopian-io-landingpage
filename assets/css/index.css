@@ -161,7 +161,9 @@ a {
 
 #intro {
   margin: 50px auto;
-  columns: 2; }
+  columns: 2;
+  z-index: 99;
+  position: relative; }
 
 #github {
   margin-top: 100px;
