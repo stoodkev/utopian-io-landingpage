@@ -1,6 +1,6 @@
 $(function () {
   // smoothscroll
-  $('#navbar').find('a[href^="#"]').on('click', function(e) {
+  $('#navbar').find('.smoothscroll').on('click', function(e) {
     e.preventDefault();
 
     let hash = this.hash;
@@ -193,6 +193,8 @@ function randomNumberBetween(min,max) {
 let app = new Vue({
   el: '#app',
   data: {
+    lang: 'en',
+    messages: {},
     rewards: {
       authors: 0,
       curators: 0,
@@ -206,9 +208,28 @@ let app = new Vue({
     moderators: []
   },
   created: function () {
+    this.getMessages(this.lang);
     this.getModerators();
   },
   methods: {
+    getMessages: function (lang) {
+      $.getJSON('translations/' + lang + '.json', (messages) => {
+        this.messages = messages;
+        this.lang = lang;
+      });
+    },
+    trans: function (id) {
+      let path = id.replace('messages.', '').split('.');
+      if (path.length && this.messages.hasOwnProperty(path[0])) {
+        let message = this.messages[path[0]];
+        for (let i = 1; i < path.length; i++) {
+          if (typeof message === 'object' && message.hasOwnProperty([path[i]])) {
+            message = message[path[i]];
+          }
+        }
+        return message;
+      }
+    },
     getRewards: function () {
       $.ajax({
         url: 'https://api.utopian.io/api/stats',

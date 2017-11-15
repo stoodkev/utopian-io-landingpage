@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "rewards": "Bezahlung",
+    "rules": "Regeln",
+    "moderators": "Moderatoren",
+    "faq": "FAQ",
+    "blog": "Blog"
+  },
+  "header": {
+    "text1": "Utopian.io",
+    "text2": "Open Source Ökonomie",
+    "text3": "Leiste Beiträge zu Open Source Projekten<br>und werde dafür bezahlt."
+  },
+  "intro": "Unsere moderne Welt wäre ohne <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet and all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
+  "octocat": {
+    "hi": "Hi! Ich bin Octocat!",
+    "text": "Ich arbeite bei GitHub als Maskottchen und es ist wirklich großartig hier zu sein! Wir sind eine weltweit verteilte Gemeinschaft von freiwilligen Enthusiasten, die an tausenden von interessanten Projekten arbeiten. Dank <b>Utopian.io</b> wird nun jeder, der einen wertvollen Beitrag zu Open Source Projekten leistet, auch dafür bezahlt. Du kannst z.B. Fehlerberichte verfassen, Texte übersetzen, Dokumentationen und Tutorials schreiben oder einfach deine Ideen und Vorschläge mit der Community teilen.",
+    "visit": "Besuche GitHub.com!"
+  }
+}
