@@ -32,19 +32,19 @@
                         <a class="nav-link smoothscroll" href="#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#rewards">{{ messages.nav.rewards }}</a>
+                        <a class="nav-link smoothscroll" href="#rewards">{{ trans('messages.nav.rewards') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#rules">{{ messages.nav.rules }}</a>
+                        <a class="nav-link smoothscroll" href="#rules">{{ trans('messages.nav.rules') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#moderators">{{ messages.nav.moderators }}</a>
+                        <a class="nav-link smoothscroll" href="#moderators">{{ trans('messages.nav.moderators') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#faq">{{ messages.nav.faq }}</a>
+                        <a class="nav-link smoothscroll" href="#faq">{{ trans('messages.nav.faq') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#blog">{{ messages.nav.blog }}</a>
+                        <a class="nav-link smoothscroll" href="#blog">{{ trans('messages.nav.blog') }}</a>
                     </li>
                 </ul>
                 <div class="text-right">
@@ -71,9 +71,9 @@
 
     <div id="header">
         <div class="container" id="header-content">
-            <h3 class="text-white text-center">Utopian.io</h3>
-            <h1 class="text-white text-center font-weight-bold text-uppercase">Open Source Economy</h1>
-            <h2 class="text-white text-center">Earn rewards by contributing to your<br>favorite open source projects!</h2>
+            <h3 class="text-white text-center" v-html="trans('messages.header.text1')"></h3>
+            <h1 class="text-white text-center font-weight-bold text-uppercase" v-html="trans('messages.header.text2')"></h1>
+            <h2 class="text-white text-center" v-html="trans('messages.header.text3')"></h2>
         </div>
         <div class="parallax-wave" id="wave-grey1"></div>
         <div class="parallax-wave" id="wave-grey2"></div>
@@ -87,7 +87,7 @@
         <!--</a>-->
     </div>
 
-    <div class="container lead" id="intro" v-html="messages.intro"></div>
+    <div class="container lead" id="intro" v-html="trans('messages.intro')"></div>
 
     <div id="github-trigger"></div>
     <div class="container" id="github">
@@ -97,10 +97,10 @@
             </div>
             <div class="col-md-9">
                 <div id="github-text">
-                    <h3 class="font-weight-bold my-4">Hi! I'm Octocat!</h3>
-                    I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.<br>
+                    <h3 class="font-weight-bold my-4" v-html="trans('messages.octocat.hi')"></h3>
+                    <div v-html="trans('messages.octocat.text')"></div>
                     <div class="text-right mt-3">
-                        <a href="https://github.com" class="btn btn-primary">Visit GitHub.com!</a>
+                        <a href="https://github.com" class="btn btn-primary" v-html="trans('messages.octocat.visit')"></a>
                     </div>
                 </div>
             </div>

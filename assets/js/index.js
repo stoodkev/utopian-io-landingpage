@@ -218,6 +218,18 @@ let app = new Vue({
         this.lang = lang;
       });
     },
+    trans: function (id) {
+      let path = id.replace('messages.', '').split('.');
+      if (path.length && this.messages.hasOwnProperty(path[0])) {
+        let message = this.messages[path[0]];
+        for (let i = 1; i < path.length; i++) {
+          if (typeof message === 'object' && message.hasOwnProperty([path[i]])) {
+            message = message[path[i]];
+          }
+        }
+        return message;
+      }
+    },
     getRewards: function () {
       $.ajax({
         url: 'https://api.utopian.io/api/stats',
