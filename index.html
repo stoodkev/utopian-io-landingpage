@@ -14,11 +14,11 @@
 </head>
 <body data-spy="scroll" data-target="#navbar" data-offset="200">
 
-<div id="app">
+<div id="app" v-cloak>
 
     <div class="container fixed-top">
         <nav class="navbar navbar-expand-lg navbar-dark bg-transparent text-uppercase font-weight-bold" id="navbar">
-            <a class="navbar-brand" href="#header">
+            <a class="navbar-brand smoothscroll" href="#header">
                 <img src="assets/img/logo-utopian.png"/>
             </a>
 
@@ -29,26 +29,36 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#header">Home</a>
+                        <a class="nav-link smoothscroll" href="#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#rewards">Rewards</a>
+                        <a class="nav-link smoothscroll" href="#rewards">{{ messages.nav.rewards }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#rules">Rules</a>
+                        <a class="nav-link smoothscroll" href="#rules">{{ messages.nav.rules }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#moderators">Moderators</a>
+                        <a class="nav-link smoothscroll" href="#moderators">{{ messages.nav.moderators }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#faq">FAQ</a>
+                        <a class="nav-link smoothscroll" href="#faq">{{ messages.nav.faq }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#blog">Blog</a>
+                        <a class="nav-link smoothscroll" href="#blog">{{ messages.nav.blog }}</a>
                     </li>
                 </ul>
                 <div class="text-right">
-                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-3 font-weight-bold">
+                    <div class="dropdown" id="language">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            {{ lang }} <i class="fa fa-angle-down"></i>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" @click="getMessages('en')">en</a>
+                            <a class="dropdown-item" @click="getMessages('de')">de</a>
+                            <a class="dropdown-item" @click="getMessages('en')">es</a>
+                        </div>
+                    </div>
+                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
                         Sign Up
                     </a>
                     <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary font-weight-bold">
@@ -77,15 +87,7 @@
         <!--</a>-->
     </div>
 
-    <div class="container lead" id="intro">
-        Our modern world is driven by <a href="https://en.wikipedia.org/wiki/Open-source_model">Open Source</a> software.
-        It runs on every computer, every smartphone or tablet and all your favorite websites can't live without it.
-        It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you.
-        Open Source software is free and common property and allows everyone to use it and alter it to their needs.
-        It relies on collective intelligence instead of the standards imposed by superiors.
-        All this work is done for free!
-        Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.
-    </div>
+    <div class="container lead" id="intro" v-html="messages.intro"></div>
 
     <div id="github-trigger"></div>
     <div class="container" id="github">
@@ -110,6 +112,11 @@
         <h3 class="text-center mb-4" id="projects-header">Choose a project...</h3>
 
         <div id="projects-container">
+            <a href="https://steemit.com" class="project">
+                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152641/y4aytinzid1rnqrtlgyy.png"/>
+                <h4>Steemit</h4>
+                <p>The social application web front-end to the Steem Blockchain</p>
+            </a>
             <a href="https://busy.org" class="project">
                 <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
                 <h4>Busy.org</h4>
@@ -135,16 +142,11 @@
                 <h4>eSteem</h4>
                 <p>Native Android and iOS application for Steem</p>
             </a>
-            <a href="https://steemit.com" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152641/y4aytinzid1rnqrtlgyy.png"/>
-                <h4>Steemit</h4>
-                <p>The social application web front-end to the Steem Blockchain</p>
-            </a>
         </div>
 
-        <div class="text-center all-projects">
+        <!--<div class="text-center all-projects">
             <a href="#" class="btn btn-light">See all Projects</a>
-        </div>
+        </div>-->
     </div>
 
     <div class="container mt-5" id="topics">
@@ -154,40 +156,40 @@
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/idea-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/suggestion.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Ideas/Features</h4>
                             <p class="card-text text-center">Everything starts with an idea. Share your ideas or feature requests and help improve a project.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Share an idea</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share an idea</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/code-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/development.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Development</h4>
                             <p class="card-text text-center">If you've written code or created pull requests, share your work with the Utopian community.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Share your work</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share your work</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/bug-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/bughunting.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Bug Hunting</h4>
                             <p class="card-text text-center">Help developers find and fix problems with their software by sharing detailed bug reports.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Go hunting</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Go hunting</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/translate-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/translation.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Translation</h4>
                             <p class="card-text text-center">Help people use software in other languages by translating text or documentation via <a href="https://crowdin.com/" target="_blank">Crowdin</a> and other tools.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Start translating</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Start translating</a></div>-->
                         </div>
                     </div>
                 </div>
@@ -196,40 +198,40 @@
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/graphic-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/graphics.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Graphics</h4>
                             <p class="card-text text-center">Share original logos, icons, backgrounds and other graphics that you have designed for a project.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Share your designs</a></div>
+                           <!-- <div class="button"><a href="#" class="btn btn-light">Share your designs</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/documentation-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/documentation.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Documentation</h4>
                             <p class="card-text text-center">If you have authored documentation for a project (in any language), you can share it with the community.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Share documentation</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share documentation</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/analysis-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/analysis.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Analysis</h4>
                             <p class="card-text text-center">Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Share your analyses</a></div>
+                           <!-- <div class="button"><a href="#" class="btn btn-light">Share your analyses</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/visibility-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/visibility.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Visibility</h4>
                             <p class="card-text text-center">Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Share what you did</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share what you did</a></div>-->
                         </div>
                     </div>
                 </div>
@@ -247,40 +249,40 @@
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/idea-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/suggestion.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Thinkers</h4>
                             <p class="card-text text-center">Get the attention of great thinkers on your project to develop ideas and solve problems.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find great thinkers</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Find great thinkers</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/code-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/development.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Developers</h4>
                             <p class="card-text text-center">Call on talented developers to write code or fix bugs.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find developers</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Find developers</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/bug-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/bughunting.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Bug Hunters</h4>
                             <p class="card-text text-center">Encourage users to report problems or invite them to try out new features you're developing.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find bug hunters</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Find bug hunters</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/translate-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/translation.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Translators</h4>
                             <p class="card-text text-center">Reach more people around the world by assigning translators to make your project available in multiple languages.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find translators</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Find translators</a></div>-->
                         </div>
                     </div>
                 </div>
@@ -289,40 +291,40 @@
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/graphic-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/graphics.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Designers</h4>
                             <p class="card-text text-center">Have talented designers create unique graphics for your project or brand.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find designers</a></div>
+                           <!-- <div class="button"><a href="#" class="btn btn-light">Find designers</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/documentation-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/documentation.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Technical Writers</h4>
                             <p class="card-text text-center">Get comprehensive documentation created for your project that properly informs your users and other stakeholders.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find technical writers</a></div>
+                           <!-- <div class="button"><a href="#" class="btn btn-light">Find technical writers</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/analysis-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/analysis.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Data Analysts</h4>
                             <p class="card-text text-center">Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find data analysts</a></div>
+                           <!-- <div class="button"><a href="#" class="btn btn-light">Find data analysts</a></div>-->
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
-                            <div class="image" style="background-image: url('assets/img/visibility-icon.png')"></div>
+                            <div class="image" style="background-image: url('assets/img/icons/visibility.png')"></div>
                             <h4 class="card-title text-center text-uppercase">Influencers</h4>
                             <p class="card-text text-center">Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves.</p>
-                            <div class="button"><a href="#" class="btn btn-light">Find influencers</a></div>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Find influencers</a></div>-->
                         </div>
                     </div>
                 </div>
@@ -427,7 +429,7 @@
                     <div class="mt-5 text-center">
                         <a href="https://steem.io" class="btn btn-light" target="_blank">Learn more about Steem</a><br>
                         <br>
-                        <a href="https://utopian.io/sponsors" class="btn btn-light" target="_blank">Delegate Steem Power</a>
+                        <!--<a href="https://utopian.io/sponsors" class="btn btn-light" target="_blank">Delegate Steem Power</a>-->
                     </div>
                 </div>
                 <div class="col order-1 order-md-12">
@@ -623,11 +625,11 @@
                         </a>
                     </div>
 
-                    <div class="text-center mt-5 mb-5">
+                    <!--<div class="text-center mt-5 mb-5">
                         <a href="https://utopian.io/rules" class="btn btn-primary">
                             General rules
                         </a>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
