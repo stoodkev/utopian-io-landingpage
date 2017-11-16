@@ -27,7 +27,6 @@ $(function () {
     slidesToShow: 5,
     slidesToScroll: 1,
     centerMode: true,
-    adaptiveHeight: true,
     dots: true,
     infinite: true,
     focusOnSelect: true,
@@ -40,12 +39,6 @@ $(function () {
       },
       {
         breakpoint: 768,
-        settings: {
-          slidesToShow: 3
-        }
-      },
-      {
-        breakpoint: 576,
         settings: {
           slidesToShow: 1
         }
@@ -210,7 +203,6 @@ let app = new Vue({
       {
         name: 'Steemit.com',
         teaser: 'The social application web front-end to the Steem Blockchain',
-        description: 'The social application web front-end to the Steem Blockchain',
         image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152641/y4aytinzid1rnqrtlgyy.png',
         url: "https://utopian.io/project/steemit/condenser/github/59213335/all",
         github: {
@@ -222,7 +214,6 @@ let app = new Vue({
       {
         name: 'Busy.org',
         teaser: 'Blockchain-based social network where anyone can earn rewards',
-        description: 'Blockchain-based social network where anyone can earn rewards',
         image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png',
         url: "https://utopian.io/project/busyorg/busy/github/64382195/all",
         github: {
@@ -234,7 +225,6 @@ let app = new Vue({
       {
         name: 'Utopian.io',
         teaser: 'Open Source Economy powered by the Steem blockchain',
-        description: 'Open Source Economy powered by the Steem blockchain',
         image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510150908/xx4shp2yiekby5d6sify.png',
         url: "https://utopian.io/project/utopian-io/utopian.io/github/104593314/all",
         github: {
@@ -246,7 +236,6 @@ let app = new Vue({
       {
         name: 'Wordpress',
         teaser: 'Most popular blogging platform and content management system.',
-        description: 'Most popular blogging platform and content management system.',
         image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510151319/fgsq6dznr52ztmbxmxad.png',
         url: "https://utopian.io/project/WordPress/WordPress/github/2889328/all",
         github: {
@@ -258,7 +247,6 @@ let app = new Vue({
       {
         name: 'D.Tube',
         teaser: 'Blockchain-based social video platform where anyone can earn rewards',
-        description: 'Blockchain-based social video platform where anyone can earn rewards',
         image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152015/a9dly7pdcwfgj4dr885n.png',
         url: "https://utopian.io/project/dtube/production/github/106749740/all",
         github: {
@@ -269,8 +257,7 @@ let app = new Vue({
       },
       {
         name: 'eSteem',
-        teaser: 'Native Android and iOS application for Steem',
-        description: 'Native Android and iOS mobile application for Steem',
+        teaser: 'Native Android and iOS mobile application for Steem',
         image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152218/lyim8tnecy9fsgn2gnvw.png',
         url: "https://utopian.io/project/eSteemApp/esteem/github/63218416/all",
         github: {

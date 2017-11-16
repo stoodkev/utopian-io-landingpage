@@ -21,17 +21,17 @@ a {
   border-radius: 25px; }
   .btn.btn-primary {
     background-color: #4a6aac;
-    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%);
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%) !important;
     background-size: 200% 100%;
-    border: none;
+    border: none !important;
     padding: 0.7rem 1rem;
     transition: transform 0.3s ease, background-position 1s ease, background-color 1s ease; }
-    .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary.pink {
-      background-color: #9d3393; }
-    .btn.btn-primary:hover, .btn.btn-primary:focus {
-      background-size: 300% 100%;
-      background-position: -100% 0;
-      transform: scale(1.05); }
+    .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary.pink {
+      background-color: #9d3393 !important; }
+    .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
+      background-size: 300% 100% !important;
+      background-position: -100% 0 !important;
+      transform: scale(1.05) !important; }
   .btn.btn-light {
     border: solid 1px #ccc;
     color: #999;
@@ -39,16 +39,16 @@ a {
     font-size: 0.8rem;
     background: #fff;
     background-size: 400% 100%;
-    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%);
+    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%) !important;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     transition: background-position 0.7s ease, border-color 0.3s ease; }
-    .btn.btn-light:hover {
-      color: #4b7dc0;
-      background-position: -66% 0;
-      border-color: #4b7dc0; }
-      .btn.btn-light:hover .fa {
-        -webkit-text-fill-color: #9d3393; }
+    .btn.btn-light:hover, .btn.btn-light:active, .btn.btn-light:focus {
+      color: #4b7dc0 !important;
+      background-position: -66% 0 !important;
+      border-color: #4b7dc0 !important; }
+      .btn.btn-light:hover .fa, .btn.btn-light:active .fa, .btn.btn-light:focus .fa {
+        -webkit-text-fill-color: #9d3393 !important; }
     .btn.btn-light .fa {
       -webkit-text-fill-color: #999; }
 
