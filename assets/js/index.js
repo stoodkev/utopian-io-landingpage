@@ -48,10 +48,10 @@ $(function () {
     if (currentSlide !== nextSlide) {
       projectsContainer.find('.contributions').collapse('hide');
     }
-  });
-
-  $(document).on('click', '.toggle-contributions', function () {
-    $(this).find('.fa').toggleClass('fa-angle-down fa-angle-up');
+  }).on('afterChange', function(event, slick, currentSlide, nextSlide){
+    if (currentSlide !== nextSlide) {
+      projectsContainer.find('.slick-current .contributions').collapse('show');
+    }
   });
 
   /**
