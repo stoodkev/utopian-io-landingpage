@@ -3,6 +3,9 @@ html, body {
   font-family: "Open Sans", sans-serif;
   height: 100%; }
 
+* {
+  outline: none; }
+
 a {
   outline: none;
   color: #9d3393;
@@ -44,11 +47,16 @@ a {
       color: #4b7dc0;
       background-position: -66% 0;
       border-color: #4b7dc0; }
+      .btn.btn-light:hover .fa {
+        -webkit-text-fill-color: #9d3393; }
+    .btn.btn-light .fa {
+      -webkit-text-fill-color: #999; }
 
 .slick-dots li.slick-active button:before {
   color: #9d3393;
-  font-size: 50px;
-  opacity: 1; }
+  opacity: 1;
+  transform: scale(2);
+  transition: transform 0.3s ease; }
 
 #navbar {
   font-size: 1rem;
@@ -199,9 +207,9 @@ a {
 #projects #projects-container {
   margin-bottom: 75px; }
   #projects #projects-container .slick-list {
-    padding: 55px 50px !important;
-    height: 476px; }
+    padding: 50px 50px !important; }
     #projects #projects-container .slick-list .slick-track .project {
+      margin: 35px 0;
       border-radius: 10px;
       position: relative;
       display: block;
@@ -209,7 +217,7 @@ a {
       z-index: 5;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
       background: #fff; }
-      #projects #projects-container .slick-list .slick-track .project img {
+      #projects #projects-container .slick-list .slick-track .project .cover-image {
         width: 100%; }
       #projects #projects-container .slick-list .slick-track .project h4 {
         font-size: 1.3rem;
@@ -219,38 +227,60 @@ a {
         font-size: 1rem;
         color: #aaa;
         margin: 0; }
+      #projects #projects-container .slick-list .slick-track .project .btn {
+        display: block;
+        margin: 10px 0 0; }
+      #projects #projects-container .slick-list .slick-track .project .contributions .contribution {
+        margin-bottom: 10px; }
+        #projects #projects-container .slick-list .slick-track .project .contributions .contribution .profile-image {
+          float: left;
+          margin-right: 10px; }
+          #projects #projects-container .slick-list .slick-track .project .contributions .contribution .profile-image img {
+            border-radius: 50%;
+            border: solid 1px #ddd; }
+        #projects #projects-container .slick-list .slick-track .project .contributions .contribution .title {
+          color: #444;
+          display: block;
+          font-size: 0.8rem;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis; }
+        #projects #projects-container .slick-list .slick-track .project .contributions .contribution .meta {
+          display: block;
+          font-size: 0.7rem;
+          color: #aaa !important; }
       #projects #projects-container .slick-list .slick-track .project.slick-current {
         z-index: 6;
         transform: scale(1.15);
         box-shadow: 0 0 25px rgba(0, 0, 0, 0.2); }
-  #projects #projects-container .slick-dots {
-    bottom: -50px; }
   #projects #projects-container .slick-arrow {
     height: 100%;
     width: 25%;
     z-index: 10; }
     #projects #projects-container .slick-arrow:before {
       color: #888;
-      opacity: 0.3;
-      font-size: 2rem;
+      opacity: 0;
+      font-size: 4rem;
       font-family: "FontAwesome";
-      transition: opacity 0.3s ease; }
+      transition: opacity 0.3s ease;
+      position: absolute;
+      top: 200px; }
+    #projects #projects-container .slick-arrow:hover:before {
+      opacity: 1; }
     #projects #projects-container .slick-arrow.slick-prev {
-      text-align: left;
-      padding-left: 15px;
       background-image: -webkit-linear-gradient(left, #fff 0%, transparent 100%);
       left: 0; }
       #projects #projects-container .slick-arrow.slick-prev:before {
+        left: 25px;
         content: ""; }
     #projects #projects-container .slick-arrow.slick-next {
-      text-align: right;
-      padding-right: 15px;
       background-image: -webkit-linear-gradient(left, transparent 0%, #fff 100%);
       right: 0; }
       #projects #projects-container .slick-arrow.slick-next:before {
+        right: 25px;
         content: ""; }
   #projects #projects-container:hover .slick-arrow:before {
-    opacity: 1; }
+    opacity: 0.5; }
 
 #topics h3,
 #crowdsourcing h3 {
@@ -529,9 +559,6 @@ footer {
     footer .social-links a img {
       width: 45px; }
 
-@media screen and (max-width: 1050px) {
-  #projects #projects-container .slick-list {
-    height: 435px; } }
 @media screen and (max-width: 991px) {
   #navbar {
     background: rgba(0, 0, 0, 0.8) !important;
@@ -549,10 +576,7 @@ footer {
     #header #header-content h2 {
       font-size: 1.5rem; }
   #header .header .box {
-    margin-bottom: 25px; }
-
-  #projects #projects-container .slick-list {
-    height: 410px; } }
+    margin-bottom: 25px; } }
 @media screen and (max-width: 767px) {
   #header #header-content h1 {
     font-size: 2.5rem; }
@@ -572,20 +596,9 @@ footer {
     position: absolute;
     top: -70px;
     left: 50%;
-    margin-left: -35px; }
-
-  #projects #projects-container .slick-list {
-    height: 390px; } }
+    margin-left: -35px; } }
 @media screen and (max-width: 576px) {
-  #projects #projects-container .slick-list {
-    height: 555px; }
   #projects #projects-container .slick-arrow {
     display: none !important; } }
-@media screen and (max-width: 500px) {
-  #projects #projects-container .slick-list {
-    height: 480px; } }
-@media screen and (max-width: 420px) {
-  #projects #projects-container .slick-list {
-    height: 430px; } }
 
 /*# sourceMappingURL=index.css.map */
