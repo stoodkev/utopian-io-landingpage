@@ -1,6 +1,8 @@
 html, body
   font-family: 'Open Sans', sans-serif
   height: 100%
+*
+  outline: none
 
 a
   outline: none
@@ -10,24 +12,29 @@ a
     color: #4a6aac
     text-decoration: none
 
+[v-cloak]
+  display: none
+
 .btn
   border-radius: 25px
   &.btn-primary
     background-color: #4a6aac
-    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%)
+    background-image: -webkit-linear-gradient(left, #4b7dc0 0%, #9d3393 50%, #4b7dc0 100%) !important
     background-size: 200% 100%
-    border: none
+    border: none !important
     padding: 0.7rem 1rem
     transition: transform .3s ease, background-position 1s ease, background-color 1s ease
     &:hover,
     &:focus,
+    &:active,
     &.pink
-      background-color: #9d3393
+      background-color: #9d3393 !important
     &:hover,
-    &:focus
-      background-size: 300% 100%
-      background-position: -100% 0
-      transform: scale(1.05)
+    &:focus,
+    &:active
+      background-size: 300% 100% !important
+      background-position: -100% 0 !important
+      transform: scale(1.05) !important
 
   &.btn-light
     border: solid 1px #ccc
@@ -36,14 +43,20 @@ a
     font-size: .8rem
     background: #fff
     background-size: 400% 100%
-    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%)
+    background-image: -webkit-linear-gradient(left, #999 0%, #999 25%, #4b7dc0 50%, #9d3393 75%, #999 100%) !important
     -webkit-text-fill-color: transparent
     -webkit-background-clip: text
     transition: background-position .7s ease, border-color .3s ease
-    &:hover
-      color: #4b7dc0
-      background-position: -66% 0
-      border-color: #4b7dc0
+    &:hover,
+    &:active,
+    &:focus
+      color: #4b7dc0 !important
+      background-position: -66% 0 !important
+      border-color: #4b7dc0 !important
+      .fa
+        -webkit-text-fill-color: #9d3393 !important
+    .fa
+      -webkit-text-fill-color: #999
 
 .slick-dots
   li
@@ -51,8 +64,9 @@ a
       button
         &:before
           color: #9d3393
-          font-size: 50px
           opacity: 1
+          transform: scale(2)
+          transition: transform .3s ease
 
 #navbar
   font-size: 1rem
@@ -64,7 +78,7 @@ a
   .navbar-brand
     img
       transition: width .3s ease
-      width: 80px
+      width: 70px
   .navbar-toggler
     padding-right: 10px
     border: none
@@ -87,6 +101,19 @@ a
     .show > .nav-link
       color: #4b7dc0
       background-position: -66% 0
+
+  .text-right
+    #language
+      display: inline-block
+      margin-right: 15px
+      cursor: pointer
+      .dropdown-toggle
+        color: #fff
+        font-weight: normal
+        &:after
+          display: none
+      .dropdown-menu
+        min-width: 70px
 
   &.scrolled
     background: rgba(0, 0, 0, .8) !important
@@ -203,10 +230,10 @@ a
   #projects-container
     margin-bottom: 75px
     .slick-list
-      padding: 55px 50px !important
-      height: 476px
+      padding: 50px 50px !important
       .slick-track
         .project
+          margin: 35px 0
           border-radius: 10px
           position: relative
           display: block
@@ -214,7 +241,7 @@ a
           z-index: 5
           transition: transform .3s ease, box-shadow .3s ease
           background: #fff
-          img
+          .cover-image
             width: 100%
           h4
             font-size: 1.3rem
@@ -224,40 +251,64 @@ a
             font-size: 1rem
             color: #aaa
             margin: 0
+          .btn
+            display: block
+            margin: 10px 0 0
+          .contributions
+            .contribution
+              margin-bottom: 10px
+              .profile-image
+                float: left
+                margin-right: 10px
+                img
+                  border-radius: 50%
+                  border: solid 1px #ddd
+              .title
+                color: #444
+                display: block
+                font-size: .8rem
+                white-space: nowrap
+                overflow: hidden
+                text-overflow: ellipsis
+              .meta
+                display: block
+                font-size: 0.7rem
+                color: #aaa !important
           &.slick-current
             z-index: 6
             transform: scale(1.15)
             box-shadow: 0 0 25px rgba(0, 0, 0, 0.2)
-    .slick-dots
-      bottom: -50px
     .slick-arrow
       height: 100%
       width: 25%
       z-index: 10
       &:before
         color: #888
-        opacity: .3
-        font-size: 2rem
+        opacity: 0
+        font-size: 4rem
         font-family: 'FontAwesome'
         transition: opacity .3s ease
+        position: absolute
+        top: 200px
+      &:hover
+        &:before
+          opacity: 1
       &.slick-prev
-        text-align: left
-        padding-left: 15px
         background-image: -webkit-linear-gradient(left, #fff 0%, transparent 100%)
         left: 0
         &:before
+          left: 25px
           content: '\f104'
       &.slick-next
-        text-align: right
-        padding-right: 15px
         background-image: -webkit-linear-gradient(left, transparent 0%, #fff 100%)
         right: 0
         &:before
+          right: 25px
           content: '\f105'
     &:hover
       .slick-arrow
         &:before
-          opacity: 1
+          opacity: .5
 
 #topics,
 #crowdsourcing
@@ -557,12 +608,6 @@ footer
       img
         width: 45px
 
-@media screen and (max-width: 1050px)
-  #projects
-    #projects-container
-      .slick-list
-        height: 435px
-
 @media screen and (max-width: 991px)
   #navbar
     background: rgba(0, 0, 0, .8) !important
@@ -584,11 +629,6 @@ footer
     .header
       .box
         margin-bottom: 25px
-
-  #projects
-    #projects-container
-      .slick-list
-        height: 410px
 
 @media screen and (max-width: 767px)
   #header
@@ -615,28 +655,8 @@ footer
         left: 50%
         margin-left: -35px
 
-  #projects
-    #projects-container
-      .slick-list
-        height: 390px
-
 @media screen and (max-width: 576px)
   #projects
     #projects-container
-      .slick-list
-        height: 555px
       .slick-arrow
         display: none !important
-
-@media screen and (max-width: 500px)
-  #projects
-    #projects-container
-      .slick-list
-        height: 480px
-
-
-@media screen and (max-width: 420px)
-  #projects
-    #projects-container
-      .slick-list
-        height: 430px

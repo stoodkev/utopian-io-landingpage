@@ -1,6 +1,6 @@
 $(function () {
   // smoothscroll
-  $('#navbar').find('a[href^="#"]').on('click', function(e) {
+  $('#navbar').find('.smoothscroll').on('click', function(e) {
     e.preventDefault();
 
     let hash = this.hash;
@@ -22,12 +22,14 @@ $(function () {
   $(window).scroll();
 
   // projects carousel
-  $('#projects-container').slick({
+  let projectsContainer = $('#projects-container');
+  projectsContainer.slick({
     slidesToShow: 5,
     slidesToScroll: 1,
     centerMode: true,
     dots: true,
     infinite: true,
+    focusOnSelect: true,
     responsive: [
       {
         breakpoint: 1200,
@@ -38,16 +40,18 @@ $(function () {
       {
         breakpoint: 768,
         settings: {
-          slidesToShow: 3
-        }
-      },
-      {
-        breakpoint: 576,
-        settings: {
           slidesToShow: 1
         }
       }
     ]
+  }).on('beforeChange', function(event, slick, currentSlide, nextSlide){
+    if (currentSlide !== nextSlide) {
+      projectsContainer.find('.contributions').collapse('hide');
+    }
+  }).on('afterChange', function(event, slick, currentSlide, nextSlide){
+    if (currentSlide !== nextSlide) {
+      projectsContainer.find('.slick-current .contributions').collapse('show');
+    }
   });
 
   /**
@@ -106,11 +110,11 @@ $(function () {
     .addTo(scrollController);
 
   // button below carousel
-  let projectsBtnTween = new TweenMax.from('#projects .all-projects', 1, {opacity: 0, ease: Linear.easeInOut, delay: .3});
-  new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
-    .setTween(projectsBtnTween)
-    .reverse(false)
-    .addTo(scrollController);
+  // let projectsBtnTween = new TweenMax.from('#projects .all-projects', 1, {opacity: 0, ease: Linear.easeInOut, delay: .3});
+  // new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
+  //   .setTween(projectsBtnTween)
+  //   .reverse(false)
+  //   .addTo(scrollController);
 
   // topics headline
   let topicsHeadlineTween = new TweenMax.from('#topics > #topics-header', 1, {opacity: 0, top: -10, ease: Back.easeInOut});
@@ -193,6 +197,76 @@ function randomNumberBetween(min,max) {
 let app = new Vue({
   el: '#app',
   data: {
+    lang: 'en',
+    messages: {},
+    projects: [
+      {
+        name: 'Steemit.com',
+        teaser: 'The social application web front-end to the Steem Blockchain',
+        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152641/y4aytinzid1rnqrtlgyy.png',
+        url: "https://utopian.io/project/steemit/condenser/github/59213335/all",
+        github: {
+          id: '59213335',
+          url: 'https://github.com/steemit/condenser'
+        },
+        contributions: {}
+      },
+      {
+        name: 'Busy.org',
+        teaser: 'Blockchain-based social network where anyone can earn rewards',
+        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png',
+        url: "https://utopian.io/project/busyorg/busy/github/64382195/all",
+        github: {
+          id: '64382195',
+          url: 'https://github.com/busyorg/busy'
+        },
+        contributions: {}
+      },
+      {
+        name: 'Utopian.io',
+        teaser: 'Open Source Economy powered by the Steem blockchain',
+        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510150908/xx4shp2yiekby5d6sify.png',
+        url: "https://utopian.io/project/utopian-io/utopian.io/github/104593314/all",
+        github: {
+          id: '104593314',
+          url: 'https://github.com/utopian-io/utopian.io'
+        },
+        contributions: {}
+      },
+      {
+        name: 'Wordpress',
+        teaser: 'Most popular blogging platform and content management system.',
+        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510151319/fgsq6dznr52ztmbxmxad.png',
+        url: "https://utopian.io/project/WordPress/WordPress/github/2889328/all",
+        github: {
+          id: '2889328',
+          url: 'https://github.com/wordpress/wordpress'
+        },
+        contributions: {}
+      },
+      {
+        name: 'D.Tube',
+        teaser: 'Blockchain-based social video platform where anyone can earn rewards',
+        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152015/a9dly7pdcwfgj4dr885n.png',
+        url: "https://utopian.io/project/dtube/production/github/106749740/all",
+        github: {
+          id: '106749740',
+          url: 'https://github.com/dtube/production'
+        },
+        contributions: {}
+      },
+      {
+        name: 'eSteem',
+        teaser: 'Native Android and iOS mobile application for Steem',
+        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152218/lyim8tnecy9fsgn2gnvw.png',
+        url: "https://utopian.io/project/eSteemApp/esteem/github/63218416/all",
+        github: {
+          id: '63218416',
+          url: 'https://github.com/eSteemApp/esteem'
+        },
+        contributions: {}
+      }
+    ],
     rewards: {
       authors: 0,
       curators: 0,
@@ -206,9 +280,40 @@ let app = new Vue({
     moderators: []
   },
   created: function () {
+    this.getMessages(this.lang);
+    this.getProjects();
     this.getModerators();
   },
   methods: {
+    getMessages: function (lang) {
+      $.getJSON('translations/' + lang + '.json', (messages) => {
+        this.messages = messages;
+        this.lang = lang;
+      });
+    },
+    trans: function (id) {
+      let path = id.replace('messages.', '').split('.');
+      if (path.length && this.messages.hasOwnProperty(path[0])) {
+        let message = this.messages[path[0]];
+        for (let i = 1; i < path.length; i++) {
+          if (typeof message === 'object' && message.hasOwnProperty([path[i]])) {
+            message = message[path[i]];
+          }
+        }
+        return message;
+      }
+    },
+    getProjects: function () {
+      // currently only fetches the contributions
+      for (let i = 0; i < this.projects.length; i++) {
+        $.ajax({
+          url: 'https://api.utopian.io/api/posts/?limit=5&section=project&sortBy=votes&platform=github&projectId=' + this.projects[i].github.id,
+          success: (data) => {
+            this.projects[i].contributions = data.results;
+          },
+        });
+      }
+    },
     getRewards: function () {
       $.ajax({
         url: 'https://api.utopian.io/api/stats',
@@ -252,6 +357,17 @@ let app = new Vue({
   filters: {
     currency: function (number) {
       return number.toFixed(0).toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+    },
+    payout: function(post) {
+      if (post.last_payout === '1970-01-01T00:00:00') {
+        let payout = post.pending_payout_value.replace(' SBD', '');
+        return parseFloat(payout);
+      }
+
+      let authorPayout = post.total_payout_value.replace(' SBD', '');
+      let curatorPayout = post.curator_payout_value.replace(' SBD', '');
+
+      return (parseFloat(authorPayout) + parseFloat(curatorPayout)).toFixed(2);
     }
   }
 });

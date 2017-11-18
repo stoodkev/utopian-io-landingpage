@@ -14,11 +14,11 @@
 </head>
 <body data-spy="scroll" data-target="#navbar" data-offset="200">
 
-<div id="app">
+<div id="app" v-cloak>
 
     <div class="container fixed-top">
         <nav class="navbar navbar-expand-lg navbar-dark bg-transparent text-uppercase font-weight-bold" id="navbar">
-            <a class="navbar-brand" href="#header">
+            <a class="navbar-brand smoothscroll" href="#header">
                 <img src="assets/img/logo-utopian.png"/>
             </a>
 
@@ -29,26 +29,36 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#header">Home</a>
+                        <a class="nav-link smoothscroll" href="#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#rewards">Rewards</a>
+                        <a class="nav-link smoothscroll" href="#rewards">{{ trans('messages.nav.rewards') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#rules">Rules</a>
+                        <a class="nav-link smoothscroll" href="#rules">{{ trans('messages.nav.rules') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#moderators">Moderators</a>
+                        <a class="nav-link smoothscroll" href="#moderators">{{ trans('messages.nav.moderators') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#faq">FAQ</a>
+                        <a class="nav-link smoothscroll" href="#faq">{{ trans('messages.nav.faq') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#blog">Blog</a>
+                        <a class="nav-link smoothscroll" href="#blog">{{ trans('messages.nav.blog') }}</a>
                     </li>
                 </ul>
                 <div class="text-right">
-                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-3 font-weight-bold">
+                    <!--<div class="dropdown" id="language">-->
+                        <!--<a class="dropdown-toggle" data-toggle="dropdown">-->
+                            <!--{{ lang }} <i class="fa fa-angle-down"></i>-->
+                        <!--</a>-->
+                        <!--<div class="dropdown-menu">-->
+                            <!--<a class="dropdown-item" @click="getMessages('en')">en</a>-->
+                            <!--<a class="dropdown-item" @click="getMessages('de')">de</a>-->
+                            <!--<a class="dropdown-item" @click="getMessages('en')">es</a>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
                         Sign Up
                     </a>
                     <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary font-weight-bold">
@@ -61,9 +71,9 @@
 
     <div id="header">
         <div class="container" id="header-content">
-            <h3 class="text-white text-center">Utopian.io</h3>
-            <h1 class="text-white text-center font-weight-bold text-uppercase">Open Source Economy</h1>
-            <h2 class="text-white text-center">Earn rewards by contributing to your<br>favorite open source projects!</h2>
+            <h3 class="text-white text-center" v-html="trans('messages.header.text1')"></h3>
+            <h1 class="text-white text-center font-weight-bold text-uppercase" v-html="trans('messages.header.text2')"></h1>
+            <h2 class="text-white text-center" v-html="trans('messages.header.text3')"></h2>
         </div>
         <div class="parallax-wave" id="wave-grey1"></div>
         <div class="parallax-wave" id="wave-grey2"></div>
@@ -77,15 +87,7 @@
         <!--</a>-->
     </div>
 
-    <div class="container lead" id="intro">
-        Our modern world is driven by <a href="https://en.wikipedia.org/wiki/Open-source_model">Open Source</a> software.
-        It runs on every computer, every smartphone or tablet and all your favorite websites can't live without it.
-        It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you.
-        Open Source software is free and common property and allows everyone to use it and alter it to their needs.
-        It relies on collective intelligence instead of the standards imposed by superiors.
-        All this work is done for free!
-        Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.
-    </div>
+    <div class="container lead" id="intro" v-html="trans('messages.intro')"></div>
 
     <div id="github-trigger"></div>
     <div class="container" id="github">
@@ -95,10 +97,10 @@
             </div>
             <div class="col-md-9">
                 <div id="github-text">
-                    <h3 class="font-weight-bold my-4">Hi! I'm Octocat!</h3>
-                    I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.<br>
+                    <h3 class="font-weight-bold my-4" v-html="trans('messages.octocat.hi')"></h3>
+                    <div v-html="trans('messages.octocat.text')"></div>
                     <div class="text-right mt-3">
-                        <a href="https://github.com" class="btn btn-primary">Visit GitHub.com!</a>
+                        <a href="https://github.com" class="btn btn-primary" v-html="trans('messages.octocat.visit')"></a>
                     </div>
                 </div>
             </div>
@@ -107,39 +109,39 @@
 
     <div id="projects-trigger"></div>
     <div id="projects">
-        <h3 class="text-center mb-4" id="projects-header">Choose a project...</h3>
+        <h3 class="text-center mb-0" id="projects-header">Choose a project...</h3>
 
         <div id="projects-container">
-            <a href="https://steemit.com" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152641/y4aytinzid1rnqrtlgyy.png"/>
-                <h4>Steemit</h4>
-                <p>The social application web front-end to the Steem Blockchain</p>
-            </a>
-            <a href="https://busy.org" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png"/>
-                <h4>Busy.org</h4>
-                <p>Blockchain-based social network where anyone can earn rewards</p>
-            </a>
-            <a href="https://utopian.io" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510150908/xx4shp2yiekby5d6sify.png"/>
-                <h4>Utopian.io</h4>
-                <p>Open Source Economy powered by the Steem blockchain</p>
-            </a>
-            <a href="https://wordpress.org" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510151319/fgsq6dznr52ztmbxmxad.png"/>
-                <h4>Wordpress</h4>
-                <p>Most popular blogging platform and content management system.</p>
-            </a>
-            <a href="https://d.tube" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152015/a9dly7pdcwfgj4dr885n.png"/>
-                <h4>D.Tube</h4>
-                <p>Blockchain-based social video platform where anyone can earn rewards</p>
-            </a>
-            <a href="https://www.esteem.ws" class="project">
-                <img src="https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152218/lyim8tnecy9fsgn2gnvw.png"/>
-                <h4>eSteem</h4>
-                <p>Native Android and iOS application for Steem</p>
-            </a>
+            <div class="project" v-for="(project, index) in projects">
+                <img class="cover-image" :src="project.image"/>
+                <h4>{{ project.name }}</h4>
+                <p>{{ project.teaser }}</p>
+                <div class="row">
+                    <div class="col-6 pr-1">
+                        <a :href="project.github.url" target="_blank" class="btn btn-light">
+                            GitHub
+                        </a>
+                    </div>
+                    <div class="col-6 pl-1">
+                        <a :href="project.url" target="_blank" class="btn btn-light">
+                            Utopian
+                        </a>
+                    </div>
+                </div>
+                <div :class="'mt-3 collapse contributions contributions-' + project.github.id + (index == 0 ? ' show' : '')">
+                    <h5>Top Contributions</h5>
+                    <div class="contribution" v-for="contribution in project.contributions">
+                        <a class="profile-image" target="_blank" :href="'https://utopian.io/@' + contribution.author">
+                            <img :src="'https://img.busy.org/@' + contribution.author + '?s=40'"/>
+                        </a>
+                        <a class="title" target="_blank" :href="'https://utopian.io' + contribution.url">{{ contribution.title }}</a>
+                        <small class="meta">
+                            <a target="_blank" :href="'https://utopian.io/@' + contribution.author">{{ contribution.author }}</a>
+                            <span>${{ contribution | payout }}</span>
+                        </small>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!--<div class="text-center all-projects">
@@ -155,9 +157,19 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/suggestion.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Ideas/Features</h4>
-                            <p class="card-text text-center">Everything starts with an idea. Share your ideas or feature requests and help improve a project.</p>
+                            <h4 class="card-title text-center text-uppercase">Suggestions</h4>
+                            <p class="card-text text-center">Everything starts with an idea. Share your ideas or minor feature requests and help improve a project.</p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share an idea</a></div>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="card-body">
+                            <div class="image" style="background-image: url('assets/img/icons/subproject.png')"></div>
+                            <h4 class="card-title text-center text-uppercase">Sub-Projects</h4>
+                            <p class="card-text text-center">Share new and more elaborate features or concepts that you have developed for a project.</p>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share a sub-project</a></div>-->
                         </div>
                     </div>
                 </div>
@@ -191,8 +203,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
@@ -230,6 +240,36 @@
                             <h4 class="card-title text-center text-uppercase">Visibility</h4>
                             <p class="card-text text-center">Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project.</p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share what you did</a></div>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="card-body">
+                            <div class="image" style="background-image: url('assets/img/icons/tutorials.png')"></div>
+                            <h4 class="card-title text-center text-uppercase">Tutorials</h4>
+                            <p class="card-text text-center">Write informative tutorials and help other people to use Open Source products.</p>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share a tutorial</a></div>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="card-body">
+                            <div class="image" style="background-image: url('assets/img/icons/videotutorials.png')"></div>
+                            <h4 class="card-title text-center text-uppercase">Video Tutorials</h4>
+                            <p class="card-text text-center">Create how-to videos for an Open Source product and help people learn how to use it.</p>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share a video tutorial</a></div>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="topic">
+                        <div class="card-body">
+                            <div class="image" style="background-image: url('assets/img/icons/copywriting.png')"></div>
+                            <h4 class="card-title text-center text-uppercase">Copywriting</h4>
+                            <p class="card-text text-center">Write engaging and informative copy for Open Source projects, and improve the strength of their brand.</p>
+                            <!--<div class="button"><a href="#" class="btn btn-light">Share your copywriting</a></div>-->
                         </div>
                     </div>
                 </div>
@@ -284,8 +324,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
