@@ -1,3 +1,5 @@
+let scrollController = new ScrollMagic.Controller();
+
 $(function () {
   // smoothscroll
   $('#navbar').find('.smoothscroll').on('click', function(e) {
@@ -21,45 +23,9 @@ $(function () {
   });
   $(window).scroll();
 
-  // projects carousel
-  let projectsContainer = $('#projects-container');
-  projectsContainer.slick({
-    slidesToShow: 5,
-    slidesToScroll: 1,
-    centerMode: true,
-    dots: true,
-    infinite: true,
-    focusOnSelect: true,
-    responsive: [
-      {
-        breakpoint: 1200,
-        settings: {
-          slidesToShow: 3
-        }
-      },
-      {
-        breakpoint: 768,
-        settings: {
-          slidesToShow: 1
-        }
-      }
-    ]
-  }).on('beforeChange', function(event, slick, currentSlide, nextSlide){
-    if (currentSlide !== nextSlide) {
-      projectsContainer.find('.contributions').collapse('hide');
-    }
-  }).on('afterChange', function(event, slick, currentSlide, nextSlide){
-    if (currentSlide !== nextSlide) {
-      projectsContainer.find('.slick-current .contributions').collapse('show');
-    }
-  });
-
   /**
    * Animations
    */
-
-  // init scroll animations
-  let scrollController = new ScrollMagic.Controller();
 
   // waves in header
   let waveWhite = new TimelineMax();
@@ -95,26 +61,12 @@ $(function () {
     .reverse(false)
     .addTo(scrollController);
 
-  // project items
-  let projectsTween = new TweenMax.staggerFrom('#projects .project', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
-  new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
-    .setTween(projectsTween)
-    .reverse(false)
-    .addTo(scrollController);
-
   // project carousel dots
   let projectsDotsTween = new TweenMax.staggerFrom('#projects .slick-dots li', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
   new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
     .setTween(projectsDotsTween)
     .reverse(false)
     .addTo(scrollController);
-
-  // button below carousel
-  // let projectsBtnTween = new TweenMax.from('#projects .all-projects', 1, {opacity: 0, ease: Linear.easeInOut, delay: .3});
-  // new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -50})
-  //   .setTween(projectsBtnTween)
-  //   .reverse(false)
-  //   .addTo(scrollController);
 
   // topics headline
   let topicsHeadlineTween = new TweenMax.from('#topics > #topics-header', 1, {opacity: 0, top: -10, ease: Back.easeInOut});
@@ -190,83 +142,11 @@ $(function () {
   });
 });
 
-function randomNumberBetween(min,max) {
-  return min + Math.random() * (max-min)
-}
-
 let app = new Vue({
   el: '#app',
   data: {
     lang: 'en',
     messages: {},
-    projects: [
-      {
-        name: 'Steemit.com',
-        teaser: 'The social application web front-end to the Steem Blockchain',
-        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152641/y4aytinzid1rnqrtlgyy.png',
-        url: "https://utopian.io/project/steemit/condenser/github/59213335/all",
-        github: {
-          id: '59213335',
-          url: 'https://github.com/steemit/condenser'
-        },
-        contributions: {}
-      },
-      {
-        name: 'Busy.org',
-        teaser: 'Blockchain-based social network where anyone can earn rewards',
-        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510052188/occhlvtqan2qafwhikbv.png',
-        url: "https://utopian.io/project/busyorg/busy/github/64382195/all",
-        github: {
-          id: '64382195',
-          url: 'https://github.com/busyorg/busy'
-        },
-        contributions: {}
-      },
-      {
-        name: 'Utopian.io',
-        teaser: 'Open Source Economy powered by the Steem blockchain',
-        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510150908/xx4shp2yiekby5d6sify.png',
-        url: "https://utopian.io/project/utopian-io/utopian.io/github/104593314/all",
-        github: {
-          id: '104593314',
-          url: 'https://github.com/utopian-io/utopian.io'
-        },
-        contributions: {}
-      },
-      {
-        name: 'Wordpress',
-        teaser: 'Most popular blogging platform and content management system.',
-        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510151319/fgsq6dznr52ztmbxmxad.png',
-        url: "https://utopian.io/project/WordPress/WordPress/github/2889328/all",
-        github: {
-          id: '2889328',
-          url: 'https://github.com/wordpress/wordpress'
-        },
-        contributions: {}
-      },
-      {
-        name: 'D.Tube',
-        teaser: 'Blockchain-based social video platform where anyone can earn rewards',
-        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152015/a9dly7pdcwfgj4dr885n.png',
-        url: "https://utopian.io/project/dtube/production/github/106749740/all",
-        github: {
-          id: '106749740',
-          url: 'https://github.com/dtube/production'
-        },
-        contributions: {}
-      },
-      {
-        name: 'eSteem',
-        teaser: 'Native Android and iOS mobile application for Steem',
-        image: 'https://res.cloudinary.com/hpiynhbhq/image/upload/v1510152218/lyim8tnecy9fsgn2gnvw.png',
-        url: "https://utopian.io/project/eSteemApp/esteem/github/63218416/all",
-        github: {
-          id: '63218416',
-          url: 'https://github.com/eSteemApp/esteem'
-        },
-        contributions: {}
-      }
-    ],
     rewards: {
       authors: 0,
       curators: 0,
@@ -304,14 +184,192 @@ let app = new Vue({
       }
     },
     getProjects: function () {
-      // currently only fetches the contributions
-      for (let i = 0; i < this.projects.length; i++) {
-        $.ajax({
-          url: 'https://api.utopian.io/api/posts/?limit=5&section=project&sortBy=votes&platform=github&projectId=' + this.projects[i].github.id,
-          success: (data) => {
-            this.projects[i].contributions = data.results;
-          },
-        });
+      $.ajax({
+        url: '/projects.json',
+        success: (projects) => {
+          let projectsContainer = $('#projects-container');
+          let contributionsContainer = $('#contributions-container');
+
+          // projects carousel
+          projectsContainer.slick({
+            slidesToShow: 5,
+            slidesToScroll: 1,
+            centerMode: true,
+            infinite: true,
+            focusOnSelect: true,
+            responsive: [
+              {
+                breakpoint: 1200,
+                settings: {
+                  slidesToShow: 3
+                }
+              },
+              {
+                breakpoint: 768,
+                settings: {
+                  slidesToShow: 1
+                }
+              }
+            ]
+          }).on('beforeChange', (e, slick, currentSlide, nextSlide) => {
+            if (currentSlide !== nextSlide) {
+              new TweenMax.staggerTo('#contributions-container .slick-dots li', 1, {opacity: 0, top: -10, ease: Back.easeInOut}, .05);
+              new TweenMax.staggerTo('#contributions-container .contribution', 1, {opacity: 0, top: -50, ease: Back.easeInOut}, .05, () => {
+                $('#contributions-container').slick('slickRemove', null, null, true);
+                $.ajax({
+                  url: 'https://api.utopian.io/api/posts/?limit=10&section=project&sortBy=votes&platform=github&projectId=' + $(slick.$slides[nextSlide]).data('githubid'),
+                  success: (data) => {
+                    let contributions = data.results;
+                    for (let i = 0; i < contributions.length; i++) {
+                      contributionsContainer.slick('slickAdd', getContributionHtml(contributions[i]));
+                    }
+                    new TweenMax.staggerFrom('#contributions-container .slick-dots li', 1, {opacity: 0, top: -10, ease: Back.easeInOut}, .05);
+                    new TweenMax.staggerFrom('#contributions-container .contribution', 1, {opacity: 0, top: -50, ease: Back.easeInOut}, .05);
+                  }
+                });
+              });
+            }
+          });
+
+          // add projects
+          for (let i = 0; i < projects.length; i++) {
+            projectsContainer.slick('slickAdd','<div class="project" data-githubid="' + projects[i].github.id + '"><img class="cover-image" src="' + projects[i].image + '"/><h4>' + projects[i].name + '</h4><p>' + projects[i].teaser + '</p></div>');
+          }
+
+          // animate projects
+          let projectsTween = new TweenMax.staggerFrom('#projects-container .project', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
+          new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
+            .setTween(projectsTween)
+            .reverse(false)
+            .addTo(scrollController);
+
+          // contributions
+          $.ajax({
+            url: 'https://api.utopian.io/api/posts/?limit=10&section=project&sortBy=votes&platform=github&projectId=' + projects[0].github.id,
+            success: (data) => {
+              let contributions = data.results;
+
+              contributionsContainer.slick({
+                slidesToShow: 4,
+                slidesToScroll: 1,
+                dots: true,
+                infinite: true,
+                responsive: [
+                  {
+                    breakpoint: 768,
+                    settings: {
+                      slidesToShow: 2
+                    }
+                  },
+                  {
+                    breakpoint: 480,
+                    settings: {
+                      slidesToShow: 1
+                    }
+                  }
+                ]
+              });
+
+              for (let i = 0; i < contributions.length; i++) {
+                contributionsContainer.slick('slickAdd', getContributionHtml(contributions[i]));
+              }
+
+              // contributions items
+              let contributionsTween = new TweenMax.staggerFrom('#contributions-container .contribution', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
+              new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
+                .setTween(contributionsTween)
+                .reverse(false)
+                .addTo(scrollController);
+
+              let contributionsDotsTween = new TweenMax.staggerFrom('#contributions-container .slick-dots li', 1, {opacity: 0, top: -10, ease: Back.easeInOut, delay: .3}, .05);
+              new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
+                .setTween(contributionsDotsTween)
+                .reverse(false)
+                .addTo(scrollController);
+            }
+          });
+        }
+      });
+      
+      function getContributionHtml(contribution) {
+        let categoryLabel = '',
+            icon = '';
+        switch (contribution.json_metadata.type) {
+          case 'ideas':
+            categoryLabel = 'Suggestion';
+            icon = 'bulb';
+            break;
+          case 'sub-projects':
+            categoryLabel = 'Sub-Project';
+            icon = 'bulb';
+            break;
+          case 'development':
+            categoryLabel = 'Development';
+            icon = 'bulb';
+            break;
+          case 'bug-hunting':
+            categoryLabel = 'Bug Hunting';
+            icon = 'bulb';
+            break;
+          case 'translations':
+            categoryLabel = 'Translation';
+            icon = 'bulb';
+            break;
+          case 'graphics':
+            categoryLabel = 'Graphics';
+            icon = 'bulb';
+            break;
+          case 'analysis':
+            categoryLabel = 'Analysis';
+            icon = 'bulb';
+            break;
+          case 'social':
+            categoryLabel = 'Visibility';
+            icon = 'bulb';
+            break;
+          case 'documentation':
+            categoryLabel = 'Documentation';
+            icon = 'bulb';
+            break;
+          case 'tutorials':
+            categoryLabel = 'Tutorials';
+            icon = 'bulb';
+            break;
+          case 'video-tutorials':
+            categoryLabel = 'Video-Tutorials';
+            icon = 'bulb';
+            break;
+        }
+
+        return `<div class="contribution"><div class="contribution-inner">
+    <div class="category ${contribution.json_metadata.type}">
+        <i class="anticon"></i>
+        ${categoryLabel}
+    </div>
+    <div class="user clearfix">
+        <img class="profile-image" src="https://img.busy.org/@${contribution.author}?s=30"/>
+        <a class="username" href="https://utopian.io/@${contribution.author}">${contribution.author}</a>
+        <span class="reputation">${calculateReputation(contribution.author_reputation)}</span>
+        <span class="date">${moment.utc(contribution.created).from(moment.utc().format('YYYY-MM-DD HH:mm:ss'))}</span>
+    </div>
+    <div class="title">
+        <a href="https://utopian.io${contribution.url}">${contribution.title}</a>
+    </div>
+    <div class="stats clearfix">
+        <div class="float-left mr-2">
+            <i class="fa fa-angle-up"></i>
+            ${contribution.net_votes}
+        </div>
+        <div class="float-left">
+            <i class="fa fa-comment"></i>
+            ${contribution.children}        
+        </div>
+        <div class="float-right">
+            <i class="fa fa-dollar"></i>
+            ${getPostPayout(contribution)}        
+        </div>
+    </div>
+</div></div>`;
       }
     },
     getRewards: function () {
@@ -371,3 +429,25 @@ let app = new Vue({
     }
   }
 });
+
+function getPostPayout(post) {
+  if (post.last_payout === '1970-01-01T00:00:00') {
+    let payout = post.pending_payout_value.replace(' SBD', '');
+    return parseFloat(payout);
+  }
+
+  let authorPayout = post.total_payout_value.replace(' SBD', '');
+  let curatorPayout = post.curator_payout_value.replace(' SBD', '');
+
+  return (parseFloat(authorPayout) + parseFloat(curatorPayout)).toFixed(2);
+}
+
+function calculateReputation(rep) {
+  let reputation = ((((Math.log10(Math.abs(rep))) - 9) * 9) + 25);
+
+  return (rep < 0 ? '-' : '') + Math.floor(reputation);
+}
+
+function randomNumberBetween(min,max) {
+  return min + Math.random() * (max-min)
+}
