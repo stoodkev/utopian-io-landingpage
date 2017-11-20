@@ -372,16 +372,15 @@ let app = new Vue({
     </div>
     <div class="stats clearfix">
         <div class="float-left mr-2">
-            <i class="fa fa-angle-up"></i>
+            <i class="anticon icon-like1"></i>
             ${contribution.net_votes}
         </div>
         <div class="float-left">
-            <i class="fa fa-comment"></i>
+            <i class="anticon icon-message1"></i>
             ${contribution.children}        
         </div>
         <div class="float-right">
-            <i class="fa fa-dollar"></i>
-            ${getPostPayout(contribution)}        
+            $${getPostPayout(contribution)}        
         </div>
     </div>
 </div></div>`;
