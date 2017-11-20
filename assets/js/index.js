@@ -296,49 +296,64 @@ let app = new Vue({
             icon = '';
         switch (contribution.json_metadata.type) {
           case 'ideas':
+          case 'task-ideas':
             categoryLabel = 'Suggestion';
             icon = 'bulb1';
             break;
           case 'sub-projects':
+          case 'task-sub-projects':
             categoryLabel = 'Sub-Project';
             icon = 'copy1';
             break;
           case 'development':
+          case 'task-development':
             categoryLabel = 'Development';
             icon = 'codesquare';
             break;
           case 'bug-hunting':
+          case 'task-bug-hunting':
             categoryLabel = 'Bug Hunting';
             icon = 'eyeo';
             break;
           case 'translations':
+          case 'task-translations':
             categoryLabel = 'Translation';
             icon = 'flag';
             break;
           case 'graphics':
+          case 'task-graphics':
             categoryLabel = 'Graphics';
             icon = 'layout';
             break;
           case 'analysis':
+          case 'task-analysis':
             categoryLabel = 'Analysis';
             icon = 'dotchart';
             break;
           case 'social':
+          case 'task-social':
             categoryLabel = 'Visibility';
             icon = 'sharealt';
             break;
           case 'documentation':
+          case 'task-documentation':
             categoryLabel = 'Documentation';
             icon = 'book';
             break;
           case 'tutorials':
+          case 'task-tutorials':
             categoryLabel = 'Tutorials';
             icon = 'unknowfile1';
             break;
           case 'video-tutorials':
+          case 'task-video-tutorials':
             categoryLabel = 'Video-Tutorials';
             icon = 'videocamera';
             break;
+        }
+
+        if (contribution.json_metadata.type.indexOf('task-') !== -1) {
+          categoryLabel += ' Request'
         }
 
         return `<div class="contribution"><div class="contribution-inner">

@@ -295,31 +295,31 @@ a {
           border-top-right-radius: 4px;
           padding: 10px;
           color: #fff; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.ideas {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.ideas, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-ideas {
             background: #54d2a0; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.sub-projects {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.sub-projects, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-sub-projects {
             background: #a0db8e; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.development {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.development, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-development {
             background: #000; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.bug-hunting {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.bug-hunting, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-bug-hunting {
             background: #d9534f; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.translations {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.translations, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-translations {
             background: #ffce3d; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.graphics {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.graphics, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-graphics {
             background: #F6A623; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.analysis {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.analysis, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-analysis {
             background: #164265; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.social {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.social, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-social {
             background: #7ec2f3; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.documentation {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.documentation, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-documentation {
             color: #000;
             background: #fff;
             border-bottom: solid 1px #eee; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.tutorials {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.tutorials, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-tutorials {
             background: #782C51; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.video-tutorials {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.video-tutorials, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-video-tutorials {
             background: #EC3324; }
-          #projects #contributions-container .slick-list .contribution .contribution-inner .category.copywriting {
+          #projects #contributions-container .slick-list .contribution .contribution-inner .category.copywriting, #projects #contributions-container .slick-list .contribution .contribution-inner .category.task-copywriting {
             background: #008080; }
         #projects #contributions-container .slick-list .contribution .contribution-inner .user {
           padding: 10px; }
