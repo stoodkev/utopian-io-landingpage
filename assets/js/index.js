@@ -262,7 +262,7 @@ let app = new Vue({
                     }
                   },
                   {
-                    breakpoint: 480,
+                    breakpoint: 560,
                     settings: {
                       slidesToShow: 1
                     }

@@ -397,7 +397,6 @@ a {
 #topics .topic,
 #crowdsourcing .topic {
   position: relative;
-  margin-bottom: 40px;
   height: 100%; }
   #topics .topic .image,
   #crowdsourcing .topic .image {
@@ -439,9 +438,9 @@ body .carousel-control-next {
     transform: scale(1.1);
     color: #ccc; }
 body .carousel-control-prev {
-  left: -20px; }
+  left: -10px; }
 body .carousel-control-next {
-  right: -20px; }
+  right: -10px; }
 body .carousel .carousel-inner .card {
   border-radius: 50px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
@@ -704,8 +703,14 @@ footer {
     top: -70px;
     left: 50%;
     margin-left: -35px; } }
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 768px) {
   #projects #projects-container .slick-arrow {
     display: none !important; } }
+@media screen and (max-width: 560px) {
+  #projects #contributions-container .slick-arrow {
+    display: none !important; } }
+@media screen and (max-width: 400px) {
+  #moderators .header .mods-header {
+    font-size: 2rem; } }
 
 /*# sourceMappingURL=index.css.map */

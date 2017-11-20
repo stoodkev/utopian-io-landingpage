@@ -443,7 +443,6 @@ a
     position: relative
   .topic
     position: relative
-    margin-bottom: 40px
     height: 100%
 
     .image
@@ -482,9 +481,9 @@ body
       transform: scale(1.1)
       color: #ccc
   .carousel-control-prev
-    left: -20px
+    left: -10px
   .carousel-control-next
-    right: -20px
+    right: -10px
   .carousel
     .carousel-inner
       .card
@@ -780,8 +779,20 @@ footer
         left: 50%
         margin-left: -35px
 
-@media screen and (max-width: 576px)
+@media screen and (max-width: 768px)
   #projects
     #projects-container
       .slick-arrow
         display: none !important
+
+@media screen and (max-width: 560px)
+  #projects
+    #contributions-container
+      .slick-arrow
+        display: none !important
+
+@media screen and (max-width: 400px)
+  #moderators
+    .header
+      .mods-header
+        font-size: 2rem
