@@ -187,8 +187,8 @@ let app = new Vue({
       $.ajax({
         url: '/projects.json',
         success: (projects) => {
-          let projectsContainer = $('#projects-container');
-          let contributionsContainer = $('#contributions-container');
+          const projectsContainer = $('#projects-container');
+          const contributionsContainer = $('#contributions-container');
 
           // projects carousel
           projectsContainer.slick({
@@ -213,9 +213,11 @@ let app = new Vue({
             ]
           }).on('beforeChange', (e, slick, currentSlide, nextSlide) => {
             if (currentSlide !== nextSlide) {
-              new TweenMax.staggerTo('#contributions-container .slick-dots li', 1, {opacity: 0, top: -10, ease: Back.easeInOut}, .05);
-              new TweenMax.staggerTo('#contributions-container .contribution', 1, {opacity: 0, top: -50, ease: Back.easeInOut}, .05, () => {
-                $('#contributions-container').slick('slickRemove', null, null, true);
+              new TweenMax.to('#contributions-loader', 2, {opacity: .5});
+              new TweenMax.staggerTo('#contributions-container .slick-dots li', .5, {opacity: 0, top: -10, ease: Back.easeInOut}, .05);
+              new TweenMax.staggerTo('#contributions-container .contribution', .5, {opacity: 0, top: -50, ease: Back.easeInOut}, .05, () => {
+                contributionsContainer.slick('slickRemove', null, null, true);
+                contributionsContainer.find('.slick-dots').css('display', 'none');
                 $.ajax({
                   url: 'https://api.utopian.io/api/posts/?limit=10&section=project&sortBy=votes&platform=github&projectId=' + $(slick.$slides[nextSlide]).data('githubid'),
                   success: (data) => {
@@ -223,8 +225,10 @@ let app = new Vue({
                     for (let i = 0; i < contributions.length; i++) {
                       contributionsContainer.slick('slickAdd', getContributionHtml(contributions[i]));
                     }
-                    new TweenMax.staggerFrom('#contributions-container .slick-dots li', 1, {opacity: 0, top: -10, ease: Back.easeInOut}, .05);
-                    new TweenMax.staggerFrom('#contributions-container .contribution', 1, {opacity: 0, top: -50, ease: Back.easeInOut}, .05);
+                    contributionsContainer.find('.slick-dots').css('display', 'block');
+                    new TweenMax.to('#contributions-loader', .5, {opacity: 0});
+                    new TweenMax.staggerFrom('#contributions-container .slick-dots li', .5, {opacity: 0, top: -10, ease: Back.easeInOut}, .05);
+                    new TweenMax.staggerFrom('#contributions-container .contribution', .5, {opacity: 0, top: -50, ease: Back.easeInOut}, .05);
                   }
                 });
               });
@@ -237,7 +241,7 @@ let app = new Vue({
           }
 
           // animate projects
-          let projectsTween = new TweenMax.staggerFrom('#projects-container .project', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
+          let projectsTween = new TweenMax.staggerFrom('#projects-container .project', .5, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
           new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
             .setTween(projectsTween)
             .reverse(false)
@@ -275,13 +279,13 @@ let app = new Vue({
               }
 
               // contributions items
-              let contributionsTween = new TweenMax.staggerFrom('#contributions-container .contribution', 1, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
+              let contributionsTween = new TweenMax.staggerFrom('#contributions-container .contribution', .5, {opacity: 0, top: -50, ease: Back.easeInOut, delay: .3}, .05);
               new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
                 .setTween(contributionsTween)
                 .reverse(false)
                 .addTo(scrollController);
 
-              let contributionsDotsTween = new TweenMax.staggerFrom('#contributions-container .slick-dots li', 1, {opacity: 0, top: -10, ease: Back.easeInOut, delay: .3}, .05);
+              let contributionsDotsTween = new TweenMax.staggerFrom('#contributions-container .slick-dots li', .5, {opacity: 0, top: -10, ease: Back.easeInOut, delay: .3}, .05);
               new ScrollMagic.Scene({triggerElement: '#projects-trigger', offset: -100})
                 .setTween(contributionsDotsTween)
                 .reverse(false)
