@@ -297,53 +297,53 @@ let app = new Vue({
         switch (contribution.json_metadata.type) {
           case 'ideas':
             categoryLabel = 'Suggestion';
-            icon = 'bulb';
+            icon = 'bulb1';
             break;
           case 'sub-projects':
             categoryLabel = 'Sub-Project';
-            icon = 'bulb';
+            icon = 'copy1';
             break;
           case 'development':
             categoryLabel = 'Development';
-            icon = 'bulb';
+            icon = 'codesquare';
             break;
           case 'bug-hunting':
             categoryLabel = 'Bug Hunting';
-            icon = 'bulb';
+            icon = 'eyeo';
             break;
           case 'translations':
             categoryLabel = 'Translation';
-            icon = 'bulb';
+            icon = 'flag';
             break;
           case 'graphics':
             categoryLabel = 'Graphics';
-            icon = 'bulb';
+            icon = 'layout';
             break;
           case 'analysis':
             categoryLabel = 'Analysis';
-            icon = 'bulb';
+            icon = 'dotchart';
             break;
           case 'social':
             categoryLabel = 'Visibility';
-            icon = 'bulb';
+            icon = 'sharealt';
             break;
           case 'documentation':
             categoryLabel = 'Documentation';
-            icon = 'bulb';
+            icon = 'book';
             break;
           case 'tutorials':
             categoryLabel = 'Tutorials';
-            icon = 'bulb';
+            icon = 'unknowfile1';
             break;
           case 'video-tutorials':
             categoryLabel = 'Video-Tutorials';
-            icon = 'bulb';
+            icon = 'videocamera';
             break;
         }
 
         return `<div class="contribution"><div class="contribution-inner">
     <div class="category ${contribution.json_metadata.type}">
-        <i class="anticon"></i>
+        <i class="anticon icon-${icon}"></i>
         ${categoryLabel}
     </div>
     <div class="user clearfix">
