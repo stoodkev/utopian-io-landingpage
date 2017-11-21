@@ -228,7 +228,6 @@ a
     position: relative
 
   #projects-container
-    margin-bottom: 75px
     .slick-list
       padding: 50px 50px !important
       .slick-track
@@ -289,7 +288,7 @@ a
         font-family: 'FontAwesome'
         transition: opacity .3s ease
         position: absolute
-        top: 200px
+        top: 50%
       &:hover
         &:before
           opacity: 1
@@ -310,6 +309,146 @@ a
         &:before
           opacity: .5
 
+  #contributions-loader
+    position: relative
+    z-index: 25
+    text-align: center
+    padding: 100px
+    opacity: 0
+    .anticon
+      font-size: 3em
+
+  #contributions-container
+    position: relative
+    z-index: 50
+    min-height: 330px
+    margin-top: -250px
+    .slick-list
+      padding: 50px 50px 0 !important
+      .contribution
+        position: relative
+        margin: 10px
+        .contribution-inner
+          border-radius: 4px
+          box-shadow: 0 0 25px rgba(0, 0, 0, 0.1)
+          .category
+            border-top-left-radius: 4px
+            border-top-right-radius: 4px
+            padding: 10px
+            color: #fff
+            &.ideas,
+            &.task-ideas
+              background: #54d2a0
+            &.sub-projects,
+            &.task-sub-projects
+              background: #a0db8e
+            &.development,
+            &.task-development
+              background: #000
+            &.bug-hunting,
+            &.task-bug-hunting
+              background: #d9534f
+            &.translations,
+            &.task-translations
+              background: #ffce3d
+            &.graphics,
+            &.task-graphics
+              background: #F6A623
+            &.analysis,
+            &.task-analysis
+              background: #164265
+            &.social,
+            &.task-social
+              background: #7ec2f3
+            &.documentation,
+            &.task-documentation
+              color: #000
+              background: #fff
+              border-bottom: solid 1px #eee
+            &.tutorials,
+            &.task-tutorials
+              background: #782C51
+            &.video-tutorials,
+            &.task-video-tutorials
+              background: #EC3324
+            &.copywriting,
+            &.task-copywriting
+              background: #008080
+          .user
+            padding: 10px
+            .profile-image
+              border-radius: 50%
+              margin-right: 5px
+              float: left
+            .username
+              color: #4b7dc0
+              margin-right: 5px
+              float: left
+            .reputation
+              margin-right: 5px
+              margin-top: 2px
+              float: left
+              font-size: .8rem
+              background: #eee
+              border-radius: 4px
+              padding: 0 5px
+            .date
+              margin-right: 5px
+              margin-top: 2px
+              float: left
+              color: #ccc
+              font-size: .8rem
+          .title
+            padding: 0 10px
+            overflow: hidden
+            text-overflow: ellipsis
+            white-space: nowrap
+            a
+              color: #333
+              font-weight: bold
+              transition: color .3s ease
+              &:hover
+                color: #4b7dc0
+          .stats
+            padding: 10px
+            color: #99aab5
+            font-weight: bold
+
+    .slick-arrow
+      height: 100%
+      width: 25%
+      z-index: 10
+      &:before
+        color: #888
+        opacity: 0
+        font-size: 4rem
+        font-family: 'FontAwesome'
+        transition: opacity .3s ease
+        position: absolute
+        top: 50%
+      &:hover
+        &:before
+          opacity: 1
+      &.slick-prev
+        background-image: -webkit-linear-gradient(left, #fff 0%, transparent 100%)
+        left: 0
+        &:before
+          left: 25px
+          content: '\f104'
+      &.slick-next
+        background-image: -webkit-linear-gradient(left, transparent 0%, #fff 100%)
+        right: 0
+        &:before
+          right: 25px
+          content: '\f105'
+    .slick-dots
+      bottom: auto
+      top: 10px
+    &:hover
+      .slick-arrow
+        &:before
+          opacity: .5
+
 #topics,
 #crowdsourcing
   h3
@@ -318,7 +457,6 @@ a
     position: relative
   .topic
     position: relative
-    margin-bottom: 40px
     height: 100%
 
     .image
@@ -357,9 +495,9 @@ body
       transform: scale(1.1)
       color: #ccc
   .carousel-control-prev
-    left: -20px
+    left: -10px
   .carousel-control-next
-    right: -20px
+    right: -10px
   .carousel
     .carousel-inner
       .card
@@ -655,8 +793,20 @@ footer
         left: 50%
         margin-left: -35px
 
-@media screen and (max-width: 576px)
+@media screen and (max-width: 768px)
   #projects
     #projects-container
       .slick-arrow
         display: none !important
+
+@media screen and (max-width: 560px)
+  #projects
+    #contributions-container
+      .slick-arrow
+        display: none !important
+
+@media screen and (max-width: 400px)
+  #moderators
+    .header
+      .mods-header
+        font-size: 2rem
