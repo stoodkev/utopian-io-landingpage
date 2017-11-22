@@ -185,7 +185,7 @@ let app = new Vue({
     },
     getProjects: function () {
       $.ajax({
-        url: '/projects.json',
+        url: 'projects.json',
         success: (projects) => {
           const projectsContainer = $('#projects-container');
           const contributionsContainer = $('#contributions-container');
