@@ -117,6 +117,7 @@ var app = new Vue({
   el: '#app',
   data: {
     lang: 'en',
+    langswitch: true,
     messages: {},
     rewards: {
       authors: 0,

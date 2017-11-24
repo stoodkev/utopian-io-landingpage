@@ -49,16 +49,16 @@
                     </li>
                 </ul>
                 <div class="text-right">
-                    <!--<div class="dropdown" id="language">-->
-                        <!--<a class="dropdown-toggle" data-toggle="dropdown">-->
-                            <!--{{ lang }} <i class="fa fa-angle-down"></i>-->
-                        <!--</a>-->
-                        <!--<div class="dropdown-menu">-->
-                            <!--<a class="dropdown-item" @click="getMessages('en')">en</a>-->
-                            <!--<a class="dropdown-item" @click="getMessages('de')">de</a>-->
-                            <!--<a class="dropdown-item" @click="getMessages('en')">es</a>-->
-                        <!--</div>-->
-                    <!--</div>-->
+                    <div class="dropdown" id="language" v-if="langswitch">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            {{ lang }} <i class="fa fa-angle-down"></i>
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" @click="getMessages('en')">en</a>
+                            <a class="dropdown-item" @click="getMessages('de')">de</a>
+                            <a class="dropdown-item" @click="getMessages('en')">es</a>
+                        </div>
+                    </div>
                     <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
                         Sign Up
                     </a>
@@ -110,7 +110,7 @@
 
     <div id="projects-trigger"></div>
     <div id="projects">
-        <h3 class="text-center mb-0" id="projects-header">Choose a project...</h3>
+        <h3 class="text-center mb-0" id="projects-header" v-html="trans('messages.projects.headline')"></h3>
 
         <div id="projects-container"></div>
         <div id="contributions-loader"><i class="anticon icon-loading1 fa fa-spin"></i></div>
@@ -122,15 +122,15 @@
     </div>
 
     <div class="container mt-5" id="topics">
-        <h3 class="text-center mb-5" id="topics-header">...and contribute!</h3>
+        <h3 class="text-center mb-5" id="topics-header" v-html="trans('messages.contribute.headline')"></h3>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/suggestion.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Suggestions</h4>
-                            <p class="card-text text-center">Everything starts with an idea. Share your ideas or minor feature requests and help improve a project.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.suggestions.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.suggestions.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share an idea</a></div>-->
                         </div>
                     </div>
@@ -139,8 +139,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/subproject.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Sub-Projects</h4>
-                            <p class="card-text text-center">Share new and more elaborate features or concepts that you have developed for a project.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.subprojects.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.subprojects.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share a sub-project</a></div>-->
                         </div>
                     </div>
@@ -149,8 +149,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/development.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Development</h4>
-                            <p class="card-text text-center">If you've written code or created pull requests, share your work with the Utopian community.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.development.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.development.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share your work</a></div>-->
                         </div>
                     </div>
@@ -159,8 +159,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/bughunting.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Bug Hunting</h4>
-                            <p class="card-text text-center">Help developers find and fix problems with their software by sharing detailed bug reports.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.bughunting.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.bughunting.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Go hunting</a></div>-->
                         </div>
                     </div>
@@ -169,8 +169,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/translation.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Translation</h4>
-                            <p class="card-text text-center">Help people use software in other languages by translating text or documentation via <a href="https://crowdin.com/" target="_blank">Crowdin</a> and other tools.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.translation.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.translation.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Start translating</a></div>-->
                         </div>
                     </div>
@@ -179,8 +179,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/graphics.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Graphics</h4>
-                            <p class="card-text text-center">Share original logos, icons, backgrounds and other graphics that you have designed for a project.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.graphics.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.graphics.text')"></p>
                            <!-- <div class="button"><a href="#" class="btn btn-light">Share your designs</a></div>-->
                         </div>
                     </div>
@@ -189,8 +189,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/documentation.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Documentation</h4>
-                            <p class="card-text text-center">If you have authored documentation for a project (in any language), you can share it with the community.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.documentation.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.documentation.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share documentation</a></div>-->
                         </div>
                     </div>
@@ -199,8 +199,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/analysis.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Analysis</h4>
-                            <p class="card-text text-center">Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.analysis.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.analysis.text')"></p>
                            <!-- <div class="button"><a href="#" class="btn btn-light">Share your analyses</a></div>-->
                         </div>
                     </div>
@@ -209,8 +209,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/visibility.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Visibility</h4>
-                            <p class="card-text text-center">Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.visibility.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.visibility.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share what you did</a></div>-->
                         </div>
                     </div>
@@ -219,8 +219,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/tutorials.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Tutorials</h4>
-                            <p class="card-text text-center">Write informative tutorials and help other people to use Open Source products.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.tutorials.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.tutorials.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share a tutorial</a></div>-->
                         </div>
                     </div>
@@ -229,8 +229,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/videotutorials.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Video Tutorials</h4>
-                            <p class="card-text text-center">Create how-to videos for an Open Source product and help people learn how to use it.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.videotutorials.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.videotutorials.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share a video tutorial</a></div>-->
                         </div>
                     </div>
@@ -239,8 +239,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/copywriting.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Copywriting</h4>
-                            <p class="card-text text-center">Write engaging and informative copy for Open Source projects, and improve the strength of their brand.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.contribute.copywriting.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.contribute.copywriting.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Share your copywriting</a></div>-->
                         </div>
                     </div>
@@ -250,18 +250,16 @@
     </div>
 
     <div class="container mt-5" id="crowdsourcing">
-        <h3 class="text-center mb-5" id="crowdsourcing-header">Utopian for Project Owners</h3>
-        <p class="lead mb-4" id="crowdsourcing-text">
-            With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.
-        </p>
+        <h3 class="text-center mb-5" id="crowdsourcing-header" v-html="trans('messages.crowdsourcing.headline')"></h3>
+        <p class="lead mb-4" id="crowdsourcing-text" v-html="trans('messages.crowdsourcing.text')"></p>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/suggestion.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Thinkers</h4>
-                            <p class="card-text text-center">Get the attention of great thinkers on your project to develop ideas and solve problems.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.thinkers.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.thinkers.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Find great thinkers</a></div>-->
                         </div>
                     </div>
@@ -270,8 +268,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/development.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Developers</h4>
-                            <p class="card-text text-center">Call on talented developers to write code or fix bugs.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.developers.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.developers.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Find developers</a></div>-->
                         </div>
                     </div>
@@ -280,8 +278,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/bughunting.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Bug Hunters</h4>
-                            <p class="card-text text-center">Encourage users to report problems or invite them to try out new features you're developing.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.bughunters.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.bughunters.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Find bug hunters</a></div>-->
                         </div>
                     </div>
@@ -290,8 +288,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/translation.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Translators</h4>
-                            <p class="card-text text-center">Reach more people around the world by assigning translators to make your project available in multiple languages.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.translators.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.translators.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Find translators</a></div>-->
                         </div>
                     </div>
@@ -300,8 +298,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/graphics.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Designers</h4>
-                            <p class="card-text text-center">Have talented designers create unique graphics for your project or brand.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.designers.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.designers.text')"></p>
                            <!-- <div class="button"><a href="#" class="btn btn-light">Find designers</a></div>-->
                         </div>
                     </div>
@@ -310,8 +308,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/documentation.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Technical Writers</h4>
-                            <p class="card-text text-center">Get comprehensive documentation created for your project that properly informs your users and other stakeholders.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.writers.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.writers.text')"></p>
                            <!-- <div class="button"><a href="#" class="btn btn-light">Find technical writers</a></div>-->
                         </div>
                     </div>
@@ -320,8 +318,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/analysis.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Data Analysts</h4>
-                            <p class="card-text text-center">Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.analysts.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.analysts.text')"></p>
                            <!-- <div class="button"><a href="#" class="btn btn-light">Find data analysts</a></div>-->
                         </div>
                     </div>
@@ -330,8 +328,8 @@
                     <div class="topic">
                         <div class="card-body">
                             <div class="image" style="background-image: url('assets/img/icons/visibility.png')"></div>
-                            <h4 class="card-title text-center text-uppercase">Influencers</h4>
-                            <p class="card-text text-center">Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves.</p>
+                            <h4 class="card-title text-center text-uppercase" v-html="trans('messages.crowdsourcing.influencers.headline')"></h4>
+                            <p class="card-text text-center" v-html="trans('messages.crowdsourcing.influencers.text')"></p>
                             <!--<div class="button"><a href="#" class="btn btn-light">Find influencers</a></div>-->
                         </div>
                     </div>
@@ -342,7 +340,7 @@
 
     <div id="rewards">
         <div class="header">
-            <h2><span>Rewards</span></h2>
+            <h2><span>{{ trans('messages.nav.rewards') }}</span></h2>
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-3">
@@ -351,7 +349,7 @@
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.authors == 0"></i>
                                 <span v-if="rewards.authors > 0">${{ rewards.authors | currency }}</span>
                             </h3>
-                            <p class="caption">Contributor Rewards</p>
+                            <p class="caption" v-html="trans('messages.rewards.contributor_rewards')"></p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
@@ -360,7 +358,7 @@
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.curators == 0"></i>
                                 <span v-if="rewards.curators > 0">${{ rewards.curators | currency }}</span>
                             </h3>
-                            <p class="caption">Curator Rewards</p>
+                            <p class="caption" v-html="trans('messages.rewards.curator_rewards')"></p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
@@ -369,7 +367,7 @@
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.pending == 0"></i>
                                 <span v-if="rewards.pending > 0">${{ rewards.pending | currency }}</span>
                             </h3>
-                            <p class="caption">Pending Rewards</p>
+                            <p class="caption" v-html="trans('messages.rewards.pending_rewards')"></p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
@@ -378,7 +376,7 @@
                                 <i class="fa fa-spin fa-spinner" v-if="rewards.total == 0"></i>
                                 <span v-if="rewards.total > 0">${{ rewards.total | currency }}</span>
                             </h3>
-                            <p class="caption text-uppercase font-weight-bold">Total Generated</p>
+                            <p class="caption text-uppercase font-weight-bold" v-html="trans('messages.rewards.total_generated')"></p>
                         </div>
                     </div>
                 </div>
@@ -435,22 +433,14 @@
                         </svg>
                     </div>
                     <div class="mt-5 text-center">
-                        <a href="https://steem.io" class="btn btn-light" target="_blank">Learn more about Steem</a><br>
+                        <a href="https://steem.io" class="btn btn-light" target="_blank" v-html="trans('messages.rewards.steem.button')"></a><br>
                         <br>
                         <!--<a href="https://utopian.io/sponsors" class="btn btn-light" target="_blank">Delegate Steem Power</a>-->
                     </div>
                 </div>
                 <div class="col order-1 order-md-12">
-                    <h1 class="text-uppercase font-weight-bold mb-4">Who pays the rewards?</h1>
-                    <p class="lead">
-                        To pay the rewards, Utopian.io uses the <a href="https://steem.io/">Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called "Proof-of-Brain," which encourages people to create and curate quality content.<br>
-                        <br>
-                        In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br>
-                        <br>
-                        The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br>
-                        <br>
-                        <a href="#faq">Check the FAQs</a> for more information.
-                    </p>
+                    <h1 class="text-uppercase font-weight-bold mb-4" v-html="trans('messages.rewards.steem.headline')"></h1>
+                    <p class="lead" v-html="trans('messages.rewards.steem.text')"></p>
                 </div>
             </div>
         </div>
@@ -458,31 +448,31 @@
 
     <div id="rules">
         <div class="header">
-            <h2><span>Rules</span></h2>
+            <h2><span>{{ trans('messages.nav.rules') }}</span></h2>
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/check-rules.svg"/></h3>
-                            <p class="caption">Abide by<br>our rules!</p>
+                            <p class="caption" v-html="trans('messages.rules.step1')"></p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/review.svg"/></h3>
-                            <p class="caption">Get reviewed by our<br>moderators!</p>
+                            <p class="caption" v-html="trans('messages.rules.step2')"></p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/community-vote.png"/></h3>
-                            <p class="caption">Get upvoted by Utopian.io and the community!</p>
+                            <p class="caption" v-html="trans('messages.rules.step3')"></p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="box mb-4">
                             <h3><img src="assets/img/wallet.svg"/></h3>
-                            <p class="caption">Get paid<br>after 7 days!</p>
+                            <p class="caption" v-html="trans('messages.rules.step4')"></p>
                         </div>
                     </div>
                 </div>
@@ -491,156 +481,154 @@
         <div class="container mt-5 mb-5" id="topic-rules">
             <div class="row">
                 <div class="col">
-                    <p class="lead">
-                        To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.
-                    </p>
+                    <p class="lead" v-html="trans('messages.rules.text')"></p>
                     <div id="carouselRulesControls" class="carousel slide mt-5" data-interval="false">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <h3 class="text-center">Suggestion Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.suggestions.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Suggestions are minor features/enhancements that you would like to have in an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Suggestions must provide sufficient details for the requested features to be actually built.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Images, screenshots, links and examples are always welcome in this category.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never write about suggestions you have already shared before or suggestions already shared by someone else.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.suggestions.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.suggestions.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.suggestions.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.suggestions.rule4')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Sub-Project Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.subprojects.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> A Sub-Project is a set of new, unseen features having a great impact on the project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Sub-Projects must provide comprehensive details of the features to be actually built.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Images, screenshots, links, flows, mockups and examples are always mandatory in this category.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> In this category, quality of the content is the main factor for being accepted in Utopian.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never write about projects you have already shared before or projects already shared by someone else.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.subprojects.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.subprojects.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.subprojects.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.subprojects.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.subprojects.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.subprojects.rule6')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Development Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.development.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> In this category, you can only write if you have developed or contributed code to the development of a project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must provide links to the branches, forks, gists or pull requests.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Images, screenshots, links and examples are not necessary but preferred.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never write about code contributions you have already shared before.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.development.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.development.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.development.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.development.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.development.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.development.rule6')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Bug Hunting Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.bughunting.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Only use this category to report bugs you have found in an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must provide all possible details required to reproduce the bug.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must include, for example: browsers used, device types, operating systems and similar details.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never report bugs that have already been shared before, by you or someone else.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.bughunting.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.bughunting.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.bughunting.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.bughunting.rule4')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Translation Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.translation.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Use this category only for translations you have authored or updated for an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must either include your entire translated text in the post or include public links to the full versions.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Include as much detail as possible, to check the translations and the tools you have used to translate.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must be the author of the translation and provide a way to verify your work.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never submit translations that have already been shared, by you or someone else.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule7')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.translation.rule8')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Graphics Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.graphics.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must include samples of your creations directly in your post and public links to the complete designs.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must give as much detail as possible to verify the work you did.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must provide the editable source files (such as .psd .ai .eps .svg .cdr).</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never post about graphics that have been shared before, by you or someone else.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.graphics.rule7')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Analysis Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.analysis.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> This category is only for analysis that you have prepared for an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must include detailed results and explain the reasons behind them.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Results of the analysis, in the form of charts or tables, are mandatory in this category.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never submit analysis that has been shared before, by you or someone else.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.analysis.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.analysis.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.analysis.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.analysis.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.analysis.rule5')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Visibility Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.visibility.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must provide links, images or videos with proof of your efforts, and also share the results.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never write about visibility efforts you have already shared before.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.visibility.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.visibility.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.visibility.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.visibility.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.visibility.rule5')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Documentation Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.documentation.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Submit to this category only when you're working on the Official Documentation of an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If you are not posting the complete content you authored, then you must provide public links to it.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must provide sufficient proof of the work you've done.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If applicable, link to pull requests you have submitted on GitHub that contain your work.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never submit documentation work that you have already shared in the past.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule7')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.documentation.rule8')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Tutorial Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.tutorials.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Machine translated tutorials will be rejected.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> This category is only for providing tutorials for an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Tutorials can be in any language.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> A text intro in English is always mandatory, at the top of the post.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If your tutorial also contains a video, you should use the Video Tutorials category instead.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must be the author of the tutorial.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If you are not posting the entire tutorial here, you must provide public links to full versions of it.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never post tutorials you have already shared before on the Steem blockchain in general.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule7')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.tutorials.rule8')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Video Tutorial Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.videotutorials.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Video Tutorials using machine voice will be rejected.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> This category is only for providing video tutorials for an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Video Tutorials can be in any language.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> A text intro in English is always mandatory, at the top of the post.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must be the author of the video tutorial.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must embed the video directly in the post. At the moment, YouTube videos are mandatory.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never post video tutorials you have already shared before on the Steem blockchain in general.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.videotutorials.rule7')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Copywriting Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.copywriting.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Use this category only to show copywriting work that you have completed for an Open Source project.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Copywriting can be in any language.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> A text intro in English is always mandatory, at the top of the post.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must be the author.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> If applicable, link to pull requests you have submitted on GitHub that contain your work.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never post copywriting work that you have already shared before.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.copywriting.rule7')"></span></li>
                                 </ul>
                             </div>
                             <div class="carousel-item">
-                                <h3 class="text-center">Blog Post Rules</h3>
+                                <h3 class="text-center" v-html="trans('messages.rules.categories.blog.headline')"></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href="https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter">Example of a good format</a>.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Blog posts must provide detailed content and overviews related to the open-source projects.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Images, screenshots, links and examples are not necessary but preferred.</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).</li>
-                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> Never write blog posts you have already shared before.</li>
-                                    <li class="list-group-item"><i class="fa fa-info-circle"></i> We will be especially stringent for this category as we have seen abuse here in the past.</li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.blog.rule1')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.blog.rule2')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.blog.rule3')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.blog.rule4')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.blog.rule5')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-exclamation"></i> <span v-html="trans('messages.rules.categories.blog.rule6')"></span></li>
+                                    <li class="list-group-item"><i class="fa fa-info-circle"></i> <span v-html="trans('messages.rules.categories.blog.rule7')"></span></li>
                                 </ul>
                             </div>
                         </div>
@@ -664,7 +652,7 @@
 
     <div id="moderators">
         <div class="header">
-            <h2><span>Moderators</span></h2>
+            <h2><span>{{ trans('messages.nav.moderators') }}</span></h2>
             <div class="container mt-5">
                 <div class="row">
                     <div class="col-12 col-lg-6 col-xl-3">
@@ -681,15 +669,15 @@
                                             </a>
                                         </h4>
                                         <div class="container caption">
-                                            Rewards
+                                            <span v-html="trans('messages.moderators.rewards')"></span>
                                             <div class="row">
                                                 <div class="col-6">
                                                     <div class="payout">${{ moderator.should_receive_rewards | currency }}</div>
-                                                    <small>Pending</small>
+                                                    <small v-html="trans('messages.moderators.pending')"></small>
                                                 </div>
                                                 <div class="col-6">
                                                     <div class="payout">${{ moderator.total_paid_rewards | currency }}</div>
-                                                    <small>Previous</small>
+                                                    <small v-html="trans('messages.moderators.previous')"></small>
                                                 </div>
                                             </div>
                                         </div>
@@ -718,17 +706,17 @@
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 col-xl-9 text-center">
-                        <h3 class="mt-5 mt-2 font-weight-bold text-uppercase mods-header">Meet our moderators</h3>
-                        <p class="lead">On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.</p>
+                        <h3 class="mt-5 mt-2 font-weight-bold text-uppercase mods-header" v-html="trans('messages.moderators.meet')"></h3>
+                        <p class="lead" v-html="trans('messages.moderators.text')"></p>
                         <div class="container">
                             <div class="row">
                                 <div class="col col-6">
                                     <h3 class="mb-2">${{ rewards.moderators.pending | currency }}</h3>
-                                    <p class="lead">Pending Payout</p>
+                                    <p class="lead" v-html="trans('messages.moderators.pending_payout')"></p>
                                 </div>
                                 <div class="col col-6">
                                     <h3 class="mb-2">${{ rewards.moderators.previous | currency }}</h3>
-                                    <p class="lead">Previous Payout</p>
+                                    <p class="lead" v-html="trans('messages.moderators.previous_payout')"></p>
                                 </div>
                             </div>
                         </div>
@@ -737,112 +725,78 @@
             </div>
         </div>
         <div class="container mt-5">
-            <p class="lead">
-                5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions.
-            </p>
+            <p class="lead" v-html="trans('messages.moderators.text2')"></p>
         </div>
     </div>
 
     <div id="faq">
         <div class="header-small">
-            <h2><span>FAQ</span></h2>
+            <h2><span>{{ trans('messages.nav.faq') }}</span></h2>
         </div>
         <div class="container">
             <div id="faq-accordion" role="tablist">
                 <div class="card">
                     <div class="card-header" role="tab" id="headingOne">
                         <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseOne">
-                                1. What is Utopian?
-                            </a>
+                            <a class="list-item" data-toggle="collapse" href="#collapseOne" v-html="trans('messages.faq.q1.headline')"></a>
                         </h5>
                     </div>
 
                     <div id="collapseOne" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body">
-                            <p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p>
-                            <p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>
-                        </div>
+                        <div class="card-body" v-html="trans('messages.faq.q1.text')"></div>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header" role="tab" id="headingTwo">
                         <h5 class="mb-0">
-                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseTwo">
-                                2. What is Steem?
-                            </a>
+                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseTwo" v-html="trans('messages.faq.q2.headline')"></a>
                         </h5>
                     </div>
                     <div id="collapseTwo" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body">
-                            <p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p>
-                            <p><a href="https://steem.io">Learn more about Steem</a></p>
-
-                        </div>
+                        <div class="card-body" v-html="trans('messages.faq.q2.text')"></div>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header" role="tab" id="headingThree">
                         <h5 class="mb-0">
-                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseThree">
-                                3. Where do the rewards come from?
-                            </a>
+                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseThree" v-html="trans('messages.faq.q3.headline')"></a>
                         </h5>
                     </div>
                     <div id="collapseThree" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body">
-                            <p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development "upvote" or "like" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p>
-                            <p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p>
-                            <p><a href="https://steem.io">Learn more about the Steem ecosystem</a></p>
-                        </div>
+                        <div class="card-body" v-html="trans('messages.faq.q3.text')"></div>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header" role="tab" id="headingFour">
                         <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseFour">
-                                4. Where do I find my wallet?
-                            </a>
+                            <a class="list-item" data-toggle="collapse" href="#collapseFour" v-html="trans('messages.faq.q4.headline')"></a>
                         </h5>
                     </div>
 
                     <div id="collapseFour" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body">
-                            <p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p>
-                            <p>To see your account balance and to have access to your funds, you will need to go to <a href="https://steemit.com">steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>
-                        </div>
+                        <div class="card-body" v-html="trans('messages.faq.q4.text')"></div>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header" role="tab" id="headingFive">
                         <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseFive">
-                                5. How do I cash in my STEEM?
-                            </a>
+                            <a class="list-item" data-toggle="collapse" href="#collapseFive" v-html="trans('messages.faq.q5.headline')"></a>
                         </h5>
                     </div>
 
                     <div id="collapseFive" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body">
-                            <p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href="https://poloniex.com/">Poloniex</a> or <a href="https://bittrex.com/">Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p>
-                            <p>Or you can use <a href="https://blocktrades.us/">Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>
-                        </div>
+                        <div class="card-body" v-html="trans('messages.faq.q5.text')"></div>
                     </div>
                 </div>
                 <div class="card">
                     <div class="card-header" role="tab" id="headingSix">
                         <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseSix">
-                                6. How do I earn more rewards?
-                            </a>
+                            <a class="list-item" data-toggle="collapse" href="#collapseSix" v-html="trans('messages.faq.q6.headline')"></a>
                         </h5>
                     </div>
 
                     <div id="collapseSix" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body">
-                            <p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>
-
-                        </div>
+                        <div class="card-body" v-html="trans('messages.faq.q6.text')"></div>
                     </div>
                 </div>
             </div>
@@ -851,16 +805,14 @@
 
     <div id="blog">
         <div class="header-small">
-            <h2><span>Blog</span></h2>
+            <h2><span>{{ trans('messages.nav.blog') }}</span></h2>
         </div>
         <div class="container">
             <div id="utopian-steemit-blog">
                 <div class="text-center"><i class="fa fa-2x fa-spin fa-spinner text-muted"></i></div>
             </div>
             <div class="text-center my-5">
-                <a href="https://steemit.com/@utopian-io" class="btn btn-primary">
-                    read more on steemit.com
-                </a>
+                <a href="https://steemit.com/@utopian-io" class="btn btn-primary" v-html="trans('messages.blog.readmore')"></a>
             </div>
         </div>
     </div>
