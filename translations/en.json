@@ -4,7 +4,9 @@
     "rules": "Rules",
     "moderators": "Moderators",
     "faq": "FAQ",
-    "blog": "Blog"
+    "blog": "Blog",
+    "signup": "Sign Up",
+    "login": "Log In"
   },
   "header": {
     "text1": "Utopian.io",
