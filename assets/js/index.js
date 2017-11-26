@@ -147,6 +147,7 @@ let app = new Vue({
   data: {
     lang: 'en',
     langswitch: true,
+    languages: ['en', 'cn', 'es', 'de'],
     messages: {},
     rewards: {
       authors: 0,

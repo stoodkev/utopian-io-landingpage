@@ -54,9 +54,7 @@
                             {{ lang }} <i class="fa fa-angle-down"></i>
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" @click="getMessages('en')">en</a>
-                            <a class="dropdown-item" @click="getMessages('de')">de</a>
-                            <a class="dropdown-item" @click="getMessages('en')">es</a>
+                            <a class="dropdown-item" @click="getMessages(lang)" v-for="lang in languages">{{ lang }}</a>
                         </div>
                     </div>
                     <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
