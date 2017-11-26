@@ -1,111 +1,111 @@
 {
   "nav": {
-    "rewards": "奖励",
-    "rules": "规则",
-    "moderators": "管理者",
-    "faq": "常见问题",
-    "blog": "博客",
+    "rewards": "Belønninger",
+    "rules": "Regler",
+    "moderators": "Moderatorer",
+    "faq": "FAQ",
+    "blog": "Blogg",
     "signup": "Sign Up",
     "login": "Log In"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "开源经济",
-    "text3": "获取奖励，只需向你<br>喜爱的开源项目贡献力量！"
+    "text2": "Open Source-økonomi",
+    "text3": "Få belønninger for å bidra til<br>yndlings-Open Source-prosjektene dine!"
   },
-  "intro": "我们的现代世界是由 <a href='https://en.wikipedia.org/wiki/Open-source_model'> 开源 </a> 软件驱动的。它运行在每台计算机, 每一个智能手机或平板电脑和所有你喜欢的应用程序将不会运行没有它。它主要是由志愿者和世界各地的爱好者开发的, 那些极客在你的朋友之间, 爱他们的电脑, 而不是和你在一起。开源软件是免费和共同的财产, 并允许每个人使用它, 并改变它的需要。它依赖于集体智慧而不是上级强加的标准。所有这些工作都是免费做的!然而, 只要达到一定的质量标准, 乌托邦就会奖励那些为这些项目做出贡献的人。它依赖于集体智慧，而不是上级强加的标准。所有的工作都是免费做的！然而，只要达到一定的标准，Utopian仍会奖励那些为这些项目做出贡献的人们。",
+  "intro": "Vår moderne verden blir drevet av <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a>-programvare. Det blir brukt av alle datamaskiner, telefoner og nettbrett, og ingen av yndlingsappene dine ville fungert uten det. Det er for det meste kun frivillige og spesielt interesserte som er med på å utvikle det, de nerdene blant vennene dine som elsker datamaskinene sine mer enn å henge med deg. Open Source-programvare er gratis, felles eiendom og lar hvem som helst bruke det og endre det etter sine egne behov. Det har samlet kunnskap som grunnlag i stedet for standarder innsatt av overordnede. Alt dette arbeidet blir gjort helt gratis! Utopian, derimot, gir alle som bidrar til slike prosjekter belønninger, så lenge en viss kvalitet er nådd.",
   "octocat": {
-    "hi": "你好！我是 Octocat！",
-    "text": "我在 GitHub 工作，是吉祥物！这是一个非常好的地方。我们是一个世界各地的爱好者和志愿者团体，共同致力于数以千计的绝酷项目。<b> Utopian. io </b> 奖励你为开源项目做出的贡献，如修复 bug、翻译文本、编写文档或共享好的想法等等。",
-    "visit": "访问 GitHub.com！"
+    "hi": "Hei! Jeg er Octocat!",
+    "text": "Jeg jobber for GitHub, som en maskot! Det er et kjempeflott sted å være. Vi er et verdensomspennende fellesskap av entusiaster og frivillige som jobber sammen på tusenvis av kule prosjekter. <b>Utopian.io</b> belønner deg for å bidra til Open Source-prosjekter, som å fikse programfeil, oversette tekster, skrive dokumentasjoner, dele gode ideer og mer.",
+    "visit": "Besøk GitHub.com!"
   },
   "projects": {
-    "headline": "选择一个项目…"
+    "headline": "Velg et prosjekt..."
   },
   "contribute": {
-    "headline": "…做出贡献！",
+    "headline": "...og bidra!",
     "suggestions": {
-      "headline": "建议",
-      "text": "一切从一个想法开始。分享你的想法或功能请求来帮助改进项目。"
+      "headline": "Forslag",
+      "text": "Alt begynner med en idé. Del ideene dine eller små forespørsler og hjelp med å forbedre et prosjekt."
     },
     "subprojects": {
-      "headline": "子项目",
-      "text": "分享你开发的项目中新的、更精巧的功能或概念。"
+      "headline": "Miniprosjekter",
+      "text": "Del nye og mer detaljerte funksjoner eller konsepter som du har utviklet for et prosjekt."
     },
     "development": {
-      "headline": "开发",
-      "text": "如果你编写了代码并创建了推送请求（PR），请与 Utopian 社区分享您的工作。"
+      "headline": "Utvikling",
+      "text": "Hvis du har skrevet en kode og skapt trekningsforespørsler, del arbeidet ditt med Utopian-fellesskapet."
     },
     "bughunting": {
-      "headline": "Bug 除错",
-      "text": "通过分享详细的 bug 报告，帮助开发人员找到并修复他们的软件问题。"
+      "headline": "Programfeil",
+      "text": "Hjelp utviklere med å finne og fikse problemer med programvarene deres ved å dele detaljerte feilrapporter."
     },
     "translation": {
-      "headline": "翻译",
-      "text": "通过 <a href='https://crowdin.com/' target='_blank'> crowdin </a> 和其他工具翻译文本或文档，帮助人们通过其他语言使用软件。"
+      "headline": "Oversettelse",
+      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
-      "headline": "图像",
-      "text": "分享你为项目设计的原始徽标、图标、背景和其他图形。"
+      "headline": "Grafikk",
+      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
     },
     "documentation": {
-      "headline": "文档",
-      "text": "如果你为某个项目（以任何语言）编写过文档，则可以与社区分享。"
+      "headline": "Dokumentasjon",
+      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
     },
     "analysis": {
-      "headline": "分析",
-      "text": "也许你已经分析了某个特定项目的数据，并从中提取了有用的信息。你也可以和社区分享。"
+      "headline": "Analyse",
+      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
-      "headline": "可视化",
-      "text": "市场营销的努力也可以通过 Utopian 获得回报。告诉社区你为推广开源项目所做的工作。"
+      "headline": "Synlighet",
+      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
     },
     "tutorials": {
-      "headline": "教程",
-      "text": "编写富含信息的教程，帮助他人使用开源产品。"
+      "headline": "Opplæring",
+      "text": "Write informative tutorials and help other people to use Open Source products."
     },
     "videotutorials": {
-      "headline": "视频教程",
-      "text": "为开源产品创建 how-to 视频，并帮助人们学习如何使用它。"
+      "headline": "Videoopplæring",
+      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
     },
     "copywriting": {
-      "headline": "文案",
-      "text": "为开源项目编写引人入胜的文案，并提高其品牌的实力。"
+      "headline": "Tekstforfatting",
+      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
     }
   },
   "crowdsourcing": {
-    "headline": "项目所有者的 Utopian",
+    "headline": "Utopian for prosjekteiere",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
-      "headline": "Thinkers",
+      "headline": "Tenkere",
       "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
     },
     "developers": {
-      "headline": "Developers",
+      "headline": "Utviklere",
       "text": "Call on talented developers to write code or fix bugs."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
+      "headline": "Programfeiljegere",
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "Oversettere",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
-      "headline": "Designers",
+      "headline": "Designere",
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
-      "headline": "Technical Writers",
+      "headline": "Tekniske forfattere",
       "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
     },
     "analysts": {
-      "headline": "Data Analysts",
+      "headline": "Dataanalytikere",
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "Påvirkere",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },

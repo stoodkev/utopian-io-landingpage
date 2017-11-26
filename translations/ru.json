@@ -1,99 +1,99 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
+    "rewards": "Вознаграждения",
+    "rules": "Правила",
+    "moderators": "Модераторы",
     "faq": "FAQ",
-    "blog": "Blog",
+    "blog": "Блог",
     "signup": "Sign Up",
     "login": "Log In"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "Экономика с Открытым Исходным Кодом",
+    "text3": "Зарабатывайте вознаграждения, помогая вашим <br>любимым проектам с открытым исходным кодом!"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "Наш современный мир управляется программным обеспечением <a href='https://en.wikipedia.org/wiki/Open-source_model'> с открытым исходным кодом </a>. Оно работает на каждом компьютере, на каждом смартфоне или планшете, и все ваши любимые приложения не будут работать без него. Оно разрабатывается в основном волонтерами и любителями со всего мира, теми технарями среди ваших друзей, которые любят свои компьютеры больше, чем тусовки с вами. Программное обеспечение с открытым исходным кодом является бесплатной общей собственностью, и позволяет всем использовать его и изменять на свое усмотрение. Оно полагается на коллективный интеллект вместо стандартов, установленных начальством. Вся эта работа выполняется бесплатно! Однако Utopian вознаграждает каждого, кто участвует в таких проектах, до тех пор, пока соблюдается определенный уровень качества.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "Привет! Я Octocat!",
+    "text": "Я работаю на GitHub, как талисман! Это очень хорошее место. Мы являемся мировым сообществом энтузиастов и добровольцев, работающих вместе над тысячами интересных проектов. <b>Utopian.io</b> вознаграждает вас за внесение вкладов в проекты с открытым исходным кодом, такие как исправление ошибок, перевод текстов, написание документации или обмен хорошими идеями и многое другое.",
+    "visit": "Посетите GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Выберите проект..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...и предложите свой вклад!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "Предложения",
+      "text": "Все начинается с идеи. Поделитесь своими идеями или незначительными пожеланиями и помогите улучшить проект."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "Суб-проекты",
+      "text": "Расскажите о новых, более сложных функциях или концепциях, которые вы разработали для проекта."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "Разработка",
+      "text": "Если вы написали код и создали запрос на его присоединение к проекту, поделитесь своей работой с Utopian сообществом."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "Поиск ошибок",
+      "text": "Помогайте разработчикам находить и устранять неполадки в их программном обеспечении путем публикации подробных отчётов об ошибках."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "Перевод",
+      "text": "Помогайте людям использовать программное обеспечение на других языках путем перевода текста или документации через <a href='https://crowdin.com/' target='_blank'> Crowdin</a> и другие инструменты."
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "Дизайн",
+      "text": "Делитесь оригинальными логотипами, иконками, фонами и прочей графикой, которую вы разработали для проекта."
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "Документация",
+      "text": "Если вы создали документацию для проекта (на любом языке), вы можете поделиться ею с сообществом."
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "Анализ",
+      "text": "Возможно вы проанализировали набор данных по конкретному проекту и извлекли из них полезную информацию. Вы также можете поделиться ею с сообществом."
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "Видимость",
+      "text": "Маркетинговые усилия как правило также могут быть вознаграждены через Utopian. Расскажите сообществу, что вы сделали для продвижения проекта с открытым кодом."
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "Учебники (уроки)",
+      "text": "Пишите информативные учебники и уроки чтобы помочь другим людям использовать продукты с открытым кодом."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "Видео уроки",
+      "text": "Создавайте видео-инструкции для продуктов с открытым исходным кодом и помогайте людям разобраться, как их использовать."
     },
     "copywriting": {
-      "headline": "Copywriting",
+      "headline": "Копирайтинг",
       "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
+    "headline": "Utopian для владельцев проектов",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
       "headline": "Thinkers",
       "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "Разработчики",
+      "text": "Приглашайте талантливых разработчиков для написания кода или исправления ошибок."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
+      "headline": "Охотники за ошибками",
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "Переводчики",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
-      "headline": "Designers",
+      "headline": "Дизайнеры",
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
@@ -115,9 +115,9 @@
     "pending_rewards": "Pending Rewards",
     "total_generated": "Total Generated",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "Кто платит вознаграждение?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "button": "Узнать больше о Steem"
     }
   },
   "rules": {

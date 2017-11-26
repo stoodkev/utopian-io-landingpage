@@ -1,263 +1,263 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
-    "faq": "FAQ",
+    "rewards": "Recompensas",
+    "rules": "Reglas",
+    "moderators": "Moderadores",
+    "faq": "Preguntas Frecuentes",
     "blog": "Blog",
     "signup": "Sign Up",
     "login": "Log In"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "Economía de Código Abierto",
+    "text3": "¡Gana recompensas al contribuir en tus Proyectos de Código Abierto favoritos <br>!"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "Nuestro mundo moderno se encuentra impulsado por software de <a href='https://en.wikipedia.org/wiki/Open-source_model'>Código Abierto</a>. Este se ejecuta en cada equipo, smartphone o tablet, y todas tus aplicaciones favoritas no podrían funcionar sin él. Voluntarios y entusiastas alrededor del mundo son los que principalmente ayudan a desarrollarlo, incluidos los geeks entre tus amigos que aman más a sus computadoras que salir contigo. El software de Código Abierto es una propiedad común y libre, que permite a todos utilizarlo y modificarlo a sus necesidades. Se basa en la inteligencia colectiva en lugar de las normas impuestas por otros. ¡Todo este trabajo se hace gratis! Sin embargo, Utopian recompensa a quienes contribuyen en este tipo de proyectos, siempre y cuando se alcancen ciertos estándares de calidad.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "¡Hola! ¡Yo soy Octocat!",
+    "text": "¡Trabajo en GitHub,como una Mascota! Este es un buen lugar para estar. Somos una comunidad mundial de entusiastas y voluntarios, que trabajan juntos en miles de proyectos interesantes. <b>Utopian.io</b> les recompensa por hacer contribuciones a proyectos de Código Abierto, como corrección de errores, traducción de textos, escribir documentación, compartir buenas ideas y mucho más.",
+    "visit": "¡Visita GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Selecciona un proyecto..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...y contribuye!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "Sugerencias",
+      "text": "Todo comienza con una idea. Comparte tus ideas o solicitud de características menores y ayuda en la mejora de un proyecto."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "Sub-Proyectos",
+      "text": "Comparte las nuevas y más elaboradas características o conceptos que hayas de desarrollado para un proyecto."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "Desarrollo",
+      "text": "Si has escrito el código y creado una petición al repositorio, comparte tu trabajo con la comunidad Utopian."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "Caza de Errores",
+      "text": "Ayuda a los desarrolladores a encontrar y solucionar problemas con su software compartiendo informes detallados de los errores."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "Traducción",
+      "text": "Ayuda a que las personas utilicen software en otros idiomas haciendo traducciones de texto o documentación por medio de <a href='https://crowdin.com/' target='_blank'>Crowdin</a> y otras herramientas."
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "Gráficos",
+      "text": "Comparte esos logos, iconos, fondos y otros gráficos originales que hayas diseñado para algún proyecto."
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "Documentación",
+      "text": "Si has escrito la documentación para algún proyecto (en cualquier idioma), puedes compartirlo con la comunidad."
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "Análisis",
+      "text": "Es probable que hayas realizado el análisis de un conjunto de datos para un proyecto en particular y extraído información útil del mismo. También puedes compartirlo con la comunidad."
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "Visibilidad",
+      "text": "Los esfuerzos de Marketing también pueden ser recompensados en Utopian. Comunica a la comunidad lo que has hecho para promover un proyecto de Código Abierto."
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "Tutoriales",
+      "text": "Escribe tutoriales informativos y ayuda a que otras personas puedan utilizar productos de Código Abierto."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "Video Tutoriales",
+      "text": "Crea videos tutoriales para producto de Código Abierto y ayuda a que las personas aprendan como usarlo."
     },
     "copywriting": {
-      "headline": "Copywriting",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "headline": "Redacción",
+      "text": "Escriba piezas creativas e informativas para proyectos de Código Abierto, y aumente la fuerza de su marca."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "headline": "Utopian para Propietarios de Proyectos",
+    "text": "Con Utopian.io, podrás realizar <b>anuncios</b> para tus proyectos y obtener rápidamente crowdsourcing de un grupo internacional de talentos. Captar la atención de valiosos colaboradores y usar el poder de la inteligencia colectiva para desarrollar tus proyectos.",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "Pensadores",
+      "text": "Capta la atención de grandes pensadores en tu proyecto para desarrollar ideas y resolver problemas."
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "Desarrolladores",
+      "text": "Atrae desarrolladores talentosos para escribir código o corregir errores."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "Cazadores de Errores",
+      "text": "Anima a los usuarios para que reporten problemas o invítalos a que prueben las nuevas funciones que estas desarrollando."
     },
     "translators": {
-      "headline": "Translators",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "headline": "Traductores",
+      "text": "Llega a más personas alrededor del mundo asignando traductores que permitan a tu proyecto estar disponible en múltiples idiomas."
     },
     "designers": {
-      "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "headline": "Diseñadores",
+      "text": "Contamos con talentosos diseñadores para crear gráficos únicos para su proyecto o marca."
     },
     "writers": {
-      "headline": "Technical Writers",
-      "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
+      "headline": "Redactores Técnicos",
+      "text": "Obtenga una documentación completa para su proyecto que logre informar adecuadamente a sus usuarios y otras partes interesadas."
     },
     "analysts": {
-      "headline": "Data Analysts",
-      "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
+      "headline": "Análisis de Datos",
+      "text": "Extraiga conocimientos de sus datos generados, descubra tendencias y tome decisiones informadas sobre su proyecto con la ayuda de analistas de datos."
     },
     "influencers": {
-      "headline": "Influencers",
-      "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
+      "headline": "Influenciadores",
+      "text": "Coordine marketing efectivo en línea o fuera de línea con la ayuda de influenciadores de todo el mundo y así logre la atención que merece su proyecto."
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "Recompensas para Colaboradores",
+    "curator_rewards": "Recompensas para Curadores",
+    "pending_rewards": "Recompensas Pendientes",
+    "total_generated": "Total Generado",
     "steem": {
-      "headline": "Who pays the rewards?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "headline": "¿Quién paga las recompensas?",
+      "text": "Para pagar las recompensas, Utopian.io utiliza el <a href='https://steem.io/'> Steem blockchain</a>. El dinero es creado en la forma de una criptomoneda llamada <b>STEEM</b>, a través de la votación de la comunidad. Nadie tiene que pagar directamente las recompensas. Estas son generadas y distribuidas mediante un algoritmo llamado <i>Proof-of-Brain</i>, que estimula a los usuarios para que creen y hagan curación en contenidos de calidad. <br><br>En el caso de Utopian.io, su aportación al mundo del Código Abierto es la calidad del contenido. Al votar sus contribuciones, la comunidad crea dinero para recompensarle por su trabajo. Las personas también pueden optar por pagarse unos a otros utilizando directamente su propio STEEM, si ellos quieren, pero es algo opcional. <br><br>El valor del voto de un usuario se basa en su propia inversión en la plataforma, mientras más grande sea su participación, mayor valor tendrá el mismo al momento de la curación. Utopian.io podrá votar en sus contribuciones. Con más de <b>3 millones de Steem Power</b> delegado a la cuenta de la plataforma Utopian.io, un voto por su valor completo vale más que <b>250 dólares</b>, al precio corriente dentro del mercado. <br><br><a href='#faq'> Revise las preguntas frecuentes</a> para poder obtener más información.",
+      "button": "Conocer más acerca de Steem"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
-    "step3": "Get upvoted by Utopian.io and the community!",
-    "step4": "Get paid<br>after 7 days!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "step1": "¡Cumpla con<br>nuestras reglas!",
+    "step2": "¡Será revisado por nuestros<br>moderadores!",
+    "step3": "¡Será votado por Utopian.io y la comunidad!",
+    "step4": "¡Se pagará<br>luego de 7 días!",
+    "text": "Para asegurar la calidad, cada contribución es revisada por uno de nuestros moderadores, de acuerdo con nuestras reglas. El no respeto de estas reglas le hará conseguir recompensas inferiores o incluso hacer que su contribución no sea aceptada del todo. Sin embargo, si su aporte no es aceptado, todavía será publicado en el Blockchain de Steem, y podrá ganar recompensas. En este caso, estarás por tu cuenta. Utopian no recompensará ni compartirá su contribución.",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
-        "rule3": "Images, screenshots, links and examples are always welcome in this category.",
-        "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
+        "headline": "Reglas para Sugerencias",
+        "rule1": "Las sugerencias son las características menores y mejoras que te gustaría tener en un proyecto de Código Abierto.",
+        "rule2": "Las sugerencias deben proporcionar información detallada para que las características solicitadas puedan ser realmente construidas.",
+        "rule3": "Imágenes, capturas de pantalla, enlaces y ejemplos serán siempre bienvenidos en esta categoría.",
+        "rule4": "Nunca escribas sobre sugerencias que ya habías compartido antes o que ya han sido compartidas por algún otro."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "headline": "Reglas para Subproyectos",
+        "rule1": "Un subproyecto es un conjunto de novedosas características que tendrán un gran impacto en el proyecto.",
+        "rule2": "Los subproyectos deben proporcionar información detallada de las características que serán construidas.",
+        "rule3": "Imágenes, capturas de pantalla, enlaces, flujos y ejemplos serán siempre obligatorios en esta categoría.",
+        "rule4": "En esta categoría, la calidad del contenido es el factor principal para poder ser aceptada en Utopian.",
+        "rule5": "Si crees que tu idea no califica como un subproyecto, usa la categoría sugerencias en su lugar.",
+        "rule6": "Nunca escribas sobre proyectos que ya habías compartido anteriormente o que ya habían sido compartidos por algún otro."
       },
       "development": {
-        "headline": "Development Rules",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "headline": "Reglas para Desarrollos",
+        "rule1": "Solo serán aceptadas solicitudes de extracción conjuntas o proyectos de Código Abierto que nunca antes hayas publicado en Utopía, incluidos los forks, siempre que no sean solo una copia del original. Pruebas de trabajo serán requeridas.",
+        "rule2": "En esta categoría, solo puedes escribir si has desarrollado o contribuido en el código de un proyecto.",
+        "rule3": "Debes proporcionar enlaces de las ramificaciones, forks, gists o solicitudes de extracción.",
+        "rule4": "Si tu nombre de usuario en GitHub no es el mismo que en Utopian, deberás demostrar que eres el titular de la cuenta proporcionada en la captura de pantalla de la sesión en GitHub.",
+        "rule5": "Imágenes, capturas de pantalla, enlaces y ejemplos no son necesarios pero si recomendados.",
+        "rule6": "Nunca escribas sobre contribuciones de código que ya has compartido anteriormente."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "Reglas para Caza de Errores",
+        "rule1": "Solo utiliza esta categoría para reportar los errores que hayas encontrado en algún proyecto de Código Abierto.",
+        "rule2": "Debes proporcionar todos los detalles posibles para reproducir el error.",
+        "rule3": "Deberás incluir por ejemplo: navegador utilizado, tipos de dispositivos, sistema operativo y detalles similares.",
+        "rule4": "Nunca informes de errores que ya han sido compartidos, por ti o por alguien mas."
       },
       "translation": {
-        "headline": "Translation Rules",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "headline": "Reglas para Traducciones",
+        "rule1": "Para presentar una traducción en Utopian debes haber traducido por lo menos un 30% en proyectos de tamaño medio (500-1000 secuencias), 10-15% para grandes proyectos (1000 o más secuencias), y 100% para proyectos pequeños (1-500 secuencias).",
+        "rule2": "Utiliza esta categoría solo para traducciones que hayas realizado o actualizado para un proyecto de Código Abierto.",
+        "rule3": "Deberás incluir el texto completo que has traducido en la publicación o incluir enlaces públicos a las versiones completas.",
+        "rule4": "Incluye tantos detalles como sea posible, para que puedan ser revisadas tus traducciones y las herramientas que has utilizado para traducir.",
+        "rule5": "Las traducciones completas siempre son preferidas. Si vas a escribir sobre una traducción parcial, nos reservamos el derecho a evaluar el trabajo real.",
+        "rule6": "Debes ser el autor de la traducción y proporcionar una forma de verificar tu trabajo.",
+        "rule7": "Si tu nombre de usuario en Crowdin o en plataformas de traducción similares no es el mismo nombre de usuario de Utopian, debes demostrar que eres el dueño de la cuenta proporcionando una captura de pantalla con tu sesión abierta en la plataforma de traducción.",
+        "rule8": "Nunca envíes traducciones que ya han sido compartidas por ti, o por algún otro."
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "headline": "Reglas para Gráficos",
+        "rule1": "Nos reservamos el derecho a rechazar una contribución gráfica si creemos que el trabajo realizado no es suficiente para ser recompensado.",
+        "rule2": "En esta categoría, solo se presentan gráficos como logotipos, iconos, fondos, videos o animaciones que hayan sido creados para un proyecto de Código Abierto.",
+        "rule3": "Debes incluir muestras de tu creación directamente en la publicación y publicar enlaces para los diseños completos.",
+        "rule4": "Deberás ofrecer tantos detalles como sea posible para verificar el trabajo que hiciste.",
+        "rule5": "Deberás proporcionar los archivos de fuente editable (tales como .psd .ai .eps .svg .cdr).",
+        "rule6": "Camisetas y diseños para merchandising en general no son bienvenidos, a menos que haya sido solicitado explícitamente por el propietario del proyecto.",
+        "rule7": "Nunca publiques sobre gráficos que ya han sido compartidos, por ti o por algún otro."
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "headline": "Reglas para Análisis",
+        "rule1": "Esta categoría es solo para análisis que hayas preparado para un proyecto de Código Abierto.",
+        "rule2": "Debes incluir resultados detallados y explicar las razones o informaciones detrás de ellos.",
+        "rule3": "Si no estás publicando el análisis realizado en su totalidad, deberás proporcionar los enlaces públicos a la versión completa del mismo.",
+        "rule4": "Resultados de los análisis, en forma de gráficos y tablas, son obligatorios en esta categoría.",
+        "rule5": "Nunca publiques análisis que ya han sido compartidos anteriormente, por ti o por algún otro."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "headline": "Reglas para Visibilidad",
+        "rule1": "En esta categoría se presentan los resultados del esfuerzo en marketing que has realizado para mejorar la visibilidad de un proyecto de Código Abierto; tales como campañas de social media, publicidad, conferencias, encuentros.",
+        "rule2": "Deberás proporcionar enlaces, imágenes o vídeos que den prueba de tus esfuerzos, y también para compartir los resultados.",
+        "rule3": "Si tus esfuerzos trajeron solo unos pocos o ningún nuevo usuario/colaborador para el proyecto de Código Abierto, no deberías escribir sobre él.",
+        "rule4": "Deberás probar tu identidad. Si tu nombre de usuario en Utopian no es el mismo que tienes en las plataformas que utilizas para el marketing del proyecto, debes proporcionar capturas de pantalla de tu sesión abierta en estas plataformas.",
+        "rule5": "Nunca escribas sobre esfuerzos de visibilidad que hayas compartido anteriormente."
       },
       "documentation": {
-        "headline": "Documentation Rules",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "headline": "Reglas para Documentación",
+        "rule1": "Solo serán aceptadas solicitudes de extracción conjuntas del repositorio oficial o de un fork, siempre que no sean solo una copia del original. Pruebas de trabajo serán requeridas.",
+        "rule2": "Publique en esta categoría solo cuando haya trabajado en la Documentación Oficial de un proyecto de Código Abierto.",
+        "rule3": "Debes ser el autor de toda la documentación o de los cambios/mejoras que se apliquen a la documentación.",
+        "rule4": "Solo trabajos de la documentación oficial pueden ser presentados en esta categoría. Utilice la categoría Tutoriales para todos los demás documentos.",
+        "rule5": "Si no es publicado el contenido completo que escribió, debe proporcionar los enlaces públicos para que el mismo pueda ser visto.",
+        "rule6": "Deberás proporcionar suficientes evidencias del trabajo que has realizado.",
+        "rule7": "En caso de que aplique, en enlace de la solicitud de extracción presentado en GitHub que contiene su trabajo.",
+        "rule8": "Nunca publique un trabajo de documentación que haya compartido anteriormente."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
-        "rule1": "Machine translated tutorials will be rejected.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
-        "rule3": "Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
-        "rule6": "You must be the author of the tutorial.",
-        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "headline": "Reglas para Tutoriales",
+        "rule1": "Los tutoriales traducidos a máquina serán rechazados.",
+        "rule2": "Esta categoría es solo para proporcionar tutoriales para proyectos de Código Abierto.",
+        "rule3": "Los tutoriales pueden ser en cualquier idioma.",
+        "rule4": "Una introducción de texto en inglés en la parte superior de la publicación, siempre será obligatoria.",
+        "rule5": "Si el tutorial contiene un vídeo, deberás utilizar la categoría Vídeo Tutoriales en lugar de esta.",
+        "rule6": "Debes ser el autor del tutorial.",
+        "rule7": "Si no estás publicando el tutorial completo, debes proporcionar enlaces públicos a la versión completa del mismo.",
+        "rule8": "Nunca publiques tutoriales que ya has compartido anteriormente en el blockchain de Steem en general."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "headline": "Reglas para Video Tutoriales",
+        "rule1": "Video Tutoriales que utilicen voz de máquina serán rechazados.",
+        "rule2": "Esta categoría es solo para proporcionar video tutoriales para proyectos de Código Abierto.",
+        "rule3": "Los Video Tutoriales pueden ser en cualquier idioma.",
+        "rule4": "Una introducción de texto en inglés en la parte superior de la publicación, siempre será obligatoria.",
+        "rule5": "Debes ser el autor del video tutorial.",
+        "rule6": "Debes insertar el video directamente en la publicación. Por el momento, los videos de Youtube son obligatorios.",
+        "rule7": "Nunca publiques video tutoriales que ya has compartido anteriormente en el blockchain de Steem en general."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "headline": "Reglas para Redacción",
+        "rule1": "Solo serán aceptadas solicitudes de extracción conjuntas del repositorio oficial o de un fork, siempre que no sean solo una copia del original. Pruebas de trabajo serán requeridas.",
+        "rule2": "Utiliza esta categoría solo para mostrar el trabajo de redacción que has completado para un proyecto de Código Abierto.",
+        "rule3": "Redacciones pueden ser realizadas en cualquier idioma.",
+        "rule4": "Una introducción de texto en inglés en la parte superior de la publicación, siempre será obligatoria.",
+        "rule5": "Debes ser el autor.",
+        "rule6": "En caso de que aplique, en enlace de la solicitud de extracción presentado en GitHub que contiene su trabajo.",
+        "rule7": "Nunca publiques trabajos de redacción que hayas compartido anteriormente."
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
-        "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "headline": "Reglas para Publicaciones en el Blog",
+        "rule1": "Debes proporcionar un formato original. No publiques noticias encontradas en la web o pensamientos generales, a menos que tengas un único y consistente formato. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Ejemplo de un buen formato</a>.",
+        "rule2": "Solo puedes escribir publicaciones en el blog que estén relacionadas con <b>proyectos de código abierto</b> o con el <b>movimiento del código abierto</b> en general.",
+        "rule3": "Las publicaciones en el blog deben proporcionar contenidos y descripciones detalladas de los proyectos de Código Abierto.",
+        "rule4": "Imágenes, capturas de pantalla, enlaces y ejemplos no son necesarios, pero si recomendados.",
+        "rule5": "Compruebe para estar seguro de que su publicación no pertenece a otras categorías (ejemplo: Tutoriales o Redacción).",
+        "rule6": "Nunca escriba publicaciones en el blog que haya compartido anteriormente.",
+        "rule7": "Seremos especialmente rigurosos para esta categoría, ya que hemos visto abusos de la misma en el pasado."
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
+    "rewards": "Recompensas",
+    "pending": "Pendiente",
+    "previous": "Anterior",
+    "meet": "Conoce a nuestros moderadores",
+    "text": "En Utopian, todos los contribuyentes son recompensados por su arduo trabajo, incluidos nuestros moderadores, quienes se aseguran de que se cumplan altos estándares de calidad dentro de la plataforma.",
+    "pending_payout": "Pago Pendiente",
+    "previous_payout": "Pago Anterior",
     "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
   },
   "faq": {
