@@ -6,17 +6,17 @@
     "faq": "常见问题",
     "blog": "博客",
     "signup": "注册",
-    "login": "Log In"
+    "login": "登录"
   },
   "header": {
     "text1": "Utopian.io",
     "text2": "开源经济",
     "text3": "获取奖励，只需向你<br>喜爱的开源项目贡献力量！"
   },
-  "intro": "我们的现代世界是由 <a href='https://en.wikipedia.org/wiki/Open-source_model'> 开源 </a> 软件驱动的。它运行在每台计算机, 每一个智能手机或平板电脑和所有你喜欢的应用程序将不会运行没有它。它主要是由志愿者和世界各地的爱好者开发的, 那些极客在你的朋友之间, 爱他们的电脑, 而不是和你在一起。开源软件是免费和共同的财产, 并允许每个人使用它, 并改变它的需要。它依赖于集体智慧而不是上级强加的标准。所有这些工作都是免费做的!然而, 只要达到一定的质量标准, 乌托邦就会奖励那些为这些项目做出贡献的人。它依赖于集体智慧，而不是上级强加的标准。所有的工作都是免费做的！然而，只要达到一定的标准，Utopian仍会奖励那些为这些项目做出贡献的人们。",
+  "intro": "我们的现代世界是由 <a href='https://en.wikipedia.org/wiki/Open-source_model'> 开源 </a> 软件驱动的。它运行于每台计算机, 智能手机或平板电脑，没有它很多你喜欢的应用程序将无法运行。它主要是由世界各地的志愿者和爱好者开发的，你的朋友那些极客们，爱他们的电脑更胜于和你在一起。开源软件是免费和共同的财产，每个人都可以使用它，或根据需要修改。它依赖于集体智慧而不是上级强加的标准。这些工作都是免费做的！尽管如此，只要达到一定的质量标准，Utopian仍会奖励那些为这些项目做出贡献的人。它依赖于集体智慧，而不是上级强加的标准。所有的工作都是免费做的！然而，只要达到一定的标准，Utopian仍会奖励那些为这些项目做出贡献的人们。",
   "octocat": {
     "hi": "你好！我是 Octocat！",
-    "text": "我在 GitHub 工作，是吉祥物！这是一个非常好的地方。我们是一个世界各地的爱好者和志愿者团体，共同致力于数以千计的绝酷项目。<b> Utopian. io </b> 奖励你为开源项目做出的贡献，如修复 bug、翻译文本、编写文档或共享好的想法等等。",
+    "text": "我在 GitHub 工作，是吉祥物！这是个非常好的地方。我们是一个由世界各地的爱好者和志愿者组成的团体，共同致力于数以千计的绝酷项目。<b> Utopian. io </b> 奖励你为开源项目做出的贡献，如修复 bug、翻译文本、编写文档或共享好的想法等等。",
     "visit": "访问 GitHub.com！"
   },
   "projects": {
@@ -75,37 +75,37 @@
   },
   "crowdsourcing": {
     "headline": "项目所有者的 Utopian",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "text": "通过 Utopian.io，你可以为自己的项目发布<b>通告</b>并迅速地通过国际化的资源池完成众筹。获取价值贡献者们的注意，并利用集体智慧开发你的项目。",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "思考者",
+      "text": "使优秀的思考者们关注你的项目，以激发灵感并解决问题。"
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "开发者",
+      "text": "召唤聪颖的开发者们编写代码或修复错误。"
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "除错者",
+      "text": "鼓励用户报告问题或要求他们使用你正在开发的新功能。"
     },
     "translators": {
-      "headline": "Translators",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "headline": "翻译者",
+      "text": "让翻译者们将你的项目多语言化，以便世界各地更多的人们使用。"
     },
     "designers": {
-      "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "headline": "设计者",
+      "text": "让天才设计师们为你的项目或品牌涉及独一无二的图像。"
     },
     "writers": {
-      "headline": "Technical Writers",
+      "headline": "技术作者",
       "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
     },
     "analysts": {
-      "headline": "Data Analysts",
+      "headline": "数据分析者",
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "影响者",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },
