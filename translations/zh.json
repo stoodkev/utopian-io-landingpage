@@ -175,16 +175,16 @@
         "rule1": "如果我们认为这项工作还不足以获得奖励，我们保留拒绝图形类别贡献的权利。",
         "rule2": "在此类别中，只能提交您为开放源代码项目创建的图形，如徽标，图标，背景，视频或动画。",
         "rule3": "您必须直接在您的文章中包含您创作的样本和指向完整设计的公共链接。",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule4": "您必须尽可能详细地证实您所做的工作。",
+        "rule5": "您必须提供可编辑的源文件（例如.psd .ai .eps .svg .cdr）。",
+        "rule6": "除非项目所有者明确要求，否则不欢迎T恤和商品设计。",
+        "rule7": "切勿发布由您或其他人共享过的图片。"
       },
       "analysis": {
         "headline": "分析类别规则",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
+        "rule1": "此类别仅用于您为开源项目准备的分析。",
+        "rule2": "您的文章必须包含详细的结果，并解释他们背后的原因。",
+        "rule3": "如果您没有完整发布您的分析，您必须提供指向完整版本的公共链接。",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
       },
