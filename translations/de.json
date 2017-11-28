@@ -161,11 +161,11 @@
       },
       "translation": {
         "headline": "Regeln für Übersetzungen",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
+        "rule1": "Um eine Übersetzung auf Utopian einzureichen, musst du mindestens 30 % des Projekts für mittlere Projekte (500-1000 Zeichenketten), 10-15 % für große Projekte (1000 und höher), 100 % für kleine Projekte (1-500) übersetzt haben.",
+        "rule2": "Verwende diese Kategorie nur für Übersetzungen, die du für ein Open Source Projekt selbst verfasst oder aktualisiert hast.",
+        "rule3": "Du musst entweder den gesamten übersetzten Text in deinem Bericht einfügen oder öffentlich zugängliche Links zur vollen Übersetzung beifügen.",
+        "rule4": "Füge sämtliche Details zu deiner Übersetzung und den Werkzeuge, die du verwendet hast, bei, um eine Überprüfung zu erleichtern.",
+        "rule5": "Vollständige Übersetzungen werden immer bevorzugt. Wenn du über eine Teilübersetzung schreibst, behalten wir uns das Recht vor, die tatsächlich geleistete Arbeit zu beurteilen.",
         "rule6": "You must be the author of the translation and provide a way to verify your work.",
         "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
         "rule8": "Never submit translations that have already been shared, by you or someone else."
