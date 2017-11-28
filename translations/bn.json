@@ -42,14 +42,14 @@
     },
     "translation": {
       "headline": "অনুবাদ",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "text": "টেক্সট বা ডকুমেন্টেশন এবং অন্যান্য সরঞ্জামগুলির বিভিন্ন ভাষায় অনুবাদ করে মানুষদের সফ্টওয়্যার ব্যবহার করতে সহায়তা করুন।<a href='https://crowdin.com/'target='_blank'>Crowdin</a>"
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "গ্রাফিক্স",
+      "text": "একটি প্রকল্পের জন্য ডিজাইন করা হয়েছে এমন আপনার উদ্ভাবনকৃত লোগো, আইকন, ব্যাকগ্রাউন্ড এবং অন্যান্য গ্রাফিক্স শেয়ার করুন।"
     },
     "documentation": {
-      "headline": "Documentation",
+      "headline": "ডকুমেন্টেশন",
       "text": "If you have authored documentation for a project (in any language), you can share it with the community."
     },
     "analysis": {
