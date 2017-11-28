@@ -175,14 +175,14 @@
         "rule1": "Wir behalten uns das Recht vor, einen grafischen Beitrag abzulehnen, wenn wir der Meinung sind, dass die Arbeit nicht ausreicht, um von uns belohnt zu werden.",
         "rule2": "Reiche in dieser Kategorie nur Grafiken wie Logos, Icons, Hintergründe, Videos oder Animationen ein, die du für ein Open Source Projekt erstellt hast.",
         "rule3": "Du musst Auszüge deiner Kreationen direkt in deinem Beitrag einfügen und öffentliche Links zu den vollständigen Designs bereitstellen.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule4": "Gib so viele Details wie möglich an, damit deine Arbeit überprüft werden kann.",
+        "rule5": "Du musst die editierbare Quell-Dateien (z. B. .psd .ai .eps .svg .cdr) bereitstellen.",
+        "rule6": "Designs für T-Shirts und Werbemittel generell sind nicht willkommen, sofern nicht explizit von den Verantwortlichen angefordert.",
+        "rule7": "Schreibe nie über Designs und Grafiken, die von dir oder anderen bereits veröffentlicht wurden."
       },
       "analysis": {
         "headline": "Regeln für Analyse",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
+        "rule1": "Diese Kategorie ist nur für Analysen, die du für ein Open Source Projekt durchgeführt hast.",
         "rule2": "You must include detailed results and explain the reasons behind them.",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
