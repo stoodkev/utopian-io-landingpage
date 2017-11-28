@@ -34,14 +34,14 @@
     },
     "development": {
       "headline": "উন্নয়ন সাধন",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "text": "যদি আপনি কোন কোড লিখেছেন এবং পুল রিকুয়েস্ট তৈরি করেছেন, তাহলে আপনার কাজটি Utopian সম্প্রদায়ের সাথে শেয়ার করুন।"
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "ত্রুটি পাওয়া",
+      "text": "ত্রুটিপূর্ণ রিপোর্টগুলি বিস্তারিতভাবে সেয়ার করে ডেভেলপারদের তাদের সফ্টওয়্যারগুলির মাধ্যমে সমস্যাগুলি খুজে পেতে এবং সমাধান করতে সহায়তা করুন।"
     },
     "translation": {
-      "headline": "Translation",
+      "headline": "অনুবাদ",
       "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
