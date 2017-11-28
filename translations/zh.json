@@ -173,8 +173,8 @@
       "graphics": {
         "headline": "图形类别规则",
         "rule1": "如果我们认为这项工作还不足以获得奖励，我们保留拒绝图形类别贡献的权利。",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
+        "rule2": "在此类别中，只能提交您为开放源代码项目创建的图形，如徽标，图标，背景，视频或动画。",
+        "rule3": "您必须直接在您的文章中包含您创作的样本和指向完整设计的公共链接。",
         "rule4": "You must give as much detail as possible to verify the work you did.",
         "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
         "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
