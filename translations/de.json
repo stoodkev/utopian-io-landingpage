@@ -166,9 +166,9 @@
         "rule3": "Du musst entweder den gesamten übersetzten Text in deinem Bericht einfügen oder öffentlich zugängliche Links zur vollen Übersetzung beifügen.",
         "rule4": "Füge sämtliche Details zu deiner Übersetzung und den Werkzeuge, die du verwendet hast, bei, um eine Überprüfung zu erleichtern.",
         "rule5": "Vollständige Übersetzungen werden immer bevorzugt. Wenn du über eine Teilübersetzung schreibst, behalten wir uns das Recht vor, die tatsächlich geleistete Arbeit zu beurteilen.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule6": "Du musst der Author der Übersetzung sein und verifizierbare Nachweise zu deiner Arbeit liefern.",
+        "rule7": "Wenn dein Benutzername auf CrowdIn oder ähnlichen Plattformen nicht der selbe ist wie auf Utopian, musst du nachweisen, dass du der Eigentümer des Accounts bist, indem du einen Screenshot machst, während du auf der Plattform angemeldet bist.",
+        "rule8": "Schreibe nie über Übersetzungen, die von dir oder anderen bereits eingereicht wurden."
       },
       "graphics": {
         "headline": "Regeln für Grafik",
