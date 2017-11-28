@@ -20,7 +20,7 @@
     "visit": "Besuche GitHub.com!"
   },
   "projects": {
-    "headline": "Wähle ein Project..."
+    "headline": "Wähle ein Projekt..."
   },
   "contribute": {
     "headline": "...und arbeite mit!",
@@ -116,7 +116,7 @@
     "total_generated": "Insgesamt generiert",
     "steem": {
       "headline": "Wer bezahlt das Geld?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "Für die Bezahlung nutzt Utopian.io die <a href='https://steem.io/'>Steem Blockchain</a>. Das Geld wird durch Votings der Community in Form der Kryptowährung <b>STEEM</b> generiert. Niemand muss die ausgeschütteten Gelder direkt bezahlen. Sie werden durch den sogenannten <i>Proof-of-Brain</i> Algorithmus generiert und verteilt, welcher Menschen dazu ermutigt hochwertige Inhalte zu erstellen und zu bewerten.<br><br>Im Falle von Utopian.io sind diese hochwertigen Inhalte deine Beiträge zur Open Source Welt. In dem du Berichte über deine Arbeit schreibst, kann die Community durch Votings Geld generieren, um dich für deine Arbeit zu belohnen. Zusätzlich können Benutzer sich natürlich auch direkt mit STEEM bezahlen und feste Beträge für bestimmte Aufgaben ausschreiben.<br><br>Der Wert den jeder Nutzer durch seine Stimmabgabe generiert, hängt vom Investment in die Plattform ab. Verdiente oder gekaufte STEEM können in Einfluss umgewandelt werden, sogenannte STEEM POWER, um so den Wert der eigenen Stimme zu erhöhen. Fast <b>4 Millionen STEEM POWER</b> wurden bereits an die Utopian.io Plattform delegiert. Nach aktuellen Kursen entspricht dies einem maximalen Wert von ca. <b>350 USD</b> pro Voting entspricht.<br><br>In unserem <a href='#faq' class='smoothscroll'>FAQ</a> findest du weitere Informationen.",
       "button": "Lerne mehr über Steem"
     }
   },
@@ -125,42 +125,42 @@
     "step2": "Moderatoren überprüfen<br>deine Einreichung!",
     "step3": "Utopian.io und die Community bewerten deine Arbeit!",
     "step4": "Werde nach 7<br>Tagen bezahlt!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "text": "Um die Qualität sicherzustellen, wird jede Einreichung von unseren Moderatoren anhand unserer Regeld überprüft. Regelverstöße führen entweder zu geringerer Bezahlung oder die Einreichung wird gar nicht erst akzeptiert. Es werden allerdings grundsätzlich alle Einreichungen auf der Steem Blockchain veröffentlicht und können somit Geld generieren. In diesem Falle bist du jedoch auf dich allein gestellt. Utopian.io wird deinen Beitrag nicht belohnen oder bewerben.",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
-        "rule3": "Images, screenshots, links and examples are always welcome in this category.",
-        "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
+        "headline": "Regeln für Vorschläge",
+        "rule1": "Vorschläge sind kleinere Features/Verbesserungen, die du gerne in einem Open Source Projekt haben würdest.",
+        "rule2": "Vorschläge müssen ausreichende Details bereitstellen, damit sie auch tatsächlich umgesetzt werden können.",
+        "rule3": "Bilder, Screenshots, Links und Beispiele sind immer gerne gesehen in dieser Kategorie.",
+        "rule4": "Schreibe nie mehrfach über die selben Vorschläge oder Vorschläge, die bereits von anderen eingereicht wurden."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "headline": "Regeln für Sub-Projekte",
+        "rule1": "Ein Sub-Projekt ist eine Ansammlung von neuen Features, die einen großen Einfluss auf das Projekt haben.",
+        "rule2": "Sub-Projekte müssen umfangreiche Details bereitstellen, um tatsächlich umgesetzt werden zu können.",
+        "rule3": "Bilder, Screenshots, Links, Abläufe, Mockups und andere Beispiele sind Pflicht in dieser Kategorie.",
+        "rule4": "In dieser Kategorie ist die inhaltliche Qualität absolut ausschlaggebend um akzeptiert zu werden.",
+        "rule5": "Wenn du dir nicht wirklich sicher bist ob deine Idee ein Sub-Projekt ist, nutze stattdessen die Kategorie Vorschläge",
+        "rule6": "Schreibe nie mehrfach über die selben Sub-Projekte oder welche, die bereits von anderen eingereicht wurden."
       },
       "development": {
-        "headline": "Development Rules",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "headline": "Regeln für Entwicklung",
+        "rule1": "Nur zusammengeführte Pull Request oder Open Source Projekte, die du betreust und die noch nicht auf Utopian veröffentlich wurden, werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
+        "rule2": "Nutze diese Kategorie nur, wenn du ein eigenes Projekt entwickelt oder zur Entwicklung eines Projekts beigetragen hast.",
+        "rule3": "Links zu Branches, Forks, Gists oder Pull Requests sind zwingend erforderlich.",
+        "rule4": "Wenn dein GitHub Benutzername von dem bei Utopian abweicht, musst einen Screenshot beifügen, auf dem du auf GitHub eingeloggt bist und beweist, dass der Account dir gehört.",
+        "rule5": "Bilder, Screenshots, Links und Beispiele sind nicht zwingend aber erwünscht.",
+        "rule6": "Schreibe nie mehrfach über die selbe Entwicklung."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "Regeln für Bug Hunting",
+        "rule1": "Nutze diese Kategorie nur für Bugs, die du in einem Open Source Projekt entdeckt hast.",
+        "rule2": "Stelle alle nötigen Informationen bereit, die nötig sind, um den Bug zu reproduzieren.",
+        "rule3": "Dazu gehört z.B. der genutzte Browser, dein Endgerät, Betriebssystem und ähnliche Details.",
+        "rule4": "Schreibe nie über Bugs, die von dir oder anderen bereits mitgeteilt wurden."
       },
       "translation": {
-        "headline": "Translation Rules",
+        "headline": "Regeln für Übersetzungen",
         "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
@@ -171,7 +171,7 @@
         "rule8": "Never submit translations that have already been shared, by you or someone else."
       },
       "graphics": {
-        "headline": "Graphics Rules",
+        "headline": "Regeln für Grafik",
         "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
         "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
         "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
@@ -181,7 +181,7 @@
         "rule7": "Never post about graphics that have been shared before, by you or someone else."
       },
       "analysis": {
-        "headline": "Analysis Rules",
+        "headline": "Regeln für Analyse",
         "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
         "rule2": "You must include detailed results and explain the reasons behind them.",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
@@ -189,7 +189,7 @@
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
       },
       "visibility": {
-        "headline": "Visibility Rules",
+        "headline": "Regeln für Sichtbarkeit",
         "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
         "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
         "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
@@ -197,7 +197,7 @@
         "rule5": "Never write about visibility efforts you have already shared before."
       },
       "documentation": {
-        "headline": "Documentation Rules",
+        "headline": "Regeln für Dokumentation",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
@@ -208,7 +208,7 @@
         "rule8": "Never submit documentation work that you have already shared in the past."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
+        "headline": "Regeln für Tutorials",
         "rule1": "Machine translated tutorials will be rejected.",
         "rule2": "This category is only for providing tutorials for an Open Source project.",
         "rule3": "Tutorials can be in any language.",
@@ -219,7 +219,7 @@
         "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
+        "headline": "Regeln für Video Tutorials",
         "rule1": "Video Tutorials using machine voice will be rejected.",
         "rule2": "This category is only for providing video tutorials for an Open Source project.",
         "rule3": "Video Tutorials can be in any language.",
@@ -229,7 +229,7 @@
         "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
+        "headline": "Regeln für Werbetexte",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
         "rule3": "Copywriting can be in any language.",
@@ -239,7 +239,7 @@
         "rule7": "Never post copywriting work that you have already shared before."
       },
       "blog": {
-        "headline": "Blog Post Rules",
+        "headline": "Regeln für Blog Posts",
         "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
         "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
         "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
@@ -251,14 +251,14 @@
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "Bezahlung",
+    "pending": "Ausstehend",
+    "previous": "Ausgezahlt",
+    "meet": "Lerne unsere Moderatorn kennen",
+    "text": "Bei Utopian werden alle Beitragenden für ihrere harte Arbeit belohnt. Das schließt auch unsere Moderatoren ein, die unseren hohen Qualitätsanspruch hochhalten.",
+    "pending_payout": "Ausstehend",
+    "previous_payout": "Ausgezahlt",
+    "text2": "5% des insgesamt für alle Einreichungen generierten Geldes geht an die Moderatoren, basierend auf der Anzahl der überprüften Einreichungen. Um ein Utopian Moderator zu werden, musst du dir zunächst ein gewisses Ansehen erarbeiten und möglichst viele Einreichungen prüfen."
   },
   "faq": {
     "q1": {

@@ -2,7 +2,7 @@ let scrollController = new ScrollMagic.Controller();
 
 $(function () {
   // smoothscroll
-  $('#navbar').find('.smoothscroll').on('click', function(e) {
+  $(document).on('click', '.smoothscroll', function(e) {
     e.preventDefault();
 
     let hash = this.hash;
@@ -145,9 +145,35 @@ $(function () {
 let app = new Vue({
   el: '#app',
   data: {
-    lang: 'en',
     langswitch: true,
-    languages: ['en', 'zh', 'es', 'de'],
+    languages: [
+      {
+        code: 'en',
+        label: 'English',
+        flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/en.png'
+      },
+      {
+        code: 'zh',
+        label: 'Chinese (simplified)',
+        flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/zh-CN.png'
+      },
+      {
+        code: 'es',
+        label: 'Spanish',
+        flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/es-ES.png'
+      },
+      {
+        code: 'id',
+        label: 'Indonesian',
+        flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/id.png'
+      },
+      {
+        code: 'de',
+        label: 'German',
+        flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/de.png'
+      }
+    ],
+    currentLang: {},
     messages: {},
     rewards: {
       authors: 0,
@@ -162,15 +188,16 @@ let app = new Vue({
     moderators: []
   },
   created: function () {
-    this.getMessages(this.lang);
+    this.currentLanguage = this.languages[0];
+    this.getMessages(this.currentLanguage);
     this.getProjects();
     this.getModerators();
   },
   methods: {
     getMessages: function (lang) {
-      $.getJSON('translations/' + lang + '.json', (messages) => {
+      $.getJSON('translations/' + lang.code + '.json', (messages) => {
         this.messages = messages;
-        this.lang = lang;
+        this.currentLanguage = lang;
       });
     },
     trans: function (id) {

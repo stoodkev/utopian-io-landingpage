@@ -51,10 +51,13 @@
                 <div class="text-right">
                     <div class="dropdown" id="language" v-if="langswitch">
                         <a class="dropdown-toggle" data-toggle="dropdown">
-                            {{ lang }} <i class="fa fa-angle-down"></i>
+                            <img :src="currentLanguage.flag" width="20" :alt="currentLanguage.label" /> <i class="fa fa-angle-down"></i>
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" @click="getMessages(lang)" v-for="lang in languages">{{ lang }}</a>
+                            <a class="dropdown-item" @click="getMessages(lang)" v-for="lang in languages">
+                                <img :src="lang.flag" width="20" />
+                                {{ lang.label }}
+                            </a>
                         </div>
                     </div>
                     <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
