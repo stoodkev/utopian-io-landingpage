@@ -37,23 +37,23 @@
       "text": "अगर आपने कोड लीकें हो और पुल्ल रिक्वेस्ट बनाये हूँ, तो अपना काम यूटोपियन समुदाय के साथ बाटें."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "समस्या ढूंढना",
+      "text": "सॉफ्टवेयर बनाने वालों की सहायता करना और समस्यां का हल निकलना उनको समस्यां बता के."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "अनुवाद",
+      "text": "लोगों की सयता करना दूसरी भाषाओं में अनुवाद करके या प्रलेखन\n में <a href='https://crowdin.com/' target='_blank'>क्रोडिन</a>और दुसरे तरीकों से."
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "ग्रफिक्स",
+      "text": "अपने मूल बनाये प्रतीक चिन्ह, पीछे डली तसफ़ीरें और दूसरी तसफ़ीरें जो आपने अपने परियोजना के लिए बनायीं हूँ हमारे साथ शेयर करें."
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "प्रलेखन",
+      "text": "अगर आपके पास अपना परियोजना है किसी प्रलेखन का(किसी भी भाषा में), आप समुदाय के साथ बाँट सकते हैं."
     },
     "analysis": {
-      "headline": "Analysis",
+      "headline": "विश्लेषण",
       "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
