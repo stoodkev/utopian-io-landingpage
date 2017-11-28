@@ -75,14 +75,14 @@
   },
   "crowdsourcing": {
     "headline": "প্রকল্প মালিকদের জন্য Utopian",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "text": "Utopian.io এর সাথে, আপনি আপনার প্রকল্পগুলির এবং জনসাধারনের জন্য দ্রুত <b> ঘোষণা </b> আন্তর্জাতিক প্রতিভা পুল থেকে করতে পারেন। অন্যান্য মূল্যবান অবদানকারীদের মনোযোগ পান এবং আপনার প্রকল্পগুলি বিকাশের জন্য যৌথ বুদ্ধিমত্তার ক্ষমতা ব্যবহার করুন।",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "চিন্তাবিদ",
+      "text": "আপনার চিন্তাভাবনার বিকাশ এবং সমস্যাগুলির সমাধান করার জন্য বড় চিন্তাবিদদের দৃষ্টি আকর্ষণ করুন।"
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "ডেভেলপার",
+      "text": "কোড লিখতে বা ত্রুটি সংশোধন করতে প্রতিভাবান ডেভেলপারদের আহ্বান করুন।"
     },
     "bughunters": {
       "headline": "Bug Hunters",
