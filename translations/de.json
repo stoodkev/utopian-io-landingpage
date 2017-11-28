@@ -220,23 +220,23 @@
       },
       "videotutorials": {
         "headline": "Regeln für Video Tutorials",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "rule1": "Video-Tutorials mit maschineller Stimme werden abgelehnt.",
+        "rule2": "In dieser Kategorie können nur Video-Tutorials für Open Source Projekte eingereicht werden.",
+        "rule3": "Video Tutorials können in jeder Sprache erstellt werden.",
+        "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
+        "rule5": "Du musst der Author des Video Tutorials sein.",
+        "rule6": "Du musst das Video direkt in deinem Beitrag einbetten. Zur Zeit sind nur YouTube-Videos möglich.",
+        "rule7": "Teile nie Video Tutorials, die von dir oder anderen bereits veröffenticht wurden."
       },
       "copywriting": {
         "headline": "Regeln für Werbetexte",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "rule1": "Nur zusammengeführte Pull Request im offiziellen Repository des Projekts werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
+        "rule2": "Nutze diese Kategorie nur für Werbetexte, die du für ein Open Source Projekt verfasst hast.",
+        "rule3": "Werbetexte können in jeder Sprache verfasst sein.",
+        "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
+        "rule5": "Du musst der Author sein.",
+        "rule6": "Verlinke ggf. Pull Requests auf GitHub, die deine Texte enthalten.",
+        "rule7": "Teile nie Werbetexte auf Utopian, die du bereits zuvor veröffentlich hast."
       },
       "blog": {
         "headline": "Regeln für Blog Posts",
