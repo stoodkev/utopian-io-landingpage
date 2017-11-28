@@ -185,12 +185,12 @@
         "rule1": "此类别仅用于您为开源项目准备的分析。",
         "rule2": "您的文章必须包含详细的结果，并解释他们背后的原因。",
         "rule3": "如果您没有完整发布您的分析，您必须提供指向完整版本的公共链接。",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule4": "分析结果请以图表或表格的形式呈现，这个要求在此类别中是强制性的。",
+        "rule5": "切勿提交由您或其他人已经分享过的分析报告。"
       },
       "visibility": {
         "headline": "可见性类别规则",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
+        "rule1": "在此类别中，提交您为提高开放源代码项目的可见性所做的营销工作的结果; 如社交媒体活动，广告，会议或聚会。",
         "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
         "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
         "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
