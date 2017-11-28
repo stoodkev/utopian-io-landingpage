@@ -37,12 +37,12 @@
       "text": "अगर आपने कोड लीकें हो और पुल्ल रिक्वेस्ट बनाये हूँ, तो अपना काम यूटोपियन समुदाय के साथ बाटें."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "समस्या ढूंढना",
+      "text": "सॉफ्टवेयर बनाने वालों की सहायता करना और समस्यां का हल निकलना उनको समस्यां बता के."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "अनुवाद",
+      "text": "लोगों की सयता करना दूसरी भाषाओं में अनुवाद करके या प्रलेखन\n में <a href='https://crowdin.com/' target='_blank'>क्रोडिन</a>और दुसरे तरीकों से."
     },
     "graphics": {
       "headline": "Graphics",
