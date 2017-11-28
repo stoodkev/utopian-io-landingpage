@@ -194,13 +194,13 @@
         "rule2": "Du musst Links, Bilder oder Videos mit Nachweisen für deine Bemühungen beifügen und die Ergebnisse teilen.",
         "rule3": "Wenn deine Bemühungen dem Open Source Projekt nur wenige oder gar keine neuen Benutzer/Mitwirkende brachten, raten wir davon ab, auf Utopian darüber schreiben.",
         "rule4": "Du musst deine Identität nachweisen. Wenn dein Benutzername auf Utopian nicht identisch ist, mit deinem Benutzernamen auf den Plattformen, die du für das Marketing des Projekts verwendet hast, musst du Screenshots machen, während du auf den jeweiligen Plattformen angemeldet bist.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule5": "Schreibe nie mehrfach über die selben Marketing-Bemühungen."
       },
       "documentation": {
         "headline": "Regeln für Dokumentation",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
+        "rule1": "Nur zusammengeführte Pull Request im offiziellen Repository des Projekts werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
+        "rule2": "Schreibe in dieser Kategorie nur, wenn du an der offiziellen Dokumentation eines Open Source Projekts arbeitest.",
+        "rule3": "Du musst der Author der gesamten Dokumentation sein oder der Änderungen/Verbesserungen für die Dokumentation.",
         "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
         "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
         "rule6": "You must provide sufficient proof of the work you've done.",
