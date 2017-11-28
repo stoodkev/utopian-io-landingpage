@@ -271,15 +271,15 @@
     },
     "q3": {
       "headline": "3. 奖励从何而来？",
-      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+      "text": "Steem的经济模型允许它以每年约9.5％的预定通货膨胀率创造新的代币（或货币单位），在接下来的二十五年中每年下降约0.5％，直到当年通货膨胀率达到0.95％。这些新的代币不断分发给通过社区投票认为在进行有价值的行动的人们。就乌托邦社区而言，作为项目所有者，和其他在开源软件开发中的贡献者？？？，他们在如何分配这些新的代币方面有发言权，与 他们在Steem生态系统中的股份（即他们拥有多少Steem Power）。他们拥有越多的Steem权力，他们可以给贡献者更多的回报。贡献者可以在帖子或贡献发表后七天内赎回他们的回报。</ p> <p> <a href ='https：//steem.io'>了解更多关于Steem生态系统的信息</a> </ p>"
     },
     "q4": {
       "headline": "4. 我在哪里找到我的钱包？",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "text": "<p>当每个帖子到达付款日期（即您发布日期后7天）时，您在“乌托邦”上赚取的所有STEEM都会出现在您的账户中。 在这个时候，奖励可以用来兑换您的账户余额。</ p> <p>要查看您的账户余额并获得您的资金，您需要转到<a href =“https：//steemit.com'>steemit.com</A>。 有一个名为“钱包”的部分，你可以看到你拥有多少STEEM，也有工具来转移它。 Steemit Inc.目前正在开发一款移动STEEM钱包应用程序，一旦这款应用程序发布，它将成为管理STEEM钱包的最简单方法。</ p>"
     },
     "q5": {
       "headline": "5、我如何将我的STEEM兑现？",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "text": "一旦你的钱包里有STEEM，你就可以把它转移到一个支持STEEM的加密货币交易所，像<a href='https://poloniex.com/'> Poloniex </a>或<a href =https://bittrex.com/'>Bittrex</A>。 在那里，你可以交换它用于比特币或以太坊等其他加密货币，这些加密货币比较容易兑换成法币（例如美元）。</ p> <p>或者你可以使用<a href ='https：//blocktrades.us/ '> Blocktrades </a>，它被集成到Steemit钱包界面中。 只需点击您的STEEM余额，就会出现下拉菜单。 然后点击“卖”，你将被带到Blocktrades。</ p>"
     },
     "q6": {
       "headline": "6. 我如何获取更多的奖励？",
