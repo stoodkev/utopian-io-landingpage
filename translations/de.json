@@ -183,15 +183,15 @@
       "analysis": {
         "headline": "Regeln für Analyse",
         "rule1": "Diese Kategorie ist nur für Analysen, die du für ein Open Source Projekt durchgeführt hast.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule2": "Du musst detaillierte Ergebnisse bereitstellen und erläutern, wie diese entstanden sind.",
+        "rule3": "Wenn du deine Analyse nicht vollständig in deinen Beitrag einfügst, musst du öffentliche Links zu der vollständigen Version davon angeben.",
+        "rule4": "Ergebnisse der Analyse in Form von Diagrammen oder Tabellen, sind zwingend erforderlich in dieser Kategorie.",
+        "rule5": "Schreibe nie über Analysen, die von dir oder anderen bereits veröffentlicht wurden."
       },
       "visibility": {
         "headline": "Regeln für Sichtbarkeit",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
+        "rule1": "In dieser Kategorie kannst du die Ergebnisse deiner Marketing-Bemühungen teilen, die du unternommen hast, um die Sichtbarkeit und Bekanntheit eines Open Source Projekts zu verbessern; wie z.B. Social Media Kampagnen, Werbung, Konferenzen oder Treffen.",
+        "rule2": "Du musst Links, Bilder oder Videos mit Nachweisen für deine Bemühungen beifügen und die Ergebnisse teilen.",
         "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
         "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
         "rule5": "Never write about visibility efforts you have already shared before."
