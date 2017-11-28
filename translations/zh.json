@@ -116,7 +116,7 @@
     "total_generated": "生成总计",
     "steem": {
       "headline": "谁来支付这些奖励？",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "为了支付奖励，Utopian.io使用<a href='https://steem.io/'> Steem区块链</a>。这笔钱是通过社区投票以<b> STEEM </ b>这种加密货币形成的。没有人需要直接支付奖励。它们使用一种称为<i>Proof-of-Brain</i>的算法来生成和分发，这个算法鼓励人们创建和审核高质量的内容。在Utopian.io中，高质量内容指的是你关于开源世界的贡献。通过点赞你的贡献，STEEM社区创造金钱来奖励你的工作。人们也可以选择直接使用他们自己的STEEM奖励彼此，但这不是必需的。用户投票的价值是基于他/她自己在平台上的投资，股权和他们投票的价值的多少。 Utopian.io本身可以对你的贡献进行投票。超过300万的Steem Power被委托给Utopian.io平台的账户，使它的全力投票价值在当前市场价格下相当于250美元。<br><br><a href='#faq'>检查常见问题</a>了解更多信息。",
       "button": "了解更多关于Steem的信息"
     }
   },
@@ -161,7 +161,7 @@
       },
       "translation": {
         "headline": "翻译类别规则",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
+        "rule1": "为了在乌托邦提交翻译，你必须翻译至少30％的中型项目（500-1000字符串），10-15％的大型项目（1000字符串及以上），100％的小型项目（1 - 500字符串）。",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
         "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
