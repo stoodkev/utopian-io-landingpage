@@ -15,25 +15,25 @@
   },
   "intro": "আমাদের আধুনিক বিশ্বটি <a href='https://en.wikipedia.org/wiki/Open-source_model'> ওপেন সোর্স </a> সফ্টওয়্যার দ্বারা চালিত হয়।এটি প্রতিটি কম্পিউটার, প্রতি স্মার্টফোন বা ট্যাবলেটে চালায় এবং আপনার সমস্ত পছন্দসই অ্যাপ্লিকেশনগুলি এটি ছাড়া চলবে না।এটি উন্নত সাধন করে প্রধানত স্বেচ্ছাসেবকদের দ্বারা এবং বিশ্বব্যাপী শৌখিন বাক্তি দ্বারা, আপনার প্রযুক্তিবিদ বন্ধুদের মধ্যে যারা আপনার সাথে ঘুর-ফির এর চাইতে কম্পিউটারকে বেশি ভালবাসে তাদের দারা।ওপেন সোর্স সফ্টওয়্যার বিনামূল্যে এবং সাধারণ সম্পত্তি এবং প্রত্যেককে এটি ব্যবহার করতে ও এটি তাদের প্রয়োজন অনুযায়ী পরিবর্তন করার অনুমতি দেয়।এটা ঊর্ধ্বতন কর্তৃক আরোপিত মানগুলির পরিবর্তে সমষ্টিগত বুদ্ধি উপর নির্ভর করে। এই সব কাজ বিনামূল্যে জন্য সম্পন্ন করা হয়! তবে Utopian এই ধরনের প্রকল্পে অবদানকারী প্রত্যেককে পুরস্কৃত করে, যতক্ষণ মানের গুণমান পূরণ করা হয়।",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "স্বাগতম! আমি Octocat!",
+    "text": "আমি একজন মাসকট হিসাবে গিটহাবে কাজ করি! এটি কাজের জন্য খুব সুন্দর জায়গা। আমরা হাজার হাজার প্রকল্পে একসাথে কাজ করা \nউৎসাহী ও স্বেচ্ছাসেবকদের একটি বিশ্ব-বিস্তৃত সম্প্রদায়। <b>Utopian.io</ b> ওপেন সোর্স প্রোজেক্টগুলিতে অবদান রাখার জন্য আপনাকে পুরস্কৃত করবে যেমন, Bug ফিক্সিং , গ্রন্থে অনুবাদ করা, লিখিত ডকুমেন্টেশন বা ভাল ধারণা শেয়ার করা এবং আরও অনেক কিছু।",
+    "visit": "GitHub.com এ যান!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "একটি প্রকল্প নির্বাচন করুন..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "... এবং অবদান রাখুন!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "পরামর্শগুলি",
+      "text": "সবকিছু একটি ধারণা দিয়ে শুরু হয়। আপনার ধারণা বা ছোট বৈশিষ্ট্যগুলি আমদের সাথে ভাগ করুন এবং একটি প্রকল্প উন্নত করতে সহায়তা করুন।"
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "উপ-প্রকল্প",
+      "text": "আপনি একটি প্রকল্পকে আরও উন্নত জন্য নতুন এবং আরো বিস্তারিত বৈশিষ্ট্য বা ধারণা শেয়ার করুন।"
     },
     "development": {
-      "headline": "Development",
+      "headline": "উন্নয়ন সাধন",
       "text": "If you've written code and created pull requests, share your work with the Utopian community."
     },
     "bughunting": {
