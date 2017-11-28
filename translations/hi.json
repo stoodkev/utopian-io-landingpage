@@ -29,12 +29,12 @@
       "text": "हर चीज़ एक विचार से शुरू होती है. आप अपना विचार हमसे बाटें या कोई छोटी सी अपनी इच्जा और मद्दत करें हमे परियोजना सुधारने में."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "उप परियोजना",
+      "text": "अपने नए और बड़ी विशेषताएं या अवधारणाओं जो आपने बनाये हो किसी परियोजनाओं के लिए."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "विकास",
+      "text": "अगर आपने कोड लीकें हो और पुल्ल रिक्वेस्ट बनाये हूँ, तो अपना काम यूटोपियन समुदाय के साथ बाटें."
     },
     "bughunting": {
       "headline": "Bug Hunting",
