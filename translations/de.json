@@ -116,7 +116,7 @@
     "total_generated": "Insgesamt generiert",
     "steem": {
       "headline": "Wer bezahlt das Geld?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "Für die Bezahlung nutzt Utopian.io die <a href='https://steem.io/'>Steem Blockchain</a>. Das Geld wird durch Votings der Community in Form der Kryptowährung <b>STEEM</b> generiert. Niemand muss die ausgeschütteten Gelder direkt bezahlen. Sie werden durch den sogenannten <i>Proof-of-Brain</i> Algorithmus generiert und verteilt, welcher Menschen dazu ermutigt hochwertige Inhalte zu erstellen und zu bewerten.<br><br>Im Falle von Utopian.io sind diese hochwertigen Inhalte deine Beiträge zur Open Source Welt. In dem du Berichte über deine Arbeit schreibst, kann die Community durch Votings Geld generieren, um dich für deine Arbeit zu belohnen. Zusätzlich können Benutzer sich natürlich auch direkt mit STEEM bezahlen und feste Beträge für bestimmte Aufgaben ausschreiben.<br><br>Der Wert den jeder Nutzer durch seine Stimmabgabe generiert, hängt vom Investment in die Plattform ab. Verdiente oder gekaufte STEEM können in Einfluss umgewandelt werden, sogenannte STEEM POWER, um so den Wert der eigenen Stimme zu erhöhen. Fast <b>4 Millionen STEEM POWER</b> wurden bereits an die Utopian.io Plattform delegiert. Nach aktuellen Kursen entspricht dies einem maximalen Wert von ca. <b>350 USD</b> pro Voting entspricht.<br><br>In unserem <a href='#faq' class='smoothscroll'>FAQ</a> findest du weitere Informationen.",
       "button": "Lerne mehr über Steem"
     }
   },
@@ -125,7 +125,7 @@
     "step2": "Moderatoren überprüfen<br>deine Einreichung!",
     "step3": "Utopian.io und die Community bewerten deine Arbeit!",
     "step4": "Werde nach 7<br>Tagen bezahlt!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "text": "Um die Qualität sicherzustellen, wird jede Einreichung von unseren Moderatoren anhand unserer Regeld überprüft. Regelverstöße führen entweder zu geringerer Bezahlung oder die Einreichung wird gar nicht erst akzeptiert. Es werden allerdings grundsätzlich alle Einreichungen auf der Steem Blockchain veröffentlicht und können somit Geld generieren. In diesem Falle bist du jedoch auf dich allein gestellt. Utopian.io wird deinen Beitrag nicht belohnen oder bewerben.",
     "categories": {
       "suggestions": {
         "headline": "Suggestion Rules",
@@ -251,14 +251,14 @@
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "Bezahlung",
+    "pending": "Ausstehend",
+    "previous": "Ausgezahlt",
+    "meet": "Lerne unsere Moderatorn kennen",
+    "text": "Bei Utopian werden alle Beitragenden für ihrere harte Arbeit belohnt. Das schließt auch unsere Moderatoren ein, die unseren hohen Qualitätsanspruch hochhalten.",
+    "pending_payout": "Ausstehend",
+    "previous_payout": "Ausgezahlt",
+    "text2": "5% des insgesamt für alle Einreichungen generierten Geldes geht an die Moderatoren, basierend auf der Anzahl der überprüften Einreichungen. Um ein Utopian Moderator zu werden, musst du dir zunächst ein gewisses Ansehen erarbeiten und möglichst viele Einreichungen prüfen."
   },
   "faq": {
     "q1": {
