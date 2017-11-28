@@ -162,10 +162,10 @@
       "translation": {
         "headline": "翻译类别规则",
         "rule1": "为了在乌托邦提交翻译，你必须翻译至少30％的中型项目（500-1000字符串），10-15％的大型项目（1000字符串及以上），100％的小型项目（1 - 500字符串）。",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
+        "rule2": "仅将此类别用于为开源代码项目创作或更新的翻译。",
+        "rule3": "您必须在文章中包含您的整个翻译文本，或者包含完整翻译版本的公共链接。",
+        "rule4": "尽可能包含翻译的详细信息，以检查您翻译过的翻译和您使用的翻译工具。",
+        "rule5": "整体翻译总是首选。 如果您的文章是部分翻译，我们保留评估实际工作的权利。",
         "rule6": "您必须是翻译的原作者，并提供验证您的工作的方法。",
         "rule7": "如果您在CrowdIn或类似翻译平台上的用户名与您的乌托邦用户名不同，您必须通过在该翻译平台上提供已登录会话的屏幕截图来证明您拥有该帐户。",
         "rule8": "切勿提交已由您或其他人已经共享过的翻译。"
@@ -191,15 +191,15 @@
       "visibility": {
         "headline": "可见性类别规则",
         "rule1": "在此类别中，提交您为提高开放源代码项目的可见性所做的营销工作的结果; 如社交媒体活动，广告，会议或聚会。",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule2": "您必须提供链接，图片或视频以证明您的努力，并分享结果。",
+        "rule3": "如果您的努力只为开源项目带来了几个新用户/贡献者, 或者一个新用户贡献者也没有带来，那么您就不应该写这个。",
+        "rule4": "您必须证明您的身份。 如果您的Utopian用户名与您用于营销项目的平台上的用户名不同，则必须在这些平台上提供已登录会话的屏幕截图。",
+        "rule5": "永远不要写有关您之前已经共享过的可见性工作。"
       },
       "documentation": {
         "headline": "文档类别规则",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
+        "rule2": "只有当您是在处理开源项目的官方文档时才可以提交到此类别。",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
         "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
         "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
