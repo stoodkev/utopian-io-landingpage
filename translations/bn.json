@@ -50,31 +50,31 @@
     },
     "documentation": {
       "headline": "ডকুমেন্টেশন",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "text": "আপনি যদি কোন প্রজেক্টের (যে কোন ভাষায়) ডকুমেন্টেশন লেখেন, তাহলে আপনি সম্প্রদায়ের সাথে এটি সেয়ার করতে পারেন।"
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "বিশ্লেষন",
+      "text": "আপনি হয়তো একটি নির্দিষ্ট প্রকল্প এর তথ্য বিশ্লেষণ এবং এটি থেকে দরকারী তথ্য বের করেছেন। এটিও আপনি সম্প্রদায়ের সাথে শেয়ার করেতে পারেন।"
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "দৃশ্যমানতা",
+      "text": "মার্কেটিং প্রচেষ্টাও Utopian এর মাধ্যমে পুরস্কৃত করা হবে। ভাল একটি ওপেন সোর্স প্রোজেক্টকে উন্নীত করার জন্য আপনি কি করেছেন তা সম্প্রদায়কে জানান।"
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "টিউটোরিয়াল",
+      "text": "তথ্যপূর্ণ টিউটোরিয়াল লিখুন এবং অন্যান্য লোকেদের ওপেন সোর্স বিষয়গুলি ব্যবহার করতে সহায়তা করুন।"
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "ভিডিও টিউটোরিয়াল",
+      "text": "একটি ওপেন সোর্স বিষয়ের জন্য how-to ভিডিও তৈরি করুন এবং এটি কিভাবে ব্যবহার করবেন তা অন্যদের শিখতে সহায়তা করুন।"
     },
     "copywriting": {
-      "headline": "Copywriting",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "headline": "কপিরাইটিং",
+      "text": "ওপেন সোর্স প্রকল্পের জন্য জড়িত এবং তথ্যপূর্ণ কপি লিখুন, এবং তাদের ব্র্যান্ডের শক্তি উন্নত করুন।"
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
+    "headline": "প্রকল্প মালিকদের জন্য Utopian",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
       "headline": "Thinkers",
