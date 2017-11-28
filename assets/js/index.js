@@ -2,7 +2,7 @@ let scrollController = new ScrollMagic.Controller();
 
 $(function () {
   // smoothscroll
-  $('#navbar').find('.smoothscroll').on('click', function(e) {
+  $(document).on('click', '.smoothscroll', function(e) {
     e.preventDefault();
 
     let hash = this.hash;
