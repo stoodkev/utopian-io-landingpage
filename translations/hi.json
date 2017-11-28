@@ -1,31 +1,31 @@
 {
   "nav": {
-    "rewards": "Rewards",
+    "rewards": "इनाम",
     "rules": "Rules",
-    "moderators": "Moderators",
-    "faq": "FAQ",
-    "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "moderators": "मध्यस्थ",
+    "faq": "सामान्य प्रश्न",
+    "blog": "ब्लॉग",
+    "signup": "सिग्न उप",
+    "login": "लोग इन"
   },
   "header": {
-    "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text1": "यूटोपियन. ऑय o",
+    "text2": "ओपन सोर्स इकॉनमी",
+    "text3": "पोरोस्कार कमाओ अपने ओपन <br> सोर्स प्रोजेक्ट में योगदान देक"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "हमारा मॉडर्न जमाना चलता है <a href='https://en.wikipedia.org/wiki/Open-source_model'> ओपन सोर्स </a> सॉफ्टवेयर. ये हर कंप्यूटर पर  चलता है, सारे स्मार्टफोन्स या  टेबलेट और आपके पसंदीदा अप्प्स इसके बिना नहीं चल सकती. ये ज्यादातर  पूरी दुनिया के स्वयंसेवक द्वारा और शौकिया लोगों द्वारा बनायीं जाती हैं. ये उन आपके उन पादको दोस्तों के द्वारा बनायीं जाती है जो अपने दोस्तों से न मिल के कंप्यूटर पर समय बिताते हैं. ओपन सोर्स सॉफ्टवेयर मुफ्त है और सबकी सम्पति है और ये सब इससे अपने जरूरत के हिसाब से ढाल सकते हैं. ये सबकी सामूहिक बुद्धि पर निर्भर करता है न की उप्पेर वाले लोगों की मर्ज़ी पर. और ये सारा काम मुफ्त होता है ! यूटोपियन सब उन लोगों को इनाम देता है जो उसके काम में सहता करते हैं जब तक की उनका काम ाचा हो.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "नमस्ते! मैं ऑक्टोकैत!",
+    "text": "मैं गिटहब में काम करती हूँ,शुभंकर की तरह! ये बहुत अछि जगह है. हम दुनिया में फैले हुए उत्साही और स्वयंसेवकों हैं  जो एक साथ काम करते हैं हजाररों बढ़िया प्रोजेक्ट्स पर. </b>यूटोपियन.ीो</b> आपको इनाम भी मिलता है आपके योदान करने के लिए प्रोजेक्ट्स में, जैसे गलतियां ठीक करना, शब्दों का \nअनुवाद करना, प्रलेखन करना या अपने अचे विचारों को औरों के बीच रखना और बहुत कुछ और.",
+    "visit": "आइए गिटहब.कॉम पर"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "परियोजना चुने..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...और योगदान करें",
     "suggestions": {
-      "headline": "Suggestions",
+      "headline": "सुझाव",
       "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
     },
     "subprojects": {
