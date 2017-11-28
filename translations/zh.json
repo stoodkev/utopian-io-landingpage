@@ -200,17 +200,17 @@
         "headline": "文档类别规则",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "只有当您是在处理开源项目的官方文档时才可以提交到此类别。",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule3": "您必须是整个文档的作者，或者您的工作适用于文档的更改/增强功能。",
+        "rule4": "只有正式的官方项目文件工作可以在这个类别提交， 任何其他文件请使用教程类别。",
+        "rule5": "如果您没有发布您所撰写的完整内容，则必须提供指向完整内容的公共链接。",
+        "rule6": "你必须提供你所做的工作的充分证明。",
         "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "rule8": "永远不要提交以前已经共享过的文档工作。"
       },
       "tutorials": {
         "headline": "教程类别规则",
         "rule1": "机器翻译的教程将被拒绝。",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
+        "rule2": "此类别仅用于为开源项目提供教程。",
         "rule3": "教程可以使用任何语言。",
         "rule4": "一段英文文本介绍始终是必需的，在帖子的顶部。",
         "rule5": "如果您的教程还包含视频，则应该使用“视频教程”类别。",
@@ -226,12 +226,12 @@
         "rule4": "一段英文文本介绍始终是必需的，在帖子的顶部。",
         "rule5": "您必须是视频教程的作者。",
         "rule6": "您必须直接在帖子中嵌入视频。 目前，YouTube视频是强制性的。",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "rule7": "一般情况下，请不要发表在Steem区块链上您已经共享过的视频教程。"
       },
       "copywriting": {
         "headline": "文案类别规则",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
+        "rule2": "仅使用此类别展示您已完成的开源代码项目的文案撰写工作。",
         "rule3": "文案可以用任何语言。",
         "rule4": "英文文本介绍始终是必须的，在帖子的顶部。",
         "rule5": "你必须是作者。",
@@ -245,8 +245,8 @@
         "rule3": "博客帖子必须提供与开源项目相关的详细内容和概述。",
         "rule4": "图像，屏幕截图，链接和示例不是必要的，但是是非常欢迎的。",
         "rule5": "检查以确保您的帖子不符合其他类别（例如教程或文案）。",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule6": "永远不要写您以前已经分享过的博客文章。",
+        "rule7": "我们对这个类别的要求特别严格，因为过去我们在这里看到了大量的滥用行为。"
       }
     }
   },
@@ -258,16 +258,16 @@
     "text": "在乌托邦方面，所有贡献者都因为他们的辛勤工作而受到奖励，其中包括我们的审核人员，他们确保了平台上的高质量标准。",
     "pending_payout": "待付款",
     "previous_payout": "之前的付款",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "text2": "5％的贡献者奖励根据审查人员已经审查的贡献量分发给他们。 要成为一个乌托邦审查人员，你必须有很高的声誉，并经常审查提交的贡献文稿。"
   },
   "faq": {
     "q1": {
       "headline": "1. 什么是乌托邦？",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "text": "<p>开源软件一直与世界各地的志愿者工作联系在一起，他们不一定能得到所有辛苦工作的报酬。 这些开源软件运行在你能想到的每个设备，网站和应用程序上。 它们往往是由无私奉献自己的时间和精力的志愿者，业余爱好者创建的。</p>\n<p>乌托邦正在建立一个开源代码的经济体系，在这个经济体系中，为开源项目做出了宝贵贡献的人们因其辛勤工作而获得回报。这个经济体系建立在Steem区块链的顶端，乌托邦利用人群的智慧来奖励这些宝贵的贡献。项目所有者和其他贡献者都可以决定如何通过投票或个人喜欢来分配奖励，并且他们也可以选择直接支付这些贡献者，方法是使用名为STEEM的加密货币支付，这种加密货币可以很容易地与其它加密货币交易，如比特币和以太坊。</p>"
     },
     "q2": {
       "headline": "2. 什么是Steem？",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "text": "Steem是支持社交媒体应用及其内容的下一代区块链。 它采用独特的“脑力证明”机制，利用人群的智慧来奖励对各自社区作出有价值贡献的人。它的原始货币被称为STEEM，它就是乌托邦贡献者的回报。</ p> <p> <a href='https://steem.io'>进一步了解Steem </a> </ p>"
     },
     "q3": {
       "headline": "3. 奖励从何而来？",
