@@ -148,15 +148,15 @@
         "rule1": "কেবল মার্জ করা Pull Request গ্রহন করা হবে বা মুক্ত উত্স প্রকল্পগুলি যা আপনি বজায় রাখেন আগে কখনোই Utipian পোস্ট করেন না, ফর্কগুলি যতদিন ফর্ক করা হয় তা কেবল মূল একটি আয়না নয়, কাজের প্রমাণ প্রয়োজন।",
         "rule2": "এই বিভাগে,আপনি শুধুমাত্র লিখতে পারেন আপনি কিভাবে একটি প্রকল্প উন্নয়নের জন্য কোড লিখে বা তার উন্নয়ন সাধন ঘটাতে পারেন ।",
         "rule3": "আপনাকে অবশ্যই শাখার লিঙ্কগুলি, ফর্কগুলি, gists বা pull request প্রদান করতে হবে।",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "rule4": "যদি আপনার Github ইউজারনেম আপনার Utopian ইউজারনেমের হিসাবে একই না হয় , তবে Github লগ ইন সেশনের একটি স্ক্রিনশট প্রদান করে প্রমাণ করতে হবে যে আপনি অ্যাকাউন্টটির মালিক।",
+        "rule5": "চিত্র, স্ক্রিনশট, লিঙ্ক এবং উদাহরণগুলি প্রয়োজনীয় নয় কিন্তু পছন্দসই।",
+        "rule6": "আগে শেয়ার করা হয়েছে এমন কোড অবদানগুলি সম্পর্কে কখন লিখিয়েন না।"
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
+        "headline": "ট্রুটি খোঁজার নিয়ম",
+        "rule1": "শুধুমাত্র একটি ওপেন সোর্স প্রোজেক্টে পাওয়া ত্রুটিগুলি প্রতিবেদন করতে এই বিভাগটি ব্যবহার করুন।",
+        "rule2": "ত্রুটি পুনর্গঠন করতে প্রয়োজনীয় সকল সম্ভাব্য তথ্য আপনাকে সরবরাহ করতে হবে।",
+        "rule3": "উদাহরণস্বরূপ: আপনার ব্যবহৃত ব্রাউজার , ডিভাইসের ধরন, অপারেটিং সিস্টেম এবং অনুরূপ বিবরণ অন্তর্ভুক্ত করা উচিত।",
         "rule4": "Never report bugs that have already been shared before, by you or someone else."
       },
       "translation": {
