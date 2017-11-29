@@ -128,20 +128,20 @@
     "text": "Pour assurer la qualité, chaque contribution est passée en revue par un de nos modérateurs, selon nos règles. Ne pas respecter ces règles va soit diminuer les récompenses ou stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et elle peut obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
     "categories": {
       "suggestions": {
-        "headline": "Règles pour les suggestions",
+        "headline": "Règles pour une suggestion",
         "rule1": "Les suggestions sont des fonctionnalités/améliorations mineurs que vous aimeriez avoir dans un projet Open Source.",
         "rule2": "Les suggestions doivent fournir suffisamment de détails pour que la fonctionnalité demandée puisse être conçue.",
         "rule3": "Les images, les captures d'écran, les liens et les exemples sont toujours les bienvenus dans cette catégorie.",
         "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées auparavant ou sur des suggestions déjà partagées par quelqu'un d'autre."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "headline": "Règles pour un sous-projet",
+        "rule1": "Un sous-projet est un ensemble de fonctionnalités nouvelles ayant un grand impact sur le projet.",
+        "rule2": "Les sous-projets doivent fournir des détails clair pour que les fonctionnalités puissent être conçues.",
+        "rule3": "Les images, les captures d'écran, les liens, les flux, les maquettes et les exemples sont toujours obligatoires dans cette catégorie.",
+        "rule4": "Dans cette catégorie, la qualité du contenu est le facteur principal pour être accepté sur Utopian.",
+        "rule5": "Si vous croyez que votre idée n'est pas un sous-projet, utilisez la catégorie Suggestion à la place.",
+        "rule6": "N'écrivez jamais à propos de projets que vous avez déjà partagés auparavant ou sur des projets déjà partagés par quelqu'un d'autre."
       },
       "development": {
         "headline": "Development Rules",
