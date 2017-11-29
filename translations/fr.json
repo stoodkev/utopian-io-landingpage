@@ -98,24 +98,24 @@
     },
     "writers": {
       "headline": "Rédacteurs techniques",
-      "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
+      "text": "Obtenez de la documentation claire pour votre projet qui informe correctement vos utilisateurs ainsi que toute autre personne intéressée."
     },
     "analysts": {
-      "headline": "Data Analysts",
-      "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
+      "headline": "Analystes de données",
+      "text": "Extrayez la signification de vos données, découvrez les tendances et prenez des décisions informées pour votre projet grâce à l'aide d'analystes de données."
     },
     "influencers": {
-      "headline": "Influencers",
-      "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
+      "headline": "Influenceurs",
+      "text": "Coordonnez le marketing en ligne ou hors ligne de façon efficace avec l'aide d'influenceurs à travers le monde et donner à votre projet l'attention qu'il mérite."
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "Récompenses de contributeur",
+    "curator_rewards": "Récompenses de curateur",
+    "pending_rewards": "Récompenses en attente",
+    "total_generated": "Total généré",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "Qui paie les récompenses?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
       "button": "Learn more about Steem"
     }
