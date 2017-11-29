@@ -129,9 +129,9 @@
     "categories": {
       "suggestions": {
         "headline": "প্রস্তাবনা বিধি",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
-        "rule3": "Images, screenshots, links and examples are always welcome in this category.",
+        "rule1": "পরামর্শগুলি ছোটখাট বৈশিষ্ট্য / বর্ধনগুলি যা আপনি একটি ওপেন সোর্স প্রোজেক্টে চান।",
+        "rule2": "প্রস্তাবিত বস্তুগুলি প্রকৃতপক্ষে নির্মিত হবে বলে যথেষ্ট এমন তথ্য সরবরাহ করতে হবে।",
+        "rule3": "চিত্র, স্ক্রিনশট, লিঙ্ক এবং উদাহরণগুলি সবসময় এই বিভাগে স্বাগত জানায়।",
         "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
       },
       "subprojects": {
