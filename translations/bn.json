@@ -161,7 +161,7 @@
       },
       "translation": {
         "headline": "অনুবাদ করার নিয়ম",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
+        "rule1": "Utopian এ একটি অনুবাদ প্রকল্প জমা দেওয়ার জন্য আপনাকে মাঝারি আকারের প্রকল্পের (৫০০-১০০০টি স্ট্রিং) ৩০%, ১০-১৫% বড় প্রকল্পের জন্য (১০০০এবং ঊর্ধ্ব) , ছোট প্রকল্পের জন্য ১০০% (1 - 500) অনুবাদ করতে হবে।",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
         "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
