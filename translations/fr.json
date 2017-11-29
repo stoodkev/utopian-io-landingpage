@@ -162,31 +162,31 @@
       "translation": {
         "headline": "Règles pour une traduction",
         "rule1": "Afin de soumettre une traduction sur Utopian vous devez au moins avoir traduit 30% du projet dans le cas de projet de taille moyenne (500-1000 lines), 10-15% pour les grands projets (1000 et plus), 100% pour les petits projets (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule2": "Utilisez cette catégorie uniquement pour les traductions que vous avez rédigées ou mises à jour pour un projet Open Source.",
+        "rule3": "Vous devez soit inclure votre texte traduit entier dans l'article soit inclure des liens publics vers les versions complètes.",
+        "rule4": "Indiquez autant de détails que possible, afin de vérifier les traductions et les outils que vous avez utilisez pour traduire.",
+        "rule5": "Des traductions entières sont toujours préférées. Si vous écrivez une traduction partielle, nous nous réservons le droit d'évaluer le travail réellement effectué.",
+        "rule6": "Vous devez être l'auteur de la traduction et fournir un moyen de vérifier votre travail.",
+        "rule7": "Si vote nom d'utilisateur sur CrowdIn ou d'autres plateformes de traduction similaires est différent de celui sur Utopian, vous devez prouvez que vous possédez le compte en fournissant une capture d'écran de la session connectée sur cette plateforme de traduction.",
+        "rule8": "Ne soumettez jamais de traductions qui ont déjà été partagées, par vous ou une autre personne."
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "headline": "Règles pour un graphisme",
+        "rule1": "Nous nous réservons le droit de rejeter une contribution graphique si nous pensons que le travail n'est pas suffisant que pour être récompensé.",
+        "rule2": "Dans cette catégorie, soumettez seulement des graphiques tels que des logos, des images, des arrière-plans, des vidéos ou des animations que vous avez créé pour un projet Open Source.",
+        "rule3": "Vous devez inclure des échantillons de vos créations directement dans votre article ainsi que des liens publics vers les modèles complets.",
+        "rule4": "Vous devez inclure autant de détails que possible pour vérifier le travail que vous avez fait.",
+        "rule5": "Vous devez fournir les fichiers avec les sources éditables (telles que .psd .ai .eps .svg .cdr).",
+        "rule6": "Les T-shirts et les conceptions de merchandising en général ne sont pas les bienvenus, à moins que ce ne soit sur demande explicite du propriétaire du projet.",
+        "rule7": "Ne rédigez jamais sur des graphiques qui ont déjà été postés, par vous ou quelqu'un d'autre."
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "headline": "Règles pour une analyse",
+        "rule1": "Cette catégorie est réservée aux analyse que vous avez préparées pour un projet Open Source.",
+        "rule2": "Vous devez inclure des résultats détaillés et expliquer les raisons qui les expliquent.",
+        "rule3": "Si vous ne publiez pas l'entièreté de votre analyse, vous devez fournir des liens publics vers les versions complètes.",
+        "rule4": "Les résultats de l'analyse, sous forme de graphiques ou de tableaux, sont obligatoires dans cette catégorie.",
+        "rule5": "Ne soumettez jamais d'analyses qui ont déjà été publiées auparavant, par vous ou quelqu'un d'autre."
       },
       "visibility": {
         "headline": "Visibility Rules",
