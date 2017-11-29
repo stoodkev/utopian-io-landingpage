@@ -230,47 +230,47 @@
       },
       "copywriting": {
         "headline": "Règles pour une rédaction",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "rule1": "Seul les Pull Requests fusionées sur le référentiel officiel ou sur un fork seront acceptées aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
+        "rule2": "Utilisez cette catégorie uniquement pour montrer un travail de rédaction que vous avez effectué pour une projet Open Source.",
+        "rule3": "La rédaction peut être dans n'importe quelle langue.",
+        "rule4": "Un texte d'introduction en anglais est toujours obligatoire, en haut de l'article.",
+        "rule5": "Vous devez être l'auteur.",
+        "rule6": "S'il y a lieu, des liens vers les Pull Requests que vous avez soumis sur GitHub qui contiennent votre travail.",
+        "rule7": "Ne postez jamais du travail de rédaction que vous avez déjà partagé auparavant."
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
-        "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "headline": "Règles pour un article de blog",
+        "rule1": "Vous devez fournir un format original. Vous ne pouvez pas poster sur des nouvelles trouvées sur internet ou sur des idées générales, à moins que vous n'ayez un format unique et cohérent. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Exemple d'un bon format</a>.",
+        "rule2": "Vous pouvez seulement écrire des articles de blog qui sont liés à <b>des projets Open-Source</b> ou au <b>mouvement Open-Source</b> en général.",
+        "rule3": "Les articles de blog doivent fournir du contenu détaillé et des aperçus en lien avec les projets Open Source.",
+        "rule4": "Les images, les captures d'écran, les liens et les exemples ne sont pas nécessaires mais appréciés.",
+        "rule5": "Assurez-vous que votre article ne rentre pas dans d'autres catégories (Tutoriels ou Rédaction par exemple).",
+        "rule6": "N'écrivez jamais d'articles de blog que vous avez déjà partagés auparavant.",
+        "rule7": "Nous serons particulièrement rigoureux pour cette catégorie comme nous avons vu des abus par le passé."
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "Récompenses",
+    "pending": "En attente",
+    "previous": "Précédent",
+    "meet": "Découvrez nos modérateurs",
+    "text": "Sur Utopian, tous les contributeurs sont récompensés pour leur travail acharné, de même que nos modérateurs, qui assurent le respect des normes de qualité élevées sur la plateforme.",
+    "pending_payout": "Paiement en attente",
+    "previous_payout": "Paiement précédent",
+    "text2": "5% des récompenses totales des contributeurs qui sont générées sont versées aux modérateurs en fonction du nombre de contributions qu'ils ont examinées. Pour devenir un modérateur d'Utopian vous devez avez avoir une grande réputation et avoir régulièrement examiné les contributions soumises."
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "headline": "1. Qu'est-ce que c'est Utopian?",
+      "text": "<p>Le logiciel Open Source a toujours été associé avec le travail volontaire d'individus à travers le monde qui ne sont pas nécessairement payé pour tout leur travail. Ce logiciel peut fonctionner sur tous les appareils, les sites web et les applications auxquels vous pouvez pensez. Il est souvent créé par des bénévoles, des amateurs et des passionnés qui désintéressement dédient leur temps et leurs efforts pour la cause.</p><p>Utopian est en train de construire une économie, dans laquelle les personnes qui font de précieuses contributions pour ouvrir des projets Open Source sont récompensés pour leur travail acharné. Construit au sommet de la blockchain Steem, Utopian utilise la sagesse de la foule pour récompenser les contributions de qualité. Les propriétaires de projet et les autres contributeurs décident tous de comment les récompenses sont allouées à travers le vote ou en aimant les contributions des individus, et ils ont également la possibilité de soutenir directement les contributeurs en les payant avec de la crypto-monnaie appelée Steem, laquelle peut être facilement échangée avec d'autres crytpo-monnaies telles que Bitcoin et Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "headline": "2. Qu'est-ce que c'est Steem?",
+      "text": "<p>Steem est une blockchain de dernière génération qui soutient les applications des réseaux sociaux et leurs contenus. Il utilise un mécanisme unique qui se sert de la sagesse de la foule pour récompenser les personnes qui ont fait de contributions de qualité envers leurs communautés respectives. Sa monnaie native est appelée STEEM et c'est la monnaie avec laquelle les contributeurs d'Utopian sont récompensés.</p><p><a href='https://steem.io'>En savoir plus sur Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
+      "headline": "3. D'où viennent les récompenses?",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
