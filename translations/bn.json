@@ -97,45 +97,45 @@
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
-      "headline": "Technical Writers",
-      "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
+      "headline": "কারিগরী লেখক",
+      "text": "আপনার প্রোজেক্টের জন্য তৈরি ডকুমেন্টেশন পান যা সঠিকভাবে আপনার ব্যবহারকারী এবং অন্যান্য স্টকহোল্ডারদের জানায়।"
     },
     "analysts": {
-      "headline": "Data Analysts",
+      "headline": "তথ্য বিশ্লেষক",
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "প্রভাব বিস্তারকারী",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "অবদানকারী পুরস্কার",
+    "curator_rewards": "কিউরেটর পুরস্কার",
+    "pending_rewards": "মূলতুবি পুরস্কারগুলি",
+    "total_generated": "মোট উৎপন্ন",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "কারা পুরস্কার দেয়?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "button": "Steem সম্পর্কে আরও জানুন"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
-    "step3": "Get upvoted by Utopian.io and the community!",
-    "step4": "Get paid<br>after 7 days!",
+    "step1": "আমাদের নিয়ম <br>মেনে!",
+    "step2": "আমাদের <br>মডারেটর কর্তৃক পর্যালোচিত হোন।",
+    "step3": "Utopian.io এবং সম্প্রদায় দ্বারা আপভোট পান!",
+    "step4": "টাকা পান<br>৭ দিন পর!",
     "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
+        "headline": "প্রস্তাবনা বিধি",
         "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
         "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
         "rule3": "Images, screenshots, links and examples are always welcome in this category.",
         "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
+        "headline": "উপ-প্রকল্পের নিয়ম",
         "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
         "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
         "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
@@ -144,7 +144,7 @@
         "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
       },
       "development": {
-        "headline": "Development Rules",
+        "headline": "উন্নয়ন বিধিমালা",
         "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
