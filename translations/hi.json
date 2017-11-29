@@ -1,7 +1,7 @@
 {
   "nav": {
     "rewards": "इनाम",
-    "rules": "Rules",
+    "rules": "नियम",
     "moderators": "मध्यस्थ",
     "faq": "सामान्य प्रश्न",
     "blog": "ब्लॉग",
@@ -54,27 +54,27 @@
     },
     "analysis": {
       "headline": "विश्लेषण",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "text": "शायद आपने किसी परियोजना के लिए विश्लेषण किया हो और उससे कुछ जरूरी जानकारी निकली हो. वह आप समुदाय से बाँट सकते हैं."
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "दृश्यता",
+      "text": "विपणन प्रयासों को भी पुरस्कृत किया जा सकता है. आप समुदाय को बताएं की आपने क्या किया है और ओपन सोर्स परियोजनाओं को बढ़ावा दें."
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "ट्यूटोरियल",
+      "text": "जानकारीपूर्ण टुटोरिअल्स लिखें और लोगों की सहायता करें ओपन सोर्स के उत्पादों का प्रयोग करने में."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "वीडियो टुटोरिअल्स",
+      "text": "आप हाउ तो वीडियोस बना सकते हैं ओपन सोर्स उत्पाद के लिए और लॉगिन की सहायता कर सकते हैं की उन्हें कैसे उपयोग में लाएं."
     },
     "copywriting": {
-      "headline": "Copywriting",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "headline": "कोप्यवरिटिंग",
+      "text": "आप मनमोहित और जानकारी प्रतिलिपि लिख सकते हैं ओपन सोर्स के लिए, और उनके पब्रांड की मजबूती बड़ा सकते हैं."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
+    "headline": "यूटोपियन परियोजना मालिकों के लिए.",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
       "headline": "Thinkers",

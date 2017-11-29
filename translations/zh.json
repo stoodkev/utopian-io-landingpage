@@ -116,7 +116,7 @@
     "total_generated": "生成总计",
     "steem": {
       "headline": "谁来支付这些奖励？",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "为了支付奖励，Utopian.io使用<a href='https://steem.io/'> Steem区块链</a>。这笔钱是通过社区投票以<b> STEEM </ b>这种加密货币形成的。没有人需要直接支付奖励。它们使用一种称为<i>Proof-of-Brain</i>的算法来生成和分发，这个算法鼓励人们创建和审核高质量的内容。在Utopian.io中，高质量内容指的是你关于开源世界的贡献。通过点赞你的贡献，STEEM社区创造金钱来奖励你的工作。人们也可以选择直接使用他们自己的STEEM奖励彼此，但这不是必需的。用户投票的价值是基于他/她自己在平台上的投资，股权和他们投票的价值的多少。 Utopian.io本身可以对你的贡献进行投票。超过300万的Steem Power被委托给Utopian.io平台的账户，使它的全力投票价值在当前市场价格下相当于250美元。<br><br><a href='#faq'>检查常见问题</a>了解更多信息。",
       "button": "了解更多关于Steem的信息"
     }
   },
@@ -161,11 +161,11 @@
       },
       "translation": {
         "headline": "翻译类别规则",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
+        "rule1": "为了在乌托邦提交翻译，你必须翻译至少30％的中型项目（500-1000字符串），10-15％的大型项目（1000字符串及以上），100％的小型项目（1 - 500字符串）。",
+        "rule2": "仅将此类别用于为开源代码项目创作或更新的翻译。",
+        "rule3": "您必须在文章中包含您的整个翻译文本，或者包含完整翻译版本的公共链接。",
+        "rule4": "尽可能包含翻译的详细信息，以检查您翻译过的翻译和您使用的翻译工具。",
+        "rule5": "整体翻译总是首选。 如果您的文章是部分翻译，我们保留评估实际工作的权利。",
         "rule6": "您必须是翻译的原作者，并提供验证您的工作的方法。",
         "rule7": "如果您在CrowdIn或类似翻译平台上的用户名与您的乌托邦用户名不同，您必须通过在该翻译平台上提供已登录会话的屏幕截图来证明您拥有该帐户。",
         "rule8": "切勿提交已由您或其他人已经共享过的翻译。"
@@ -175,42 +175,42 @@
         "rule1": "如果我们认为这项工作还不足以获得奖励，我们保留拒绝图形类别贡献的权利。",
         "rule2": "在此类别中，只能提交您为开放源代码项目创建的图形，如徽标，图标，背景，视频或动画。",
         "rule3": "您必须直接在您的文章中包含您创作的样本和指向完整设计的公共链接。",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule4": "您必须尽可能详细地证实您所做的工作。",
+        "rule5": "您必须提供可编辑的源文件（例如.psd .ai .eps .svg .cdr）。",
+        "rule6": "除非项目所有者明确要求，否则不欢迎T恤和商品设计。",
+        "rule7": "切勿发布由您或其他人共享过的图片。"
       },
       "analysis": {
         "headline": "分析类别规则",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule1": "此类别仅用于您为开源项目准备的分析。",
+        "rule2": "您的文章必须包含详细的结果，并解释他们背后的原因。",
+        "rule3": "如果您没有完整发布您的分析，您必须提供指向完整版本的公共链接。",
+        "rule4": "分析结果请以图表或表格的形式呈现，这个要求在此类别中是强制性的。",
+        "rule5": "切勿提交由您或其他人已经分享过的分析报告。"
       },
       "visibility": {
         "headline": "可见性类别规则",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule1": "在此类别中，提交您为提高开放源代码项目的可见性所做的营销工作的结果; 如社交媒体活动，广告，会议或聚会。",
+        "rule2": "您必须提供链接，图片或视频以证明您的努力，并分享结果。",
+        "rule3": "如果您的努力只为开源项目带来了几个新用户/贡献者, 或者一个新用户贡献者也没有带来，那么您就不应该写这个。",
+        "rule4": "您必须证明您的身份。 如果您的Utopian用户名与您用于营销项目的平台上的用户名不同，则必须在这些平台上提供已登录会话的屏幕截图。",
+        "rule5": "永远不要写有关您之前已经共享过的可见性工作。"
       },
       "documentation": {
         "headline": "文档类别规则",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule2": "只有当您是在处理开源项目的官方文档时才可以提交到此类别。",
+        "rule3": "您必须是整个文档的作者，或者您的工作适用于文档的更改/增强功能。",
+        "rule4": "只有正式的官方项目文件工作可以在这个类别提交， 任何其他文件请使用教程类别。",
+        "rule5": "如果您没有发布您所撰写的完整内容，则必须提供指向完整内容的公共链接。",
+        "rule6": "你必须提供你所做的工作的充分证明。",
         "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "rule8": "永远不要提交以前已经共享过的文档工作。"
       },
       "tutorials": {
         "headline": "教程类别规则",
         "rule1": "机器翻译的教程将被拒绝。",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
+        "rule2": "此类别仅用于为开源项目提供教程。",
         "rule3": "教程可以使用任何语言。",
         "rule4": "一段英文文本介绍始终是必需的，在帖子的顶部。",
         "rule5": "如果您的教程还包含视频，则应该使用“视频教程”类别。",
@@ -226,12 +226,12 @@
         "rule4": "一段英文文本介绍始终是必需的，在帖子的顶部。",
         "rule5": "您必须是视频教程的作者。",
         "rule6": "您必须直接在帖子中嵌入视频。 目前，YouTube视频是强制性的。",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "rule7": "一般情况下，请不要发表在Steem区块链上您已经共享过的视频教程。"
       },
       "copywriting": {
         "headline": "文案类别规则",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
+        "rule2": "仅使用此类别展示您已完成的开源代码项目的文案撰写工作。",
         "rule3": "文案可以用任何语言。",
         "rule4": "英文文本介绍始终是必须的，在帖子的顶部。",
         "rule5": "你必须是作者。",
@@ -245,8 +245,8 @@
         "rule3": "博客帖子必须提供与开源项目相关的详细内容和概述。",
         "rule4": "图像，屏幕截图，链接和示例不是必要的，但是是非常欢迎的。",
         "rule5": "检查以确保您的帖子不符合其他类别（例如教程或文案）。",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule6": "永远不要写您以前已经分享过的博客文章。",
+        "rule7": "我们对这个类别的要求特别严格，因为过去我们在这里看到了大量的滥用行为。"
       }
     }
   },
@@ -258,28 +258,28 @@
     "text": "在乌托邦方面，所有贡献者都因为他们的辛勤工作而受到奖励，其中包括我们的审核人员，他们确保了平台上的高质量标准。",
     "pending_payout": "待付款",
     "previous_payout": "之前的付款",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "text2": "5％的贡献者奖励根据审查人员已经审查的贡献量分发给他们。 要成为一个乌托邦审查人员，你必须有很高的声誉，并经常审查提交的贡献文稿。"
   },
   "faq": {
     "q1": {
       "headline": "1. 什么是乌托邦？",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "text": "<p>开源软件一直与世界各地的志愿者工作联系在一起，他们不一定能得到所有辛苦工作的报酬。 这些开源软件运行在你能想到的每个设备，网站和应用程序上。 它们往往是由无私奉献自己的时间和精力的志愿者，业余爱好者创建的。</p>\n<p>乌托邦正在建立一个开源代码的经济体系，在这个经济体系中，为开源项目做出了宝贵贡献的人们因其辛勤工作而获得回报。这个经济体系建立在Steem区块链的顶端，乌托邦利用人群的智慧来奖励这些宝贵的贡献。项目所有者和其他贡献者都可以决定如何通过投票或个人喜欢来分配奖励，并且他们也可以选择直接支付这些贡献者，方法是使用名为STEEM的加密货币支付，这种加密货币可以很容易地与其它加密货币交易，如比特币和以太坊。</p>"
     },
     "q2": {
       "headline": "2. 什么是Steem？",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "text": "Steem是支持社交媒体应用及其内容的下一代区块链。 它采用独特的“脑力证明”机制，利用人群的智慧来奖励对各自社区作出有价值贡献的人。它的原始货币被称为STEEM，它就是乌托邦贡献者的回报。</ p> <p> <a href='https://steem.io'>进一步了解Steem </a> </ p>"
     },
     "q3": {
       "headline": "3. 奖励从何而来？",
-      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+      "text": "Steem的经济模型允许它以每年约9.5％的预定通货膨胀率创造新的代币（或货币单位），在接下来的二十五年中每年下降约0.5％，直到当年通货膨胀率达到0.95％。这些新的代币不断分发给通过社区投票认为在进行有价值的行动的人们。就乌托邦社区而言，作为项目所有者，和其他在开源软件开发中的贡献者？？？，他们在如何分配这些新的代币方面有发言权，与 他们在Steem生态系统中的股份（即他们拥有多少Steem Power）。他们拥有越多的Steem权力，他们可以给贡献者更多的回报。贡献者可以在帖子或贡献发表后七天内赎回他们的回报。</ p> <p> <a href ='https：//steem.io'>了解更多关于Steem生态系统的信息</a> </ p>"
     },
     "q4": {
       "headline": "4. 我在哪里找到我的钱包？",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "text": "<p>当每个帖子到达付款日期（即您发布日期后7天）时，您在“乌托邦”上赚取的所有STEEM都会出现在您的账户中。 在这个时候，奖励可以用来兑换您的账户余额。</ p> <p>要查看您的账户余额并获得您的资金，您需要转到<a href =“https：//steemit.com'>steemit.com</A>。 有一个名为“钱包”的部分，你可以看到你拥有多少STEEM，也有工具来转移它。 Steemit Inc.目前正在开发一款移动STEEM钱包应用程序，一旦这款应用程序发布，它将成为管理STEEM钱包的最简单方法。</ p>"
     },
     "q5": {
       "headline": "5、我如何将我的STEEM兑现？",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "text": "一旦你的钱包里有STEEM，你就可以把它转移到一个支持STEEM的加密货币交易所，像<a href='https://poloniex.com/'> Poloniex </a>或<a href =https://bittrex.com/'>Bittrex</A>。 在那里，你可以交换它用于比特币或以太坊等其他加密货币，这些加密货币比较容易兑换成法币（例如美元）。</ p> <p>或者你可以使用<a href ='https：//blocktrades.us/ '> Blocktrades </a>，它被集成到Steemit钱包界面中。 只需点击您的STEEM余额，就会出现下拉菜单。 然后点击“卖”，你将被带到Blocktrades。</ p>"
     },
     "q6": {
       "headline": "6. 我如何获取更多的奖励？",
