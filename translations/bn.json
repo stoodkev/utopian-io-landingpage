@@ -157,10 +157,10 @@
         "rule1": "শুধুমাত্র একটি ওপেন সোর্স প্রোজেক্টে পাওয়া ত্রুটিগুলি প্রতিবেদন করতে এই বিভাগটি ব্যবহার করুন।",
         "rule2": "ত্রুটি পুনর্গঠন করতে প্রয়োজনীয় সকল সম্ভাব্য তথ্য আপনাকে সরবরাহ করতে হবে।",
         "rule3": "উদাহরণস্বরূপ: আপনার ব্যবহৃত ব্রাউজার , ডিভাইসের ধরন, অপারেটিং সিস্টেম এবং অনুরূপ বিবরণ অন্তর্ভুক্ত করা উচিত।",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "rule4": "আপনি বা অন্য কেউ, আগে ইতিমধ্যে শেয়ার করেছে এমন ত্রুটি কখন রিপোর্ট করবেন না।"
       },
       "translation": {
-        "headline": "Translation Rules",
+        "headline": "অনুবাদ করার নিয়ম",
         "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
