@@ -116,23 +116,23 @@
     "total_generated": "Total généré",
     "steem": {
       "headline": "Qui paie les récompenses?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "text": "Pour payer les récompenses, Utopian.io utilise la <a href='https://steem.io/'>blockchain Steem</a>. L'argent est créé sous forme de crypto-monnaie appelée <b>STEEM</b>, à travers le vote communautaire. Personne ne doit payer les récompenses directement. Elles sont générées et distribuées en utilisant un algorithme appelé <i>Proof-of-Brain</i>, ce qui encourage les personnes à créer et à trouver du contenu de qualité.<br><br>Dans le cas de Utopian.io, vos contributions au monde de l'Open Source sont le contenu de qualité. En votant vos contributions, la communauté crée de l'argent pour vous récompensez de votre travail. Les gens peuvent aussi choisir de se payer directement en utilisant leur propre Steem, si ils veulent, mais c'est optionnel.<br><br>La valeur du vote d'un utilisateur est basé sur son propre investissement sur la plateforme et plus l'investissement est grand, plus leur vote est précieux lors de la période de curation. Utopian.io peut voter pour vos contributions. Plus <b> de 3 million de Steem Power</b> ont été délégué au compte de la plateforme Utopian.io, rendant ces votes à plus de <b>$250</b>, aux prix actuels du marché.<br><br><a href='#faq'>Allez sur la FAQ</a> pour plus d'informations.",
+      "button": "Apprenez en plus sur Steem"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
-    "step3": "Get upvoted by Utopian.io and the community!",
-    "step4": "Get paid<br>after 7 days!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "step1": "Respecter<br>nos règles !",
+    "step2": "Faites-vous relire par nos<br>modérateurs!",
+    "step3": "Faites-vous voter par Utopian.io et la communauté!",
+    "step4": "Vous êtes payé<br>après 7 jours!",
+    "text": "Pour assurer la qualité, chaque contribution est passée en revue par un de nos modérateurs, selon nos règles. Ne pas respecter ces règles va soit diminuer les récompenses ou stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et elle peut obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
-        "rule3": "Images, screenshots, links and examples are always welcome in this category.",
-        "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
+        "headline": "Règles pour les suggestions",
+        "rule1": "Les suggestions sont des fonctionnalités/améliorations mineurs que vous aimeriez avoir dans un projet Open Source.",
+        "rule2": "Les suggestions doivent fournir suffisamment de détails pour que la fonctionnalité demandée puisse être conçue.",
+        "rule3": "Les images, les captures d'écran, les liens et les exemples sont toujours les bienvenus dans cette catégorie.",
+        "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées auparavant ou sur des suggestions déjà partagées par quelqu'un d'autre."
       },
       "subprojects": {
         "headline": "Sub-Project Rules",
