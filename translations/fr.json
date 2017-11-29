@@ -145,23 +145,23 @@
       },
       "development": {
         "headline": "Règles pour un développement",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "rule1": "Seules les Pull Requests fusionées ou des projets Open Source que vous n'avez jamais publié auparavant sur Utopian seront accepté, les forks sont inclus aussi longtemps que le fork n'est pas juste un miroir de l'original. Preuve de travail requise.",
+        "rule2": "Dans cette catégorie, vous pouvez seulement soumettre si vous avez développé ou contribué au développement du code d'un projet.",
+        "rule3": "Vous devez fournir des liens vers les branches, les forks, gists ou les Pull Requests.",
+        "rule4": "Si votre nom d'utilisateur sur Github n'est pas le même que celui sur Utopian, vous devez prouver que vous êtes le propriétaire du compte en fournissant une capture d'écran de la session connectée sur Github.",
+        "rule5": "Les images, les captures d'écran, les liens et les exemples ne sont pas nécessaires mais sont préférables.",
+        "rule6": "N'écrivez jamais à propos de contributions de code que vous avez déjà partagées auparavant."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "Règles pour une chasse aux bugs",
+        "rule1": "Utilisez seulement cette catégorie pour signaler des bugs que vous avez trouvé dans un projet Open Source.",
+        "rule2": "Vous devez fournir tous les détails nécessaires pour reproduire le bug.",
+        "rule3": "Vous devez inclure, par exemple: les navigateurs utilisés, les types d'appareil, les systèmes d'exploitation et autres détails similaires.",
+        "rule4": "Ne signalez jamais de bugs qui l'ont déjà été, par vous ou quelqu'un d'autre."
       },
       "translation": {
-        "headline": "Translation Rules",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
+        "headline": "Règles pour une traduction",
+        "rule1": "Afin de soumettre une traduction sur Utopian vous devez au moins avoir traduit 30% du projet dans le cas de projet de taille moyenne (500-1000 lines), 10-15% pour les grands projets (1000 et plus), 100% pour les petits projets (1 - 500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
         "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
