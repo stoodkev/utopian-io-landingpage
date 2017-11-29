@@ -62,14 +62,14 @@
     },
     "tutorials": {
       "headline": "ट्यूटोरियल",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "text": "जानकारीपूर्ण टुटोरिअल्स लिखें और लोगों की सहायता करें ओपन सोर्स के उत्पादों का प्रयोग करने में."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "वीडियो टुटोरिअल्स",
+      "text": "आप हाउ तो वीडियोस बना सकते हैं ओपन सोर्स उत्पाद के लिए और लॉगिन की सहायता कर सकते हैं की उन्हें कैसे उपयोग में लाएं."
     },
     "copywriting": {
-      "headline": "Copywriting",
+      "headline": "कोप्यवरिटिंग",
       "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
     }
   },
