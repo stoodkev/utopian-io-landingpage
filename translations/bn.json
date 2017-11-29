@@ -132,20 +132,20 @@
         "rule1": "পরামর্শগুলি ছোটখাট বৈশিষ্ট্য / বর্ধনগুলি যা আপনি একটি ওপেন সোর্স প্রোজেক্টে চান।",
         "rule2": "প্রস্তাবিত বস্তুগুলি প্রকৃতপক্ষে নির্মিত হবে বলে যথেষ্ট এমন তথ্য সরবরাহ করতে হবে।",
         "rule3": "চিত্র, স্ক্রিনশট, লিঙ্ক এবং উদাহরণগুলি সবসময় এই বিভাগে স্বাগত জানায়।",
-        "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
+        "rule4": "আপনার আগে থেকেই অন্য কেউ ইতিমধ্যে প্রস্তাবিত করেছেন এমন প্রস্তাবনাগুলি বা শেয়ার করেছেন এমন কিছু কখন লিখিয়েন নাহ।"
       },
       "subprojects": {
         "headline": "উপ-প্রকল্পের নিয়ম",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "rule1": "একটি সাব-প্রোজেক্ট প্রকল্পটির উপর একটি বড় প্রভাব ফেলে নতুন, অদৃশ্য বৈশিষ্ট্যগুলির একটি সেট।",
+        "rule2": "সাব-প্রোজেক্টগুলি আসলে তৈরি করা বৈশিষ্ট্যসমূহের বিস্তারিত বিবরণ সরবরাহ করতে হবে।",
+        "rule3": "ছবি, স্ক্রিনশট, লিঙ্ক, প্রবাহ, mockups ও উদাহরণ সবসময় এই শ্রেণীতে বাধ্যতামূলক।",
+        "rule4": "এই বিভাগে, সামগ্রীর মানটি Utopian এ গ্রহণ করার জন্য প্রধান বিষয়।",
+        "rule5": "যদি আপনি বিশ্বাস করেন যে আপনার ধারণা একটি সাব-প্রোজেক্ট হিসাবে যোগ্যতা অর্জন করে না, তাহলে এর পরিবর্তে পরামর্শ বিভাগটি ব্যবহার করুন।",
+        "rule6": "যদি আপনি বিশ্বাস করেন যে আপনার ধারণা একটি সাব-প্রোজেক্ট হিসাবে যোগ্যতা অর্জন করে না, তাহলে এর পরিবর্তে পরামর্শ বিভাগটি ব্যবহার করুন।"
       },
       "development": {
         "headline": "উন্নয়ন বিধিমালা",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "কেবল মার্জ করা Pull Request গ্রহন করা হবে বা মুক্ত উত্স প্রকল্পগুলি যা আপনি বজায় রাখেন আগে কখনোই Utipian পোস্ট করেন না, ফর্কগুলি যতদিন ফর্ক করা হয় তা কেবল মূল একটি আয়না নয়, কাজের প্রমাণ প্রয়োজন।",
         "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
         "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
