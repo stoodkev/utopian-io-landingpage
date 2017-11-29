@@ -168,15 +168,15 @@
         "rule5": "সম্পূর্ণ অনুবাদ সবসময় পছন্দ করা হয়। যদি আপনি একটি আংশিক অনুবাদ সম্পর্কে লেখেন, আমরা প্রকৃত কাজ মূল্যায়ন করার অধিকার রাখি।",
         "rule6": "অনুবাদকের লেখক আপনি হওয়া আবশ্যক এবং আপনার কাজ যাচাই করার একটি উপায় প্রদান করুন।",
         "rule7": "CrowdIn বা অনুরূপ অনুবাদ প্ল্যাটফর্মের আপনার ইউজারনেম যদি আপনার Utopian ইউজারনেম না হয় তবে আপনাকে সেই অনুবাদ প্ল্যাটফর্মে লগ ইন সেশনের একটি স্ক্রিনশট প্রদান করে সেই অ্যাকাউন্টটি যে আপনার তা প্রমাণ করতে হবে।",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule8": "আপনি বা অন্য কেউ, আগে ইতিমধ্যে শেয়ার করেছে এমন অনুবাদ কখনও জমা দেবেন না।"
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
+        "headline": "গ্রাফিক্স নিয়ম",
+        "rule1": "যদি আমরা বিশ্বাস করি যে এই কাজের পুরস্কৃত করা যথেষ্ট নয় তবে আমরা একটি গ্রাফিক অবদান প্রত্যাখ্যান করার অধিকার রাখি।",
+        "rule2": "এই বিভাগে শুধুমাত্র, জমা দিন একটি লোগো, আইকন, ব্যাকগ্রাউন্ড, ভিডিও বা অ্যানিমেশন যেমনটি আপনি একটি ওপেন সোর্স প্রোজেক্টের জন্য তৈরি করেছেন।",
+        "rule3": "আপনার ডিজাইনের সরাসরি নমুনা এবং সম্পূর্ণ ডিজাইনের পাবলিক লিংকগুলি আপনার পোস্টে অন্তর্ভুক্ত করতে হবে।",
+        "rule4": "আপনার কাজটি যাচাই করার জন্য আপনাকে যতটা সম্ভব বিস্তারিত বিবরন দিতে হবে।",
+        "rule5": "আপনাকে অবশ্যই সম্পাদনাযোগ্য উৎস ফাইল সরবরাহ করতে হবে (যেমন .psd .ai .eps .svg .cdr)।",
         "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
         "rule7": "Never post about graphics that have been shared before, by you or someone else."
       },
