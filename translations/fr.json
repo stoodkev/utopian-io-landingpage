@@ -189,15 +189,15 @@
         "rule5": "Ne soumettez jamais d'analyses qui ont déjà été publiées auparavant, par vous ou quelqu'un d'autre."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "headline": "Règles pour un effort de visibilité",
+        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts en matière de marketing que vous avez fait pour améliorer la visibilité d'un projet Open Source; comme les campagnes de réseaux sociaux, la publicité, les conférences ou réunions.",
+        "rule2": "Vous devez fournir des liens, des images ou des vidéos avec la preuve de vos efforts, et aussi partager les résultats.",
+        "rule3": "Si vos efforts ont seulement amené peu ou pas de nouveaux utilisateurs/contributeurs au projet Open Source, vous ne devriez pas écrire à ce sujet.",
+        "rule4": "Vous devez prouver votre identité. Si votre nom d'utilisateur sur Utopian est différent de ceux des plateformes que vous avez utilisées pour le marketing du projet, vous devez fournir des captures d'écran de la session connectée sur ces plateformes.",
+        "rule5": "N'écrivez jamais sur des efforts de visibilité que vous avez déjà partagés auparavant."
       },
       "documentation": {
-        "headline": "Documentation Rules",
+        "headline": "Règles pour une documentation",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
