@@ -98,11 +98,11 @@
     },
     "writers": {
       "headline": "技术作者",
-      "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
+      "text": "获取为你的项目编写的详细文案，向你的用户和利益相关人员做全面的展示。"
     },
     "analysts": {
       "headline": "数据分析者",
-      "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
+      "text": "让你的数据变得有意义，通过数据分析发现机会并做出关于项目的明智决定。"
     },
     "influencers": {
       "headline": "影响者",
@@ -110,29 +110,29 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "贡献者奖励",
+    "curator_rewards": "参与者奖励",
+    "pending_rewards": "待支付奖励",
+    "total_generated": "奖励总额",
     "steem": {
-      "headline": "Who pays the rewards?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "headline": "谁支付的奖励？",
+      "text": "Utopian.io 使用<a href='https://steem.io/'>Steem 区块链</a>支付奖励。这笔钱是通过社区投票以<b> STEEM </ b>这种加密货币形成的。没有人需要直接支付奖励。它们通过一种称为<i>Proof-of-Brain</i>的算法来生成和分发，这个算法鼓励人们创建和审核高质量的内容。在 Utopian.io，高质量内容指的是你对开源世界的贡献。通过点赞你的贡献，社区创造金钱来奖励你的工作。人们也可以选择直接使用他们自己的STEEM奖励彼此，但这不是必需的。用户投票的价值是基于他/她自己在平台上的投资，股权越高投票的价值就越高。 Utopian.io 本身可以对你的贡献进行投票。超过<b> 300万的Steem Power </b>被委托给 Utopian.io 平台的账户，使它的全力投票价值在当前市场价格下价值<b>250美元</b>以上。<br><br><a href='#faq'>查看常见问题</a>了解更多信息。",
+      "button": "了解更多关于Steem的信息"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
-    "step3": "Get upvoted by Utopian.io and the community!",
-    "step4": "Get paid<br>after 7 days!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "step1": "遵守我们<br>的规则！",
+    "step2": "得到我们审核人员<br>的审阅！",
+    "step3": "获得 Utopian.io 和整个社区的点赞。",
+    "step4": "获得付款<br>仅需 7 天！",
+    "text": "为了确保质量，我们的一位审核人员将根据既定规则审查每项贡献。 不遵守这些规则将使您获得较低的奖励，或使您的贡献不被接受。 然而，即使您的贡献未被接受，它仍然会在 Steem 区块链上发布，并且可以获得奖励。 这种情况下，你就只能靠自己了。 Utopian 不会奖励你的贡献，也不会分享它。",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
-        "rule3": "Images, screenshots, links and examples are always welcome in this category.",
-        "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
+        "headline": "建议类别规则",
+        "rule1": "建议是您希望在开源项目中具有的次要功能/增强功能。",
+        "rule2": "建议必须提供足够的细节，以便构建实际要求的功能。",
+        "rule3": "图像、截图、链接和例子在这个类别总是受欢迎的。",
+        "rule4": "切勿撰写您或他人之前已经分享过的建议。"
       },
       "subprojects": {
         "headline": "Sub-Project Rules",
