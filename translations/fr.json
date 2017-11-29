@@ -30,46 +30,46 @@
     },
     "subprojects": {
       "headline": "Sous-projets",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "text": "Partagez les nouvelles fonctionnalités ou les concepts que vous avez développé pour un projet."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "Développement",
+      "text": "Si vous avez écrit des codes et créé des pull requests, partagez votre travail avec la communauté d'Utopian."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "Chasse aux bugs",
+      "text": "Aidez les développeurs à trouver et réparer les problèmes de leur logiciels en partageant des rapports détaillés de bugs."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "Traduction",
+      "text": "Aidez les personnes à utiliser les logiciels dans d'autres langues en traduisant les textes et la documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> et d'autres outils."
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "Graphismes",
+      "text": "Partagez des logos, des images, des arrière-plans originaux et d'autres éléments graphiques que vous avez conçus pour un projet."
     },
     "documentation": {
       "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "text": "Si vous avez rédigé de la documentation pour un projet (dans n'importe quelle langue), vous pouvez la partager avec la communauté."
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "Analyse",
+      "text": "Peut-être avez-vous analysé l'ensemble des données d'un projet en particulier et en avez extrait des informations utiles. Vous pouvez aussi le partager avec la communauté."
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "Visibilité",
+      "text": "Des efforts de marketing peuvent aussi être récompensés par Utopian. Dites à la communauté ce que vous avez fait pour promouvoir un projet Open Source."
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "Tutoriels",
+      "text": "Ecrivez des tutoriels informatifs et aidez les autres personnes à utiliser les produits Open Source."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "Tutoriels Vidéos",
+      "text": "Créez des tutoriels vidéos pour un produit Open Source et aidez les gens à apprendre à l'utiliser."
     },
     "copywriting": {
-      "headline": "Copywriting",
+      "headline": "Rédaction",
       "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
     }
   },
