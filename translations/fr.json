@@ -70,34 +70,34 @@
     },
     "copywriting": {
       "headline": "Rédaction",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "text": "Ecrivez des documents motivants et informatifs pour des produits Open Source, et améliorez la force de leurs marques."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "headline": "Utopian pour les propriétaires de projets",
+    "text": "Avec Utopian.io, vous pouvez faire des <b>annonces</b> pour vos projets et faire ainsi rapidement du crowdsource d'une réserve de talents internationaux. Obtenez l'attention de précieux collaborateurs et utilisez la puissance de l'intelligence collective pour développer vos projets.",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "Penseurs",
+      "text": "Obtenez l'attention de grands penseurs sur vos projets pour développer vos idées et résoudre vos problèmes."
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "Développeurs",
+      "text": "Faites appel à des développeurs talentueux pour écrire du code ou fixer des bugs."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "Chasseurs de bug",
+      "text": "Encouragez les utilisateurs à signaler des problèmes ou invitez-les à essayer de nouvelles fonctionnalités que vous êtes en train de développer."
     },
     "translators": {
-      "headline": "Translators",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "headline": "Traducteurs",
+      "text": "Atteignez plus de personnes du monde entier en assignant des traducteurs à votre projet pour qu'il soit disponible en plusieurs langues."
     },
     "designers": {
-      "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "headline": "Concepteurs",
+      "text": "Obtenez l'aide des designers talentueux pour crée des graphiques uniques pour votre projet ou votre marque."
     },
     "writers": {
-      "headline": "Technical Writers",
+      "headline": "Rédacteurs techniques",
       "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
     },
     "analysts": {
