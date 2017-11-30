@@ -1,22 +1,22 @@
 {
   "nav": {
     "rewards": "Hadiah",
-    "rules": "Peraturan",
+    "rules": "Aturan",
     "moderators": "Moderator",
-    "faq": "Pertanyaan Umum",
+    "faq": "FAQ",
     "blog": "Blog",
     "signup": "Daftar",
     "login": "Masuk"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Ekonomi Sumber Terbuka",
+    "text2": "Sumber terbuka",
     "text3": "Dapatkan penghargaan dengan berkontribusi pada proyek Open Source<br> favorit Anda!"
   },
-  "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source </a>. Ini berjalan di setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Ini dikembangkan terutama oleh sukarelawan dan penggemar di seluruh dunia, orang-orang aneh di antara teman Anda yang lebih mencintai komputer mereka daripada bergaul dengan Anda. Perangkat lunak Open Source bersifat gratis dan umum dan memungkinkan setiap orang menggunakannya dan mengubahnya sesuai kebutuhan mereka. Ini bergantung pada kecerdasan kolektif dan bukan standar yang dipaksakan atasan. Semua pekerjaan ini dilakukan secara gratis! Walikota bagaimanapun menghargai setiap orang yang berkontribusi terhadap proyek semacam itu, selama standar mutu tertentu terpenuhi.",
+  "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Ini berjalan pada setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang kutu di antara teman-teman Anda bahwa cinta komputer mereka lebih dari bergaul dengan Anda. Open Source perangkat lunak adalah milik umum dan gratis dan memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu bergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Utopis namun penghargaan setiap orang yang memberikan kontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu terpenuhi.",
   "octocat": {
     "hi": "Hai! Saya Octocat!",
-    "text": "Saya bekerja di GitHub, sebagai Maskot! Ini adalah tempat yang sangat bagus untuk menjadi. Kami adalah komunitas penggemar dan relawan yang mencakup seluruh dunia, bekerja sama dalam ribuan proyek keren. <b> Utopian.io </b> memberi penghargaan kepada Anda karena memberi kontribusi pada proyek Open Source, seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau membagikan gagasan bagus dan banyak lagi.",
+    "text": "Saya bekerja di GitHub, sebagai maskot! Ini adalah tempat yang sangat tepat untuk menjadi. Kami adalah komunitas dunia-mencakup penggemar dan sukarelawan, bekerja sama untuk ribuan proyek-proyek yang sejuk. <b>Utopian.io</b> penghargaan Anda untuk membuat kontribusi ke proyek-proyek Open Source seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau berbagi ide-ide bagus dan banyak lagi.",
     "visit": "Kunjungi GitHub.com!"
   },
   "projects": {
@@ -26,27 +26,27 @@
     "headline": "... dan berkontribusi!",
     "suggestions": {
       "headline": "Saran",
-      "text": "Semuanya dimulai dengan sebuah ide. Bagikan ide atau permintaan fitur kecil Anda dan bantu memperbaiki proyek."
+      "text": "Semuanya dimulai dengan sebuah ide. Berbagi ide-ide atau permintaan fitur kecil dan membantu meningkatkan proyek."
     },
     "subprojects": {
       "headline": "Sub-Proyek",
-      "text": "Bagikan fitur dan konsep baru dan lebih terperinci yang telah Anda kembangkan untuk sebuah proyek."
+      "text": "Berbagi fitur baru dan lebih rumit atau konsep yang Anda telah mengembangkan sebuah proyek."
     },
     "development": {
       "headline": "Pengembangan",
-      "text": "Jika Anda telah menulis kode dan membuat permintaan tarik, bagikan karya Anda dengan komunitas Utopian."
+      "text": "Jika Anda telah menulis kode dan menciptakan permintaan tarik, berbagi pekerjaan Anda dengan masyarakat utopis."
     },
     "bughunting": {
       "headline": "Berburu bug",
-      "text": "Bantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan membagikan laporan bug terperinci."
+      "text": "Membantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan berbagi laporan rinci bug."
     },
     "translation": {
       "headline": "Terjemahan",
-      "text": "Bantu orang menggunakan perangkat lunak dalam bahasa lain dengan menerjemahkan teks atau dokumentasi melalui <a href='https://crowdin.com/' target='_blank'> Crowdin </a> dan alat lainnya."
+      "text": "Membantu orang-orang yang menggunakan perangkat lunak dalam bahasa lain dengan menerjemahkan teks atau dokumentasi melalui <a href='https://crowdin.com/' target='_blank'> Crowdin</a> dan alat-alat lain."
     },
     "graphics": {
       "headline": "Grafis",
-      "text": "Bagikan logo, ikon, latar belakang, dan grafis asli yang Anda rancang untuk sebuah proyek."
+      "text": "Berbagi asli logo, ikon, latar belakang dan grafis lain yang Anda dirancang untuk sebuah proyek."
     },
     "documentation": {
       "headline": "Dokumentasi",
@@ -58,23 +58,23 @@
     },
     "visibility": {
       "headline": "Visibilitas",
-      "text": "Upaya pemasaran juga bisa dihargai melalui Utopian juga. Beritahu komunitas apa yang telah Anda lakukan untuk mempromosikan proyek Open Source."
+      "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopis juga. Memberitahu masyarakat apa yang telah Anda lakukan untuk mempromosikan proyek sumber terbuka."
     },
     "tutorials": {
       "headline": "Tutorial",
-      "text": "Tulislah tutorial informatif dan bantu orang lain untuk menggunakan produk Open Source."
+      "text": "Menulis tutorial informatif dan membantu orang lain untuk menggunakan produk Open Source."
     },
     "videotutorials": {
       "headline": "Tutorial Video",
-      "text": "Buat video cara untuk produk Open Source dan bantu orang-orang mempelajari cara menggunakannya."
+      "text": "Buat how-to video untuk produk Open Source dan membantu orang belajar bagaimana menggunakannya."
     },
     "copywriting": {
       "headline": "Copywriting",
-      "text": "Tulis salinan menarik dan informatif untuk proyek Open Source, dan tingkatkan kekuatan merek mereka."
+      "text": "Menulis salinan yang menarik dan informatif untuk proyek-proyek Open Source, dan meningkatkan kekuatan merek mereka."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian untuk pemilik proyek",
+    "headline": "Utopis untuk pemilik proyek",
     "text": "Dengan Utopian.io, Anda bisa membuat <b> pengumuman </b> untuk proyek Anda dan dengan cepat mengumpulkan banyak sumber dari kolam bakat internasional. Dapatkan perhatian kontributor yang berharga dan gunakan kekuatan kecerdasan kolektif untuk mengembangkan proyek Anda.",
     "thinkers": {
       "headline": "Pemikir",
@@ -85,8 +85,8 @@
       "text": "Hubungi pengembang berbakat untuk menulis kode atau memperbaiki bug."
     },
     "bughunters": {
-      "headline": "Pemburu bug",
-      "text": "Dorong pengguna untuk melaporkan masalah atau mengundang mereka untuk mencoba fitur baru yang sedang Anda kembangkan."
+      "headline": "Berburu bug",
+      "text": "Mendorong pengguna untuk melaporkan masalah atau mengundang mereka untuk mencoba fitur baru Anda mengembangkan."
     },
     "translators": {
       "headline": "Penerjemah",
@@ -94,29 +94,29 @@
     },
     "designers": {
       "headline": "Desainer",
-      "text": "Miliki desainer berbakat membuat grafis unik untuk proyek atau merek Anda."
+      "text": "Memiliki desainer berbakat yang membuat unik grafis untuk proyek atau merek Anda."
     },
     "writers": {
-      "headline": "Penulis Teknis",
-      "text": "Dapatkan dokumentasi komprehensif yang dibuat untuk proyek Anda yang benar menginformasikan pengguna dan pemangku kepentingan lainnya."
+      "headline": "Penulis teknis",
+      "text": "Mendapatkan dokumentasi yang komprehensif yang dibuat untuk proyek Anda yang benar menginformasikan pengguna dan pemangku kepentingan lainnya."
     },
     "analysts": {
-      "headline": "Analis data",
-      "text": "Ekstrak makna dari data yang Anda hasilkan, temukan tren dan buat keputusan yang tepat mengenai proyek Anda melalui bantuan analis data."
+      "headline": "Data analis",
+      "text": "Ekstrak makna dari data yang dihasilkan, menemukan tren dan membuat keputusan mengenai proyek Anda melalui bantuan data analis."
     },
     "influencers": {
       "headline": "Influencer",
-      "text": "Mengkoordinasikan pemasaran online atau offline yang efektif dengan bantuan influencer di seluruh dunia dan dapatkan proyek Anda perhatian yang pantas."
+      "text": "Mengkoordinasikan pemasaran online atau offline yang efektif dengan bantuan influencer di seluruh dunia dan mendapatkan proyek Anda perhatian yang layak."
     }
   },
   "rewards": {
-    "contributor_rewards": "Hadiah Kontributor",
-    "curator_rewards": "Hadiah Kurator",
-    "pending_rewards": "Hadiah yang tertunda",
-    "total_generated": "Total hasil",
+    "contributor_rewards": "Kontributor penghargaan",
+    "curator_rewards": "Upah Kurasi",
+    "pending_rewards": "Imbalan tertunda",
+    "total_generated": "Total yang dihasilkan",
     "steem": {
-      "headline": "Siapa yang membayar ganjarannya?",
-      "text": "Untuk membayar ganjarannya, Utopian.io menggunakan <a href='https://steem.io/'> Steem blockchain </a>. Uang itu diciptakan dalam bentuk kripto yang disebut <b> STEEM </b>, melalui pemungutan suara oleh masyarakat. Tidak ada yang harus membayar imbalannya secara langsung. Mereka menghasilkan dan didistribusikan menggunakan algoritma yang disebut <i> Bukti Otak </i>, yang mendorong orang untuk membuat dan mengurasi konten berkualitas. <br> <br> Dalam kasus Utopian.io, kontribusi Anda kepada Dunia Open Source adalah konten berkualitas. Dengan meningkatkan kontribusi Anda, masyarakat menciptakan uang untuk memberi penghargaan atas pekerjaan Anda. Orang juga dapat memilih untuk membayar satu sama lain secara langsung menggunakan STEEM mereka sendiri, jika mereka mau, tapi itu opsional. <br> <br> Nilai pemungutan suara pengguna didasarkan pada investasinya sendiri di platform dan semakin besar jumlah mereka. saham, semakin banyak pemungutan suara mereka layak dilakukan saat kurasi. Utopian.io sendiri dapat memberikan suara atas kontribusi Anda. Lebih dari <b> 3 juta Steem Power </b> didelegasikan ke akun platform Utopian.io, membuat pemungutan suara penuhnya bernilai lebih dari <b> $ 250 </b>, dengan harga pasar saat ini. <br> <br> <a href = '# faq'> Periksa Tanya Jawab </a> untuk informasi lebih lanjut.",
+      "headline": "Yang membayar penghargaan?",
+      "text": "Untuk membayar imbalan, Utopian.io menggunakan <a href='https://steem.io/'> Steem blockchain</a>. Uang yang dibuat dalam bentuk cryptocurrency yang disebut <b>STEEM</b>, melalui masyarakat pemungutan suara. Tidak ada yang harus membayar untuk hadiah langsung. Mereka dihasilkan dan didistribusikan menggunakan algoritma yang disebut <i>Bukti dari otak</i>, yang mendorong orang untuk membuat dan pendeta pembantu kualitas konten. <br><br>Dalam kasus Utopian.io, kontribusi Anda untuk dunia Open Source adalah kualitas konten. Dengan upvoting kontribusi Anda, masyarakat menciptakan uang untuk menghargai Anda untuk pekerjaan Anda. Orang juga dapat memilih untuk membayar satu sama lain secara langsung menggunakan STEEM mereka sendiri, jika mereka ingin, tapi itu opsional. <br><br>Nilai pengguna suara didasarkan pada investasi-nya sendiri dalam platform dan semakin besar saham mereka, semakin suara mereka adalah layak ketika curating. Utopian.io itu sendiri dapat memberikan suara pada kontribusi Anda. Lebih dari <b>3 juta Steem Power</b> didelegasikan ke account Utopian.io platform, membuat suara yang penuh senilai lebih dari <b>$250</b>, pada harga pasar. <br><br><a href='#faq'> memeriksa FAQ</a> untuk informasi lebih lanjut.",
       "button": "Pelajari lebih lanjut tentang Steem"
     }
   },
