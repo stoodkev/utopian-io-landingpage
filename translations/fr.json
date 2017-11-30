@@ -94,7 +94,7 @@
     },
     "designers": {
       "headline": "Concepteurs",
-      "text": "Obtenez l'aide des designers talentueux pour crée des graphiques uniques pour votre projet ou votre marque."
+      "text": "Obtenez l'aide des designers talentueux pour créer des réalisations graphiques uniques pour votre projet ou votre marque."
     },
     "writers": {
       "headline": "Rédacteurs techniques",
@@ -106,7 +106,7 @@
     },
     "influencers": {
       "headline": "Influenceurs",
-      "text": "Coordonnez le marketing en ligne ou hors ligne de façon efficace avec l'aide d'influenceurs à travers le monde et donner à votre projet l'attention qu'il mérite."
+      "text": "Coordonnez le marketing en ligne ou hors ligne de façon efficace avec l'aide d'influenceurs à travers le monde et donnez à votre projet l'attention qu'il mérite."
     }
   },
   "rewards": {
@@ -136,7 +136,7 @@
       },
       "subprojects": {
         "headline": "Règles pour un Sous-Projet",
-        "rule1": "Un sous-projet est un ensemble de fonctionnalités nouvelles ayant un grand impact sur le projet.",
+        "rule1": "Un sous-projet est un ensemble de fonctionnalités nouvelles ayant un impact important sur le projet.",
         "rule2": "Les sous-projets doivent fournir des détails clair pour que les fonctionnalités puissent être conçues.",
         "rule3": "Les images, les captures d'écran, les liens, les flux, les maquettes et les exemples sont toujours obligatoires dans cette catégorie.",
         "rule4": "Dans cette catégorie, la qualité du contenu est le facteur principal pour être accepté sur Utopian.",
@@ -145,7 +145,7 @@
       },
       "development": {
         "headline": "Règles pour un développement",
-        "rule1": "Seules les Pull Requests fusionées ou des projets Open Source que vous n'avez jamais publié auparavant sur Utopian seront accepté, les forks sont inclus aussi longtemps que le fork n'est pas juste un miroir de l'original. Preuve de travail requise.",
+        "rule1": "Seules les Pull Requests fusionnées sur le référentiel officiel ou sur un fork seront acceptées aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
         "rule2": "Dans cette catégorie, vous pouvez seulement soumettre si vous avez développé ou contribué au développement du code d'un projet.",
         "rule3": "Vous devez fournir des liens vers les branches, les forks, gists ou les Pull Requests.",
         "rule4": "Si votre nom d'utilisateur sur Github n'est pas le même que celui sur Utopian, vous devez prouver que vous êtes le propriétaire du compte en fournissant une capture d'écran de la session connectée sur Github.",
@@ -190,7 +190,7 @@
       },
       "visibility": {
         "headline": "Règles pour un effort de visibilité",
-        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts en matière de marketing que vous avez fait pour améliorer la visibilité d'un projet Open Source; comme les campagnes de réseaux sociaux, la publicité, les conférences ou réunions.",
+        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts en matière de marketing fait pour améliorer la visibilité d'un projet Open Source; telle que les campagnes sur les réseaux sociaux, la publicité, les conférences ou les réunions.",
         "rule2": "Vous devez fournir des liens, des images ou des vidéos avec la preuve de vos efforts, et aussi partager les résultats.",
         "rule3": "Si vos efforts ont seulement amené peu ou pas de nouveaux utilisateurs/contributeurs au projet Open Source, vous ne devriez pas écrire à ce sujet.",
         "rule4": "Vous devez prouver votre identité. Si votre nom d'utilisateur sur Utopian est différent de ceux des plateformes que vous avez utilisées pour le marketing du projet, vous devez fournir des captures d'écran de la session connectée sur ces plateformes.",
@@ -200,7 +200,7 @@
         "headline": "Règles pour une documentation",
         "rule1": "Seules les Pull Requests sur le référentiel officiel seront acceptées ou sur un fork aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
         "rule2": "Soumettez dans cette catégorie uniquement lorsque vous travaillez sur la documentation officielle d'un projet Open Source.",
-        "rule3": "Vous devez être l'auteur soit de la documentation entière soit des changements/améliorations appliqués à la documentation.",
+        "rule3": "Vous devez être l'auteur soit de la documentation entière soit des changements/améliorations appliquées à la documentation.",
         "rule4": "Seul le travail sur la documentation officiel du projet peut être soumis dans cette catégorie. Utilisez la catégorie Tutoriels pour toute autre documentation.",
         "rule5": "Si vous ne postez pas le document complet que vous avez rédigé, alors vous devez fournir des liens publics vers celui-ci.",
         "rule6": "Vous devez fournir une preuve suffisante du travail que vous avez accompli.",
