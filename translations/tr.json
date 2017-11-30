@@ -203,14 +203,14 @@
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
         "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
         "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule6": "Yaptığınız işe yeterli kanıt sağlamanız gerekmektedir.",
         "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "rule8": "Asla geçmişte paylaştığın bir dökümantasyonu tekrar gönderme."
       },
       "tutorials": {
         "headline": "Ders kuralları",
-        "rule1": "Machine translated tutorials will be rejected.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
+        "rule1": "Makina çevirisine sahip dersler reddedilecektir.",
+        "rule2": "Bu kategori, sadece açık kaynak projelere öğretici yazılar hazırlamak içindir.",
         "rule3": "Dersler herhangi bir dilde olabilir.",
         "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmalı.",
         "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
@@ -283,10 +283,10 @@
     },
     "q6": {
       "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "text": "Utopian'da kalite çok büyük öneme sahip. Topluluk, projeleri ileriye taşıyabilecek ve sorunları çözecek her türlü işe yaran katkıya değer verir. Katkılar farkedilecek ve ödüllendirilecektir. Her zaman en iyi çalışmanızı sunmak, kazancınızı arttırmak için en iyi yoldur"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "daha fazlasını steemit.com'da oku"
   }
 }
