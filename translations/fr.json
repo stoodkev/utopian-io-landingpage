@@ -13,7 +13,7 @@
     "text2": "Économie de l’Open Source",
     "text3": "Obtenez des récompenses en contribuant à vos<br>projets Open Source favoris !"
   },
-  "intro": "Notre monde moderne est conduit par le code<a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a>. Il fonctionne sur chaque ordinateur, chaque smartphone ou tablette et toutes vos applications favorites ne fonctionneraient pas sans lui. Il est principalement développé par des volontaires et des passionnés à travers le monde, ces geeks parmi vos amis qui aiment leurs ordinateurs plus que de passer du temps avec vous. Le code Open Source est libre et appartient à tout le monde. Il permet à chacun de l'utiliser et de le modifier selon ses besoins. Il s'appuie sur l'intelligence collective au lieu des normes imposées par des supérieurs hierarchique . Tout ce travail est fait gratuitement! Utopian récompense cependant chaque personne qui contribue à de tels projets, aussi longtemps qu'un certain niveau de qualité est atteint.",
+  "intro": "Notre monde moderne est régi par le code<a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a>. Il fonctionne sur chaque ordinateur, chaque smartphone ou tablette et toutes vos applications favorites ne fonctionneraient pas sans lui. Il est principalement développé par des volontaires et des passionnés à travers le monde, ces geeks parmi vos amis qui préfèrent passer plus de temps avec leur ordinateur qu'avec vous. Le code Open Source est libre et appartient à tout le monde. Il permet à chacun de l'utiliser et de le modifier selon ses besoins. Il s'appuie sur l'intelligence collective au lieu des normes imposées par des supérieurs hiérarchique . Tout ce travail est fait gratuitement! Utopian récompense cependant chaque personne qui contribue à de tels projets, aussi longtemps qu'un certain niveau de qualité est atteint.",
   "octocat": {
     "hi": "Salut ! Je suis Octocat !",
     "text": "Je travaille à GitHub, en tant que mascotte! C'est un endroit génial. Nous sommes une communauté mondiale de passionnés et de volontaires, travaillant ensemble sur des milliers de projets cool. <b>Utopian.io</b> vous récompense pour vos contributions aux projets Open Source, comme corriger des bugs, traduire des textes, écrire de la documentation ou partager de bonnes idées et plus encore.",
@@ -70,15 +70,15 @@
     },
     "copywriting": {
       "headline": "Rédaction",
-      "text": "Ecrivez des documents motivants et informatifs pour des produits Open Source, et améliorez la force de leurs marques."
+      "text": "Ecrivez des documents motivants et informatifs pour des produits Open Source, et améliorez la force de leur marque."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian pour les propriétaires de projets",
+    "headline": "Utopian pour les Propriétaires de Projets",
     "text": "Avec Utopian.io, vous pouvez faire des <b>annonces</b> pour vos projets et faire ainsi rapidement du crowdsource d'une réserve de talents internationaux. Obtenez l'attention de précieux collaborateurs et utilisez la puissance de l'intelligence collective pour développer vos projets.",
     "thinkers": {
       "headline": "Penseurs",
-      "text": "Obtenez l'attention de grands penseurs sur vos projets pour développer vos idées et résoudre vos problèmes."
+      "text": "Attirez l'attention de penseurs sur vos projets pour développer vos idées et résoudre vos problèmes."
     },
     "developers": {
       "headline": "Développeurs",
@@ -94,7 +94,7 @@
     },
     "designers": {
       "headline": "Concepteurs",
-      "text": "Obtenez l'aide des designers talentueux pour crée des graphiques uniques pour votre projet ou votre marque."
+      "text": "Obtenez l'aide des designers talentueux pour créer des réalisations graphiques uniques pour votre projet ou votre marque."
     },
     "writers": {
       "headline": "Rédacteurs techniques",
@@ -102,11 +102,11 @@
     },
     "analysts": {
       "headline": "Analystes de données",
-      "text": "Extrayez la signification de vos données, découvrez les tendances et prenez des décisions informées pour votre projet grâce à l'aide d'analystes de données."
+      "text": "Donner du sens à vos données, découvrez les tendances et prenez des décisions informées pour votre projet grâce à l'aide d'analystes de données."
     },
     "influencers": {
       "headline": "Influenceurs",
-      "text": "Coordonnez le marketing en ligne ou hors ligne de façon efficace avec l'aide d'influenceurs à travers le monde et donner à votre projet l'attention qu'il mérite."
+      "text": "Coordonnez le marketing en ligne ou hors ligne de façon efficace avec l'aide d'influenceurs à travers le monde et donnez à votre projet l'attention qu'il mérite."
     }
   },
   "rewards": {
@@ -116,28 +116,28 @@
     "total_generated": "Total généré",
     "steem": {
       "headline": "Qui paie les récompenses?",
-      "text": "Pour payer les récompenses, Utopian.io utilise la <a href='https://steem.io/'>blockchain Steem</a>. L'argent est créé sous forme de crypto-monnaie appelée <b>STEEM</b>, à travers le vote communautaire. Personne ne doit payer les récompenses directement. Elles sont générées et distribuées en utilisant un algorithme appelé <i>Proof-of-Brain</i>, ce qui encourage les personnes à créer et à trouver du contenu de qualité.<br><br>Dans le cas de Utopian.io, vos contributions au monde de l'Open Source sont le contenu de qualité. En votant vos contributions, la communauté crée de l'argent pour vous récompensez de votre travail. Les gens peuvent aussi choisir de se payer directement en utilisant leur propre Steem, si ils veulent, mais c'est optionnel.<br><br>La valeur du vote d'un utilisateur est basé sur son propre investissement sur la plateforme et plus l'investissement est grand, plus leur vote est précieux lors de la période de curation. Utopian.io peut voter pour vos contributions. Plus <b> de 3 million de Steem Power</b> ont été délégué au compte de la plateforme Utopian.io, rendant ces votes à plus de <b>$250</b>, aux prix actuels du marché.<br><br><a href='#faq'>Allez sur la FAQ</a> pour plus d'informations.",
+      "text": "Pour payer les récompenses, Utopian.io utilise la <a href='https://steem.io/'>blockchain Steem</a>. L'argent est créé sous forme de crypto-monnaie appelée <b>STEEM</b>, à travers le vote communautaire. Personne ne doit payer les récompenses directement. Elles sont générées et distribuées en utilisant un algorithme appelé <i>Proof-of-Brain</i>, ce qui encourage les personnes à créer et à trouver du contenu de qualité.<br><br>Dans le cas de Utopian.io, vos contributions au monde de l'Open Source sont le contenu de qualité. En votant vos contributions, la communauté crée de l'argent pour récompenser votre travail. Les gens peuvent aussi choisir de se payer directement en utilisant leur propre STEEM, mais c'est optionnel.<br><br>La valeur du vote d'un utilisateur est basé sur son propre investissement sur la plateforme et plus l'investissement est grand, plus son vote est précieux lors de la période de curation. Utopian.io peut voter pour vos contributions. Plus <b> de 3 million de Steem Power</b> ont été délégué au compte de la plateforme Utopian.io, rendant ces votes à plus de <b>$250</b>, aux prix actuels du marché.<br><br><a href='#faq'>Allez sur la FAQ</a> pour plus d'informations.",
       "button": "Apprenez en plus sur Steem"
     }
   },
   "rules": {
-    "step1": "Respecter<br>nos règles !",
-    "step2": "Faites-vous relire par nos<br>modérateurs!",
+    "step1": "Respectez<br>nos règles !",
+    "step2": "Faites-vous évaluer par nos<br>modérateurs!",
     "step3": "Faites-vous voter par Utopian.io et la communauté!",
-    "step4": "Vous êtes payé<br>après 7 jours!",
-    "text": "Pour assurer la qualité, chaque contribution est passée en revue par un de nos modérateurs, selon nos règles. Ne pas respecter ces règles va soit diminuer les récompenses ou stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et elle peut obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
+    "step4": "Soyez payé<br>après 7 jours!",
+    "text": "Pour assurer la qualité, chaque contribution est passée en revue, selon nos règles, par un de nos modérateurs. Ne pas respecter ces règles va soit diminuer les récompenses ou stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et pourra malgré tout obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
     "categories": {
       "suggestions": {
         "headline": "Règles pour une suggestion",
-        "rule1": "Les suggestions sont des fonctionnalités/améliorations mineurs que vous aimeriez avoir dans un projet Open Source.",
+        "rule1": "Les suggestions sont soit des fonctionnalités soit des améliorations mineures que vous aimeriez avoir dans un projet Open Source.",
         "rule2": "Les suggestions doivent fournir suffisamment de détails pour que la fonctionnalité demandée puisse être conçue.",
         "rule3": "Les images, les captures d'écran, les liens et les exemples sont toujours les bienvenus dans cette catégorie.",
-        "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées auparavant ou sur des suggestions déjà partagées par quelqu'un d'autre."
+        "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées ou sur des suggestions déjà partagées par quelqu'un d'autre."
       },
       "subprojects": {
-        "headline": "Règles pour un sous-projet",
-        "rule1": "Un sous-projet est un ensemble de fonctionnalités nouvelles ayant un grand impact sur le projet.",
-        "rule2": "Les sous-projets doivent fournir des détails clair pour que les fonctionnalités puissent être conçues.",
+        "headline": "Règles pour un Sous-Projet",
+        "rule1": "Un sous-projet est un ensemble de fonctionnalités nouvelles ayant un impact important sur le projet.",
+        "rule2": "Les sous-projets doivent fournir des détails clairs pour que les fonctionnalités puissent être conçues.",
         "rule3": "Les images, les captures d'écran, les liens, les flux, les maquettes et les exemples sont toujours obligatoires dans cette catégorie.",
         "rule4": "Dans cette catégorie, la qualité du contenu est le facteur principal pour être accepté sur Utopian.",
         "rule5": "Si vous croyez que votre idée n'est pas un sous-projet, utilisez la catégorie Suggestion à la place.",
@@ -145,9 +145,9 @@
       },
       "development": {
         "headline": "Règles pour un développement",
-        "rule1": "Seules les Pull Requests fusionées ou des projets Open Source que vous n'avez jamais publié auparavant sur Utopian seront accepté, les forks sont inclus aussi longtemps que le fork n'est pas juste un miroir de l'original. Preuve de travail requise.",
-        "rule2": "Dans cette catégorie, vous pouvez seulement soumettre si vous avez développé ou contribué au développement du code d'un projet.",
-        "rule3": "Vous devez fournir des liens vers les branches, les forks, gists ou les Pull Requests.",
+        "rule1": "Seules les Pull Requests fusionnées sur le référentiel officiel ou sur un fork seront acceptées aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
+        "rule2": "Dans cette catégorie, vous pouvez soumettre un article uniquement si vous avez développé ou contribué au développement du code d'un projet.",
+        "rule3": "Vous devez fournir des liens vers les branches, les forks, les gists ou les pull requests.",
         "rule4": "Si votre nom d'utilisateur sur Github n'est pas le même que celui sur Utopian, vous devez prouver que vous êtes le propriétaire du compte en fournissant une capture d'écran de la session connectée sur Github.",
         "rule5": "Les images, les captures d'écran, les liens et les exemples ne sont pas nécessaires mais sont préférables.",
         "rule6": "N'écrivez jamais à propos de contributions de code que vous avez déjà partagées auparavant."
@@ -157,7 +157,7 @@
         "rule1": "Utilisez seulement cette catégorie pour signaler des bugs que vous avez trouvé dans un projet Open Source.",
         "rule2": "Vous devez fournir tous les détails nécessaires pour reproduire le bug.",
         "rule3": "Vous devez inclure, par exemple: les navigateurs utilisés, les types d'appareil, les systèmes d'exploitation et autres détails similaires.",
-        "rule4": "Ne signalez jamais de bugs qui l'ont déjà été, par vous ou quelqu'un d'autre."
+        "rule4": "Ne signalez jamais de bugs qui l'ont déjà été, par vous ou par quelqu'un d'autre."
       },
       "translation": {
         "headline": "Règles pour une traduction",
@@ -190,7 +190,7 @@
       },
       "visibility": {
         "headline": "Règles pour un effort de visibilité",
-        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts en matière de marketing que vous avez fait pour améliorer la visibilité d'un projet Open Source; comme les campagnes de réseaux sociaux, la publicité, les conférences ou réunions.",
+        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts en matière de marketing fait pour améliorer la visibilité d'un projet Open Source; telle que les campagnes sur les réseaux sociaux, la publicité, les conférences ou les réunions.",
         "rule2": "Vous devez fournir des liens, des images ou des vidéos avec la preuve de vos efforts, et aussi partager les résultats.",
         "rule3": "Si vos efforts ont seulement amené peu ou pas de nouveaux utilisateurs/contributeurs au projet Open Source, vous ne devriez pas écrire à ce sujet.",
         "rule4": "Vous devez prouver votre identité. Si votre nom d'utilisateur sur Utopian est différent de ceux des plateformes que vous avez utilisées pour le marketing du projet, vous devez fournir des captures d'écran de la session connectée sur ces plateformes.",
@@ -200,22 +200,22 @@
         "headline": "Règles pour une documentation",
         "rule1": "Seules les Pull Requests sur le référentiel officiel seront acceptées ou sur un fork aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
         "rule2": "Soumettez dans cette catégorie uniquement lorsque vous travaillez sur la documentation officielle d'un projet Open Source.",
-        "rule3": "Vous devez être l'auteur soit de la documentation entière soit des changements/améliorations appliqués à la documentation.",
-        "rule4": "Seul le travail sur la documentation officiel du projet peut être soumis dans cette catégorie. Utilisez la catégorie Tutoriels pour toute autre documentation.",
+        "rule3": "Vous devez être l'auteur soit de la documentation entière soit des changements/améliorations appliquées à la documentation.",
+        "rule4": "Seul le travail sur la documentation officielle du projet peut être soumis dans cette catégorie. Utilisez la catégorie Tutoriels pour toute autre documentation.",
         "rule5": "Si vous ne postez pas le document complet que vous avez rédigé, alors vous devez fournir des liens publics vers celui-ci.",
         "rule6": "Vous devez fournir une preuve suffisante du travail que vous avez accompli.",
-        "rule7": "S'il y a lieu, des liens vers les Pull Requests que vous avez soumis sur GitHub qui contiennent votre travail.",
-        "rule8": "Ne soumettez jamais du travail de documentation que vous avez déjà partagé par le passé."
+        "rule7": "S'il y a lieu, fournissez les liens vers les Pull Requests que vous avez soumises sur GitHub et qui contiennent votre travail.",
+        "rule8": "Ne soumettez jamais un travail de documentation que vous avez déjà partagé par le passé."
       },
       "tutorials": {
         "headline": "Règles pour un tutoriel",
-        "rule1": "Les tutoriels traduits par ordinateur seront rejeté.",
-        "rule2": "Cette catégorie est seulement pour fournir des tutoriels pour un projet Open Source.",
-        "rule3": "Les tutoriels peuvent être dans n'importe quelle langue.",
-        "rule4": "Un texte d'introduction en anglais est toujours obligatoire, en haut de l'article.",
-        "rule5": "Si votre tutoriel contient également une vidéo, vous devriez utiliser la catégorie Tutoriel Vidéo à la place.",
+        "rule1": "Les tutoriels traduits automatiquement seront rejetés.",
+        "rule2": "Utilisez cette catégorie uniquement pour fournir des tutoriels lié à un projet Open Source.",
+        "rule3": "Les tutoriels peuvent être soumis dans n'importe quelle langue.",
+        "rule4": "Un texte de présentation en anglais est obligatoire et doit être positionné en haut de l'article.",
+        "rule5": "Si votre tutoriel contient une vidéo, vous devez utiliser la catégorie Tutoriel Vidéo.",
         "rule6": "Vous devez être l'auteur du tutoriel.",
-        "rule7": "Si vous ne postez pas l'entièreté du tutoriel, vous devez fournir des liens publics vers les version complètes de celui-ci.",
+        "rule7": "Si vous ne publier pas l'entièreté du tutoriel, vous devez fournir des liens publics vers les version complètes de celui-ci.",
         "rule8": "Ne postez jamais de tutoriels que vous avez déjà partagé auparavant sur la blockchain Steem en général."
       },
       "videotutorials": {
@@ -232,10 +232,10 @@
         "headline": "Règles pour une rédaction",
         "rule1": "Seul les Pull Requests fusionées sur le référentiel officiel ou sur un fork seront acceptées aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
         "rule2": "Utilisez cette catégorie uniquement pour montrer un travail de rédaction que vous avez effectué pour une projet Open Source.",
-        "rule3": "La rédaction peut être dans n'importe quelle langue.",
+        "rule3": "La rédaction peut se faire dans n'importe quelle langue.",
         "rule4": "Un texte d'introduction en anglais est toujours obligatoire, en haut de l'article.",
         "rule5": "Vous devez être l'auteur.",
-        "rule6": "S'il y a lieu, des liens vers les Pull Requests que vous avez soumis sur GitHub qui contiennent votre travail.",
+        "rule6": "S'il y a lieu, fournissez les liens vers les Pull Requests que vous avez soumises sur GitHub et qui contiennent votre travail.",
         "rule7": "Ne postez jamais du travail de rédaction que vous avez déjà partagé auparavant."
       },
       "blog": {
@@ -243,7 +243,7 @@
         "rule1": "Vous devez fournir un format original. Vous ne pouvez pas poster sur des nouvelles trouvées sur internet ou sur des idées générales, à moins que vous n'ayez un format unique et cohérent. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Exemple d'un bon format</a>.",
         "rule2": "Vous pouvez seulement écrire des articles de blog qui sont liés à <b>des projets Open-Source</b> ou au <b>mouvement Open-Source</b> en général.",
         "rule3": "Les articles de blog doivent fournir du contenu détaillé et des aperçus en lien avec les projets Open Source.",
-        "rule4": "Les images, les captures d'écran, les liens et les exemples ne sont pas nécessaires mais appréciés.",
+        "rule4": "Les images, les captures d'écran, les liens et les exemples ne sont pas nécessaires mais préférables.",
         "rule5": "Assurez-vous que votre article ne rentre pas dans d'autres catégories (Tutoriels ou Rédaction par exemple).",
         "rule6": "N'écrivez jamais d'articles de blog que vous avez déjà partagés auparavant.",
         "rule7": "Nous serons particulièrement rigoureux pour cette catégorie comme nous avons vu des abus par le passé."
@@ -267,11 +267,11 @@
     },
     "q2": {
       "headline": "2. Qu'est-ce que c'est Steem?",
-      "text": "<p>Steem est une blockchain de dernière génération qui soutient les applications des réseaux sociaux et leurs contenus. Il utilise un mécanisme unique qui se sert de la sagesse de la foule pour récompenser les personnes qui ont fait de contributions de qualité envers leurs communautés respectives. Sa monnaie native est appelée STEEM et c'est la monnaie avec laquelle les contributeurs d'Utopian sont récompensés.</p><p><a href='https://steem.io'>En savoir plus sur Steem</a></p>"
+      "text": "<p>Steem est une blockchain de dernière génération qui soutient les applications des réseaux sociaux et leurs contenus. Il utilise un mécanisme unique qui se sert de la sagesse de la foule pour récompenser les personnes qui ont fait des contributions de qualité à leurs communautés respectives. Sa monnaie native est appelée STEEM et c'est la monnaie avec laquelle les contributeurs d'Utopian sont récompensés.</p><p><a href='https://steem.io'>En savoir plus sur Steem</a></p>"
     },
     "q3": {
       "headline": "3. D'où viennent les récompenses?",
-      "text": "<p>Le modèle économique de Steem permet la création de nouveaux jetons (ou unités de monnaie) à un taux d'inflation prédéfini d'environ 9.5% par an, diminuant d'environ 0.5% chaque année au cours des vingt prochaines années et demi, jusqu'à ce qu'il atteigne un taux d'inflation annuel de 0.95%. Ces nouveaux jetons sont continuellement distribués aux personnes effectuant des actions jugées utiles par leurs communautés à travers les votes de la communauté. Dans le cas de la communauté d'Utopian, les propriétaires de projet, les contributeurs et d'autres personnes ayant des intérêts particuliers dans les contributions au développement du logiciel Open Source \"vote\" ou \"like\", ils ont leur mot à dire sur comment les jetons sont distribués, en relation directe avec leurs investissement dans l'écosystème de Steem (plus précisement la quantité de Steem Power qu'ils détiennent). Plus ils ont de Steem Power, plus ils pourront donner de récompenses aux contributeurs.</p><p>Les contributeurs sont en mesure de récupérer leurs récompenses sept jours après qu'ils aient publiés leur article ou leur contribution.</p><p><a href='https://steem.io'>En savoir plus sur l'écosystème Steem</a></p>"
+      "text": "<p>Le modèle économique de Steem permet la création de nouveaux jetons (ou unités de monnaie) à un taux d'inflation prédéfini d'environ 9.5% par an, diminuant d'environ 0.5% chaque année au cours des vingt prochaines années et demie, jusqu'à ce qu'il atteigne un taux d'inflation annuel de 0.95%. Ces nouveaux jetons sont continuellement distribués aux personnes effectuant des actions jugées utiles par leurs communautés à travers les votes de la communauté. Dans le cas de la communauté d'Utopian, les propriétaires de projet, les contributeurs et d'autres personnes ayant des intérêts particuliers dans les contributions au développement de logiciel Open Source \"vote\" ou \"like\". Ils ont leur mot à dire sur la manière dont les jetons sont distribués, en relation directe avec leurs investissement dans l'écosystème de Steem (plus précisément la quantité de Steem Power qu'ils détiennent). Plus ils ont de Steem Power, plus ils pourront donner de récompenses aux contributeurs.</p><p>Les contributeurs sont en mesure de récupérer leurs récompenses sept jours après qu'ils aient publiés leur article ou leur contribution.</p><p><a href='https://steem.io'>En savoir plus sur l'écosystème Steem</a></p>"
     },
     "q4": {
       "headline": "4. Où puis-je trouver ma wallet?",
