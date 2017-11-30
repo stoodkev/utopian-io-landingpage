@@ -168,6 +168,11 @@ let app = new Vue({
         flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/id.png'
       },
       {
+        code: 'fr',
+        label: 'French',
+        flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/fr.png'
+      },
+      {
         code: 'de',
         label: 'German',
         flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/de.png'
