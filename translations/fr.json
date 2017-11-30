@@ -74,7 +74,7 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian pour les propriétaires de projets",
+    "headline": "Utopian pour les Propriétaires de Projets",
     "text": "Avec Utopian.io, vous pouvez faire des <b>annonces</b> pour vos projets et faire ainsi rapidement du crowdsource d'une réserve de talents internationaux. Obtenez l'attention de précieux collaborateurs et utilisez la puissance de l'intelligence collective pour développer vos projets.",
     "thinkers": {
       "headline": "Penseurs",
@@ -129,13 +129,13 @@
     "categories": {
       "suggestions": {
         "headline": "Règles pour une suggestion",
-        "rule1": "Les suggestions sont des fonctionnalités/améliorations mineurs que vous aimeriez avoir dans un projet Open Source.",
+        "rule1": "Les suggestions sont des fonctionnalités/améliorations mineures que vous aimeriez avoir dans un projet Open Source.",
         "rule2": "Les suggestions doivent fournir suffisamment de détails pour que la fonctionnalité demandée puisse être conçue.",
         "rule3": "Les images, les captures d'écran, les liens et les exemples sont toujours les bienvenus dans cette catégorie.",
         "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées auparavant ou sur des suggestions déjà partagées par quelqu'un d'autre."
       },
       "subprojects": {
-        "headline": "Règles pour un sous-projet",
+        "headline": "Règles pour un Sous-Projet",
         "rule1": "Un sous-projet est un ensemble de fonctionnalités nouvelles ayant un grand impact sur le projet.",
         "rule2": "Les sous-projets doivent fournir des détails clair pour que les fonctionnalités puissent être conçues.",
         "rule3": "Les images, les captures d'écran, les liens, les flux, les maquettes et les exemples sont toujours obligatoires dans cette catégorie.",
@@ -157,7 +157,7 @@
         "rule1": "Utilisez seulement cette catégorie pour signaler des bugs que vous avez trouvé dans un projet Open Source.",
         "rule2": "Vous devez fournir tous les détails nécessaires pour reproduire le bug.",
         "rule3": "Vous devez inclure, par exemple: les navigateurs utilisés, les types d'appareil, les systèmes d'exploitation et autres détails similaires.",
-        "rule4": "Ne signalez jamais de bugs qui l'ont déjà été, par vous ou quelqu'un d'autre."
+        "rule4": "Ne signalez jamais de bugs qui l'ont déjà été, par vous ou par quelqu'un d'autre."
       },
       "translation": {
         "headline": "Règles pour une traduction",
