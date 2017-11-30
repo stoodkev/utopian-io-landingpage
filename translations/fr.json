@@ -121,8 +121,8 @@
     }
   },
   "rules": {
-    "step1": "Respecter<br>nos règles !",
-    "step2": "Faites-vous relire par nos<br>modérateurs!",
+    "step1": "Respectez<br>nos règles !",
+    "step2": "Faites-vous évaluer par nos<br>modérateurs!",
     "step3": "Faites-vous voter par Utopian.io et la communauté!",
     "step4": "Soyez payé<br>après 7 jours!",
     "text": "Pour assurer la qualité, chaque contribution est passée en revue par un de nos modérateurs, selon nos règles. Ne pas respecter ces règles va soit diminuer les récompenses ou stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et elle peut obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
@@ -132,7 +132,7 @@
         "rule1": "Les suggestions sont des fonctionnalités/améliorations mineures que vous aimeriez avoir dans un projet Open Source.",
         "rule2": "Les suggestions doivent fournir suffisamment de détails pour que la fonctionnalité demandée puisse être conçue.",
         "rule3": "Les images, les captures d'écran, les liens et les exemples sont toujours les bienvenus dans cette catégorie.",
-        "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées auparavant ou sur des suggestions déjà partagées par quelqu'un d'autre."
+        "rule4": "N'écrivez jamais à propos de suggestions que vous avez déjà partagées ou sur des suggestions déjà partagées par quelqu'un d'autre."
       },
       "subprojects": {
         "headline": "Règles pour un Sous-Projet",
