@@ -168,7 +168,7 @@
         "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
         "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Başkası tarafından veya senin tarafından önceden gönderilmiş bir çeviriyi asla tekrar gönderme."
+        "rule8": "Başkası veya senin tarafından önceden gönderilmiş bir çeviriyi asla tekrar gönderme."
       },
       "graphics": {
         "headline": "Grafik kuralları",
@@ -212,7 +212,7 @@
         "rule1": "Makina çevirisine sahip dersler reddedilecektir.",
         "rule2": "Bu kategori, sadece açık kaynak projelere öğretici yazılar hazırlamak içindir.",
         "rule3": "Dersler herhangi bir dilde olabilir.",
-        "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmalı.",
+        "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmalıdır.",
         "rule5": "Eğer öğretici yazınız vidyo içeriyorsa, öğretici vidyolar kategorisini kullanmalısınız.",
         "rule6": "Dersin sahibi sen olmak zorundasın.",
         "rule7": "Bütün dersi buraya girmiyorsanız, tüm içeriği sağlayan herkese açık bir adresi bize sunmanız gerekmektedir.",
