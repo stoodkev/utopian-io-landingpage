@@ -1,7 +1,3 @@
-// About Utopian.io and Utipian: There is no official Chinese translation on this, I prefer to leave the original English word rather than translate into some unoffical Chinese name by meaning.
-// Actions on GitHub: Words like fork/pull requests are not suit for translating, it's better to remain in English, as these are well-known by developers. People might get confused if these were translated into Chinese.
-// Space between Chinese characters and English word: I prefer to leave a space between Chinese characters and English word/number, which makes the content more visible and easier for reading.
-
 {
   "nav": {
     "rewards": "奖励",
