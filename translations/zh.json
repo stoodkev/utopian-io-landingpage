@@ -145,7 +145,7 @@
       },
       "development": {
         "headline": "开发类别规则",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "只有被合并(merge) 的拉取(Pull) 请求，或您所维护的开源项目是从未在Utopian上发布过的，亦或您的项目不仅仅是原项目镜像(fork) 的未修改过的派生(fork) 项目会被作为工作证明来接受。",
         "rule2": "在这个类别中，只有项目开发者或者对项目代码做过贡献的人才能使用这个类别。",
         "rule3": "您必须提供链接到分支，叉，点或拉请求。",
         "rule4": "如果您在Github上的用户名与您的乌托邦用户名不同，您必须通过在Github上提供已登录会话的屏幕截图来证明您是帐户所有者。",
@@ -198,13 +198,13 @@
       },
       "documentation": {
         "headline": "文档类别规则",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "只有在官方仓库(repository) 或者在非原项目镜像(fork) 的派生(fork) 项目中被合并(merge) 的拉取(Pull) 请求会被作为工作证明来接受。",
         "rule2": "只有当您是在处理开源项目的官方文档时才可以提交到此类别。",
         "rule3": "您必须是整个文档的作者，或者您的工作适用于文档的更改/增强功能。",
         "rule4": "只有正式的官方项目文件工作可以在这个类别提交， 任何其他文件请使用教程类别。",
         "rule5": "如果您没有发布您所撰写的完整内容，则必须提供指向完整内容的公共链接。",
         "rule6": "你必须提供你所做的工作的充分证明。",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
+        "rule7": "如果可以，请附上您已经提交到GitHub上包含您的工作内容的拉取(pull) 请求的链接。",
         "rule8": "永远不要提交以前已经共享过的文档工作。"
       },
       "tutorials": {
@@ -230,7 +230,7 @@
       },
       "copywriting": {
         "headline": "文案类别规则",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "只有在官方仓库(repository) 被合并(merge) 的拉取(Pull) 请求或者非原项目镜像(fork) 的派生(fork) 项目会被作为工作证明来接受。",
         "rule2": "仅使用此类别展示您已完成的开源代码项目的文案撰写工作。",
         "rule3": "文案可以用任何语言。",
         "rule4": "英文文本介绍始终是必须的，在帖子的顶部。",

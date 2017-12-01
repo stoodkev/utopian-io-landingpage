@@ -1,22 +1,22 @@
 {
   "nav": {
     "rewards": "Hadiah",
-    "rules": "Peraturan",
+    "rules": "Aturan",
     "moderators": "Moderator",
-    "faq": "Pertanyaan Umum",
+    "faq": "FAQ",
     "blog": "Blog",
     "signup": "Daftar",
     "login": "Masuk"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Ekonomi Sumber Terbuka",
+    "text2": "Sumber terbuka",
     "text3": "Dapatkan penghargaan dengan berkontribusi pada proyek Open Source<br> favorit Anda!"
   },
-  "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source </a>. Ini berjalan di setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Ini dikembangkan terutama oleh sukarelawan dan penggemar di seluruh dunia, orang-orang aneh di antara teman Anda yang lebih mencintai komputer mereka daripada bergaul dengan Anda. Perangkat lunak Open Source bersifat gratis dan umum dan memungkinkan setiap orang menggunakannya dan mengubahnya sesuai kebutuhan mereka. Ini bergantung pada kecerdasan kolektif dan bukan standar yang dipaksakan atasan. Semua pekerjaan ini dilakukan secara gratis! Walikota bagaimanapun menghargai setiap orang yang berkontribusi terhadap proyek semacam itu, selama standar mutu tertentu terpenuhi.",
+  "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Ini berjalan pada setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang kutu di antara teman-teman Anda bahwa cinta komputer mereka lebih dari bergaul dengan Anda. Open Source perangkat lunak adalah milik umum dan gratis dan memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu bergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Utopis namun penghargaan setiap orang yang memberikan kontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu terpenuhi.",
   "octocat": {
     "hi": "Hai! Saya Octocat!",
-    "text": "Saya bekerja di GitHub, sebagai Maskot! Ini adalah tempat yang sangat bagus untuk menjadi. Kami adalah komunitas penggemar dan relawan yang mencakup seluruh dunia, bekerja sama dalam ribuan proyek keren. <b> Utopian.io </b> memberi penghargaan kepada Anda karena memberi kontribusi pada proyek Open Source, seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau membagikan gagasan bagus dan banyak lagi.",
+    "text": "Saya bekerja di GitHub, sebagai maskot! Ini adalah tempat yang sangat tepat untuk menjadi. Kami adalah komunitas dunia-mencakup penggemar dan sukarelawan, bekerja sama untuk ribuan proyek-proyek yang sejuk. <b>Utopian.io</b> penghargaan Anda untuk membuat kontribusi ke proyek-proyek Open Source seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau berbagi ide-ide bagus dan banyak lagi.",
     "visit": "Kunjungi GitHub.com!"
   },
   "projects": {
@@ -26,27 +26,27 @@
     "headline": "... dan berkontribusi!",
     "suggestions": {
       "headline": "Saran",
-      "text": "Semuanya dimulai dengan sebuah ide. Bagikan ide atau permintaan fitur kecil Anda dan bantu memperbaiki proyek."
+      "text": "Semuanya dimulai dengan sebuah ide. Berbagi ide-ide atau permintaan fitur kecil dan membantu meningkatkan proyek."
     },
     "subprojects": {
       "headline": "Sub-Proyek",
-      "text": "Bagikan fitur dan konsep baru dan lebih terperinci yang telah Anda kembangkan untuk sebuah proyek."
+      "text": "Berbagi fitur baru dan lebih rumit atau konsep yang Anda telah mengembangkan sebuah proyek."
     },
     "development": {
       "headline": "Pengembangan",
-      "text": "Jika Anda telah menulis kode dan membuat permintaan tarik, bagikan karya Anda dengan komunitas Utopian."
+      "text": "Jika Anda telah menulis kode dan menciptakan permintaan tarik, berbagi pekerjaan Anda dengan masyarakat utopis."
     },
     "bughunting": {
       "headline": "Berburu bug",
-      "text": "Bantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan membagikan laporan bug terperinci."
+      "text": "Membantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan berbagi laporan rinci bug."
     },
     "translation": {
       "headline": "Terjemahan",
-      "text": "Bantu orang menggunakan perangkat lunak dalam bahasa lain dengan menerjemahkan teks atau dokumentasi melalui <a href='https://crowdin.com/' target='_blank'> Crowdin </a> dan alat lainnya."
+      "text": "Membantu orang-orang yang menggunakan perangkat lunak dalam bahasa lain dengan menerjemahkan teks atau dokumentasi melalui <a href='https://crowdin.com/' target='_blank'> Crowdin</a> dan alat-alat lain."
     },
     "graphics": {
       "headline": "Grafis",
-      "text": "Bagikan logo, ikon, latar belakang, dan grafis asli yang Anda rancang untuk sebuah proyek."
+      "text": "Berbagi asli logo, ikon, latar belakang dan grafis lain yang Anda dirancang untuk sebuah proyek."
     },
     "documentation": {
       "headline": "Dokumentasi",
@@ -58,23 +58,23 @@
     },
     "visibility": {
       "headline": "Visibilitas",
-      "text": "Upaya pemasaran juga bisa dihargai melalui Utopian juga. Beritahu komunitas apa yang telah Anda lakukan untuk mempromosikan proyek Open Source."
+      "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopis juga. Memberitahu masyarakat apa yang telah Anda lakukan untuk mempromosikan proyek sumber terbuka."
     },
     "tutorials": {
       "headline": "Tutorial",
-      "text": "Tulislah tutorial informatif dan bantu orang lain untuk menggunakan produk Open Source."
+      "text": "Menulis tutorial informatif dan membantu orang lain untuk menggunakan produk Open Source."
     },
     "videotutorials": {
       "headline": "Tutorial Video",
-      "text": "Buat video cara untuk produk Open Source dan bantu orang-orang mempelajari cara menggunakannya."
+      "text": "Buat how-to video untuk produk Open Source dan membantu orang belajar bagaimana menggunakannya."
     },
     "copywriting": {
       "headline": "Copywriting",
-      "text": "Tulis salinan menarik dan informatif untuk proyek Open Source, dan tingkatkan kekuatan merek mereka."
+      "text": "Menulis salinan yang menarik dan informatif untuk proyek-proyek Open Source, dan meningkatkan kekuatan merek mereka."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian untuk pemilik proyek",
+    "headline": "Utopis untuk pemilik proyek",
     "text": "Dengan Utopian.io, Anda bisa membuat <b> pengumuman </b> untuk proyek Anda dan dengan cepat mengumpulkan banyak sumber dari kolam bakat internasional. Dapatkan perhatian kontributor yang berharga dan gunakan kekuatan kecerdasan kolektif untuk mengembangkan proyek Anda.",
     "thinkers": {
       "headline": "Pemikir",
@@ -85,8 +85,8 @@
       "text": "Hubungi pengembang berbakat untuk menulis kode atau memperbaiki bug."
     },
     "bughunters": {
-      "headline": "Pemburu bug",
-      "text": "Dorong pengguna untuk melaporkan masalah atau mengundang mereka untuk mencoba fitur baru yang sedang Anda kembangkan."
+      "headline": "Berburu bug",
+      "text": "Mendorong pengguna untuk melaporkan masalah atau mengundang mereka untuk mencoba fitur baru Anda mengembangkan."
     },
     "translators": {
       "headline": "Penerjemah",
@@ -94,199 +94,199 @@
     },
     "designers": {
       "headline": "Desainer",
-      "text": "Miliki desainer berbakat membuat grafis unik untuk proyek atau merek Anda."
+      "text": "Memiliki desainer berbakat yang membuat unik grafis untuk proyek atau merek Anda."
     },
     "writers": {
-      "headline": "Penulis Teknis",
-      "text": "Dapatkan dokumentasi komprehensif yang dibuat untuk proyek Anda yang benar menginformasikan pengguna dan pemangku kepentingan lainnya."
+      "headline": "Penulis teknis",
+      "text": "Mendapatkan dokumentasi yang komprehensif yang dibuat untuk proyek Anda yang benar menginformasikan pengguna dan pemangku kepentingan lainnya."
     },
     "analysts": {
-      "headline": "Analis data",
-      "text": "Ekstrak makna dari data yang Anda hasilkan, temukan tren dan buat keputusan yang tepat mengenai proyek Anda melalui bantuan analis data."
+      "headline": "Data analis",
+      "text": "Ekstrak makna dari data yang dihasilkan, menemukan tren dan membuat keputusan mengenai proyek Anda melalui bantuan data analis."
     },
     "influencers": {
       "headline": "Influencer",
-      "text": "Mengkoordinasikan pemasaran online atau offline yang efektif dengan bantuan influencer di seluruh dunia dan dapatkan proyek Anda perhatian yang pantas."
+      "text": "Mengkoordinasikan pemasaran online atau offline yang efektif dengan bantuan influencer di seluruh dunia dan mendapatkan proyek Anda perhatian yang layak."
     }
   },
   "rewards": {
-    "contributor_rewards": "Hadiah Kontributor",
-    "curator_rewards": "Hadiah Kurator",
-    "pending_rewards": "Hadiah yang tertunda",
-    "total_generated": "Total hasil",
+    "contributor_rewards": "Kontributor penghargaan",
+    "curator_rewards": "Upah Kurasi",
+    "pending_rewards": "Imbalan tertunda",
+    "total_generated": "Total yang dihasilkan",
     "steem": {
-      "headline": "Siapa yang membayar ganjarannya?",
-      "text": "Untuk membayar ganjarannya, Utopian.io menggunakan <a href='https://steem.io/'> Steem blockchain </a>. Uang itu diciptakan dalam bentuk kripto yang disebut <b> STEEM </b>, melalui pemungutan suara oleh masyarakat. Tidak ada yang harus membayar imbalannya secara langsung. Mereka menghasilkan dan didistribusikan menggunakan algoritma yang disebut <i> Bukti Otak </i>, yang mendorong orang untuk membuat dan mengurasi konten berkualitas. <br> <br> Dalam kasus Utopian.io, kontribusi Anda kepada Dunia Open Source adalah konten berkualitas. Dengan meningkatkan kontribusi Anda, masyarakat menciptakan uang untuk memberi penghargaan atas pekerjaan Anda. Orang juga dapat memilih untuk membayar satu sama lain secara langsung menggunakan STEEM mereka sendiri, jika mereka mau, tapi itu opsional. <br> <br> Nilai pemungutan suara pengguna didasarkan pada investasinya sendiri di platform dan semakin besar jumlah mereka. saham, semakin banyak pemungutan suara mereka layak dilakukan saat kurasi. Utopian.io sendiri dapat memberikan suara atas kontribusi Anda. Lebih dari <b> 3 juta Steem Power </b> didelegasikan ke akun platform Utopian.io, membuat pemungutan suara penuhnya bernilai lebih dari <b> $ 250 </b>, dengan harga pasar saat ini. <br> <br> <a href = '# faq'> Periksa Tanya Jawab </a> untuk informasi lebih lanjut.",
+      "headline": "Yang membayar penghargaan?",
+      "text": "Untuk membayar imbalan, Utopian.io menggunakan <a href='https://steem.io/'> Steem blockchain</a>. Uang yang dibuat dalam bentuk cryptocurrency yang disebut <b>STEEM</b>, melalui masyarakat pemungutan suara. Tidak ada yang harus membayar untuk hadiah langsung. Mereka dihasilkan dan didistribusikan menggunakan algoritma yang disebut <i>Bukti dari otak</i>, yang mendorong orang untuk membuat dan pendeta pembantu kualitas konten. <br><br>Dalam kasus Utopian.io, kontribusi Anda untuk dunia Open Source adalah kualitas konten. Dengan upvoting kontribusi Anda, masyarakat menciptakan uang untuk menghargai Anda untuk pekerjaan Anda. Orang juga dapat memilih untuk membayar satu sama lain secara langsung menggunakan STEEM mereka sendiri, jika mereka ingin, tapi itu opsional. <br><br>Nilai pengguna suara didasarkan pada investasi-nya sendiri dalam platform dan semakin besar saham mereka, semakin suara mereka adalah layak ketika curating. Utopian.io itu sendiri dapat memberikan suara pada kontribusi Anda. Lebih dari <b>3 juta Steem Power</b> didelegasikan ke account Utopian.io platform, membuat suara yang penuh senilai lebih dari <b>$250</b>, pada harga pasar. <br><br><a href='#faq'> memeriksa FAQ</a> untuk informasi lebih lanjut.",
       "button": "Pelajari lebih lanjut tentang Steem"
     }
   },
   "rules": {
     "step1": "Mematuhi <br>peraturan kami!",
-    "step2": "Dapatkan ulasan oleh<br>moderator kami!",
+    "step2": "Mendapatkan ditinjau oleh moderator <br>kami!",
     "step3": "Dapatkan upvoted oleh Utopian.io dan masyarakat!",
     "step4": "Dibayar<br>setelah 7 hari!",
-    "text": "Untuk memastikan kualitas, setiap kontribusi ditinjau oleh salah satu moderator kami, sesuai peraturan kami. Tidak menghormati peraturan ini akan memberi Anda imbalan yang rendah atau menghentikan kontribusi Anda agar tidak diterima sama sekali. Namun, jika kontribusi Anda tidak diterima, namun tetap akan dipublikasikan di Steem blockchain, dan bisa mendapatkan imbalan. Dalam hal ini, Anda akan menjadi milik Anda sendiri. Utopian tidak akan menghargai kontribusi Anda atau membaginya.",
+    "text": "Untuk memastikan kualitas, kontribusi masing-masing ini ditinjau oleh salah satu moderator kami, sesuai peraturan kami. Tidak menghormati aturan-aturan ini akan membuat Anda lebih rendah imbalan atau berhenti kontribusi Anda diterima sama sekali. Namun, jika sumbangan Anda tidak diterima, itu masih akan diterbitkan pada Steem blockchain, dan itu bisa mendapatkan imbalan. Dalam hal ini, Anda akan Anda sendiri. Utopis tidak akan menghargai kontribusi Anda atau berbagi.",
     "categories": {
       "suggestions": {
         "headline": "Aturan Saran",
-        "rule1": "Saran adalah fitur / perangkat tambahan kecil yang ingin Anda dapatkan dalam proyek Open Source.",
-        "rule2": "Saran harus memberikan rincian yang cukup untuk fitur yang diminta agar benar-benar dibangun.",
+        "rule1": "Saran are fitur kecil/tambahan yang Anda akan ingin memiliki dalam proyek sumber terbuka.",
+        "rule2": "Saran harus memberikan perincian yang cukup untuk fitur yang diminta akan benar-benar dibangun.",
         "rule3": "Gambar, tangkapan layar, tautan dan contoh selalu diterima dalam kategori ini.",
         "rule4": "Jangan pernah menulis tentang saran yang telah Anda bagikan sebelumnya atau saran yang telah dibagikan oleh orang lain."
       },
       "subprojects": {
         "headline": "Aturan Sub-Proyek",
-        "rule1": "Sub-Proyek adalah sekumpulan fitur baru yang tak terlihat yang memiliki dampak besar pada proyek.",
-        "rule2": "Subproyek harus menyediakan rincian lengkap tentang fitur yang akan dibangun.",
+        "rule1": "Sub-proyek adalah satu set fitur baru, gaib yang memiliki dampak besar pada proyek.",
+        "rule2": "Sub-proyek harus memberikan rincian lengkap fitur yang benar-benar dibangun.",
         "rule3": "Gambar, screenshot, link, flow, mockups dan contoh selalu wajib dalam kategori ini.",
-        "rule4": "Dalam kategori ini, kualitas konten merupakan faktor utama untuk diterima di Utopian.",
-        "rule5": "Jika Anda yakin ide Anda tidak memenuhi syarat sebagai Subproyek, gunakan kategori Saran sebagai gantinya.",
+        "rule4": "Dalam kategori ini, kualitas konten adalah faktor utama untuk diterima di utopis.",
+        "rule5": "Jika Anda percaya ide Anda tidak memenuhi syarat sebagai sub-proyek, menggunakan saran Kategori sebagai gantinya.",
         "rule6": "Jangan pernah menulis tentang proyek yang telah Anda bagikan sebelumnya atau proyek yang telah dibagikan oleh orang lain."
       },
       "development": {
         "headline": "Aturan Pengembangan",
-        "rule1": "Hanya permintaan Tarik yang digabung akan diterima atau proyek Open Source yang Anda pertahankan tidak pernah dikirim ke Utopian sebelumnya, garpu disertakan asalkan garpu bukan hanya cermin dari yang asli. Bukti kerja yang dibutuhkan.",
+        "rule1": "Hanya bergabung menarik permintaan akan diterima atau proyek sumber terbuka Anda mempertahankan pernah diposting pada utopis sebelumnya, garpu termasuk selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
         "rule2": "Dalam kategori ini, Anda hanya bisa menulis jika Anda mengembangkan atau memberi kode untuk pengembangan sebuah proyek.",
         "rule3": "Anda harus menyediakan tautan ke cabang, garpu, gerbang atau permintaan tarik.",
         "rule4": "Jika nama pengguna Anda di Github tidak sama dengan nama pengguna Utopian Anda, Anda harus membuktikan bahwa Anda adalah pemilik akun dengan memberikan tangkapan layar sesi masuk di Github.",
-        "rule5": "Gambar, tangkapan layar, tautan dan contoh tidak diperlukan namun disukai.",
-        "rule6": "Jangan pernah menulis tentang kontribusi kode yang telah Anda bagikan sebelumnya."
+        "rule5": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
+        "rule6": "Jangan pernah menulis tentang kode kontribusi Anda telah berbagi sebelum."
       },
       "bughunting": {
         "headline": "Aturan Berburu Bug",
-        "rule1": "Gunakan hanya kategori ini untuk melaporkan bug yang Anda temukan di proyek Open Source.",
-        "rule2": "Anda harus memberikan semua rincian yang diperlukan untuk mereproduksi bug.",
-        "rule3": "Anda harus menyertakan, misalnya: browser yang digunakan, jenis perangkat, sistem operasi dan detail serupa.",
+        "rule1": "Hanya menggunakan kategori ini untuk melaporkan Anda telah menemukan dalam proyek sumber terbuka.",
+        "rule2": "Anda harus memberikan semua rincian yang mungkin diperlukan untuk mereproduksi bug.",
+        "rule3": "Anda harus memasukkan, sebagai contoh: browser yang digunakan, jenis perangkat, sistem operasi dan butir-butir serupa.",
         "rule4": "Jangan pernah melaporkan bug yang telah dibagikan sebelumnya, oleh Anda atau orang lain."
       },
       "translation": {
         "headline": "Aturan Terjemahan",
-        "rule1": "Untuk mengirimkan terjemahan di Utopian, Anda harus menerjemahkan setidaknya 30% proyek untuk proyek berukuran sedang (500-1000 senar), 10-15% untuk proyek besar (1000 dan lebih tinggi), 100% untuk proyek kecil (1 - 500).",
-        "rule2": "Gunakan kategori ini hanya untuk terjemahan yang telah Anda tulis atau perbarui untuk proyek Open Source.",
-        "rule3": "Anda harus menyertakan keseluruhan teks terjemahan Anda di pos atau menyertakan tautan umum ke versi lengkap.",
-        "rule4": "Sertakan sedetail mungkin, untuk memeriksa terjemahan dan alat yang telah Anda gunakan untuk menerjemahkan.",
-        "rule5": "Seluruh terjemahan selalu disukai. Jika Anda menulis tentang terjemahan parsial, kami berhak mengevaluasi pekerjaan sebenarnya.",
+        "rule1": "Mengirimkan suatu terjemahan dalam utopis Anda harus telah diterjemahkan setidaknya 30% proyek menengah ukuran proyek (500-1000 string), 10-15% untuk proyek-proyek besar (1000 dan atas), 100% untuk proyek-proyek kecil (1-500).",
+        "rule2": "Menggunakan kategori ini hanya untuk terjemahan Anda menulis atau diperbarui untuk sebuah proyek Open Source.",
+        "rule3": "Anda juga harus mencakup seluruh teks diterjemahkan dalam posting atau menyertakan umum link ke versi lengkap.",
+        "rule4": "Mencakup sedetail mungkin, untuk memeriksa terjemahan dan alat-alat yang Anda telah digunakan untuk menerjemahkan.",
+        "rule5": "Seluruh terjemahan selalu lebih disukai. Jika Anda menulis tentang Terjemahan parsial, kami berhak untuk mengevaluasi pekerjaan yang sebenarnya.",
         "rule6": "Anda harus menjadi penulis terjemahan dan memberikan cara untuk memverifikasi pekerjaan Anda.",
-        "rule7": "Jika nama pengguna Anda di CrowdIn atau platform penerjemahan serupa tidak sama dengan nama pengguna Utopian Anda, Anda harus membuktikan bahwa Anda memiliki akun tersebut dengan memberikan tangkapan layar sesi masuk pada platform terjemahan tersebut.",
+        "rule7": "Jika nama pengguna Anda pada CrowdIn atau serupa platform terjemahan tidak sama dengan username yang utopis, Anda harus membuktikan bahwa Anda memiliki account dengan menyediakan screenshot dari sesi login pada platform terjemahan tersebut.",
         "rule8": "Jangan pernah mengirimkan terjemahan yang telah dibagikan, oleh Anda atau orang lain."
       },
       "graphics": {
         "headline": "Aturan Grafis",
-        "rule1": "Kami berhak menolak kontribusi grafis jika kami yakin pekerjaan itu tidak cukup untuk dihargai.",
-        "rule2": "Dalam kategori ini, kirimkan grafis seperti logo, ikon, latar belakang, video, atau animasi yang telah Anda buat untuk proyek Open Source.",
-        "rule3": "Anda harus menyertakan contoh kreasi Anda secara langsung di pos dan tautan umum Anda ke desain lengkap.",
+        "rule1": "Kami berhak untuk menolak kontribusi grafis jika kita percaya kerja tidak cukup dihargai.",
+        "rule2": "Dalam kategori ini, hanya menyerahkan grafis seperti logo, ikon, latar belakang, video atau animasi yang telah Anda buat untuk sebuah proyek Open Source.",
+        "rule3": "Anda harus menyertakan contoh kreasi Anda langsung di posting Anda dan umum link ke desain lengkap.",
         "rule4": "Anda harus memberikan sedetail mungkin untuk memverifikasi pekerjaan yang Anda lakukan.",
-        "rule5": "Anda harus menyediakan file sumber yang dapat diedit (seperti .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirt dan desain merchandising pada umumnya tidak diterima, kecuali jika diminta secara eksplisit oleh pemilik proyek.",
+        "rule5": "Anda harus memberikan file sumber diedit (seperti .psd .ai .eps .svg .cdr).",
+        "rule6": "T-shirt dan merchandising desain secara umum yang tidak selamat datang, kecuali secara eksplisit diminta oleh pemilik proyek.",
         "rule7": "Jangan pernah posting tentang grafis yang telah dibagikan sebelumnya, oleh Anda atau orang lain."
       },
       "analysis": {
         "headline": "Aturan Analisis",
-        "rule1": "Kategori ini hanya untuk analisis yang telah Anda siapkan untuk proyek Open Source.",
-        "rule2": "Anda harus menyertakan hasil rinci dan menjelaskan alasan di baliknya.",
-        "rule3": "Jika Anda tidak memposting analisis Anda secara keseluruhan di sini, Anda harus menyediakan tautan publik ke versi lengkapnya.",
-        "rule4": "Hasil analisis, dalam bentuk grafik atau tabel, adalah wajib dalam kategori ini.",
-        "rule5": "Jangan pernah mengirimkan analisis yang telah dibagikan sebelumnya, oleh Anda atau orang lain."
+        "rule1": "Kategori ini adalah hanya untuk analisis yang sudah disediakan untuk sebuah proyek Open Source.",
+        "rule2": "Anda harus termasuk hasil rinci dan menjelaskan alasan di balik mereka.",
+        "rule3": "Jika Anda tidak posting analisis Anda secara keseluruhan di sini, Anda harus menyediakan umum link ke versi lengkap dari itu.",
+        "rule4": "Hasil analisis, dalam bentuk grafik atau tabel, wajib dalam kategori ini.",
+        "rule5": "Tidak pernah mengirim analisis yang telah dibagi sebelumnya, oleh Anda atau orang lain."
       },
       "visibility": {
         "headline": "Aturan Visibilitas",
-        "rule1": "Dalam kategori ini, sampaikan hasil usaha pemasaran yang Anda lakukan untuk meningkatkan visibilitas proyek Open Source; seperti kampanye media sosial, periklanan, konferensi atau pertemuan.",
-        "rule2": "Anda harus menyediakan link, gambar atau video dengan bukti usaha Anda, dan juga berbagi hasilnya.",
-        "rule3": "Jika usaha Anda hanya membawa beberapa atau nol pengguna baru / kontributor ke proyek Open Source, sebaiknya Anda tidak menuliskannya.",
-        "rule4": "Anda harus membuktikan identitas Anda. Jika nama pengguna Utopian Anda tidak sama dengan nama pengguna pada platform yang Anda gunakan untuk memasarkan proyek, Anda harus menyediakan tangkapan layar sesi masuk pada platform ini.",
+        "rule1": "Dalam kategori ini, menyerahkan hasil usaha pemasaran yang Anda buat untuk meningkatkan visibilitas proyek sumber terbuka; seperti kampanye media sosial, iklan, konferensi atau meetups.",
+        "rule2": "Anda harus memberikan link, gambar atau video dengan bukti usaha Anda, dan juga berbagi hasil.",
+        "rule3": "Jika usaha Anda membawa hanya beberapa atau nol baru pengguna/kontributor untuk proyek Open Source, Anda tidak harus menulis tentang hal itu.",
+        "rule4": "Anda harus membuktikan identitas Anda. Jika username utopis tidak sama dengan nama pada platform Anda digunakan untuk pemasaran proyek, Anda harus menyediakan screenshot dari sesi login pada platform ini.",
         "rule5": "Jangan pernah menulis tentang upaya visibilitas yang telah Anda bagikan sebelumnya."
       },
       "documentation": {
-        "headline": "Aturan Dokumentasi",
-        "rule1": "Hanya permintaan tarik yang digabung di repositori resmi yang akan diterima atau di garpu asalkan garpu bukan hanya cermin dari yang asli. Bukti kerja yang dibutuhkan.",
-        "rule2": "Kirimkan ke kategori ini hanya jika Anda sedang mengerjakan Dokumentasi Resmi sebuah proyek Open Source.",
-        "rule3": "Anda harus menjadi penulis baik keseluruhan dokumentasi atau perubahan / penyempurnaan yang diterapkan pada dokumentasi.",
-        "rule4": "Hanya karya dokumentasi proyek resmi yang bisa diajukan dalam kategori ini. Gunakan kategori Tutorial untuk dokumentasi lainnya.",
-        "rule5": "Jika Anda tidak memposting konten lengkap yang Anda tulis, maka Anda harus menyediakan tautan umum untuk itu.",
-        "rule6": "Anda harus memberikan bukti kerja yang telah Anda lakukan.",
-        "rule7": "Jika berlaku, tautkan ke tarik permintaan yang telah Anda kirimkan di GitHub yang berisi pekerjaan Anda.",
-        "rule8": "Jangan pernah mengirimkan pekerjaan dokumentasi yang telah Anda bagikan di masa lalu."
+        "headline": "Dokumentasi peraturan",
+        "rule1": "Hanya bergabung menarik permintaan pada repositori resmi akan diterima atau garpu selama selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
+        "rule2": "Kirim ke kategori ini hanya ketika Anda bekerja pada dokumentasi resmi proyek sumber terbuka.",
+        "rule3": "Anda harus menjadi penulis baik seluruh dokumentasi atau sedang diterapkan ke dokumentasi perangkat tambahan/perubahan.",
+        "rule4": "Hanya pekerjaan dokumentasi resmi proyek dapat disampaikan dalam kategori ini. Menggunakan kategori Tutorial untuk dokumentasi.",
+        "rule5": "Jika Anda tidak posting konten lengkap Anda menulis, maka Anda harus memberikan umum link ke sana.",
+        "rule6": "Anda harus memberikan bukti yang cukup dari pekerjaan yang telah Anda lakukan.",
+        "rule7": "Jika berlaku, link untuk menarik permintaan yang telah Anda kirimkan pada GitHub yang berisi pekerjaan Anda.",
+        "rule8": "Tidak pernah mengirimkan dokumentasi pekerjaan yang telah Anda berbagi di masa lalu."
       },
       "tutorials": {
         "headline": "Aturan Tutorial",
         "rule1": "Mesin terjemahan tutorial akan ditolak.",
-        "rule2": "Kategori ini hanya untuk memberikan tutorial untuk proyek Open Source.",
-        "rule3": "Tutorial bisa dalam bahasa apapun.",
-        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas pos.",
-        "rule5": "Jika tutorial Anda juga berisi video, Anda harus menggunakan kategori Video Tutorial.",
+        "rule2": "Kategori ini adalah hanya untuk menyediakan tutorial untuk sebuah proyek Open Source.",
+        "rule3": "Tutorial dapat dalam bahasa apapun.",
+        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas posting.",
+        "rule5": "Jika tutorial ini juga berisi video, Anda harus menggunakan kategori Video Tutorial.",
         "rule6": "Anda harus menjadi penulis tutorial.",
-        "rule7": "Jika Anda tidak mengeposkan keseluruhan tutorial di sini, Anda harus menyediakan tautan umum ke versi lengkapnya.",
+        "rule7": "Jika Anda tidak posting seluruh tutorial di sini, Anda harus menyediakan umum link ke versi lengkap dari itu.",
         "rule8": "Jangan sekali-kali memposting tutorial yang telah Anda bagikan sebelumnya di blokir Steem secara umum."
       },
       "videotutorials": {
         "headline": "Aturan Tutorial Video",
-        "rule1": "Video Tutorial yang menggunakan suara mesin akan ditolak.",
-        "rule2": "Kategori ini hanya untuk memberikan tutorial video untuk proyek Open Source.",
-        "rule3": "Video Tutorial bisa dalam bahasa apapun.",
-        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas pos.",
-        "rule5": "Anda harus menjadi penulis tutorial video.",
-        "rule6": "Anda harus menyematkan video langsung di pos. Saat ini, video YouTube adalah wajib.",
-        "rule7": "Jangan pernah memposting tutorial video yang telah Anda bagikan sebelumnya di Steem blockchain secara umum."
+        "rule1": "Video tutorial menggunakan mesin suara akan ditolak.",
+        "rule2": "Kategori ini adalah hanya untuk menyediakan video tutorial untuk sebuah proyek Open Source.",
+        "rule3": "Tutorial video dapat dalam bahasa apapun.",
+        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas posting.",
+        "rule5": "Anda harus menjadi penulis video tutorial.",
+        "rule6": "Anda harus embed video langsung di posting. Saat ini, YouTube video wajib.",
+        "rule7": "Pernah posting video tutorial Anda telah berbagi sebelum pada Steem blockchain secara umum."
       },
       "copywriting": {
         "headline": "Aturan Copywriting",
-        "rule1": "Hanya permintaan tarik yang digabung akan diterima di gudang resmi atau di garpu asalkan garpu bukan hanya cermin dari yang asli. Bukti kerja yang dibutuhkan.",
-        "rule2": "Gunakan kategori ini hanya untuk menunjukkan pekerjaan copywriting yang telah Anda selesaikan untuk proyek Open Source.",
-        "rule3": "Copywriting bisa dalam bahasa apapun.",
-        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas pos.",
-        "rule5": "Anda harus menjadi penulisnya.",
-        "rule6": "Jika berlaku, tautkan ke tarik permintaan yang telah Anda kirimkan di GitHub yang berisi pekerjaan Anda.",
-        "rule7": "Jangan pernah posting karya copywriting yang telah Anda bagi sebelumnya."
+        "rule1": "Hanya bergabung menarik permintaan akan diterima pada repositori resmi atau garpu sebagai lama selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
+        "rule2": "Menggunakan kategori ini hanya untuk menunjukkan pekerjaan copywriting bahwa Anda telah menyelesaikan untuk sebuah proyek Open Source.",
+        "rule3": "Copywriting dapat dalam bahasa apapun.",
+        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas posting.",
+        "rule5": "Anda harus menjadi penulis.",
+        "rule6": "Jika berlaku, link untuk menarik permintaan yang telah Anda kirimkan pada GitHub yang berisi pekerjaan Anda.",
+        "rule7": "Pernah posting copywriting pekerjaan yang Anda telah berbagi sebelum."
       },
       "blog": {
-        "headline": "Aturan Blog Post",
-        "rule1": "Anda harus menyediakan format asli / s. Anda tidak dapat memposting tentang berita yang ditemukan di web atau pemikiran umum, kecuali Anda memiliki format yang unik dan konsisten. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'> Contoh format yang bagus </a>.",
-        "rule2": "Anda hanya bisa menulis posting blog yang terkait dengan <b> proyek open-source </b> atau <b> open-source movement </b> secara umum.",
-        "rule3": "Pos blog harus menyediakan konten dan ikhtisar terperinci yang terkait dengan proyek sumber terbuka.",
-        "rule4": "Gambar, tangkapan layar, link dan contoh tidak perlu tapi disukai.",
-        "rule5": "Memeriksa untuk memastikan anda melakukan tidak cocok lain kategori (e.g. tutorial atau copywriting).",
+        "headline": "Aturan posting blog",
+        "rule1": "Anda harus memberikan format asli/s. Anda tidak dapat memposting tentang berita yang ditemukan di web atau pikiran umum, kecuali jika Anda memiliki format yang unik dan konsisten. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'> contoh format yang baik</a>.",
+        "rule2": "Anda hanya dapat menulis posting blog yang terkait dengan <b>proyek sumber terbuka</b> atau <b>open source gerakan</b> secara umum.",
+        "rule3": "Posting blog harus menyediakan konten yang rinci dan ikhtisar yang berhubungan dengan proyek-proyek open source.",
+        "rule4": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
+        "rule5": "Periksa untuk memastikan bahwa posting Anda tidak cocok dalam kategori lain (misalnya Tutorial atau Copywriting).",
         "rule6": "Jangan pernah menulis posting blog yang telah Anda bagikan sebelumnya.",
-        "rule7": "Kami akan sangat ketat untuk kategori ini karena kami telah melihat pelecehan di sini di masa lalu."
+        "rule7": "Kami akan terutama ketat untuk kategori ini seperti yang kita lihat pelecehan di sini di masa lalu."
       }
     }
   },
   "moderators": {
-    "rewards": "Hadiah",
+    "rewards": "Penghargaan",
     "pending": "Tertunda",
     "previous": "Sebelumnya",
     "meet": "Temukan moderator kami",
-    "text": "Di Utopian, semua kontributor diberi imbalan atas kerja keras mereka, termasuk moderator kami, yang memastikan standar kualitas tinggi ditegakkan di atas platform.",
+    "text": "Pada utopis, Semua kontributor dihargai untuk kerja keras mereka, termasuk moderator kami, yang memastikan standar kualitas tinggi yang ditegakkan pada platform.",
     "pending_payout": "Pembayaran tertunda",
     "previous_payout": "Pembayaran Sebelumnya",
-    "text2": "5% dari total kontribusi kontributor yang dihasilkan diberikan kepada Moderator berdasarkan jumlah kontribusi yang telah mereka ulas. Untuk menjadi seorang Utopian Moderator Anda harus memiliki reputasi tinggi dan sering meninjau kontribusi yang diajukan."
+    "text2": "5% dari total kontributor penghargaan yang dihasilkan pergi ke moderator berdasarkan jumlah kontribusi mereka telah meninjau. Untuk menjadi Moderator utopis Anda harus memiliki reputasi tinggi dan sering meninjau disampaikan kontribusi."
   },
   "faq": {
     "q1": {
-      "headline": "1. Apa itu utopian?",
-      "text": "<p> open source perangkat lunak selalu terkait dengan sukarela kerja oleh individu di dunia siapa tidak perlu dibayar untuk semua mereka kerja keras. ini perangkat lunak berjalan di setiap alat, situs web dan aplikasi kamu bisa memikirkan. ini sering menciptakan oleh relawan, penggemar dan penggemar siapa tanpa pamrih membaktikan mereka waktu dan usaha dengan penyebab. </p> <p> utopian adalah bangunan sebuah open source ekonomi, dimana orang-orang siapa membuat berharga kontribusi untuk open source perangkat lunak proyek mendapatkan dihargai untuk mereka kerja keras. dibangun ontop dari steem blockchain, utopian kegunaan kebijaksanaan dari orang banyak untuk penghargaan berharga kontribusi. proyek pemilik dan lain kontributor semua memutuskan bagaimana imbalan didistribusikan melalui pemungutan suara atau kesukaan individu kontribusi, dan mereka juga memiliki pilihan mendukung kontributor langsung oleh pembayaran mereka di sebuah cryptocurrency bernama steem, yang bisa mudah menjadi diperdagangkan untuk lain cryptocurrency seperti bitcoin dan ethereum"
+      "headline": "1. apa itu utopis?",
+      "text": "Perangkat lunak open Source <p>selalu dikaitkan dengan pekerjaan sukarela oleh individu-individu di seluruh dunia yang tidak harus dibayar untuk semua kerja keras mereka. Perangkat lunak ini berjalan pada setiap perangkat, website dan aplikasi yang dapat Anda pikirkan. Hal ini sering dibuat oleh relawan, penggemar dan penggemar yang tanpa pamrih mendedikasikan waktu dan tenaga mereka untuk penyebab.</p> <p>Utopis adalah membangun ekonomi sumber terbuka, di mana orang-orang yang membuat kontribusi yang berharga untuk membuka sumber proyek perangkat lunak mendapatkan imbalan untuk kerja keras mereka. Dibangun ontop Steem blockchain, utopis menggunakan kebijaksanaan orang-orang untuk menghargai kontribusi yang berharga. Pemilik proyek dan kontributor lainnya semua mendapatkan untuk memutuskan bagaimana imbalan didistribusikan melalui voting atau keinginan individu kontribusi, dan mereka juga memiliki pilihan untuk mendukung kontributor langsung dengan membayar mereka di cryptocurrency disebut STEEM, yang dapat dengan mudah diperdagangkan untuk cryptocurrencies lain seperti Bitcoin dan Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. Apa itu Steem?",
-      "text": "<p> Steem adalah blockchain generasi berikutnya yang mendukung aplikasi media sosial dan isinya. Menggunakan mekanisme Proof-of-Brain unik yang memanfaatkan kebijaksanaan orang banyak untuk memberi penghargaan kepada orang-orang yang memberikan kontribusi berharga bagi komunitas mereka masing-masing. Mata uang aslinya disebut STEEM dan itu adalah mata uang yang diberikan oleh kontributor Utopian. </p> <p> <a href='https://steem.io'> Pelajari lebih lanjut tentang Steem </a> </p >"
+      "headline": "2. apa yang dimaksud dengan Steem?",
+      "text": "<p>Steem adalah blockchain generasi berikutnya aplikasi sosial media dan konten mereka mendukung. Menggunakan mekanisme bukti dari otak yang unik yang memanfaatkan kebijaksanaan dari kerumunan pahala orang-orang yang membuat kontribusi yang berharga untuk komunitas mereka masing-masing. Mata uang asli disebut STEEM dan itu adalah mata uang utopis kontributor yang dihargai in.</p> <p><a href='https://steem.io'> Pelajari lebih lanjut tentang Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Darimana penghargaan berasal?",
-      "text": "<p>Model ekonomi Steem memungkinkan pembuatan token baru (atau satuan mata uang) pada tingkat inflasi yang telah ditetapkan sekitar 9,5% per tahun, turun sekitar 0,5% setiap tahun selama dua puluh setengah tahun ke depan, sampai mencapai tingkat inflasi tahunan sebesar 0,95%. Bukti baru ini didistribusikan secara terus menerus kepada orang-orang yang melakukan tindakan yang dianggap berharga oleh masyarakat mereka melalui pemungutan suara oleh masyarakat. Dalam kasus komunitas Utopian, sebagai pemilik proyek, rekan kontributor dan orang lain dengan kepentingan pribadi dalam pengembangan perangkat lunak open source \"upvote\" atau \"like\", mereka memiliki sebuah pernyataan bagaimana token baru didistribusikan, yang berhubungan langsung dengan saham mereka di ekosistem Steem (yaitu berapa banyak Kekuatan Steem yang mereka miliki). Semakin banyak Steem Power yang mereka miliki, semakin banyak penghargaan yang dapat mereka berikan kepada kontributor. Kontributor dapat menukarkan ganjaran mereka tujuh hari setelah pos atau kontribusinya dipublikasikan. </p> <p> <a href = 'https: //steem.io'> Pelajari lebih lanjut tentang ekosistem Steem </a> </ p>"
+      "headline": "3. di mana imbalan datang dari?",
+      "text": "<p>Steem model ekonomi yang memungkinkan untuk penciptaan baru Token (atau satuan Valas) pada tingkat inflasi yang telah ditetapkan sekitar 9,5% per tahun, turun sekitar 0,5% setiap tahun selama dua puluh satu setengah tahun, hingga mencapai inflasi tahunan 0,95% tingkat. Bukti baru ini didistribusikan secara terus menerus kepada orang-orang yang melakukan tindakan yang dianggap bernilai oleh komunitas mereka melalui masyarakat pemungutan suara. Dalam kasus masyarakat utopis, sebagai pemilik proyek, sesama kontributor dan orang lain dengan kepentingan pribadi dalam pengembangan perangkat lunak sumber terbuka \"upvote\" atau \"seperti\" kontribusi, mereka memiliki mengatakan dalam bagaimana bukti baru ini didistribusikan, dalam hubungan langsung saham mereka dalam ekosistem Steem (yaitu, berapa banyak Steem kekuatan mereka memiliki). Steem semakin besar kekuatan yang mereka miliki, lebih banyak penghargaan yang mereka dapat memberikan kepada kontributor.</p> <p>Kontributor mampu menebus hadiah mereka tujuh hari setelah posting atau kontribusi telah dipublikasikan.</p> <p><a href='https://steem.io'> Pelajari lebih lanjut tentang ekosistem Steem</a></p>"
     },
     "q4": {
-      "headline": "4. Dimana saya menemukan dompet saya?",
-      "text": "<p> Semua STEEM yang Anda dapatkan di Utopian tersedia untuk akun Anda saat masing-masing pos mencapai tanggal pembayarannya, yaitu 7 hari setelah Anda menerbitkannya. Pada saat ini, ganjaran tersedia bagi Anda untuk menukarkan ke saldo akun Anda. </P> <p> Untuk melihat saldo akun Anda dan memiliki akses ke dana Anda, Anda harus pergi ke <a href = 'https: //steemit.com'>steemit.com </a>. Ada bagian bernama \"Dompet\" di mana Anda dapat melihat berapa banyak STEEM yang Anda miliki dan juga memiliki alat untuk mentransfernya, antara lain. Ada aplikasi dompet STEEM mobile yang saat ini dikembangkan oleh Steemit Inc. dan setelah selesai, ini akan menjadi cara termudah untuk mengelola dompet STEEM Anda. </P>"
+      "headline": "4. di mana saya menemukan dompet saya?",
+      "text": "<p>Semua STEEM yang Anda peroleh pada utopis dibuat tersedia untuk account Anda ketika setiap posting individu mencapai tanggal pembayaran, yang 7 hari setelah Anda menerbitkan itu. Saat ini, imbalan tersedia bagi Anda untuk menebus saldo rekening.</p> <p>Untuk melihat saldo account Anda dan untuk memiliki akses ke dana Anda, Anda akan perlu untuk pergi ke <a href='https://steemit.com'> steemit.com</a>. Ada bagian bernama \"Dompet\" mana Anda dapat melihat berapa banyak STEEM Anda sendiri dan juga memiliki alat untuk mentransfer, antara lain. Ada aplikasi dompet STEEM mobile saat ini sedang dikembangkan oleh Steemit Inc dan setelah itu keluar, itu akan menjadi cara termudah untuk mengelola dompet Anda STEEM.</p>"
     },
     "q5": {
       "headline": "5. Bagaimana saya mencairkan STEEM saya?",
-      "text": "<p> Setelah Anda memiliki beberapa STEEM di dompet Anda, Anda dapat mentransfernya ke pertukaran kriptografis yang mendukung STEEM seperti <a href='https://poloniex.com/'> Poloniex </a> atau <a href = ' https://bittrex.com/'>Bittrex </a>. Di sana Anda bisa menukarkannya dengan kripto yang lain seperti Bitcoin atau Ethereum, yang lebih mudah ditukar dengan fiat (USD misalnya). </P> <p> Atau Anda dapat menggunakan <a href = 'https: //blocktrades.us/ '> Blocktrade </a>, yang diintegrasikan ke dalam antarmuka dompet Steemit. Cukup klik saldo STEEM Anda dan menu dropdown akan muncul. Kemudian klik \"Jual\" dan Anda akan dibawa ke Blocktrade. </P>"
+      "text": "<p>Setelah Anda memiliki beberapa STEEM di dompet Anda, Anda dapat mentransfer file ke cryptocurrency asing yang mendukung STEEM seperti <a href='https://poloniex.com/'> Poloniex</a> atau <a href='https://bittrex.com/'> Bittrex</a>. Sana Anda dapat bertukar itu untuk cryptocurrencies lain seperti Bitcoin atau Ethereum, yang lebih mudah untuk pertukaran untuk fiat (USD misalnya).</p> <p>Atau Anda dapat menggunakan <a href='https://blocktrades.us/'> Blocktrades</a>, yang terintegrasi ke dalam antarmuka dompet Steemit. Cukup klik saldo STEEM dan dropdown menu akan muncul. Kemudian klik \"Menjual\" dan Anda akan diarahkan ke Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. Bagaimana cara mendapatkan lebih banyak penghargaan?",
-      "text": "<p> Kualitas adalah yang paling penting bagi Utopian. Masyarakat menghargai kontribusi bermanfaat yang memecahkan masalah dan memindahkan proyek ke depan, sehingga kontribusi kualitas akan diperhatikan dan dihargai. Selalu mengirimkan karya terbaik Anda adalah cara yang paling pasti untuk memposisikan diri Anda untuk mendapatkan lebih banyak kontribusi Anda. </P>"
+      "headline": "6. Bagaimana saya memperoleh lebih banyak penghargaan?",
+      "text": "<p>Kualitas adalah yang paling penting pada utopis. Masyarakat menghargai kontribusi yang berguna yang memecahkan masalah dan memindahkan proyek ke depan, sehingga kontribusi berkualitas akan mendapatkan melihat dan dihargai. Selalu mengirimkan karya terbaik Anda adalah cara paling pasti untuk memposisikan diri Anda untuk mendapatkan lebih banyak atas kontribusi Anda.</p>"
     }
   },
   "blog": {
-    "readmore": "baca lebih lanjut di steemit.com"
+    "readmore": "baca lebih banyak di steemit.com"
   }
 }
