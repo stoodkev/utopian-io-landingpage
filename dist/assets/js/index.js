@@ -6,7 +6,7 @@ var scrollController = new ScrollMagic.Controller();
 
 $(function () {
   // smoothscroll
-  $('#navbar').find('.smoothscroll').on('click', function (e) {
+  $(document).on('click', '.smoothscroll', function (e) {
     e.preventDefault();
 
     var hash = this.hash;
@@ -116,9 +116,33 @@ $(function () {
 var app = new Vue({
   el: '#app',
   data: {
-    lang: 'en',
     langswitch: true,
-    languages: ['en', 'cn', 'es', 'de'],
+    languages: [{
+      code: 'en',
+      label: 'English',
+      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/en.png'
+    }, {
+      code: 'zh',
+      label: 'Chinese (simplified)',
+      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/zh-CN.png'
+    }, {
+      code: 'es',
+      label: 'Spanish',
+      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/es-ES.png'
+    }, {
+      code: 'id',
+      label: 'Indonesian',
+      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/id.png'
+    }, {
+      code: 'fr',
+      label: 'French',
+      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/fr.png'
+    }, {
+      code: 'de',
+      label: 'German',
+      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/de.png'
+    }],
+    currentLang: {},
     messages: {},
     rewards: {
       authors: 0,
@@ -133,7 +157,8 @@ var app = new Vue({
     moderators: []
   },
   created: function created() {
-    this.getMessages(this.lang);
+    this.currentLanguage = this.languages[0];
+    this.getMessages(this.currentLanguage);
     this.getProjects();
     this.getModerators();
   },
@@ -141,9 +166,9 @@ var app = new Vue({
     getMessages: function getMessages(lang) {
       var _this = this;
 
-      $.getJSON('translations/' + lang + '.json', function (messages) {
+      $.getJSON('translations/' + lang.code + '.json', function (messages) {
         _this.messages = messages;
-        _this.lang = lang;
+        _this.currentLanguage = lang;
       });
     },
     trans: function trans(id) {

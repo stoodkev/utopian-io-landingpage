@@ -1,0 +1,292 @@
+{
+  "nav": {
+    "rewards": "পুরস্কার",
+    "rules": "নিয়ম",
+    "moderators": "মডারেটর",
+    "faq": "FAQ",
+    "blog": "ব্লগ",
+    "signup": "সাইন আপ করুন",
+    "login": "লগ ইন করুন"
+  },
+  "header": {
+    "text1": "Utopian.io",
+    "text2": "ওপেন সোর্স অর্থনীতি",
+    "text3": "আপনার<br>প্রিয় ওপেন সোর্স প্রকল্পে অবদানের মাধ্যমে পুরস্কারগুলি অর্জন করুন!"
+  },
+  "intro": "আমাদের আধুনিক বিশ্বটি <a href='https://en.wikipedia.org/wiki/Open-source_model'> ওপেন সোর্স </a> সফ্টওয়্যার দ্বারা চালিত হয়।এটি প্রতিটি কম্পিউটার, প্রতি স্মার্টফোন বা ট্যাবলেটে চালায় এবং আপনার সমস্ত পছন্দসই অ্যাপ্লিকেশনগুলি এটি ছাড়া চলবে না।এটি উন্নত সাধন করে প্রধানত স্বেচ্ছাসেবকদের দ্বারা এবং বিশ্বব্যাপী শৌখিন বাক্তি দ্বারা, আপনার প্রযুক্তিবিদ বন্ধুদের মধ্যে যারা আপনার সাথে ঘুর-ফির এর চাইতে কম্পিউটারকে বেশি ভালবাসে তাদের দারা।ওপেন সোর্স সফ্টওয়্যার বিনামূল্যে এবং সাধারণ সম্পত্তি এবং প্রত্যেককে এটি ব্যবহার করতে ও এটি তাদের প্রয়োজন অনুযায়ী পরিবর্তন করার অনুমতি দেয়।এটা ঊর্ধ্বতন কর্তৃক আরোপিত মানগুলির পরিবর্তে সমষ্টিগত বুদ্ধি উপর নির্ভর করে। এই সব কাজ বিনামূল্যে জন্য সম্পন্ন করা হয়! তবে Utopian এই ধরনের প্রকল্পে অবদানকারী প্রত্যেককে পুরস্কৃত করে, যতক্ষণ মানের গুণমান পূরণ করা হয়।",
+  "octocat": {
+    "hi": "স্বাগতম! আমি Octocat!",
+    "text": "আমি একজন মাসকট হিসাবে গিটহাবে কাজ করি! এটি কাজের জন্য খুব সুন্দর জায়গা। আমরা হাজার হাজার প্রকল্পে একসাথে কাজ করা \nউৎসাহী ও স্বেচ্ছাসেবকদের একটি বিশ্ব-বিস্তৃত সম্প্রদায়। <b>Utopian.io</ b> ওপেন সোর্স প্রোজেক্টগুলিতে অবদান রাখার জন্য আপনাকে পুরস্কৃত করবে যেমন, Bug ফিক্সিং , গ্রন্থে অনুবাদ করা, লিখিত ডকুমেন্টেশন বা ভাল ধারণা শেয়ার করা এবং আরও অনেক কিছু।",
+    "visit": "GitHub.com এ যান!"
+  },
+  "projects": {
+    "headline": "একটি প্রকল্প নির্বাচন করুন..."
+  },
+  "contribute": {
+    "headline": "... এবং অবদান রাখুন!",
+    "suggestions": {
+      "headline": "পরামর্শগুলি",
+      "text": "সবকিছু একটি ধারণা দিয়ে শুরু হয়। আপনার ধারণা বা ছোট বৈশিষ্ট্যগুলি আমদের সাথে ভাগ করুন এবং একটি প্রকল্প উন্নত করতে সহায়তা করুন।"
+    },
+    "subprojects": {
+      "headline": "উপ-প্রকল্প",
+      "text": "আপনি একটি প্রকল্পকে আরও উন্নত জন্য নতুন এবং আরো বিস্তারিত বৈশিষ্ট্য বা ধারণা শেয়ার করুন।"
+    },
+    "development": {
+      "headline": "উন্নয়ন সাধন",
+      "text": "যদি আপনি কোন কোড লিখেছেন এবং পুল রিকুয়েস্ট তৈরি করেছেন, তাহলে আপনার কাজটি Utopian সম্প্রদায়ের সাথে শেয়ার করুন।"
+    },
+    "bughunting": {
+      "headline": "ত্রুটি পাওয়া",
+      "text": "ত্রুটিপূর্ণ রিপোর্টগুলি বিস্তারিতভাবে সেয়ার করে ডেভেলপারদের তাদের সফ্টওয়্যারগুলির মাধ্যমে সমস্যাগুলি খুজে পেতে এবং সমাধান করতে সহায়তা করুন।"
+    },
+    "translation": {
+      "headline": "অনুবাদ",
+      "text": "টেক্সট বা ডকুমেন্টেশন এবং অন্যান্য সরঞ্জামগুলির বিভিন্ন ভাষায় অনুবাদ করে মানুষদের সফ্টওয়্যার ব্যবহার করতে সহায়তা করুন।<a href='https://crowdin.com/'target='_blank'>Crowdin</a>"
+    },
+    "graphics": {
+      "headline": "গ্রাফিক্স",
+      "text": "একটি প্রকল্পের জন্য ডিজাইন করা হয়েছে এমন আপনার উদ্ভাবনকৃত লোগো, আইকন, ব্যাকগ্রাউন্ড এবং অন্যান্য গ্রাফিক্স শেয়ার করুন।"
+    },
+    "documentation": {
+      "headline": "ডকুমেন্টেশন",
+      "text": "আপনি যদি কোন প্রজেক্টের (যে কোন ভাষায়) ডকুমেন্টেশন লেখেন, তাহলে আপনি সম্প্রদায়ের সাথে এটি সেয়ার করতে পারেন।"
+    },
+    "analysis": {
+      "headline": "বিশ্লেষন",
+      "text": "আপনি হয়তো একটি নির্দিষ্ট প্রকল্প এর তথ্য বিশ্লেষণ এবং এটি থেকে দরকারী তথ্য বের করেছেন। এটিও আপনি সম্প্রদায়ের সাথে শেয়ার করেতে পারেন।"
+    },
+    "visibility": {
+      "headline": "দৃশ্যমানতা",
+      "text": "মার্কেটিং প্রচেষ্টাও Utopian এর মাধ্যমে পুরস্কৃত করা হবে। ভাল একটি ওপেন সোর্স প্রোজেক্টকে উন্নীত করার জন্য আপনি কি করেছেন তা সম্প্রদায়কে জানান।"
+    },
+    "tutorials": {
+      "headline": "টিউটোরিয়াল",
+      "text": "তথ্যপূর্ণ টিউটোরিয়াল লিখুন এবং অন্যান্য লোকেদের ওপেন সোর্স বিষয়গুলি ব্যবহার করতে সহায়তা করুন।"
+    },
+    "videotutorials": {
+      "headline": "ভিডিও টিউটোরিয়াল",
+      "text": "একটি ওপেন সোর্স বিষয়ের জন্য how-to ভিডিও তৈরি করুন এবং এটি কিভাবে ব্যবহার করবেন তা অন্যদের শিখতে সহায়তা করুন।"
+    },
+    "copywriting": {
+      "headline": "কপিরাইটিং",
+      "text": "ওপেন সোর্স প্রকল্পের জন্য জড়িত এবং তথ্যপূর্ণ কপি লিখুন, এবং তাদের ব্র্যান্ডের শক্তি উন্নত করুন।"
+    }
+  },
+  "crowdsourcing": {
+    "headline": "প্রকল্প মালিকদের জন্য Utopian",
+    "text": "Utopian.io এর সাথে, আপনি আপনার প্রকল্পগুলির এবং জনসাধারনের জন্য দ্রুত <b> ঘোষণা </b> আন্তর্জাতিক প্রতিভা পুল থেকে করতে পারেন। অন্যান্য মূল্যবান অবদানকারীদের মনোযোগ পান এবং আপনার প্রকল্পগুলি বিকাশের জন্য যৌথ বুদ্ধিমত্তার ক্ষমতা ব্যবহার করুন।",
+    "thinkers": {
+      "headline": "চিন্তাবিদ",
+      "text": "আপনার চিন্তাভাবনার বিকাশ এবং সমস্যাগুলির সমাধান করার জন্য বড় চিন্তাবিদদের দৃষ্টি আকর্ষণ করুন।"
+    },
+    "developers": {
+      "headline": "ডেভেলপার",
+      "text": "কোড লিখতে বা ত্রুটি সংশোধন করতে প্রতিভাবান ডেভেলপারদের আহ্বান করুন।"
+    },
+    "bughunters": {
+      "headline": "ত্রুটি শিকারী",
+      "text": "আপনার দ্বারা উন্নয়ন সাধন করা কোন বিষয় ব্যবহারকারীদের সমস্যাগুলির প্রতিবেদন করতে বা তাঁদেরও চ্রেস্টা করার জন্য আমন্ত্রণ জানাতে উৎসাহিত করুন।"
+    },
+    "translators": {
+      "headline": "অনুবাদক",
+      "text": "বিশ্বব্যাপী আরও বেশি লোকের মাঝে পৌঁছে দেওয়ার জন্য একাধিক ভাষায় তা উপলব্ধ করার জন্য অনুবাদকদের সাথে যোগাযোগ করুন।"
+    },
+    "designers": {
+      "headline": "ডিজাইনার",
+      "text": "প্রতিভাবান ডিজাইনাররা আপনার প্রকল্পের বা ব্র্যান্ডের জন্য অনন্য গ্রাফিক্স তৈরি করবে।"
+    },
+    "writers": {
+      "headline": "কারিগরী লেখক",
+      "text": "আপনার প্রোজেক্টের জন্য তৈরি ডকুমেন্টেশন পান যা সঠিকভাবে আপনার ব্যবহারকারী এবং অন্যান্য স্টকহোল্ডারদের জানায়।"
+    },
+    "analysts": {
+      "headline": "তথ্য বিশ্লেষক",
+      "text": "আপনার উত্পন্ন ডেটা থেকে অর্থ বের করে নিন, ট্রেন্ডগুলি আবিষ্কার করুন এবং ডেটা বিশ্লেষকের সাহায্যে আপনার প্রকল্পের বিষয়ে সুনির্দিষ্টভাবে সিদ্ধান্ত নিন।"
+    },
+    "influencers": {
+      "headline": "প্রভাব বিস্তারকারী",
+      "text": "বিশ্বজুড়ে প্রভাবশালীদের সহায়তায় কার্যকর অনলাইন বা অফলাইন মার্কেটিং করুন এবং আপনার প্রকল্পকে এটির মনোযোগ আকর্ষণ করুন।"
+    }
+  },
+  "rewards": {
+    "contributor_rewards": "অবদানকারী পুরস্কার",
+    "curator_rewards": "কিউরেটর পুরস্কার",
+    "pending_rewards": "মূলতুবি পুরস্কারগুলি",
+    "total_generated": "মোট উৎপন্ন",
+    "steem": {
+      "headline": "কারা পুরস্কার দেয়?",
+      "text": "পুরস্কারগুলি প্রদান করতে, Utopian.io <a href='https://steem.io/'> Steem blockchain </a> ব্যবহার করে। এর অর্থ একটি ক্রিপ্টোকারেন্সি ফর্মের আকারে তৈরি হয় যার নাম \"B STEEM\" </b>ও সম্প্রদায় ভোটের মাধ্যমে। সরাসরি পুরষ্কারের জন্য কাওকে অর্থ প্রদান করতে হয় না। তারা <i> প্রুফ অফ ব্রেইন</i> নামে একটি অ্যালগরিদম ব্যবহার করে উত্পন্ন এবং বিতরণ করা হয়, যা মানুষকে গুণমানের সামগ্রী তৈরি এবং সমার্থক করার জন্য উত্সাহিত করে।<br><br> Utopian.io এর ক্ষেত্রে, ওপেন সোর্স বিশ্বের আপনার অবদানগুলি গুণমানের সামগ্রী। আপনার অবদান আপগ্রেড করার মাধ্যমে, সম্প্রদায় আপনার কাজের জন্য আপনাকে পুরস্কার প্রদান করে। যদি তারা চায় তবে তাদের নিজস্ব STEEM ব্যবহার করে একে অপরের সরাসরি অর্থ প্রদান করতে পারেন, তবে এটি ঐচ্ছিক। <br><br> একজন ব্যবহারকারীর ভোটের মূল্য প্ল্যাটফর্মের তার নিজের বিনিয়োগের উপর ভিত্তি করে এবং তার বড়গুলি তাদের হরতাল, আরো তাদের ভোট মূল্য যখন curating হয়। Utopian.io নিজেই আপনার অবদানে ভোট দিতে পারে। <B>3 মিলিয়ন স্টিম পাওয়ার </b> থেকে Utopian প্ল্যাটফর্মের অ্যাকাউন্টে প্রতিনিধিত্ব করা হয়, বর্তমান বাজার মূল্য <b>$250 </b> এর চেয়েও বেশি মূল্যের মূল্য প্রদান করে।<br><br>< আরও তথ্যের জন্য একটি href='#faq'> প্রশ্নাবলী পরীক্ষা করুন </a>",
+      "button": "Steem সম্পর্কে আরও জানুন"
+    }
+  },
+  "rules": {
+    "step1": "আমাদের নিয়ম <br>মেনে!",
+    "step2": "আমাদের <br>মডারেটর কর্তৃক পর্যালোচিত হোন।",
+    "step3": "Utopian.io এবং সম্প্রদায় দ্বারা আপভোট পান!",
+    "step4": "টাকা পান<br>৭ দিন পর!",
+    "text": "গুণগত মান নিশ্চিত করার জন্য, আমাদের নিয়ন্ত্রক অনুযায়ী প্রতিটি অবদানগুলি আমাদের মধ্যস্থতাকারীগুলির দ্বারা পর্যালোচনা করা হয়। এই নিয়মগুলির প্রতি শ্রদ্ধাশীল না হলে আপনাকে পুরষ্কার প্রদান করআ হবে না বা আপনার অবদানকে সব থেকে গ্রহণ করা বন্ধ করা হবে। যাইহোক, যদি আপনার অবদানটি গ্রহণ না করা হয়, এটি এখনও স্টিমে ব্লকচেইনে প্রকাশিত হবে এবং এটি পুরষ্কার অর্জন করতে পারে যে ক্ষেত্রে, আপনি নিজের উপর হতে হবে। Utopian শেয়ার করার মাধমে আপনার অবদানকে পুরস্কৃত করবে না।",
+    "categories": {
+      "suggestions": {
+        "headline": "প্রস্তাবনা বিধি",
+        "rule1": "পরামর্শগুলি ছোটখাট বৈশিষ্ট্য / বর্ধনগুলি যা আপনি একটি ওপেন সোর্স প্রোজেক্টে চান।",
+        "rule2": "প্রস্তাবিত বস্তুগুলি প্রকৃতপক্ষে নির্মিত হবে বলে যথেষ্ট এমন তথ্য সরবরাহ করতে হবে।",
+        "rule3": "চিত্র, স্ক্রিনশট, লিঙ্ক এবং উদাহরণগুলি সবসময় এই বিভাগে স্বাগত জানায়।",
+        "rule4": "আপনার আগে থেকেই অন্য কেউ ইতিমধ্যে প্রস্তাবিত করেছেন এমন প্রস্তাবনাগুলি বা শেয়ার করেছেন এমন কিছু কখন লিখিয়েন নাহ।"
+      },
+      "subprojects": {
+        "headline": "উপ-প্রকল্পের নিয়ম",
+        "rule1": "একটি সাব-প্রোজেক্ট প্রকল্পটির উপর একটি বড় প্রভাব ফেলে নতুন, অদৃশ্য বৈশিষ্ট্যগুলির একটি সেট।",
+        "rule2": "সাব-প্রোজেক্টগুলি আসলে তৈরি করা বৈশিষ্ট্যসমূহের বিস্তারিত বিবরণ সরবরাহ করতে হবে।",
+        "rule3": "ছবি, স্ক্রিনশট, লিঙ্ক, প্রবাহ, mockups ও উদাহরণ সবসময় এই শ্রেণীতে বাধ্যতামূলক।",
+        "rule4": "এই বিভাগে, সামগ্রীর মানটি Utopian এ গ্রহণ করার জন্য প্রধান বিষয়।",
+        "rule5": "যদি আপনি বিশ্বাস করেন যে আপনার ধারণা একটি সাব-প্রোজেক্ট হিসাবে যোগ্যতা অর্জন করে না, তাহলে এর পরিবর্তে পরামর্শ বিভাগটি ব্যবহার করুন।",
+        "rule6": "যদি আপনি বিশ্বাস করেন যে আপনার ধারণা একটি সাব-প্রোজেক্ট হিসাবে যোগ্যতা অর্জন করে না, তাহলে এর পরিবর্তে পরামর্শ বিভাগটি ব্যবহার করুন।"
+      },
+      "development": {
+        "headline": "উন্নয়ন বিধিমালা",
+        "rule1": "কেবল মার্জ করা Pull Request গ্রহন করা হবে বা মুক্ত উত্স প্রকল্পগুলি যা আপনি বজায় রাখেন আগে কখনোই Utipian পোস্ট করেন না, ফর্কগুলি যতদিন ফর্ক করা হয় তা কেবল মূল একটি আয়না নয়, কাজের প্রমাণ প্রয়োজন।",
+        "rule2": "এই বিভাগে,আপনি শুধুমাত্র লিখতে পারেন আপনি কিভাবে একটি প্রকল্প উন্নয়নের জন্য কোড লিখে বা তার উন্নয়ন সাধন ঘটাতে পারেন ।",
+        "rule3": "আপনাকে অবশ্যই শাখার লিঙ্কগুলি, ফর্কগুলি, gists বা pull request প্রদান করতে হবে।",
+        "rule4": "যদি আপনার Github ইউজারনেম আপনার Utopian ইউজারনেমের হিসাবে একই না হয় , তবে Github লগ ইন সেশনের একটি স্ক্রিনশট প্রদান করে প্রমাণ করতে হবে যে আপনি অ্যাকাউন্টটির মালিক।",
+        "rule5": "চিত্র, স্ক্রিনশট, লিঙ্ক এবং উদাহরণগুলি প্রয়োজনীয় নয় কিন্তু পছন্দসই।",
+        "rule6": "আগে শেয়ার করা হয়েছে এমন কোড অবদানগুলি সম্পর্কে কখন লিখিয়েন না।"
+      },
+      "bughunting": {
+        "headline": "ট্রুটি খোঁজার নিয়ম",
+        "rule1": "শুধুমাত্র একটি ওপেন সোর্স প্রোজেক্টে পাওয়া ত্রুটিগুলি প্রতিবেদন করতে এই বিভাগটি ব্যবহার করুন।",
+        "rule2": "ত্রুটি পুনর্গঠন করতে প্রয়োজনীয় সকল সম্ভাব্য তথ্য আপনাকে সরবরাহ করতে হবে।",
+        "rule3": "উদাহরণস্বরূপ: আপনার ব্যবহৃত ব্রাউজার , ডিভাইসের ধরন, অপারেটিং সিস্টেম এবং অনুরূপ বিবরণ অন্তর্ভুক্ত করা উচিত।",
+        "rule4": "আপনি বা অন্য কেউ, আগে ইতিমধ্যে শেয়ার করেছে এমন ত্রুটি কখন রিপোর্ট করবেন না।"
+      },
+      "translation": {
+        "headline": "অনুবাদ করার নিয়ম",
+        "rule1": "Utopian এ একটি অনুবাদ প্রকল্প জমা দেওয়ার জন্য আপনাকে মাঝারি আকারের প্রকল্পের (৫০০-১০০০টি স্ট্রিং) ৩০%, ১০-১৫% বড় প্রকল্পের জন্য (১০০০এবং ঊর্ধ্ব) , ছোট প্রকল্পের জন্য ১০০% (1 - 500) অনুবাদ করতে হবে।",
+        "rule2": "একটি ওপেন সোর্স প্রোজেক্টের অনুবাদকৃত লেখক বা আপডেটের জন্য এই বিভাগটি ব্যবহার করুন।",
+        "rule3": "আপনার অবশ্যই পোস্টে আপনার সমগ্র অনুবাদকৃত পাঠ্য অন্তর্ভুক্ত করতে হবে বা পুরো সংস্করণগুলিতে পাবলিক লিঙ্ক অন্তর্ভুক্ত করতে হবে।",
+        "rule4": "অনুবাদগুলি এবং অনুবাদ করার সরঞ্জামগুলি পরীক্ষা করার জন্য যতটা সম্ভব বিস্তারিতভাবে অন্তর্ভুক্ত করুন।",
+        "rule5": "সম্পূর্ণ অনুবাদ সবসময় পছন্দ করা হয়। যদি আপনি একটি আংশিক অনুবাদ সম্পর্কে লেখেন, আমরা প্রকৃত কাজ মূল্যায়ন করার অধিকার রাখি।",
+        "rule6": "অনুবাদকের লেখক আপনি হওয়া আবশ্যক এবং আপনার কাজ যাচাই করার একটি উপায় প্রদান করুন।",
+        "rule7": "CrowdIn বা অনুরূপ অনুবাদ প্ল্যাটফর্মের আপনার ইউজারনেম যদি আপনার Utopian ইউজারনেম না হয় তবে আপনাকে সেই অনুবাদ প্ল্যাটফর্মে লগ ইন সেশনের একটি স্ক্রিনশট প্রদান করে সেই অ্যাকাউন্টটি যে আপনার তা প্রমাণ করতে হবে।",
+        "rule8": "আপনি বা অন্য কেউ, আগে ইতিমধ্যে শেয়ার করেছে এমন অনুবাদ কখনও জমা দেবেন না।"
+      },
+      "graphics": {
+        "headline": "গ্রাফিক্স নিয়ম",
+        "rule1": "যদি আমরা বিশ্বাস করি যে এই কাজের পুরস্কৃত করা যথেষ্ট নয় তবে আমরা একটি গ্রাফিক অবদান প্রত্যাখ্যান করার অধিকার রাখি।",
+        "rule2": "এই বিভাগে শুধুমাত্র, জমা দিন একটি লোগো, আইকন, ব্যাকগ্রাউন্ড, ভিডিও বা অ্যানিমেশন যেমনটি আপনি একটি ওপেন সোর্স প্রোজেক্টের জন্য তৈরি করেছেন।",
+        "rule3": "আপনার ডিজাইনের সরাসরি নমুনা এবং সম্পূর্ণ ডিজাইনের পাবলিক লিংকগুলি আপনার পোস্টে অন্তর্ভুক্ত করতে হবে।",
+        "rule4": "আপনার কাজটি যাচাই করার জন্য আপনাকে যতটা সম্ভব বিস্তারিত বিবরন দিতে হবে।",
+        "rule5": "আপনাকে অবশ্যই সম্পাদনাযোগ্য উৎস ফাইল সরবরাহ করতে হবে (যেমন .psd .ai .eps .svg .cdr)।",
+        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
+        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+      },
+      "analysis": {
+        "headline": "Analysis Rules",
+        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
+        "rule2": "You must include detailed results and explain the reasons behind them.",
+        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
+        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
+        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+      },
+      "visibility": {
+        "headline": "Visibility Rules",
+        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
+        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
+        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
+        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
+        "rule5": "Never write about visibility efforts you have already shared before."
+      },
+      "documentation": {
+        "headline": "Documentation Rules",
+        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
+        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
+        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
+        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
+        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
+        "rule8": "Never submit documentation work that you have already shared in the past."
+      },
+      "tutorials": {
+        "headline": "Tutorial Rules",
+        "rule1": "Machine translated tutorials will be rejected.",
+        "rule2": "This category is only for providing tutorials for an Open Source project.",
+        "rule3": "Tutorials can be in any language.",
+        "rule4": "A text intro in English is always mandatory, at the top of the post.",
+        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
+        "rule6": "You must be the author of the tutorial.",
+        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
+        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+      },
+      "videotutorials": {
+        "headline": "Video Tutorial Rules",
+        "rule1": "Video Tutorials using machine voice will be rejected.",
+        "rule2": "This category is only for providing video tutorials for an Open Source project.",
+        "rule3": "Video Tutorials can be in any language.",
+        "rule4": "A text intro in English is always mandatory, at the top of the post.",
+        "rule5": "You must be the author of the video tutorial.",
+        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
+        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+      },
+      "copywriting": {
+        "headline": "Copywriting Rules",
+        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
+        "rule3": "Copywriting can be in any language.",
+        "rule4": "A text intro in English is always mandatory, at the top of the post.",
+        "rule5": "You must be the author.",
+        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
+        "rule7": "Never post copywriting work that you have already shared before."
+      },
+      "blog": {
+        "headline": "Blog Post Rules",
+        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
+        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
+        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
+        "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
+        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
+        "rule6": "Never write blog posts you have already shared before.",
+        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+      }
+    }
+  },
+  "moderators": {
+    "rewards": "Rewards",
+    "pending": "Pending",
+    "previous": "Previous",
+    "meet": "Meet our moderators",
+    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
+    "pending_payout": "Pending Payout",
+    "previous_payout": "Previous Payout",
+    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+  },
+  "faq": {
+    "q1": {
+      "headline": "1. What is Utopian?",
+      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+    },
+    "q2": {
+      "headline": "2. What is Steem?",
+      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+    },
+    "q3": {
+      "headline": "3. Where do the rewards come from?",
+      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+    },
+    "q4": {
+      "headline": "4. Where do I find my wallet?",
+      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+    },
+    "q5": {
+      "headline": "5. How do I cash in my STEEM?",
+      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+    },
+    "q6": {
+      "headline": "6. How do I earn more rewards?",
+      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+    }
+  },
+  "blog": {
+    "readmore": "read more on steemit.com"
+  }
+}
