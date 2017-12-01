@@ -110,7 +110,7 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
+    "contributor_rewards": "Награды за Вклад",
     "curator_rewards": "Кураторские вознаграждения",
     "pending_rewards": "Ожидаемые вознаграждения",
     "total_generated": "Всего создано",
@@ -136,7 +136,7 @@
       },
       "subprojects": {
         "headline": "Правила Суб-Проектов",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
+        "rule1": "Суб-Проект представляет собой набор новых, невиданных ранее возможностей, которые имеют большое влияние на проект.",
         "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
         "rule3": "Фотографии, скриншоты, ссылки, потоки, макеты и примеры всегда являются обязательными в этой категории.",
         "rule4": "В этой категории качество контента является основным фактором для подтверждения на Utopian.",
