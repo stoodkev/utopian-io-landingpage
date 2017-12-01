@@ -23,13 +23,13 @@
     "headline": "اختيار المشروع..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "والمساهمة!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "الإقتراحات",
+      "text": "كل شيء يبدأ بفكرة. شارك الأفكار الخاصة بك أو طلب اضافة ميزة طفيفة وساعد في تحسين مشروع."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
+      "headline": "المشاريع الفرعية",
       "text": "Share new and more elaborate features or concepts that you have developed for a project."
     },
     "development": {
@@ -45,7 +45,7 @@
       "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
-      "headline": "Graphics",
+      "headline": "الجرافيك",
       "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
     },
     "documentation": {
