@@ -161,7 +161,7 @@
       },
       "translation": {
         "headline": "Правила Переводов",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
+        "rule1": "Чтобы разместить свой перевод на Utopian, вы должны перевести по крайней мере 30% текста для проектов среднего размера (500-1000 строк), 10-15% для крупных проектов (1000 и более), 100% для небольших проектов (1-500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
         "rule4": "Укажите как можно больше подробностей, чтобы можно было проверить перевод и инструменты, которые вы использовали для перевода.",
