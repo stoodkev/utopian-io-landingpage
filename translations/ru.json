@@ -11,7 +11,7 @@
   "header": {
     "text1": "Utopian.io",
     "text2": "Экономика с Открытым Исходным Кодом",
-    "text3": "Зарабатывайте вознаграждения, помогая вашим <br>любимым проектам с открытым исходным кодом!"
+    "text3": "Зарабатывайте вознаграждения, помогая вашим <br>любимым проектам с Открытым Исходным Кодом!"
   },
   "intro": "Наш современный мир управляется программным обеспечением <a href='https://en.wikipedia.org/wiki/Open-source_model'> с открытым исходным кодом </a>. Оно работает на каждом компьютере, на каждом смартфоне или планшете, и все ваши любимые приложения не будут работать без него. Оно разрабатывается в основном волонтерами и любителями со всего мира, теми технарями среди ваших друзей, которые любят свои компьютеры больше, чем тусовки с вами. Программное обеспечение с открытым исходным кодом является бесплатной общей собственностью, и позволяет всем использовать его и изменять на свое усмотрение. Оно полагается на коллективный интеллект вместо стандартов, установленных начальством. Вся эта работа выполняется бесплатно! Однако Utopian вознаграждает каждого, кто участвует в таких проектах, до тех пор, пока соблюдается определенный уровень качества.",
   "octocat": {
@@ -163,7 +163,7 @@
         "headline": "Правила Переводов",
         "rule1": "Чтобы разместить свой перевод на Utopian, вы должны перевести по крайней мере 30% текста для проектов среднего размера (500-1000 строк), 10-15% для крупных проектов (1000 и более), 100% для небольших проектов (1-500).",
         "rule2": "Используйте эту категорию только для переводов, которые вы сделали/усовершенствовали для проекта с Открытым Кодом.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
+        "rule3": "Вам необходимо или включить в состав поста весь ваш переведенный текст, или предоставить публичную ссылку на полную версию перевода.",
         "rule4": "Укажите как можно больше подробностей, чтобы можно было проверить перевод и инструменты, которые вы использовали для перевода.",
         "rule5": "Полные переводы всегда более предпочтительны. Если вы пишете о частичном переводе, мы оставляем за собой право оценивать фактическую работу.",
         "rule6": "Вы должны быть автором перевода и предоставить способ для проверки вашей работы.",
@@ -270,7 +270,7 @@
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
+      "headline": "3. Откуда берутся вознаграждения?",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
