@@ -125,12 +125,12 @@
     "step2": "Moderatörlerimiz tarafından<br> incelen!",
     "step3": "Utopian topluluğu tarafından oy al!",
     "step4": "7 gün sonra<br> ödemeni al!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "text": "Kaliteyi sağlamak için her katkı moderatörlerimizden biri tarafından kurallarımıza göre incelenir. Bu kurallara uymamak ya daha düşük ödüller almanıza ya da katkınızın kabul edilmesini tamamen durdurmaya sebep olacaktır. Ancak, katkınız kabul edilmezse, yine de Steem blockchain'inde paylaşılacak ve ödül kazanabilecektir. Bu durumda kendi başınızın çaresine bakmanız gerekecektir. Utopian gönderinize ödül de vermeyecektir paylaşmayacaktır da.",
     "categories": {
       "suggestions": {
         "headline": "Öneri kuralları",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
+        "rule1": "Öneriler, bir Açık Kaynak projede görmek isteyeceğiniz küçük özellikler/geliştirmelerdir.",
+        "rule2": "Öneriler, istenilen özelliklerin gerçekten yapılabilmesi için yeterince detay sunmalıdır.",
         "rule3": "Ekran paylaşımı, görüntüler ve link örnekleri bu kategoride her zaman hoş karşılanır.",
         "rule4": "Daha önceden paylaştığın veya başkası tarafından paylaşılan hiçbir öneri'yi tekrar paylaşma."
       },
