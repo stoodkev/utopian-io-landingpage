@@ -145,9 +145,9 @@
       },
       "development": {
         "headline": "Geliştirici kuralları",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
+        "rule1": "Sadece birleştirilmiş (merged) 'Pull-request'ler kabul edilir ya da Utopian'da daha önce paylaşılmamış olan, sahip olduğunuz Açık Kaynak projeler, 'fork'lar, 'fork' saddece orijinalinin bir kopyası (mirror) olmadığı sürece dahildir. İş kanıtı gerekmektedir.",
+        "rule2": "Bu kategoride sadece, bir projenin gelişimine kod geliştirmiş veya katkıda bulunmuşsanız yazı paylaşabilirsiniz.",
+        "rule3": "'branch'lere, 'fork'lara, 'gist'lere ve 'pull request'lere bağlantı vermelisiniz.",
         "rule4": "Eğer github hesabının kullanıcı adın ve utopian kullanıcı adın birbirinden farklıysa, bize github hesabını oturum açarak, ekran yakalama yöntemiyle kanıtlaman gerekir.",
         "rule5": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
         "rule6": "Daha önceden paylaştığın veya başkası tarafından paylaşılan kod katkısını paylaşma."
@@ -155,7 +155,7 @@
       "bughunting": {
         "headline": "Hata avlama kuralları",
         "rule1": "Sadece açık kaynak projede bulduğun hataları raporlamak için bu kategoriyi kullan.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
+        "rule2": "Hatayı (bug) yeniden oluşturmak için gerekli olan, mümkün olan bütün detayları sağlamalısınız.",
         "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
         "rule4": "Başkası tarafından veya senin tarafından önceden paylaşılmış bir hata raporunu asla tekrar paylaşma."
       },
