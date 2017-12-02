@@ -138,9 +138,9 @@
         "headline": "Alt proje kuralları",
         "rule1": "Bir Alt-Proje, projeye büyük bir etki sağlayacak yeni, görülmemiş özellikler dizisidir.",
         "rule2": "Alt-Projeler, özelliklerin gerçekten yapılabilmesi için bu özelliklerin geniş kapsamlı detaylarını sağlamalıdır.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
+        "rule3": "Resimler, ekran görüntüleri, bağlantılar, akış grafikleri, maketler ve örnekler bu kategori için herzaman zorunludur.",
+        "rule4": "Bu kategoride içeriğin kalitesi, Utopian'da kabul edilmek için ana faktördür.",
+        "rule5": "Eğer düşüncenizin Alt-Proje olarak nitelendirilemeyeceğini düşünüyorsanız, bunun yerine Öneriler kategorisini kullanınız.",
         "rule6": "Daha önceden paylaştığın veya başkası tarafından paylaşılan hiçbir öneri'yi tekrar paylaşma."
       },
       "development": {
