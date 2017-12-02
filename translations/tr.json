@@ -156,7 +156,7 @@
         "headline": "Hata avlama kuralları",
         "rule1": "Sadece açık kaynak projede bulduğun hataları raporlamak için bu kategoriyi kullan.",
         "rule2": "Hatayı (bug) yeniden oluşturmak için gerekli olan, mümkün olan bütün detayları sağlamalısınız.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
+        "rule3": "Örnek olarak: kullanılan tarayıcılar, aygıt türleri, işletim sistemleri ve benzeri detayları dahil etmelisiniz.",
         "rule4": "Başkası tarafından veya senin tarafından önceden paylaşılmış bir hata raporunu asla tekrar paylaşma."
       },
       "translation": {
