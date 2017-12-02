@@ -116,12 +116,12 @@
     "total_generated": "Toplam oluşturulan",
     "steem": {
       "headline": "Ödülleri ödeyen?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.<br><br> Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır. <br><br> Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına <b>3 milyondan daha fazla Steem Power</b> delege edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre <b>250 dolar</b>'dan daha fazla hale getirmiştir. <br><br> Daha fazla bilgi için <a href='#faq'>FAQ'ları inceleyiniz</a>.",
       "button": "Steem hakkında daha fazla"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
+    "step1": "Kurallarımıza <br> uyunuz!",
     "step2": "Moderatörlerimiz tarafından<br> incelen!",
     "step3": "Utopian topluluğu tarafından oy al!",
     "step4": "7 gün sonra<br> ödemeni al!",
