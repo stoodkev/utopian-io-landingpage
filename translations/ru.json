@@ -160,7 +160,7 @@
         "rule4": "Never report bugs that have already been shared before, by you or someone else."
       },
       "translation": {
-        "headline": "Translation Rules",
+        "headline": "Правила Переводов",
         "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
