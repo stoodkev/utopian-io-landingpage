@@ -75,7 +75,7 @@
   },
   "crowdsourcing": {
     "headline": "Utopian для владельцев проектов",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "text": "С Utopian.io вы можете сделать <b>анонсы</b> своих проектов и быстро найти исполнителей из международного фонда талантов. Обратите внимание на ценных контрибуторов и используйте возможности коллективного интеллекта для разработки ваших проектов.",
     "thinkers": {
       "headline": "Thinkers",
       "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
@@ -110,7 +110,7 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
+    "contributor_rewards": "Награды за Вклад",
     "curator_rewards": "Кураторские вознаграждения",
     "pending_rewards": "Ожидаемые вознаграждения",
     "total_generated": "Всего создано",
@@ -135,13 +135,13 @@
         "rule4": "Никогда не пишите о предложениях, которыми вы уже поделились ранее или о предложениях, которые внес кто-то другой."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
+        "headline": "Правила Суб-Проектов",
+        "rule1": "Суб-Проект представляет собой набор новых, невиданных ранее возможностей, которые имеют большое влияние на проект.",
         "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "rule3": "Фотографии, скриншоты, ссылки, потоки, макеты и примеры всегда являются обязательными в этой категории.",
+        "rule4": "В этой категории качество контента является основным фактором для подтверждения на Utopian.",
+        "rule5": "Если вы считаете, что ваша идея может не соответствовать категории \"Суб-Проекты\", используйте вместо этого категорию \"Предложения\".",
+        "rule6": "Никогда не пишите о проектах, о которых вы уже сообщали ранее или о которых уже писал кто-то другой."
       },
       "development": {
         "headline": "Development Rules",
