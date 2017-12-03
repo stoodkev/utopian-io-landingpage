@@ -177,8 +177,8 @@
         "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
         "rule4": "You must give as much detail as possible to verify the work you did.",
         "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule6": "T-shirt'ler ve giyim ürünleri genelde hoş karşılanmaz, tabi proje sahibi tarafından istenmediyse.",
+        "rule7": "Asla senin veya bir başkası tarafından paylaşılmış bir gönderiyi tekrar paylaşma."
       },
       "analysis": {
         "headline": "Analiz kuralları",
@@ -255,7 +255,7 @@
     "pending": "Bekleyen",
     "previous": "Önceki",
     "meet": "Moderatörlerimizle tanış",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
+    "text": "Utopian'da tüm destekçiler sıkı çalışmalarının karşılığında ödüllendirilir, buna moderatörlerimiz dahil platformu yüksek standartlarda tutan kimselerdir.",
     "pending_payout": "Bekleyen ödeme",
     "previous_payout": "Önceki ödeme",
     "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
