@@ -184,9 +184,9 @@
       "analysis": {
         "headline": "Analiz kuralları",
         "rule1": "Bu kategori sadece bir açık kaynak proje için hazırladığınız analizler içindir.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
+        "rule2": "Detaylı sonuçları dahil etmeli ve bunların arkasındaki sebepleri açıklamalısınız.",
+        "rule3": "Eğer analizinizi bütünüyle burada paylaşmıyorsanız, tamamının bulunduğu sürümlere herkese açık bağlantılar sağlamalısınız.",
+        "rule4": "Bu kategoride analiz sonuçlarının tablo veya grafikler şeklinde paylaşılması zorunludur.",
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
       },
       "visibility": {
