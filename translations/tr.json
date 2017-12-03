@@ -3,7 +3,7 @@
     "rewards": "Ödüller",
     "rules": "Kurallar",
     "moderators": "Moderatörler",
-    "faq": "S.S.S",
+    "faq": "SSS",
     "blog": "Blog",
     "signup": "Kayıt ol",
     "login": "Giriş Yap"
@@ -65,7 +65,7 @@
       "text": "Diğer insanlara yardım etmek için, açık kaynak proje üstüne öğretici bir yazı hazırla."
     },
     "videotutorials": {
-      "headline": "Öğretici vidyolar",
+      "headline": "Video Öğreticiler",
       "text": "Açık kaynak proje üstünde 'Nasıl yaparım?' temelli bir video oluştur ve insanların öğrenip, nasıl kullanacağına yardımcı ol."
     },
     "copywriting": {
@@ -161,24 +161,24 @@
       },
       "translation": {
         "headline": "Çeviri kuralları",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
+        "rule1": "Utopian'a çeviri göndermek için orta büyüklükte bir projenin en az %30'unu (500 - 1000 satır), büyük projelerin %10-15'ini (1000 satırdan fazla), küçük projelerin ise tamamını çevirmeniz gerekir (1 - 500 satır).",
+        "rule2": "Bu kategoriyi sadece çevirdiğiniz veya güncellediğiniz bir açık kaynaklı proje için kullanın.",
+        "rule3": "Çevrilmiş metnin tamamını gönderi içinde veya herkese açık bağlantılarla bulundurmalısın.",
+        "rule4": "Mümkün olduğunca detay ekleyin, ki çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
+        "rule5": "Tamamı çevrilen çeviriler her zaman tercih edilir. Eğer çevirinin bir kısmını çeviriyorsanız, tam çeviriyi değerlendirme hakkımızı saklı tutuyoruz.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
+        "rule7": "Eğer kullanıcı adın CrowdIn veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
         "rule8": "Başkası veya senin tarafından önceden gönderilmiş bir çeviriyi asla tekrar gönderme."
       },
       "graphics": {
         "headline": "Grafik kuralları",
         "rule1": "Eğer yapılan çalışmanın ödül alacak kadar yeterli olmadığına inanırsak, yapılan grafik katkısını reddetme hakkına sahibiz.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
+        "rule2": "Bu kategoride, sadece açık kaynaklı bir proje için yaptığın simge, ikon, arkaplanlar, videolar gibi tasarımları gönderebilirsin.",
+        "rule3": "Tasarımlarının tamamını göndermeden önce, tasarımlarının birkaç örneğini gönderine veya herkese açık bağlantılarda dahil etmen gerekir.",
         "rule4": "You must give as much detail as possible to verify the work you did.",
         "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule6": "T-shirt'ler ve giyim ürünleri genelde hoş karşılanmaz, tabi proje sahibi tarafından istenmediyse.",
+        "rule7": "Asla senin veya bir başkası tarafından paylaşılmış bir gönderiyi tekrar paylaşma."
       },
       "analysis": {
         "headline": "Analiz kuralları",
@@ -255,22 +255,22 @@
     "pending": "Bekleyen",
     "previous": "Önceki",
     "meet": "Moderatörlerimizle tanış",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
+    "text": "Utopian'da tüm destekçiler sıkı çalışmalarının karşılığında ödüllendirilir, buna moderatörlerimiz dahil platformu yüksek standartlarda tutan kimselerdir.",
     "pending_payout": "Bekleyen ödeme",
     "previous_payout": "Önceki ödeme",
     "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
   },
   "faq": {
     "q1": {
-      "headline": "Utopian nedir?",
+      "headline": "1. Utopian nedir?",
       "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
     },
     "q2": {
-      "headline": "Steem nedir?",
+      "headline": "2. Steem nedir?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
-      "headline": "Ödüller nereden geliyor?",
+      "headline": "3. Ödüller nereden geliyor?",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
@@ -278,8 +278,8 @@
       "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "5. STEEM'imi nasıl nakite çeviririm?",
+      "text": "<p>Cüzdanında biraz STEEM olunca, <a href='https://poloniex.com/'>Poloniex</a> veya <a href='https://bittrex.com/'>Bittrex</a> gibi sitelerden STEEM tarzı sanal para birimlerini destekleyen sitelere transfer ederek Bitcoin veya Ethereum'a çevirebilirsin, ki nakite çevrilmesi daha kolaydır (örneğin Amerikan Doları)</p><p>Yada Steemit Cüzdan arayüzüne uyumlu <a href='https://blocktrades.us/'>Blocktrades'i</a> kullanabilirsin. Sadece STEEM Bakiyene tıkla ve çıkan menüden “Sat” Tuşuna basarak Blocktrades'e yönlendirilirsin.</p>"
     },
     "q6": {
       "headline": "Nasıl daha çok ödül kazanabilirim?",
