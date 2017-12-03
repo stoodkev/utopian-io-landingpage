@@ -194,8 +194,8 @@
         "rule1": "Bu kategoride, bir açık kaynak projenin görürlüğünü artırmak adına yaptığınız pazarlama çalışmalarının sonuçlarını paylaşınız; sosyal medya kampanyaları, reklam çalışmaları, konferans ve buluşmalar gibi.",
         "rule2": "Çalışmalarınızın kanıtlarını içeren bağlantılar, resimler veya videolar sağlamalısınız ve ayrıca sonuçları da paylaşmalısınız.",
         "rule3": "Eğer çalışmalarınız, açık kaynak projeye çok az veya sıfır yeni kullanıcı/katılımcı getirdiyse bunun hakkında yazmamalısınız.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule4": "Kimliğinizi kanıtlamanız gerekmektedir. Eğer Utopian kullanıcı adınız projeyi pazarlamakta kullandığınız platformlardaki kullanıcı adınızla aynı değilse, bu platformlarda giriş yapılmış bir oturumun ekran görüntülerini paylaşmanız gerekir.",
+        "rule5": "Asla daha önceden paylaşmış olduğunuz görünürlük çalışmalarıyla ilgili yazı yazmayınız."
       },
       "documentation": {
         "headline": "Dökümantasyon kuralları",
