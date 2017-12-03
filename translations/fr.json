@@ -13,7 +13,7 @@
     "text2": "Économie de l’Open Source",
     "text3": "Obtenez des récompenses en contribuant à vos<br>projets Open Source favoris !"
   },
-  "intro": "Notre monde moderne est régi par le code <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a>. Il fonctionne sur chaque ordinateur, chaque smartphone ou tablette et toutes vos applications favorites ne fonctionneraient pas sans lui. Il est principalement développé par des volontaires et des passionnés à travers le monde, ces geeks parmi vos amis qui préfèrent passer plus de temps avec leur ordinateur qu'avec vous. Le code Open Source est libre et appartient à tout le monde. Il permet à chacun de l'utiliser et de le modifier selon ses besoins. Il s'appuie sur l'intelligence collective au lieu des normes imposées par des supérieurs hiérarchique . Tout ce travail est fait gratuitement! Utopian récompense cependant chaque personne qui contribue à de tels projets, aussi longtemps qu'un certain niveau de qualité est atteint.",
+  "intro": "Notre monde moderne est régi par le code <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a>. Il fonctionne sur chaque ordinateur, chaque smartphone ou tablette et toutes vos applications favorites ne fonctionneraient pas sans lui. Il est principalement développé par des volontaires et des passionnés à travers le monde, ces geeks parmi vos amis qui préfèrent passer plus de temps avec leur ordinateur qu'avec vous. Le code Open Source est libre et appartient à tout le monde. Il permet à chacun de l'utiliser et de le modifier selon ses besoins. Il s'appuie sur l'intelligence collective au lieu des normes imposées par des supérieurs hiérarchiques. Tout ce travail est fait gratuitement! Utopian récompense cependant chaque personne qui contribue à de tels projets, aussi longtemps qu'un certain niveau de qualité est atteint.",
   "octocat": {
     "hi": "Salut ! Je suis Octocat !",
     "text": "Je travaille pour GitHub en tant que mascotte! C'est un endroit génial. Nous sommes une communauté mondiale de passionnés et de volontaires, travaillant ensemble sur des milliers de projets cool. <b>Utopian.io</b> vous récompense pour vos contributions aux projets Open Source, comme corriger des bugs, traduire des textes, écrire de la documentation ou partager de bonnes idées et plus encore.",
@@ -38,7 +38,7 @@
     },
     "bughunting": {
       "headline": "Chasse aux bugs",
-      "text": "Aidez les développeurs à trouver et réparer les problèmes de leur logiciels en partageant des rapports détaillés de bugs."
+      "text": "Aidez les développeurs à trouver et réparer les problèmes de leurs logiciels en partageant des rapports détaillés des bugs."
     },
     "translation": {
       "headline": "Traduction",
@@ -65,7 +65,7 @@
       "text": "Ecrivez des tutoriels informatifs et aidez les autres personnes à utiliser les produits Open Source."
     },
     "videotutorials": {
-      "headline": "Tutoriels Vidéos",
+      "headline": "Tutoriels vidéos",
       "text": "Créez des tutoriels vidéos pour un produit Open Source et aidez les gens à apprendre à l'utiliser."
     },
     "copywriting": {
@@ -94,7 +94,7 @@
     },
     "designers": {
       "headline": "Concepteurs",
-      "text": "Obtenez l'aide des designers talentueux pour créer des réalisations graphiques uniques pour votre projet ou votre marque."
+      "text": "Obtenez l'aide de designers talentueux pour créer des réalisations graphiques uniques pour votre projet ou votre marque."
     },
     "writers": {
       "headline": "Rédacteurs techniques",
@@ -125,7 +125,7 @@
     "step2": "Faites-vous évaluer par nos<br>modérateurs!",
     "step3": "Faites-vous voter par Utopian.io et la communauté!",
     "step4": "Soyez payé<br>après 7 jours!",
-    "text": "Pour assurer la qualité, chaque contribution est passée en revue, selon nos règles, par un de nos modérateurs. Ne pas respecter ces règles va soit diminuer les récompenses ou stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et pourra malgré tout obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
+    "text": "Pour assurer la qualité, chaque contribution est passée en revue, selon nos règles, par un de nos modérateurs. Ne pas respecter ces règles va soit diminuer les récompenses soit stopper l'acceptation de vos contributions. Cependant, si votre contribution n'est pas acceptée, elle sera tout de même publiée sur la blockchain Steem, et pourra malgré tout obtenir des récompenses. Dans ce cas, vous serez seul. Utopian ne récompensera pas votre contribution ni ne la partagera.",
     "categories": {
       "suggestions": {
         "headline": "Règles pour une suggestion",
@@ -161,13 +161,13 @@
       },
       "translation": {
         "headline": "Règles pour une traduction",
-        "rule1": "Afin de soumettre une traduction sur Utopian vous devez au moins avoir traduit 30% du projet dans le cas de projet de taille moyenne (500-1000 lines), 10-15% pour les grands projets (1000 et plus), 100% pour les petits projets (1 - 500).",
+        "rule1": "Afin de soumettre une traduction sur Utopian vous devez avoir traduit au moins 30% du projet dans le cas de projet de taille moyenne (500-1000 lignes), 10-15% pour les grands projets (1000 et plus), 100% pour les petits projets (1 - 500).",
         "rule2": "Utilisez cette catégorie uniquement pour les traductions que vous avez rédigées ou mises à jour pour un projet Open Source.",
         "rule3": "Vous devez soit inclure votre texte traduit entier dans l'article soit inclure des liens publics vers les versions complètes.",
         "rule4": "Indiquez autant de détails que possible, afin de vérifier les traductions et les outils que vous avez utilisez pour traduire.",
         "rule5": "Des traductions entières sont toujours préférées. Si vous écrivez une traduction partielle, nous nous réservons le droit d'évaluer le travail réellement effectué.",
         "rule6": "Vous devez être l'auteur de la traduction et fournir un moyen de vérifier votre travail.",
-        "rule7": "Si vote nom d'utilisateur sur CrowdIn ou d'autres plateformes de traduction similaires est différent de celui sur Utopian, vous devez prouvez que vous possédez le compte en fournissant une capture d'écran de la session connectée sur cette plateforme de traduction.",
+        "rule7": "Si votre nom d'utilisateur sur CrowdIn ou d'autres plateformes de traduction similaires est différent de celui sur Utopian, vous devez prouver que vous possédez le compte en fournissant une capture d'écran de la session connectée sur cette plateforme de traduction.",
         "rule8": "Ne soumettez jamais de traductions qui ont déjà été partagées, par vous ou une autre personne."
       },
       "graphics": {
@@ -182,15 +182,15 @@
       },
       "analysis": {
         "headline": "Règles pour une analyse",
-        "rule1": "Cette catégorie est réservée aux analyse que vous avez préparées pour un projet Open Source.",
-        "rule2": "Vous devez inclure des résultats détaillés et expliquer les raisons qui les expliquent.",
+        "rule1": "Cette catégorie est réservée aux analyses que vous avez préparées pour un projet Open Source.",
+        "rule2": "Vous devez inclure des résultats détaillés et les expliquer.",
         "rule3": "Si vous ne publiez pas l'entièreté de votre analyse, vous devez fournir des liens publics vers les versions complètes.",
         "rule4": "Les résultats de l'analyse, sous forme de graphiques ou de tableaux, sont obligatoires dans cette catégorie.",
         "rule5": "Ne soumettez jamais d'analyses qui ont déjà été publiées auparavant, par vous ou quelqu'un d'autre."
       },
       "visibility": {
         "headline": "Règles pour un effort de visibilité",
-        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts en matière de marketing fait pour améliorer la visibilité d'un projet Open Source; telle que les campagnes sur les réseaux sociaux, la publicité, les conférences ou les réunions.",
+        "rule1": "Dans cette catégorie, soumettez les résultats de vos efforts faits en matière de marketing pour améliorer la visibilité d'un projet Open Source; telle que les campagnes sur les réseaux sociaux, la publicité, les conférences ou les réunions.",
         "rule2": "Vous devez fournir des liens, des images ou des vidéos avec la preuve de vos efforts, et aussi partager les résultats.",
         "rule3": "Si vos efforts ont seulement amené peu ou pas de nouveaux utilisateurs/contributeurs au projet Open Source, vous ne devriez pas écrire à ce sujet.",
         "rule4": "Vous devez prouver votre identité. Si votre nom d'utilisateur sur Utopian est différent de ceux des plateformes que vous avez utilisées pour le marketing du projet, vous devez fournir des captures d'écran de la session connectée sur ces plateformes.",
@@ -200,7 +200,7 @@
         "headline": "Règles pour une documentation",
         "rule1": "Seules les Pull Requests sur le référentiel officiel seront acceptées ou sur un fork aussi longtemps que le fork n'est pas un miroir de l'original. Preuve de travail requise.",
         "rule2": "Soumettez dans cette catégorie uniquement lorsque vous travaillez sur la documentation officielle d'un projet Open Source.",
-        "rule3": "Vous devez être l'auteur soit de la documentation entière soit des changements/améliorations appliquées à la documentation.",
+        "rule3": "Vous devez être l'auteur soit de la documentation entière soit des changements/améliorations appliqués à la documentation.",
         "rule4": "Seul le travail sur la documentation officielle du projet peut être soumis dans cette catégorie. Utilisez la catégorie Tutoriels pour toute autre documentation.",
         "rule5": "Si vous ne postez pas le document complet que vous avez rédigé, alors vous devez fournir des liens publics vers celui-ci.",
         "rule6": "Vous devez fournir une preuve suffisante du travail que vous avez accompli.",
