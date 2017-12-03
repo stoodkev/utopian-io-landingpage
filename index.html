@@ -56,12 +56,6 @@
                             </a>
                         </div>
                     </div>
-                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
-                        {{ trans('messages.nav.signup') }}
-                    </a>
-                    <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary font-weight-bold">
-                        {{ trans('messages.nav.login') }}
-                    </a>
                 </div>
             </div>
         </nav>
@@ -72,6 +66,14 @@
             <h3 class="text-white text-center" v-html="trans('messages.header.text1')"></h3>
             <h1 class="text-white text-center font-weight-bold text-uppercase" v-html="trans('messages.header.text2')"></h1>
             <h2 class="text-white text-center" v-html="trans('messages.header.text3')"></h2>
+            <div class="text-center my-5">
+                <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
+                    {{ trans('messages.nav.signup') }}
+                </a>
+                <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary ml-2 font-weight-bold">
+                    {{ trans('messages.nav.login') }}
+                </a>
+            </div>
         </div>
         <div class="parallax-wave" id="wave-grey1"></div>
         <div class="parallax-wave" id="wave-grey2"></div>
