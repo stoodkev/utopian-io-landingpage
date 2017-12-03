@@ -241,13 +241,13 @@
       },
       "blog": {
         "headline": "Blog yazısı kuralları",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
+        "rule1": "Özgün bir formatınız olmalıdır. Özgün ve istikrarlı bir formatınız yoksa internette bulunan haberler ya da genel düşüncelerle ilgili paylaşım yapamazsınız.<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>İyi bir format örneği</a>.",
+        "rule2": "Sadece <b>açık-kaynak projeler</b> veya genel olarak <b>açık-kaynak hareketi</b> ile ilgili blog gönderileri yazabilirsiniz.",
+        "rule3": "Blog gönderileri, açık-kaynak projelerle ilgili detaylı içerik ve  genel bakışlar sağlamalıdır.",
         "rule4": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
+        "rule5": "Yazınızın diğer kategorilere girmediğinden emin olmak için kontrol edin(örn. Rehberler(tutorials) veya Metin yazarlığı(Copywriting)).",
         "rule6": "Daha önceden paylaştığın bir blog yazısını asla paylaşma.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule7": "Geçmişte kötüye kötüye kullanıldığını gördüğümüz için bu kategoride özellikle daha sıkı olacağız."
       }
     }
   },
