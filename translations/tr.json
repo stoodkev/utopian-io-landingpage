@@ -203,7 +203,7 @@
         "rule2": "Bu kategoriye sadece bir açık kaynak projenin resmi belgelerinde çalışma yapıyorsanız paylaşım yapınız.",
         "rule3": "Ya bütün belgelerin ya da belgelere uygulanmakta olan değişiklik/geliştirmelerin yazarı olmalısınız.",
         "rule4": "Bu kategoride sadece resmi proje belge çalışmaları paylaşılabilir. Diğer herhangi bir belge için Rehberler(Tutorials) kategorisini kullanınız.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
+        "rule5": "Eğer yazdığınız bütün içeriği paylaşmıyorsanız, yazınıza herkese açık bağlantılar sağlamalısınız.",
         "rule6": "Yaptığınız işe yeterli kanıt sağlamanız gerekmektedir.",
         "rule7": "Mümkünse, github'da işinizi gösteren çekme isteklerinize bağlantı verin.",
         "rule8": "Asla geçmişte paylaştığın bir dökümantasyonu tekrar gönderme."
@@ -231,12 +231,12 @@
       },
       "copywriting": {
         "headline": "Metin yazarlığı kuralları",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "Resmi depoda yalnızca birleştirilmiş 'Pull request'ler kabul edilecektir ya da forklarda, fork orijinalinin sadece bir kopyası olmadığı sürece. İş kanıtı gerekmektedir.",
         "rule2": "Açık kaynak projeye yaptığınız metin çalışmasını göstermek için bu kategoriyi kullanın.",
         "rule3": "Metin yazarlığı herhangi bir dilde olabilir.",
         "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmak zorundadır.",
         "rule5": "Sahibi siz olmalısınız.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
+        "rule6": "Varsa, GitHub'da gönderdiğiniz, çalışmanızı içeren 'pull request'lere bağlantı verin.",
         "rule7": "Daha önce paylaştığın hiçbir metin yazısını tekrar paylaşma."
       },
       "blog": {
