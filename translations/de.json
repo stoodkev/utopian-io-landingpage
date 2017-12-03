@@ -3,7 +3,7 @@
     "rewards": "Bezahlung",
     "rules": "Regeln",
     "moderators": "Moderatoren",
-    "faq": "FAQ",
+    "faq": "Häufig gestellte Fragen",
     "blog": "Blog",
     "signup": "Registieren",
     "login": "Anmelden"
@@ -37,7 +37,7 @@
       "text": "Wenn du am Code eines Projekts gearbeitet und <a href='https://help.github.com/articles/about-pull-requests/'>Pull Requests</a> eingereicht hast, teile deine Arbeit mit der Utopian Community."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
+      "headline": "Fehlersuche",
       "text": "Hilf Entwicklern mit detaillierten Berichten dabei Fehler und Probleme in ihrer Software zu finden und zu beheben."
     },
     "translation": {
