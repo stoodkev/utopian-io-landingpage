@@ -163,7 +163,7 @@
         "headline": "Çeviri kuralları",
         "rule1": "Utopian'a çeviri göndermek için orta büyüklükte bir projenin en az %30'unu (500 - 1000 satır), büyük projelerin %10-15'ini (1000 satırdan fazla), küçük projelerin ise tamamını çevirmeniz gerekir (1 - 500 satır).",
         "rule2": "Bu kategoriyi sadece çevirdiğiniz veya güncellediğiniz bir açık kaynaklı proje için kullanın.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
+        "rule3": "Çevrilmiş metnin tamamını gönderi içinde veya herkese açık bağlantılarla bulundurmalısın.",
         "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
         "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
@@ -262,15 +262,15 @@
   },
   "faq": {
     "q1": {
-      "headline": "Utopian nedir?",
+      "headline": "1. Utopian nedir?",
       "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
     },
     "q2": {
-      "headline": "Steem nedir?",
+      "headline": "2. Steem nedir?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
-      "headline": "Ödüller nereden geliyor?",
+      "headline": "3. Ödüller nereden geliyor?",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
