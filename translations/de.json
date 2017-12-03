@@ -3,7 +3,7 @@
     "rewards": "Bezahlung",
     "rules": "Regeln",
     "moderators": "Moderatoren",
-    "faq": "Häufig gestellte Fragen",
+    "faq": "FAQ",
     "blog": "Blog",
     "signup": "Registieren",
     "login": "Anmelden"
@@ -61,11 +61,11 @@
       "text": "Auch Marketingaufwand wird belohnt. Berichte der Community, was du für die Bekanntheit eines Open Source Projekts getan hast."
     },
     "tutorials": {
-      "headline": "Tutorials",
+      "headline": "Anleitungen",
       "text": "Schreibe informative Anleitungen und hilf anderen Open Source Software zu nutzen."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
+      "headline": "Videoanleitungen",
       "text": "Erstelle Video-Anleitungen für Open Source Software und hilf anderen sie zu nutzen."
     },
     "copywriting": {
