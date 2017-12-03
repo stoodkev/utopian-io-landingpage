@@ -279,7 +279,7 @@
     },
     "q5": {
       "headline": "5. Comment puis-je encaisser mes STEEM?",
-      "text": "<p>ne fois que vous avez un peu de STEEM dans votre wallet, vous pouvez le transférer vers un échange de crypto-monnaie qui supporte STEEM comme <a href='https://poloniex.com/'>Poloniex</a> ou <a href='https://bittrex.com/'>Bittrex</a>. Là vous pouvez l'échanger contre d'autres crypto-monnaies comme Bitcoin ou Ethereum, ce qui est plus facile à échanger contre des devises standard (EUR par exemple).</p><p>Ou vous pouvez utiliser <a href='https://blocktrades.us/'>Blocktrades</a>, qui est intégré dans l'interface du wallet Steemit. Cliquez simplement sur votre solde STEEM et un menu déroulant apparaîtra. Cliquez ensuite sur “Sell” et vous serez amené sur Blocktrades.</p>"
+      "text": "<p>Dès que vous possédez du STEEM dans votre portefeuille, vous pouvez le transférer vers un marché d'échange de crypto-monnaies qui supporte STEEM tel que <a href='https://poloniex.com/'>Poloniex</a> ou <a href='https://bittrex.com/'>Bittrex</a>. Là, vous pouvez l'échanger contre d'autres crypto-monnaies comme Bitcoin ou Ethereum, ce qui est plus facile à échanger contre des devises standard (EUR par exemple).</p><p>Ou vous pouvez utiliser <a href='https://blocktrades.us/'>Blocktrades</a>, qui est intégré dans l'interface du portefeuille Steemit. Cliquez simplement sur votre solde STEEM et un menu déroulant apparaîtra. Cliquez ensuite sur “Vendre” et vous serez dirigé sur Blocktrades.</p>"
     },
     "q6": {
       "headline": "6. Comment puis-je gagner plus de récompenses?",
