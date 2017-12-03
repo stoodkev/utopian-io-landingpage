@@ -37,7 +37,7 @@
       "text": "Wenn du am Code eines Projekts gearbeitet und <a href='https://help.github.com/articles/about-pull-requests/'>Pull Requests</a> eingereicht hast, teile deine Arbeit mit der Utopian Community."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
+      "headline": "Fehlersuche",
       "text": "Hilf Entwicklern mit detaillierten Berichten dabei Fehler und Probleme in ihrer Software zu finden und zu beheben."
     },
     "translation": {
@@ -61,11 +61,11 @@
       "text": "Auch Marketingaufwand wird belohnt. Berichte der Community, was du für die Bekanntheit eines Open Source Projekts getan hast."
     },
     "tutorials": {
-      "headline": "Tutorials",
+      "headline": "Anleitungen",
       "text": "Schreibe informative Anleitungen und hilf anderen Open Source Software zu nutzen."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
+      "headline": "Videoanleitungen",
       "text": "Erstelle Video-Anleitungen für Open Source Software und hilf anderen sie zu nutzen."
     },
     "copywriting": {

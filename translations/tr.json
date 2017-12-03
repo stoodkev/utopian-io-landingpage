@@ -3,7 +3,7 @@
     "rewards": "Ödüller",
     "rules": "Kurallar",
     "moderators": "Moderatörler",
-    "faq": "SSS",
+    "faq": "S.S.S",
     "blog": "Blog",
     "signup": "Kayıt ol",
     "login": "Giriş Yap"
@@ -116,38 +116,38 @@
     "total_generated": "Toplam oluşturulan",
     "steem": {
       "headline": "Ödülleri ödeyen?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.<br><br> Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır. <br><br> Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına <b>3 milyondan daha fazla Steem Power</b> delege edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre <b>250 dolar</b>'dan daha fazla hale getirmiştir. <br><br> Daha fazla bilgi için <a href='#faq'>FAQ'ları inceleyiniz</a>.",
       "button": "Steem hakkında daha fazla"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
+    "step1": "Kurallarımıza <br> uyunuz!",
     "step2": "Moderatörlerimiz tarafından<br> incelen!",
     "step3": "Utopian topluluğu tarafından oy al!",
     "step4": "7 gün sonra<br> ödemeni al!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "text": "Kaliteyi sağlamak için her katkı moderatörlerimizden biri tarafından kurallarımıza göre incelenir. Bu kurallara uymamak ya daha düşük ödüller almanıza ya da katkınızın kabul edilmesini tamamen durdurmaya sebep olacaktır. Ancak, katkınız kabul edilmezse, yine de Steem blockchain'inde paylaşılacak ve ödül kazanabilecektir. Bu durumda kendi başınızın çaresine bakmanız gerekecektir. Utopian gönderinize ödül de vermeyecektir paylaşmayacaktır da.",
     "categories": {
       "suggestions": {
         "headline": "Öneri kuralları",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
+        "rule1": "Öneriler, bir Açık Kaynak projede görmek isteyeceğiniz küçük özellikler/geliştirmelerdir.",
+        "rule2": "Öneriler, istenilen özelliklerin gerçekten yapılabilmesi için yeterince detay sunmalıdır.",
         "rule3": "Ekran paylaşımı, görüntüler ve link örnekleri bu kategoride her zaman hoş karşılanır.",
         "rule4": "Daha önceden paylaştığın veya başkası tarafından paylaşılan hiçbir öneri'yi tekrar paylaşma."
       },
       "subprojects": {
         "headline": "Alt proje kuralları",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
+        "rule1": "Bir Alt-Proje, projeye büyük bir etki sağlayacak yeni, görülmemiş özellikler dizisidir.",
+        "rule2": "Alt-Projeler, özelliklerin gerçekten yapılabilmesi için bu özelliklerin geniş kapsamlı detaylarını sağlamalıdır.",
+        "rule3": "Resimler, ekran görüntüleri, bağlantılar, akış grafikleri, maketler ve örnekler bu kategori için herzaman zorunludur.",
+        "rule4": "Bu kategoride içeriğin kalitesi, Utopian'da kabul edilmek için ana faktördür.",
+        "rule5": "Eğer düşüncenizin Alt-Proje olarak nitelendirilemeyeceğini düşünüyorsanız, bunun yerine Öneriler kategorisini kullanınız.",
         "rule6": "Daha önceden paylaştığın veya başkası tarafından paylaşılan hiçbir öneri'yi tekrar paylaşma."
       },
       "development": {
         "headline": "Geliştirici kuralları",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
+        "rule1": "Sadece birleştirilmiş (merged) 'Pull-request'ler kabul edilir ya da Utopian'da daha önce paylaşılmamış olan, sahip olduğunuz Açık Kaynak projeler, 'fork'lar, 'fork' saddece orijinalinin bir kopyası (mirror) olmadığı sürece dahildir. İş kanıtı gerekmektedir.",
+        "rule2": "Bu kategoride sadece, bir projenin gelişimine kod geliştirmiş veya katkıda bulunmuşsanız yazı paylaşabilirsiniz.",
+        "rule3": "'branch'lere, 'fork'lara, 'gist'lere ve 'pull request'lere bağlantı vermelisiniz.",
         "rule4": "Eğer github hesabının kullanıcı adın ve utopian kullanıcı adın birbirinden farklıysa, bize github hesabını oturum açarak, ekran yakalama yöntemiyle kanıtlaman gerekir.",
         "rule5": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
         "rule6": "Daha önceden paylaştığın veya başkası tarafından paylaşılan kod katkısını paylaşma."
@@ -155,8 +155,8 @@
       "bughunting": {
         "headline": "Hata avlama kuralları",
         "rule1": "Sadece açık kaynak projede bulduğun hataları raporlamak için bu kategoriyi kullan.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
+        "rule2": "Hatayı (bug) yeniden oluşturmak için gerekli olan, mümkün olan bütün detayları sağlamalısınız.",
+        "rule3": "Örnek olarak: kullanılan tarayıcılar, aygıt türleri, işletim sistemleri ve benzeri detayları dahil etmelisiniz.",
         "rule4": "Başkası tarafından veya senin tarafından önceden paylaşılmış bir hata raporunu asla tekrar paylaşma."
       },
       "translation": {
