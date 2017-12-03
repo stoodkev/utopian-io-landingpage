@@ -240,8 +240,8 @@
       },
       "blog": {
         "headline": "Regeln für Blog Posts",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
+        "rule1": "Du musst ein eigenes Format anbieten. Du kannst nicht einfach über News schreiben, die du im Netz findest, oder über eigene Gedanken, solange du kein einzigartiges eigenes Format (oder mehrere) betreibst. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Beispiel für ein gutes Format</a>.",
+        "rule2": "Du darfst nur über <b>Open Source Projekte</b> schreiben oder über die <b>Open Source Bewegung</b> im Allgemeinen.",
         "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
         "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
         "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
