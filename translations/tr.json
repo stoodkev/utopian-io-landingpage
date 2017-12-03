@@ -4,7 +4,7 @@
     "rules": "Kurallar",
     "moderators": "Moderatörler",
     "faq": "SSS",
-    "help": "Help",
+    "help": "Yardım",
     "blog": "Blog",
     "signup": "Kayıt ol",
     "login": "Giriş Yap"
@@ -176,14 +176,14 @@
         "rule1": "Eğer yapılan çalışmanın ödül alacak kadar yeterli olmadığına inanırsak, yapılan grafik katkısını reddetme hakkına sahibiz.",
         "rule2": "Bu kategoride, sadece açık kaynaklı bir proje için yaptığın simge, ikon, arkaplanlar, videolar gibi tasarımları gönderebilirsin.",
         "rule3": "Tasarımlarının tamamını göndermeden önce, tasarımlarının birkaç örneğini gönderine veya herkese açık bağlantılarda dahil etmen gerekir.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
+        "rule4": "Yaptığınız işi doğrulamak için olabildiğince çok ayrıntı vermelisiniz",
+        "rule5": "Düzenlenebilir kaynak dosyalarını (.psd .ai .eps .svg .cdr gibi) sağlamalısınız.",
         "rule6": "T-shirt'ler ve giyim ürünleri genelde hoş karşılanmaz, tabi proje sahibi tarafından istenmediyse.",
         "rule7": "Asla senin veya bir başkası tarafından paylaşılmış bir gönderiyi tekrar paylaşma."
       },
       "analysis": {
         "headline": "Analiz kuralları",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
+        "rule1": "Bu kategori sadece bir açık kaynak proje için hazırladığınız analizler içindir.",
         "rule2": "You must include detailed results and explain the reasons behind them.",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
