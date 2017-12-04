@@ -145,7 +145,7 @@
         "rule6": "Никогда не пишите о проектах, о которых вы уже сообщали ранее или о которых уже писал кто-то другой."
       },
       "development": {
-        "headline": "Development Rules",
+        "headline": "Правила Разработки",
         "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
