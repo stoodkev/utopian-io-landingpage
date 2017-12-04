@@ -209,8 +209,8 @@
         "rule8": "Никогда не публикуйте работу над документацией, которой вы уже делились ранее."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
-        "rule1": "Machine translated tutorials will be rejected.",
+        "headline": "Правила для Учебников/Пособий",
+        "rule1": "Автоматически переведенные учебники/пособия будут отклонены.",
         "rule2": "This category is only for providing tutorials for an Open Source project.",
         "rule3": "Tutorials can be in any language.",
         "rule4": "A text intro in English is always mandatory, at the top of the post.",
