@@ -190,23 +190,23 @@
         "rule5": "عدم تقديم التحليل الذي تمت مشاركته من قبلك أو من قبل شخص آخر."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "headline": "قواعد الرؤية",
+        "rule1": "في هذه الفئة، يتم تقديم نتائج الجهود التسويقية التي قمت بها لتحسين رؤية مشروع مفتوح المصدر؛ مثل حملات وسائل الإعلام الاجتماعية، والإعلانات، والمؤتمرات أو لقاأت.",
+        "rule2": "يجب تقديم روابط أو صور أو مقاطع فيديو مع إثبات الجهود التي تبذلها، كما يمكنك مشاركة النتائج.",
+        "rule3": "إذا كانت جهودك جلبت فقط عدد قليل أو صفر من المستخدمين الجدد / المساهمين في مشروع المصدر المفتوح، يجب أن لا تكتب عن ذلك.",
+        "rule4": "يجب إثبات هويتك. إذا كان اسم المستخدم الخاص بك في  يوتوبيان ليس هو نفسه اسم المستخدم على المنصات التي تستخدما لتسويق المشروع، يجب توفير لقطات من تسجيل الدخول على هذه المنصات.",
+        "rule5": "لا تكتب أبدا عن جهود الرؤية التي شاركتها من قبل."
       },
       "documentation": {
-        "headline": "Documentation Rules",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "headline": "قواعد التوثيق",
+        "rule1": "سيتم قبول طلبات السحب المدمجة فقط في المستودع الرسمي أو على الفرع طالما أن الفرع ليس مجرد مرآة للأصل. إثبات العمل المطلوب. ",
+        "rule2": "أرسل إلى هذه الفئة فقط إذا كنت تعمل على الوثائق الرسمية لمشروع مفتوح المصدر.",
+        "rule3": "يجب أن تكون المؤلف للوثائق بأكملها أو التغييرات / التحسينات التي يتم تطبيقها على الوثائق.",
+        "rule4": "ولا يمكن تقديم سوى الأعمال الرسمية المتعلقة بوثائق المشاريع في هذه الفئة. استخدم فئة البرامج التعليمية لأي وثائق أخرى.",
+        "rule5": "إذا لم تنشر المحتوى الكامل الذي قمت بتأليفه، فيجب عليك تقديم روابط عامة إليه.",
+        "rule6": "يجب تقديم دليل كاف على العمل الذي قمت به.",
+        "rule7": "إذا كان ذلك ممكنا، اربط طلبات السحب التي أرسلتها على جيثب التي تحتوي على عملك",
+        "rule8": "لا تقم أبدا بتقديم أعمال الوثائق التي سبق لك ان شاركتها."
       },
       "tutorials": {
         "headline": "Tutorial Rules",
@@ -220,24 +220,24 @@
         "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "headline": "قواعد دروس الفيديو",
+        "rule1": "سيتم رفض دروس الفيديو باستخدام صوت الجهاز.",
+        "rule2": "هذه الفئة هي فقط لتوفير دروس الفيديو لمشروع مفتوح المصدر.",
+        "rule3": "يمكن أن تكون دروس الفيديو بأي لغة.",
+        "rule4": "مقدمة النص باللغة الإنجليزية هي دائما إلزامية، في الجزء العلوي من المنشور.",
+        "rule5": "يجب أن تكون مؤلف الفيديو التعليمي.",
+        "rule6": "يجب تضمين الفيديو مباشرة في  المنشور. في الوقت الحالي، مقاطع فيديو يوتوب إلزامية.",
+        "rule7": "لا تنشر أبدا دروس فيديو كنت قد شاركتها من قبل على بلوكشين ستيم بشكل عام. "
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "headline": "قواعد حقوق التأليف والنشر",
+        "rule1": "سيتم قبول طلبات السحب المدمجة فقط في المستودع الرسمي أو على الفرع طالما أن الفرع ليس مجرد مرآة للأصل. إثبات العمل المطلوب. ",
+        "rule2": "استخدم هذه الفئة فقط لعرض أعمال كتابة حقوق التأليف والنشر التي أكملتها لمشروع مفتوح المصدر.",
+        "rule3": "يمكن أن تكون حقوق التأليف والنشر بأي لغة.",
+        "rule4": "مقدمة النص باللغة الإنجليزية هي دائما إلزامية، في الجزء العلوي من المنشور.",
+        "rule5": "يجب أن تكون المؤلف.",
+        "rule6": "إذا كان ذلك ممكنا، اربط طلبات السحب التي أرسلتها على جيثب التي تحتوي على عملك.",
+        "rule7": "لا تنشر أبدا أعمال كتابة حقوق التأليف والنشر التي شاركتها من قبل."
       },
       "blog": {
         "headline": "Blog Post Rules",
