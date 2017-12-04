@@ -268,7 +268,7 @@
     },
     "q2": {
       "headline": "2. Что такое Steem?",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "text": "<p>Steem - это blockchain следующего поколения, который поддерживает приложения социальных сетей и их контент. Он использует уникальный механизм под названием \"Доказательство Разума\", основанный на мудрости большого количества людей, чтобы вознаграждать тех, кто вносит ценный вклад в соответствующие сообщества. Его родная валюта называется STEEM, и это та валюта, в которой Utopian начисляет вознаграждения своим контрибуторам </p> <p><a href='https://steem.io'> Подробнее о Steem</a></p>"
     },
     "q3": {
       "headline": "3. Откуда берутся вознаграждения?",
