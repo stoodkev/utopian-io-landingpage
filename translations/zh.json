@@ -4,13 +4,13 @@
     "rules": "规则",
     "moderators": "管理者",
     "faq": "常见问题",
-    "help": "Help",
+    "help": "帮助",
     "blog": "博客",
     "signup": "注册",
     "login": "登录"
   },
   "header": {
-    "text1": "乌托邦",
+    "text1": "Utopian.io",
     "text2": "开源经济",
     "text3": "获取奖励，只需向你<br>喜爱的开源项目贡献力量！"
   },
