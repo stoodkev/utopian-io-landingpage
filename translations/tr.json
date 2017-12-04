@@ -268,7 +268,7 @@
     },
     "q2": {
       "headline": "2. Steem nedir?",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "text": "<p>Steem, sosyal medya uygulamalarını ve içeriğini destekleyen yeni nesil blok zincirdir. Kendi topluluklarına değerli katkılar yapan kişilere ödül vermek için kitlelerin bilgeliğini kullanan benzersiz bir \"Beynin Kanıtı\" mekanizması kullanıyor. STEEM yerel para birimine denir ve Utopian’a katkıda bulunanların ödüllendirdiği para birimidir.</p> <p><a href='https://steem.io'> Steem hakkında daha fazla bilgi edinin</a></p>"
     },
     "q3": {
       "headline": "3. Ödüller nereden geliyor?",
