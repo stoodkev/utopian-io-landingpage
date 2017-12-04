@@ -211,11 +211,11 @@
       "tutorials": {
         "headline": "Правила для Учебников/Пособий",
         "rule1": "Автоматически переведенные учебники/пособия будут отклонены.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
-        "rule3": "Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
-        "rule6": "You must be the author of the tutorial.",
+        "rule2": "Эта категория предназначена только для предоставления учебников/пособий по проектам с Открытым Кодом.",
+        "rule3": "Учебники/пособия могут быть на любом языке.",
+        "rule4": "Вводный текст на английском языке обязательно должен присутствовать в верхней части поста.",
+        "rule5": "Если ваш учебник/пособие содержит также видео, вам лучше использовать категорию Видео-Уроки.",
+        "rule6": "Вы должны быть автором учебника/пособия.",
         "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
         "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
       },
