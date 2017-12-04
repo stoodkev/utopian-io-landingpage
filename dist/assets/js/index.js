@@ -125,15 +125,18 @@ var app = new Vue({
       code: 'zh',
       label: 'Chinese (simplified)',
       flag: 'assets/img/flags/zh.png'
-    }, {
-      code: 'es',
-      label: 'Spanish',
-      flag: 'assets/img/flags/es.png'
-    }, {
-      code: 'id',
-      label: 'Indonesian',
-      flag: 'assets/img/flags/id.png'
-    }, {
+    },
+    // {
+    //   code: 'es',
+    //   label: 'Spanish',
+    //   flag: 'assets/img/flags/es.png'
+    // },
+    // {
+    //   code: 'id',
+    //   label: 'Indonesian',
+    //   flag: 'assets/img/flags/id.png'
+    // },
+    {
       code: 'fr',
       label: 'French',
       flag: 'assets/img/flags/fr.png'
