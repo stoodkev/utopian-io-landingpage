@@ -204,7 +204,7 @@
         "rule3": "Вы должны быть автором либо всей документации, либо изменений/улучшений применяемых к документации.",
         "rule4": "Только работа над Официальной Документацией проекта может публиковаться в этой категории. Для любой другой документации используйте категорию Учебники/Уроки.",
         "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule6": "Вы должны предоставить достаточные доказательства проведенной вами работы.",
         "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
         "rule8": "Never submit documentation work that you have already shared in the past."
       },
