@@ -276,10 +276,10 @@
     },
     "q4": {
       "headline": "4. Где мне найти свой кошелек?",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "text": "<p>Все STEEMы, заработанные на Utopian, становится доступным для вашего аккаунта, когда каждый отдельный пост достигает своей даты выплаты, которая наступает через 7 дней после его публикации. В этот момент вознаграждения становятся доступными для зачисления на баланс вашего счета.</p> <p>Чтобы увидеть баланс своего счета и иметь доступ к своим средствам, вам нужно будет зайти на <a href='https://steemit.com'> steemit.com</a>. Там есть раздел под названием «Кошелек», где вы можете увидеть сколько STEEM у вас есть в наличии, и также среди прочих вещей там есть инструменты для их передачи. В настоящее время Steemit Inc. разрабатывает мобильное приложение STEEM wallet, и как только оно выйдет, это будет самым простым способом для управления вашим кошельком STEEM.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
+      "headline": "5. Как мне обналичить свои STEEMы?",
       "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
     },
     "q6": {
