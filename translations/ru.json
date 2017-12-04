@@ -220,14 +220,14 @@
         "rule8": "Никогда не выкладывайте учебники/руководства, которыми вы уже делились ранее на Steem blockchain в целом."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "headline": "Правила для Видео-Уроков",
+        "rule1": "Видео уроки, озвученные машинным голосом, будут отклонены.",
+        "rule2": "Эта категория предназначена только для предоставления видео-уроков по проектам с Открытым Кодом.",
+        "rule3": "Видео-уроки могут быть на любом языке.",
+        "rule4": "Вводный текст на английском языке обязательно должен присутствовать в начале поста.",
+        "rule5": "Вы должны быть автором видео-урока.",
+        "rule6": "Необходимо вставить видео непосредственно в пост. На данный момент YouTube видео являются обязательными.",
+        "rule7": "Никогда не выкладывайте видео-уроки, которыми вы уже делились ранее на Steem blockchain в целом."
       },
       "copywriting": {
         "headline": "Copywriting Rules",
