@@ -6,7 +6,7 @@
     "faq": "FAQ",
     "help": "Hilfe",
     "blog": "Blog",
-    "signup": "Registieren",
+    "signup": "Registrieren",
     "login": "Anmelden"
   },
   "header": {
@@ -14,7 +14,7 @@
     "text2": "Open Source Ökonomie",
     "text3": "Leiste Beiträge zu Open Source Projekten<br>und werde dafür bezahlt."
   },
-  "intro": "Unsere moderne Welt wäre ohne <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet und all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source Software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
+  "intro": "Unsere moderne Welt wäre ohne <a href='https://de.wikipedia.org/wiki/Open_Source'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet und all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source Software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
   "octocat": {
     "hi": "Hi! Ich bin Octocat!",
     "text": "Ich arbeite bei GitHub als Maskottchen und es ist wirklich großartig hier zu sein! Wir sind eine weltweit verteilte Gemeinschaft von freiwilligen Enthusiasten, die an tausenden von interessanten Projekten arbeiten. Dank <b>Utopian.io</b> wird nun jeder, der einen wertvollen Beitrag zu Open Source Projekten leistet, auch dafür bezahlt. Du kannst z.B. Fehlerberichte verfassen, Texte übersetzen, Dokumentationen und Tutorials schreiben oder einfach deine Ideen und Vorschläge mit der Community teilen.",
@@ -126,7 +126,7 @@
     "step2": "Moderatoren überprüfen<br>deine Einreichung!",
     "step3": "Utopian.io und die Community bewerten deine Arbeit!",
     "step4": "Werde nach 7<br>Tagen bezahlt!",
-    "text": "Um die Qualität sicherzustellen, wird jede Einreichung von unseren Moderatoren anhand unserer Regeld überprüft. Regelverstöße führen entweder zu geringerer Bezahlung oder die Einreichung wird gar nicht erst akzeptiert. Es werden allerdings grundsätzlich alle Einreichungen auf der Steem Blockchain veröffentlicht und können somit Geld generieren. In diesem Falle bist du jedoch auf dich allein gestellt. Utopian.io wird deinen Beitrag nicht belohnen oder bewerben.",
+    "text": "Um die Qualität sicherzustellen, wird jede Einreichung von unseren Moderatoren anhand unserer Regeln überprüft. Regelverstöße führen entweder zu geringerer Bezahlung oder die Einreichung wird gar nicht erst akzeptiert. Es werden allerdings grundsätzlich alle Einreichungen auf der Steem Blockchain veröffentlicht und können somit Geld generieren. In diesem Falle bist du jedoch auf dich allein gestellt. Utopian.io wird deinen Beitrag nicht belohnen oder bewerben.",
     "categories": {
       "suggestions": {
         "headline": "Regeln für Vorschläge",
@@ -141,12 +141,12 @@
         "rule2": "Sub-Projekte müssen umfangreiche Details bereitstellen, um tatsächlich umgesetzt werden zu können.",
         "rule3": "Bilder, Screenshots, Links, Abläufe, Mockups und andere Beispiele sind Pflicht in dieser Kategorie.",
         "rule4": "In dieser Kategorie ist die inhaltliche Qualität absolut ausschlaggebend um akzeptiert zu werden.",
-        "rule5": "Wenn du dir nicht wirklich sicher bist ob deine Idee ein Sub-Projekt ist, nutze stattdessen die Kategorie Vorschläge",
+        "rule5": "Wenn du dir nicht wirklich sicher bist ob deine Idee ein Sub-Projekt ist, nutze stattdessen die Kategorie Vorschläge.",
         "rule6": "Schreibe nie mehrfach über die selben Sub-Projekte oder welche, die bereits von anderen eingereicht wurden."
       },
       "development": {
         "headline": "Regeln für Entwicklung",
-        "rule1": "Nur zusammengeführte Pull Request oder Open Source Projekte, die du betreust und die noch nicht auf Utopian veröffentlich wurden, werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
+        "rule1": "Nur zusammengeführte Pull Request oder Open Source Projekte, die du betreust und die noch nicht auf Utopian veröffentlicht wurden, werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
         "rule2": "Nutze diese Kategorie nur, wenn du ein eigenes Projekt entwickelt oder zur Entwicklung eines Projekts beigetragen hast.",
         "rule3": "Links zu Branches, Forks, Gists oder Pull Requests sind zwingend erforderlich.",
         "rule4": "Wenn dein GitHub Benutzername von dem bei Utopian abweicht, musst einen Screenshot beifügen, auf dem du auf GitHub eingeloggt bist und beweist, dass der Account dir gehört.",
@@ -154,11 +154,11 @@
         "rule6": "Schreibe nie mehrfach über die selbe Entwicklung."
       },
       "bughunting": {
-        "headline": "Regeln für Bug Hunting",
-        "rule1": "Nutze diese Kategorie nur für Bugs, die du in einem Open Source Projekt entdeckt hast.",
-        "rule2": "Stelle alle nötigen Informationen bereit, die nötig sind, um den Bug zu reproduzieren.",
+        "headline": "Regeln für Fehlersuche",
+        "rule1": "Nutze diese Kategorie nur für Fehler, die du in einem Open Source Projekt entdeckt hast.",
+        "rule2": "Stelle alle nötigen Informationen bereit, die nötig sind, um den Fehler zu reproduzieren.",
         "rule3": "Dazu gehört z.B. der genutzte Browser, dein Endgerät, Betriebssystem und ähnliche Details.",
-        "rule4": "Schreibe nie über Bugs, die von dir oder anderen bereits mitgeteilt wurden."
+        "rule4": "Schreibe nie über Fehler, die von dir oder anderen bereits mitgeteilt wurden."
       },
       "translation": {
         "headline": "Regeln für Übersetzungen",
@@ -167,7 +167,7 @@
         "rule3": "Du musst entweder den gesamten übersetzten Text in deinem Bericht einfügen oder öffentlich zugängliche Links zur vollen Übersetzung beifügen.",
         "rule4": "Füge sämtliche Details zu deiner Übersetzung und den Werkzeuge, die du verwendet hast, bei, um eine Überprüfung zu erleichtern.",
         "rule5": "Vollständige Übersetzungen werden immer bevorzugt. Wenn du über eine Teilübersetzung schreibst, behalten wir uns das Recht vor, die tatsächlich geleistete Arbeit zu beurteilen.",
-        "rule6": "Du musst der Author der Übersetzung sein und verifizierbare Nachweise zu deiner Arbeit liefern.",
+        "rule6": "Du musst der Autor der Übersetzung sein und verifizierbare Nachweise zu deiner Arbeit liefern.",
         "rule7": "Wenn dein Benutzername auf CrowdIn oder ähnlichen Plattformen nicht der selbe ist wie auf Utopian, musst du nachweisen, dass du der Eigentümer des Accounts bist, indem du einen Screenshot machst, während du auf der Plattform angemeldet bist.",
         "rule8": "Schreibe nie über Übersetzungen, die von dir oder anderen bereits eingereicht wurden."
       },
@@ -201,33 +201,33 @@
         "headline": "Regeln für Dokumentation",
         "rule1": "Nur zusammengeführte Pull Request im offiziellen Repository des Projekts werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
         "rule2": "Schreibe in dieser Kategorie nur, wenn du an der offiziellen Dokumentation eines Open Source Projekts arbeitest.",
-        "rule3": "Du musst der Author der gesamten Dokumentation sein oder der Änderungen/Verbesserungen für die Dokumentation.",
-        "rule4": "In dieser Kategorie können nur offizielle Projekt-Dokumentationen eingereicht werden. Nutze die Tutorial Kategorie für alle anderen Dokumentationen.",
+        "rule3": "Du musst der Autor der gesamten Dokumentation sein oder der Änderungen/Verbesserungen für die Dokumentation.",
+        "rule4": "In dieser Kategorie können nur offizielle Projekt-Dokumentationen eingereicht werden. Nutze die Anleitungen Kategorie für alle anderen Dokumentationen.",
         "rule5": "Wenn du nicht den kompletten, von dir erstellten Inhalt in deinem Beitrag einfügst, musst du öffentliche Links zur vollständigen Dokumentation anfügen.",
         "rule6": "Du musst ausreichende Nachweise über deine Arbeit liefern.",
         "rule7": "Verlinke ggf. Pull Requests auf GitHub, die deine Arbeit enthalten.",
         "rule8": "Reiche nie Dokumentationen ein, die von dir oder anderen bereits veröffentlicht wurden."
       },
       "tutorials": {
-        "headline": "Regeln für Tutorials",
-        "rule1": "Maschinell übersetzte Tutorials werden abgelehnt.",
-        "rule2": "In dieser Kategorie können nur Tutorials für Open Source Projekte eingereicht werden.",
-        "rule3": "Tutorials können in jeder Sprache verfasst sein.",
+        "headline": "Regeln für Anleitungen",
+        "rule1": "Maschinell übersetzte Anleitungen werden abgelehnt.",
+        "rule2": "In dieser Kategorie können nur Anleitungen für Open Source Projekte eingereicht werden.",
+        "rule3": "Anleitungen können in jeder Sprache verfasst sein.",
         "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
-        "rule5": "Wenn dein Tutorial auch ein Video enthält, verwende stattdessen die Video-Tutorial Kategorie.",
-        "rule6": "Du musst der Author des Tutorials sein.",
-        "rule7": "Wenn du das vollständige Tutorial nicht in deinem Beitrag einfügst, musst du öffentliche Links zur vollständigen Version anfügen.",
-        "rule8": "Teile nie Tutorials, die von dir oder anderen bereits veröffenticht wurden."
+        "rule5": "Wenn deine Anleitung auch ein Video enthält, verwende stattdessen die Videoanleitungen Kategorie.",
+        "rule6": "Du musst der Autor der Anleitung sein.",
+        "rule7": "Wenn du die vollständige Anleitung nicht in deinem Beitrag einfügst, musst du öffentliche Links zur vollständigen Version anfügen.",
+        "rule8": "Teile nie Anleitungen, die von dir oder anderen bereits veröffenticht wurden."
       },
       "videotutorials": {
-        "headline": "Regeln für Video Tutorials",
-        "rule1": "Video-Tutorials mit maschineller Stimme werden abgelehnt.",
-        "rule2": "In dieser Kategorie können nur Video-Tutorials für Open Source Projekte eingereicht werden.",
-        "rule3": "Video Tutorials können in jeder Sprache erstellt werden.",
+        "headline": "Regeln für Videoanleitungen",
+        "rule1": "Videoanleitungen mit maschineller Stimme werden abgelehnt.",
+        "rule2": "In dieser Kategorie können nur Videoanleitungen für Open Source Projekte eingereicht werden.",
+        "rule3": "Videoanleitungen können in jeder Sprache erstellt werden.",
         "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
-        "rule5": "Du musst der Author des Video Tutorials sein.",
+        "rule5": "Du musst der Autor der Videoanleitung sein.",
         "rule6": "Du musst das Video direkt in deinem Beitrag einbetten. Zur Zeit sind nur YouTube-Videos möglich.",
-        "rule7": "Teile nie Video Tutorials, die von dir oder anderen bereits veröffenticht wurden."
+        "rule7": "Teile nie Videoanleitungen, die von dir oder anderen bereits veröffenticht wurden."
       },
       "copywriting": {
         "headline": "Regeln für Werbetexte",
@@ -235,17 +235,17 @@
         "rule2": "Nutze diese Kategorie nur für Werbetexte, die du für ein Open Source Projekt verfasst hast.",
         "rule3": "Werbetexte können in jeder Sprache verfasst sein.",
         "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
-        "rule5": "Du musst der Author sein.",
+        "rule5": "Du musst der Autor sein.",
         "rule6": "Verlinke ggf. Pull Requests auf GitHub, die deine Texte enthalten.",
-        "rule7": "Teile nie Werbetexte auf Utopian, die du bereits zuvor veröffentlich hast."
+        "rule7": "Teile nie Werbetexte auf Utopian, die du bereits zuvor veröffentlicht hast."
       },
       "blog": {
-        "headline": "Regeln für Blog Posts",
+        "headline": "Regeln für Blog-Beiträge",
         "rule1": "Du musst ein eigenes Format anbieten. Du kannst nicht einfach über News schreiben, die du im Netz findest, oder über eigene Gedanken, solange du kein einzigartiges eigenes Format (oder mehrere) betreibst. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Beispiel für ein gutes Format</a>.",
         "rule2": "Du darfst nur über <b>Open Source Projekte</b> schreiben oder über die <b>Open Source Bewegung</b> im Allgemeinen.",
         "rule3": "Der Inhalt von Blog-Beiträgen muss detailliert und informativ sein und sich auf Open Source Projekte beziehen.",
         "rule4": "Bilder, Screenshots, Links und Beispiele sind nicht zwingend aber erwünscht.",
-        "rule5": "Vergewissere dich, ob dein Beitrag nicht in einer anderen Kategorien (z.B. Tutorials oder Copywriting) besser aufgehoben wäre.",
+        "rule5": "Vergewissere dich, ob dein Beitrag nicht in einer anderen Kategorien (z.B. Anleitungen oder Werbetexte) besser aufgehoben wäre.",
         "rule6": "Reiche keine Blog-Beiträge ein, die du bereits zuvor veröffentlicht hast.",
         "rule7": "Wir werden Beiträge in dieser Kategorie besonders streng bewerten, da es in der Vergangenheit häufig Regelverstößen gab."
       }
@@ -255,8 +255,8 @@
     "rewards": "Bezahlung",
     "pending": "Ausstehend",
     "previous": "Ausgezahlt",
-    "meet": "Lerne unsere Moderatorn kennen",
-    "text": "Bei Utopian werden alle Beitragenden für ihrere harte Arbeit belohnt. Das schließt auch unsere Moderatoren ein, die unseren hohen Qualitätsanspruch hochhalten.",
+    "meet": "Lerne unsere Moderatoren kennen",
+    "text": "Bei Utopian werden alle Beitragenden für ihre harte Arbeit belohnt. Das schließt auch unsere Moderatoren ein, die unseren hohen Qualitätsanspruch sicherstellen.",
     "pending_payout": "Ausstehend",
     "previous_payout": "Ausgezahlt",
     "text2": "5% des insgesamt für alle Einreichungen generierten Geldes geht an die Moderatoren, basierend auf der Anzahl der überprüften Einreichungen. Um ein Utopian Moderator zu werden, musst du dir zunächst ein gewisses Ansehen erarbeiten und möglichst viele Einreichungen prüfen."
