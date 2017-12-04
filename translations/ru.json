@@ -35,7 +35,7 @@
     },
     "development": {
       "headline": "Разработка",
-      "text": "Если вы написали код и создали запрос на его присоединение к проекту, поделитесь своей работой с Utopian сообществом."
+      "text": "Если вы написали код и создали запрос на его присоединение к проекту (pull request), поделитесь своей работой с Utopian сообществом."
     },
     "bughunting": {
       "headline": "Поиск ошибок",
@@ -63,7 +63,7 @@
     },
     "tutorials": {
       "headline": "Учебники (уроки)",
-      "text": "Пишите информативные учебники и уроки чтобы помочь другим людям использовать продукты с открытым кодом."
+      "text": "Пишите информативные учебники и пособия, чтобы помочь другим людям использовать продукты с открытым кодом."
     },
     "videotutorials": {
       "headline": "Видео уроки",
@@ -284,7 +284,7 @@
     },
     "q6": {
       "headline": "6. Как заработать больше вознаграждений?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "text": "<p>Качество - вот что самое важное на Utopian. Сообщество ценит полезные вклады, которые решают проблемы и позволяют проектам двигаться вперед, поэтому качественные вклады будут получать должное внимание и вознаграждение. Всегда предоставлять свои лучшие работы - это самый верный способ позиционировать себя, чтобы получить большее вознаграждение за свой вклад.</p>"
     }
   },
   "blog": {
