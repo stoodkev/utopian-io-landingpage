@@ -154,40 +154,40 @@
         "rule6": "ا تكتب أبدا عن مساهمات فالبرمجة قد كنت شاركتها من قبل"
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "قواعدالتبليغ بالخلل",
+        "rule1": "فقط استخدم هذه الفئة للإبلاغ عن الأخطاء التي وجدت في مشروع مفتوح المصدر.",
+        "rule2": "يجب تقديم كل التفاصيل الممكنة لإعادة إنتاج الخطأ",
+        "rule3": "يجب تضمين، على سبيل المثال: المتصفحات المستخدمة وأنواع الأجهزة وأنظمة التشغيل والتفاصيل المماثلة.",
+        "rule4": "لا تبلغ عن الأخطاء التي تمت مشاركتها من قبلك أو شخص آخر."
       },
       "translation": {
-        "headline": "Translation Rules",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "headline": "قواعد الترجمة",
+        "rule1": "(500 - 1) من أجل تقديم ترجمة في يوتوبيان يجب أن تترجم ما لا يقل عن 30٪ من المشروع للمشاريع متوسطة الحجم (500-1000 سطر)، 10-15٪ للمشاريع الكبيرة (1000 وما فوق)، و 100٪ للمشاريع الصغيرة",
+        "rule2": "استخدم هذه الفئة فقط للترجمات التي قمت بتأليفها أو تحديثها لمشروع مفتوح المصدر.",
+        "rule3": "يجب عليك إما تضمين النص المترجم بالكامل في المشاركة أو تضمين روابط عامة إلى الإصدارات الكاملة.",
+        "rule4": "قم بتضمين أكبر قدر ممكن من التفاصيل، للتحقق من الترجمات والأدوات التي استخدمتها للترجمة.",
+        "rule5": "يفضل دائما الترجمة الكاملة. إذا كنت تكتب عن الترجمة الجزئية، فإننا نحتفظ بالحق في تقييم العمل الفعلي.",
+        "rule6": "يجب أن تكون مؤلف الترجمة وأن توفر طريقة للتحقق من عملك.",
+        "rule7": "إذا كان اسم المستخدم الخاص بك على كرودين أو منصات الترجمة ليست هي نفسها اسم المستخدم ليوتوبيان الخاص بك، يجب أن تثبت أنك تملك الحساب من خلال توفير لقطة من  تسجيل الدخول على منصة الترجمة تلك.",
+        "rule8": "عدم مشاركة الترجمات التي تمت مشاركتها من قبل أنت أو أي شخص آخر."
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "headline": "قواعد تصميم رسومات",
+        "rule1": "نحن نحتفظ بالحق في رفض اي مساهمة في تصميم رسومات إذا كنا نعتقد أن العمل لا يكفي لكي تتم مكافأته.",
+        "rule2": "في هذه الفئة، لا تقدم سوى رسومات مثل الشعارات أو الرموز أو الخلفيات أو مقاطع الفيديو أو الرسوم المتحركة التي أنشأتها لمشروع مفتوح المصدر",
+        "rule3": "يجب تضمين عينات من الإبداعات الخاصة بك مباشرة  والروابط العامة للتصاميم الكاملة.",
+        "rule4": "يجب أن تعطي أكبر قدر ممكن من التفاصيل للتحقق من العمل الذي قمت به.",
+        "rule5": "يجب تقديم ملفات المصدر الأصلية (مثل .psd .ai .eps .svg .cdr).",
+        "rule6": "تي شيرت وتصاميم الترويج بشكل عام ليست موضع ترحيب، ما لم يطلب صراحة من قبل صاحب المشروع.",
+        "rule7": "لا تنشر أبدا الرسومات التي تمت مشاركتها من قبك أو أي شخص آخر."
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "headline": "قواعد التحليل",
+        "rule1": "هذه الفئة هي فقط للتحليل الذي كنت قد أعدت لمشروع مفتوح المصدر.",
+        "rule2": "يجب عليك تضمين نتائج مفصلة وشرح الأسباب الكامنة وراءها.",
+        "rule3": "إذا كنت لا تنشر تحليلك في مجمله هنا، يجب عليك تقديم روابط عامة إلى إصدارات كاملة منه.",
+        "rule4": "نتائج التحليل، على شكل مخططات أو جداول، إلزامية في هذه الفئة.",
+        "rule5": "عدم تقديم التحليل الذي تمت مشاركته من قبلك أو من قبل شخص آخر."
       },
       "visibility": {
         "headline": "Visibility Rules",
