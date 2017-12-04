@@ -111,7 +111,7 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Награды за Вклад",
+    "contributor_rewards": "Вознаграждения за Вклад",
     "curator_rewards": "Кураторские вознаграждения",
     "pending_rewards": "Ожидаемые вознаграждения",
     "total_generated": "Всего создано",
@@ -216,8 +216,8 @@
         "rule4": "Вводный текст на английском языке обязательно должен присутствовать в верхней части поста.",
         "rule5": "Если ваш учебник/пособие содержит также видео, вам лучше использовать категорию Видео-Уроки.",
         "rule6": "Вы должны быть автором учебника/пособия.",
-        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "rule7": "Если вы публикуете здесь не весь учебник/руководство, необходимо предоставить публичные ссылки на его полную версию.",
+        "rule8": "Никогда не выкладывайте учебники/руководства, которыми вы уже делились ранее на Steem blockchain в целом."
       },
       "videotutorials": {
         "headline": "Video Tutorial Rules",
