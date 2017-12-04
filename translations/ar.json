@@ -1,12 +1,13 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
-    "faq": "FAQ",
-    "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "rewards": "المكافآت",
+    "rules": "القوانين",
+    "moderators": "المشرفون",
+    "faq": "الأسئلة الشائعة",
+    "blog": "مدونة",
+    "signup": "التسجيل",
+    "login": "تسجيل الدخول"
+
   },
   "header": {
     "text1": "Utopian.io",
