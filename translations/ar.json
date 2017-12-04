@@ -209,15 +209,15 @@
         "rule8": "لا تقم أبدا بتقديم أعمال الوثائق التي سبق لك ان شاركتها."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
-        "rule1": "Machine translated tutorials will be rejected.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
-        "rule3": "Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
-        "rule6": "You must be the author of the tutorial.",
-        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "headline": "قواعد الدروس",
+        "rule1": "سيتم رفض دروس الترجمة الآلية.",
+        "rule2": "هذه الفئة هي فقط لتوفير دروس لمشروع مفتوح المصدر.",
+        "rule3": "يمكن أن تكون الدروس في أي لغة.",
+        "rule4": "مقدمة النص باللغة الإنجليزية هي دائما إلزامية، في الجزء العلوي من المنشور.",
+        "rule5": "إذا كان البرنامج التعليمي يحتوي أيضا على فيديو، فيجب عليك استخدام فئة دروس الفيديو بدلا من ذلك.",
+        "rule6": "يجب أن تكون مؤلف البرنامج التعليمي.",
+        "rule7": "إذا لم تنشر البرنامج التعليمي بأكمله هنا، يجب أن توفر روابط عامة إلى إصدارات كاملة منه.",
+        "rule8": "لا تنشر الدروس التي كنت قد شاركتها من قبل على بلوكشين ستيم بشكل عام."
       },
       "videotutorials": {
         "headline": "قواعد دروس الفيديو",
@@ -240,50 +240,50 @@
         "rule7": "لا تنشر أبدا أعمال كتابة حقوق التأليف والنشر التي شاركتها من قبل."
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
-        "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "headline": "قواعد مشاركة المدونة",
+        "rule1": "<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>مثال على تنسيق جيد</a>. يجب تقديم تنسيق أصلي. لا يمكنك النشر حول الأخبار الموجودة في الويب أو الأفكار العامة، إلا إذا كان لديك تنسيق فريد ومتسق.",
+        "rule2": "بشكل عام. <b>حركة المصدر المفتوح<b> أو <b>بالمشاريع المفتوحة المصدر<b> يمكنك كتابة مشاركات المدونة ذات الصلة",
+        "rule3": "يجب أن توفر مشاركات المدونة محتوى مفصل ونظرة عامة تتعلق بالمشاريع المفتوحة المصدر. ",
+        "rule4": "الصور، لقطات الشاشة، وصلات وأمثلة ليست ضرورية ولكن مفضلة.",
+        "rule5": "تحقق للتأكد من عدم ملائمة مشاركتك في فئات أخرى (مثل البرامج التعليمية أو كتابة النصوص).",
+        "rule6": "عدم كتابة مشاركات المدونة التي شاركتها من قبل.",
+        "rule7": "سنكون صارمين بشكل خاص لهذه الفئة كما رأينا سوء المعاملة هنا في الماضي."
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "المكافآت",
+    "pending": "قيد الانتظار",
+    "previous": "السابق",
+    "meet": "تعرف على المشرفين لدينا",
+    "text": "على يوتوبيان، يتم مكافأة جميع المساهمين على عملهم الشاق،  بما في ذلك المشرفين لدينا، الذين يتم ضمان معايير الجودة العالية على المنصة.",
+    "pending_payout": "في انتظار الدفع",
+    "previous_payout": "الدفع السابق",
+    "text2": "5٪ من إجمالي مكافآت المساهمين التي يتم استخراجها تذهب إلى المشرفين على أساس مقدار المساهمات التي راجعوها. لتصبح مشرفا  ليوتوبيان يجب أن تكون لديك سمعة عالية وكثيرا من المساهمات المقدمة والمقبولة."
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
+      "headline": "1. ما هو يوتوبيان؟",
       "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
+      "headline": "2. ما هو ستيم؟",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
+      "headline": "3. من أين تأتي المكافآت؟",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
-      "headline": "4. Where do I find my wallet?",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "headline": "4. أين أجد محفظتي؟",
+      "text": "<p>هناك قسم اسمه "المحفظة" حيث يمكنك أن ترى كم ستيم لديك ولها أيضا أدوات لنقله، من بين أمور أخرى. هناك تطبيق محفظة ستيم حاليا  للمحمول والتي يجري تطويرها من قبل شركة ستيميت وبمجرد أن تكون متاحة، سوف تكون أسهل طريقة لإدارة محفظة ستيم الخاص بك. <a href='https://steemit.com'>steemit.com</a> للاطلاع على رصيد حسابك والحصول على أموالك، ستحتاج إلى الانتقال إلى </p> <p>كل ستيم تكسب على يوتوبيان هو متاح في حسابك عندما يصل كل منشور تاريخ دفع مكافأته، وهو 7 أيام بعد نشره. في الوقت الحالي، تتوفر المكافآت لك لاسترداد رصيد حسابك</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
+      "headline": "5. كيف يمكنني سحب ستيم ؟",
       "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
+      "headline": "6. كيف يمكنني كسب المزيد من المكافآت؟",
       "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
     }
   },
