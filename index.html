@@ -6,11 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="assets/img/favicon.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="assets/css/iconfont.css"/>
-    <link rel="stylesheet" href="assets/css/slick.css"/>
-    <link rel="stylesheet" href="assets/css/slick-theme.css"/>
+    <link rel="stylesheet" href="assets/css/vendor.css"/>
     <link rel="stylesheet" href="assets/css/index.css"/>
 </head>
 <body data-spy="scroll" data-target="#navbar" data-offset="200">
@@ -42,10 +38,10 @@
                         <a class="nav-link smoothscroll" href="#moderators">{{ trans('messages.nav.moderators') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#faq">{{ trans('messages.nav.faq') }}</a>
+                        <a class="nav-link smoothscroll" href="#blog">{{ trans('messages.nav.blog') }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoothscroll" href="#blog">{{ trans('messages.nav.blog') }}</a>
+                        <a class="nav-link" href="https://github.com/imwatsi/utopian.io-help_center" target="_blank">{{ trans('messages.nav.help') }}</a>
                     </li>
                 </ul>
                 <div class="text-right">
@@ -60,12 +56,6 @@
                             </a>
                         </div>
                     </div>
-                    <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
-                        {{ trans('messages.nav.signup') }}
-                    </a>
-                    <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary font-weight-bold">
-                        {{ trans('messages.nav.login') }}
-                    </a>
                 </div>
             </div>
         </nav>
@@ -76,6 +66,14 @@
             <h3 class="text-white text-center" v-html="trans('messages.header.text1')"></h3>
             <h1 class="text-white text-center font-weight-bold text-uppercase" v-html="trans('messages.header.text2')"></h1>
             <h2 class="text-white text-center" v-html="trans('messages.header.text3')"></h2>
+            <div class="text-center my-5">
+                <a href="https://steemit.com/pick_account" class="btn btn-primary mr-2 font-weight-bold">
+                    {{ trans('messages.nav.signup') }}
+                </a>
+                <a href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=" class="btn btn-primary ml-2 font-weight-bold">
+                    {{ trans('messages.nav.login') }}
+                </a>
+            </div>
         </div>
         <div class="parallax-wave" id="wave-grey1"></div>
         <div class="parallax-wave" id="wave-grey2"></div>
@@ -730,80 +728,6 @@
         </div>
     </div>
 
-    <div id="faq">
-        <div class="header-small">
-            <h2><span>{{ trans('messages.nav.faq') }}</span></h2>
-        </div>
-        <div class="container">
-            <div id="faq-accordion" role="tablist">
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingOne">
-                        <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseOne" v-html="trans('messages.faq.q1.headline')"></a>
-                        </h5>
-                    </div>
-
-                    <div id="collapseOne" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body" v-html="trans('messages.faq.q1.text')"></div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingTwo">
-                        <h5 class="mb-0">
-                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseTwo" v-html="trans('messages.faq.q2.headline')"></a>
-                        </h5>
-                    </div>
-                    <div id="collapseTwo" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body" v-html="trans('messages.faq.q2.text')"></div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingThree">
-                        <h5 class="mb-0">
-                            <a class="list-item collapsed" data-toggle="collapse" href="#collapseThree" v-html="trans('messages.faq.q3.headline')"></a>
-                        </h5>
-                    </div>
-                    <div id="collapseThree" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body" v-html="trans('messages.faq.q3.text')"></div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingFour">
-                        <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseFour" v-html="trans('messages.faq.q4.headline')"></a>
-                        </h5>
-                    </div>
-
-                    <div id="collapseFour" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body" v-html="trans('messages.faq.q4.text')"></div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingFive">
-                        <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseFive" v-html="trans('messages.faq.q5.headline')"></a>
-                        </h5>
-                    </div>
-
-                    <div id="collapseFive" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body" v-html="trans('messages.faq.q5.text')"></div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingSix">
-                        <h5 class="mb-0">
-                            <a class="list-item" data-toggle="collapse" href="#collapseSix" v-html="trans('messages.faq.q6.headline')"></a>
-                        </h5>
-                    </div>
-
-                    <div id="collapseSix" class="collapse" data-parent="#faq-accordion">
-                        <div class="card-body" v-html="trans('messages.faq.q6.text')"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div id="blog">
         <div class="header-small">
             <h2><span>{{ trans('messages.nav.blog') }}</span></h2>
@@ -848,19 +772,7 @@
     </a>
 </template>
 
-<script src="https://cdn.steemjs.com/lib/latest/steem.min.js"></script>
-<script src="https://mktcode.github.io/steemit-widgets/assets/js/steemit-widgets.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
-
-<script type="text/javascript" src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="assets/js/TweenMax.min.js"></script>
-<script type="text/javascript" src="assets/js/TimelineMax.min.js"></script>
-<script type="text/javascript" src="assets/js/popper.min.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/vue.min.js"></script>
-<script type="text/javascript" src="assets/js/ScrollMagic.min.js"></script>
-<script type="text/javascript" src="assets/js/animation.gsap.min.js"></script>
-<script type="text/javascript" src="assets/js/slick.min.js"></script>
+<script type="text/javascript" src="assets/js/vendor.js"></script>
 <script type="text/javascript" src="dist/assets/js/index.js"></script>
 
 </body>

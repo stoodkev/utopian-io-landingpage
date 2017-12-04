@@ -1,35 +1,36 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
-    "faq": "FAQ",
-    "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "rewards": "المكافأت",
+    "rules": "القوانين",
+    "moderators": "المشرفين",
+    "faq": "الأسئلة الشائعة",
+    "help": "Help",
+    "blog": "مدونة",
+    "signup": "التسجيل",
+    "login": "تسجيل الدخول"
   },
   "header": {
-    "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text1": "المدينة الفاضلة",
+    "text2": "اقتصاد مفتوح المصدر",
+    "text3": "اكسب المكافآت بالمساهمة في المشاريع \"مفتوحة المصدر\" المفضلة الخاصة بك <br>!"
   },
   "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
+    "hi": "مرحبا! أنا أوكتوكات!",
     "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "visit": "زيارة GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "اختيار المشروع..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "والمساهمة!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "الإقتراحات",
+      "text": "كل شيء يبدأ بفكرة. شارك الأفكار الخاصة بك أو طلب اضافة ميزة طفيفة وساعد في تحسين مشروع."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
+      "headline": "المشاريع الفرعية",
       "text": "Share new and more elaborate features or concepts that you have developed for a project."
     },
     "development": {
@@ -45,7 +46,7 @@
       "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
-      "headline": "Graphics",
+      "headline": "الجرافيك",
       "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
     },
     "documentation": {
