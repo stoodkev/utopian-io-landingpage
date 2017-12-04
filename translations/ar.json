@@ -280,11 +280,11 @@
     },
     "q5": {
       "headline": "5. كيف يمكنني سحب ستيم ؟",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "text": "<p>المدمجة في واجهة محفظة ستيميت. ما عليك سوى النقر على رصيد ستيم وستظهر قائمة منسدلة. ثم انقر على "بيع" وسيتم نقلك إلى بلوكترادس. <a href='https://blocktrades.us/'>Blocktrades</a> أو يمكنك استخدام </p> <p>والتي هي أسهل للتبادل بالدولار مثلا <a href='https://bittrex.com/'>Bittrex</a> او <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a> عندما يكون لديك بعض ستيم في محفظتك، يمكنك نقله إلى تبادل العملات الإفتراضية الذي يدعم ستيم مثل</p>"
     },
     "q6": {
       "headline": "6. كيف يمكنني كسب المزيد من المكافآت؟",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "text": "<p>الجودة هي ما يهم أكثر على يوتوبيان. المجتمع يقدرالمساهمات المفيدة التي تحل المشاكل وتدفع المشاريع إلى الأمام، لذلك المساهمات ذات الجودة  هي التي ستحصل مكافأة. دائما  حافظ على تقديم أفضل لعملك هو أضمن طريقة لرفع رتبتك لكسب المزيد من مساهماتك. </p>"
     }
   },
   "blog": {
