@@ -4,7 +4,7 @@
     "rules": "Regeln",
     "moderators": "Moderatoren",
     "faq": "FAQ",
-    "help": "Help",
+    "help": "Hilfe",
     "blog": "Blog",
     "signup": "Registieren",
     "login": "Anmelden"
@@ -14,7 +14,7 @@
     "text2": "Open Source Ökonomie",
     "text3": "Leiste Beiträge zu Open Source Projekten<br>und werde dafür bezahlt."
   },
-  "intro": "Unsere moderne Welt wäre ohne <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet and all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
+  "intro": "Unsere moderne Welt wäre ohne <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet und all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source Software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
   "octocat": {
     "hi": "Hi! Ich bin Octocat!",
     "text": "Ich arbeite bei GitHub als Maskottchen und es ist wirklich großartig hier zu sein! Wir sind eine weltweit verteilte Gemeinschaft von freiwilligen Enthusiasten, die an tausenden von interessanten Projekten arbeiten. Dank <b>Utopian.io</b> wird nun jeder, der einen wertvollen Beitrag zu Open Source Projekten leistet, auch dafür bezahlt. Du kannst z.B. Fehlerberichte verfassen, Texte übersetzen, Dokumentationen und Tutorials schreiben oder einfach deine Ideen und Vorschläge mit der Community teilen.",
@@ -117,7 +117,7 @@
     "total_generated": "Insgesamt generiert",
     "steem": {
       "headline": "Wer bezahlt das Geld?",
-      "text": "Für die Bezahlung nutzt Utopian.io die <a href='https://steem.io/'>Steem Blockchain</a>. Das Geld wird durch Votings der Community in Form der Kryptowährung <b>STEEM</b> generiert. Niemand muss die ausgeschütteten Gelder direkt bezahlen. Sie werden durch den sogenannten <i>Proof-of-Brain</i> Algorithmus generiert und verteilt, welcher Menschen dazu ermutigt hochwertige Inhalte zu erstellen und zu bewerten.<br><br>Im Falle von Utopian.io sind diese hochwertigen Inhalte deine Beiträge zur Open Source Welt. In dem du Berichte über deine Arbeit schreibst, kann die Community durch Votings Geld generieren, um dich für deine Arbeit zu belohnen. Zusätzlich können Benutzer sich natürlich auch direkt mit STEEM bezahlen und feste Beträge für bestimmte Aufgaben ausschreiben.<br><br>Der Wert den jeder Nutzer durch seine Stimmabgabe generiert, hängt vom Investment in die Plattform ab. Verdiente oder gekaufte STEEM können in Einfluss umgewandelt werden, sogenannte STEEM POWER, um so den Wert der eigenen Stimme zu erhöhen. Fast <b>4 Millionen STEEM POWER</b> wurden bereits an die Utopian.io Plattform delegiert. Nach aktuellen Kursen entspricht dies einem maximalen Wert von ca. <b>350 USD</b> pro Voting entspricht.<br><br>In unserem <a href='#faq' class='smoothscroll'>FAQ</a> findest du weitere Informationen.",
+      "text": "Für die Bezahlung nutzt Utopian.io die <a href='https://steem.io/'>Steem Blockchain</a>. Das Geld wird durch Votings der Community in Form der Kryptowährung <b>STEEM</b> generiert. Niemand muss die ausgeschütteten Gelder direkt bezahlen. Sie werden durch den sogenannten <i>Proof-of-Brain</i> Algorithmus generiert und verteilt, welcher Menschen dazu ermutigt hochwertige Inhalte zu erstellen und zu bewerten.<br><br>Im Falle von Utopian.io sind diese hochwertigen Inhalte deine Beiträge zur Open Source Welt. In dem du Berichte über deine Arbeit schreibst, kann die Community durch Votings Geld generieren, um dich für deine Arbeit zu belohnen. Zusätzlich können Benutzer sich natürlich auch gegenseitig direkt mit STEEM bezahlen und feste Beträge für bestimmte Aufgaben ausschreiben.<br><br>Der Wert den jeder Nutzer durch seine Stimmabgabe generiert, hängt vom Investment in die Plattform ab. Verdiente oder gekaufte STEEM können in Einfluss umgewandelt werden, sogenannte STEEM POWER, um so den Wert der eigenen Stimme zu erhöhen. Fast <b>4 Millionen STEEM POWER</b> wurden bereits an die Utopian.io Plattform delegiert. Nach aktuellen Kursen entspricht dies einem maximalen Wert von ca. <b>350 USD</b> pro Voting entspricht.<br><br>In unserem <a href='#faq' class='smoothscroll'>FAQ</a> findest du weitere Informationen.",
       "button": "Lerne mehr über Steem"
     }
   },

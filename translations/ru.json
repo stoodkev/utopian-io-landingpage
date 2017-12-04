@@ -4,7 +4,7 @@
     "rules": "Правила",
     "moderators": "Модераторы",
     "faq": "Вопросы и ответы",
-    "help": "Help",
+    "help": "Помощь",
     "blog": "Блог",
     "signup": "Регистрация",
     "login": "Войти"
@@ -111,7 +111,7 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Награды за Вклад",
+    "contributor_rewards": "Вознаграждения за Вклад",
     "curator_rewards": "Кураторские вознаграждения",
     "pending_rewards": "Ожидаемые вознаграждения",
     "total_generated": "Всего создано",
@@ -154,11 +154,11 @@
         "rule6": "Never write about code contributions you have already shared before."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "Правила Поиска Ошибок",
+        "rule1": "Используйте эту категорию только для сообщения об ошибках, которые вы нашли в проекте с Открытым Кодом.",
+        "rule2": "Вы должны предоставить все возможные детали, необходимые для воспроизведения ошибки.",
+        "rule3": "Вы должны включить, например: используемые браузеры, типы устройств, операционных систем и аналогичные детали.",
+        "rule4": "Никогда не сообщайте об ошибках, которыми уже делились ранее вы или кто-либо другой."
       },
       "translation": {
         "headline": "Правила Переводов",
@@ -204,20 +204,20 @@
         "rule3": "Вы должны быть автором либо всей документации, либо изменений/улучшений применяемых к документации.",
         "rule4": "Только работа над Официальной Документацией проекта может публиковаться в этой категории. Для любой другой документации используйте категорию Учебники/Уроки.",
         "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "rule6": "Вы должны предоставить достаточные доказательства проведенной вами работы.",
+        "rule7": "Если применимо, укажите ссылки на pull requests, созданные вами на GitHub, которые содержат вашу работу.",
+        "rule8": "Никогда не публикуйте работу над документацией, которой вы уже делились ранее."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
-        "rule1": "Machine translated tutorials will be rejected.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
-        "rule3": "Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
-        "rule6": "You must be the author of the tutorial.",
-        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "headline": "Правила для Учебников/Пособий",
+        "rule1": "Автоматически переведенные учебники/пособия будут отклонены.",
+        "rule2": "Эта категория предназначена только для предоставления учебников/пособий по проектам с Открытым Кодом.",
+        "rule3": "Учебники/пособия могут быть на любом языке.",
+        "rule4": "Вводный текст на английском языке обязательно должен присутствовать в верхней части поста.",
+        "rule5": "Если ваш учебник/пособие содержит также видео, вам лучше использовать категорию Видео-Уроки.",
+        "rule6": "Вы должны быть автором учебника/пособия.",
+        "rule7": "Если вы публикуете здесь не весь учебник/руководство, необходимо предоставить публичные ссылки на его полную версию.",
+        "rule8": "Никогда не выкладывайте учебники/руководства, которыми вы уже делились ранее на Steem blockchain в целом."
       },
       "videotutorials": {
         "headline": "Video Tutorial Rules",

@@ -4,7 +4,7 @@
     "rules": "Kurallar",
     "moderators": "Moderatörler",
     "faq": "SSS",
-    "help": "Help",
+    "help": "Yardım",
     "blog": "Blog",
     "signup": "Kayıt ol",
     "login": "Giriş Yap"
@@ -176,34 +176,34 @@
         "rule1": "Eğer yapılan çalışmanın ödül alacak kadar yeterli olmadığına inanırsak, yapılan grafik katkısını reddetme hakkına sahibiz.",
         "rule2": "Bu kategoride, sadece açık kaynaklı bir proje için yaptığın simge, ikon, arkaplanlar, videolar gibi tasarımları gönderebilirsin.",
         "rule3": "Tasarımlarının tamamını göndermeden önce, tasarımlarının birkaç örneğini gönderine veya herkese açık bağlantılarda dahil etmen gerekir.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
+        "rule4": "Yaptığınız işi doğrulamak için olabildiğince çok ayrıntı vermelisiniz",
+        "rule5": "Düzenlenebilir kaynak dosyalarını (.psd .ai .eps .svg .cdr gibi) sağlamalısınız.",
         "rule6": "T-shirt'ler ve giyim ürünleri genelde hoş karşılanmaz, tabi proje sahibi tarafından istenmediyse.",
         "rule7": "Asla senin veya bir başkası tarafından paylaşılmış bir gönderiyi tekrar paylaşma."
       },
       "analysis": {
         "headline": "Analiz kuralları",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule1": "Bu kategori sadece bir açık kaynak proje için hazırladığınız analizler içindir.",
+        "rule2": "Detaylı sonuçları dahil etmeli ve bunların arkasındaki sebepleri açıklamalısınız.",
+        "rule3": "Eğer analizinizi bütünüyle burada paylaşmıyorsanız, tamamının bulunduğu sürümlere herkese açık bağlantılar sağlamalısınız.",
+        "rule4": "Bu kategoride analiz sonuçlarının tablo veya grafikler şeklinde paylaşılması zorunludur.",
+        "rule5": "Sizin tarafınızdan veya başkası tarafından önceden paylaşılmış analizleri asla paylaşmayınız."
       },
       "visibility": {
         "headline": "Görünürlük kuralları",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule1": "Bu kategoride, bir açık kaynak projenin görürlüğünü artırmak adına yaptığınız pazarlama çalışmalarının sonuçlarını paylaşınız; sosyal medya kampanyaları, reklam çalışmaları, konferans ve buluşmalar gibi.",
+        "rule2": "Çalışmalarınızın kanıtlarını içeren bağlantılar, resimler veya videolar sağlamalısınız ve ayrıca sonuçları da paylaşmalısınız.",
+        "rule3": "Eğer çalışmalarınız, açık kaynak projeye çok az veya sıfır yeni kullanıcı/katılımcı getirdiyse bunun hakkında yazmamalısınız.",
+        "rule4": "Kimliğinizi kanıtlamanız gerekmektedir. Eğer Utopian kullanıcı adınız projeyi pazarlamakta kullandığınız platformlardaki kullanıcı adınızla aynı değilse, bu platformlarda giriş yapılmış bir oturumun ekran görüntülerini paylaşmanız gerekir.",
+        "rule5": "Asla daha önceden paylaşmış olduğunuz görünürlük çalışmalarıyla ilgili yazı yazmayınız."
       },
       "documentation": {
         "headline": "Dökümantasyon kuralları",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
+        "rule1": "Yalnızca resmi depodaki birleştirilmiş 'Pull request'ler kabul edilecektir ya da forklarda, fork orijinalinin sadece bir kopyası olmadığı sürece. İş kanıtı gerekmektedir.",
+        "rule2": "Bu kategoriye sadece bir açık kaynak projenin resmi belgelerinde çalışma yapıyorsanız paylaşım yapınız.",
+        "rule3": "Ya bütün belgelerin ya da belgelere uygulanmakta olan değişiklik/geliştirmelerin yazarı olmalısınız.",
+        "rule4": "Bu kategoride sadece resmi proje belge çalışmaları paylaşılabilir. Diğer herhangi bir belge için Rehberler(Tutorials) kategorisini kullanınız.",
+        "rule5": "Eğer yazdığınız bütün içeriği paylaşmıyorsanız, yazınıza herkese açık bağlantılar sağlamalısınız.",
         "rule6": "Yaptığınız işe yeterli kanıt sağlamanız gerekmektedir.",
         "rule7": "Mümkünse, github'da işinizi gösteren çekme isteklerinize bağlantı verin.",
         "rule8": "Asla geçmişte paylaştığın bir dökümantasyonu tekrar gönderme."
@@ -231,23 +231,23 @@
       },
       "copywriting": {
         "headline": "Metin yazarlığı kuralları",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "Resmi depoda yalnızca birleştirilmiş 'Pull request'ler kabul edilecektir ya da forklarda, fork orijinalinin sadece bir kopyası olmadığı sürece. İş kanıtı gerekmektedir.",
         "rule2": "Açık kaynak projeye yaptığınız metin çalışmasını göstermek için bu kategoriyi kullanın.",
         "rule3": "Metin yazarlığı herhangi bir dilde olabilir.",
         "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmak zorundadır.",
         "rule5": "Sahibi siz olmalısınız.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
+        "rule6": "Varsa, GitHub'da gönderdiğiniz, çalışmanızı içeren 'pull request'lere bağlantı verin.",
         "rule7": "Daha önce paylaştığın hiçbir metin yazısını tekrar paylaşma."
       },
       "blog": {
         "headline": "Blog yazısı kuralları",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
+        "rule1": "Özgün bir formatınız olmalıdır. Özgün ve istikrarlı bir formatınız yoksa internette bulunan haberler ya da genel düşüncelerle ilgili paylaşım yapamazsınız.<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>İyi bir format örneği</a>.",
+        "rule2": "Sadece <b>açık-kaynak projeler</b> veya genel olarak <b>açık-kaynak hareketi</b> ile ilgili blog gönderileri yazabilirsiniz.",
+        "rule3": "Blog gönderileri, açık-kaynak projelerle ilgili detaylı içerik ve  genel bakışlar sağlamalıdır.",
         "rule4": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
+        "rule5": "Yazınızın diğer kategorilere girmediğinden emin olmak için kontrol edin(örn. Rehberler(tutorials) veya Metin yazarlığı(Copywriting)).",
         "rule6": "Daha önceden paylaştığın bir blog yazısını asla paylaşma.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule7": "Geçmişte kötüye kötüye kullanıldığını gördüğümüz için bu kategoride özellikle daha sıkı olacağız."
       }
     }
   },

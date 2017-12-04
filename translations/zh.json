@@ -4,13 +4,13 @@
     "rules": "规则",
     "moderators": "管理者",
     "faq": "常见问题",
-    "help": "Help",
+    "help": "帮助",
     "blog": "博客",
     "signup": "注册",
     "login": "登录"
   },
   "header": {
-    "text1": "乌托邦",
+    "text1": "Utopian.io",
     "text2": "开源经济",
     "text3": "获取奖励，只需向你<br>喜爱的开源项目贡献力量！"
   },
@@ -24,7 +24,7 @@
     "headline": "选择一个项目…"
   },
   "contribute": {
-    "headline": "…做出贡献！",
+    "headline": "…并做出贡献！",
     "suggestions": {
       "headline": "建议",
       "text": "一切从一个想法开始。分享你的想法或功能请求来帮助改进项目。"
