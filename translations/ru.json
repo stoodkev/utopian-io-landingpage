@@ -147,9 +147,9 @@
       "development": {
         "headline": "Правила Разработки",
         "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
+        "rule2": "В этой категории вы можете писать только в том случае, если вы разработали или внесли код в разработку проекта.",
+        "rule3": "Вы должны предоставить ссылки на ветки, вилки, основные пункты или запросы на присоединение (pull requests).",
+        "rule4": "Если ваше имя пользователя на Github не совпадает с именем пользователя на Utopian, вы должны доказать, что являетесь владельцем учетной записи, предоставив скриншот активной сессии на Github.",
         "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
         "rule6": "Never write about code contributions you have already shared before."
       },
