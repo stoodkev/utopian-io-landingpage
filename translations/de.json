@@ -6,7 +6,7 @@
     "faq": "FAQ",
     "help": "Hilfe",
     "blog": "Blog",
-    "signup": "Registieren",
+    "signup": "Registrieren",
     "login": "Anmelden"
   },
   "header": {
@@ -14,7 +14,7 @@
     "text2": "Open Source Ökonomie",
     "text3": "Leiste Beiträge zu Open Source Projekten<br>und werde dafür bezahlt."
   },
-  "intro": "Unsere moderne Welt wäre ohne <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet und all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source Software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
+  "intro": "Unsere moderne Welt wäre ohne <a href='https://de.wikipedia.org/wiki/Open_Source'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet und all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source Software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
   "octocat": {
     "hi": "Hi! Ich bin Octocat!",
     "text": "Ich arbeite bei GitHub als Maskottchen und es ist wirklich großartig hier zu sein! Wir sind eine weltweit verteilte Gemeinschaft von freiwilligen Enthusiasten, die an tausenden von interessanten Projekten arbeiten. Dank <b>Utopian.io</b> wird nun jeder, der einen wertvollen Beitrag zu Open Source Projekten leistet, auch dafür bezahlt. Du kannst z.B. Fehlerberichte verfassen, Texte übersetzen, Dokumentationen und Tutorials schreiben oder einfach deine Ideen und Vorschläge mit der Community teilen.",
@@ -201,33 +201,33 @@
         "headline": "Regeln für Dokumentation",
         "rule1": "Nur zusammengeführte Pull Request im offiziellen Repository des Projekts werden akzeptiert. Forks, die vom Original stark abweichen, sind ebenfalls gültig. Arbeitsnachweise sind zwingend erforderlich.",
         "rule2": "Schreibe in dieser Kategorie nur, wenn du an der offiziellen Dokumentation eines Open Source Projekts arbeitest.",
-        "rule3": "Du musst der Author der gesamten Dokumentation sein oder der Änderungen/Verbesserungen für die Dokumentation.",
-        "rule4": "In dieser Kategorie können nur offizielle Projekt-Dokumentationen eingereicht werden. Nutze die Tutorial Kategorie für alle anderen Dokumentationen.",
+        "rule3": "Du musst der Autor der gesamten Dokumentation sein oder der Änderungen/Verbesserungen für die Dokumentation.",
+        "rule4": "In dieser Kategorie können nur offizielle Projekt-Dokumentationen eingereicht werden. Nutze die Anleitungen Kategorie für alle anderen Dokumentationen.",
         "rule5": "Wenn du nicht den kompletten, von dir erstellten Inhalt in deinem Beitrag einfügst, musst du öffentliche Links zur vollständigen Dokumentation anfügen.",
         "rule6": "Du musst ausreichende Nachweise über deine Arbeit liefern.",
         "rule7": "Verlinke ggf. Pull Requests auf GitHub, die deine Arbeit enthalten.",
         "rule8": "Reiche nie Dokumentationen ein, die von dir oder anderen bereits veröffentlicht wurden."
       },
       "tutorials": {
-        "headline": "Regeln für Tutorials",
-        "rule1": "Maschinell übersetzte Tutorials werden abgelehnt.",
-        "rule2": "In dieser Kategorie können nur Tutorials für Open Source Projekte eingereicht werden.",
-        "rule3": "Tutorials können in jeder Sprache verfasst sein.",
+        "headline": "Regeln für Anleitungen",
+        "rule1": "Maschinell übersetzte Anleitungen werden abgelehnt.",
+        "rule2": "In dieser Kategorie können nur Anleitungen für Open Source Projekte eingereicht werden.",
+        "rule3": "Anleitungen können in jeder Sprache verfasst sein.",
         "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
-        "rule5": "Wenn dein Tutorial auch ein Video enthält, verwende stattdessen die Video-Tutorial Kategorie.",
-        "rule6": "Du musst der Author des Tutorials sein.",
-        "rule7": "Wenn du das vollständige Tutorial nicht in deinem Beitrag einfügst, musst du öffentliche Links zur vollständigen Version anfügen.",
-        "rule8": "Teile nie Tutorials, die von dir oder anderen bereits veröffenticht wurden."
+        "rule5": "Wenn deine Anleitung auch ein Video enthält, verwende stattdessen die Videoanleitungen Kategorie.",
+        "rule6": "Du musst der Autor der Anleitung sein.",
+        "rule7": "Wenn du die vollständige Anleitung nicht in deinem Beitrag einfügst, musst du öffentliche Links zur vollständigen Version anfügen.",
+        "rule8": "Teile nie Anleitungen, die von dir oder anderen bereits veröffenticht wurden."
       },
       "videotutorials": {
-        "headline": "Regeln für Video Tutorials",
-        "rule1": "Video-Tutorials mit maschineller Stimme werden abgelehnt.",
-        "rule2": "In dieser Kategorie können nur Video-Tutorials für Open Source Projekte eingereicht werden.",
-        "rule3": "Video Tutorials können in jeder Sprache erstellt werden.",
+        "headline": "Regeln für Videoanleitungen",
+        "rule1": "Videoanleitungen mit maschineller Stimme werden abgelehnt.",
+        "rule2": "In dieser Kategorie können nur Videoanleitungen für Open Source Projekte eingereicht werden.",
+        "rule3": "Videoanleitungen können in jeder Sprache erstellt werden.",
         "rule4": "Ein Text-Intro auf Englisch am Anfang deines Beitrags ist immer zwingend erforderlich.",
-        "rule5": "Du musst der Author des Video Tutorials sein.",
+        "rule5": "Du musst der Autor der Videoanleitung sein.",
         "rule6": "Du musst das Video direkt in deinem Beitrag einbetten. Zur Zeit sind nur YouTube-Videos möglich.",
-        "rule7": "Teile nie Video Tutorials, die von dir oder anderen bereits veröffenticht wurden."
+        "rule7": "Teile nie Videoanleitungen, die von dir oder anderen bereits veröffenticht wurden."
       },
       "copywriting": {
         "headline": "Regeln für Werbetexte",
