@@ -4,7 +4,7 @@
     "rules": "Правила",
     "moderators": "Модераторы",
     "faq": "Вопросы и ответы",
-    "help": "Help",
+    "help": "Помощь",
     "blog": "Блог",
     "signup": "Регистрация",
     "login": "Войти"
@@ -154,10 +154,10 @@
         "rule6": "Never write about code contributions you have already shared before."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
+        "headline": "Правила Поиска Ошибок",
+        "rule1": "Используйте эту категорию только для сообщения об ошибках, которые вы нашли в проекте с Открытым Кодом.",
+        "rule2": "Вы должны предоставить все возможные детали, необходимые для воспроизведения ошибки.",
+        "rule3": "Вы должны включить, например: используемые браузеры, типы устройств, операционных систем и аналогичные детали.",
         "rule4": "Never report bugs that have already been shared before, by you or someone else."
       },
       "translation": {
