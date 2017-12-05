@@ -39,7 +39,7 @@
     },
     "bughunting": {
       "headline": "Berburu bug",
-      "text": "Membantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan berbagi laporan rinci bug."
+      "text": "Membantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan berbagi laporan bug yang rinci."
     },
     "translation": {
       "headline": "Terjemahan",
@@ -47,7 +47,7 @@
     },
     "graphics": {
       "headline": "Grafis",
-      "text": "Berbagi asli logo, ikon, latar belakang dan grafis lain yang Anda dirancang untuk sebuah proyek."
+      "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah anda rancang untuk sebuah proyek."
     },
     "documentation": {
       "headline": "Dokumentasi",
@@ -59,7 +59,7 @@
     },
     "visibility": {
       "headline": "Visibilitas",
-      "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopis juga. Memberitahu masyarakat apa yang telah Anda lakukan untuk mempromosikan proyek sumber terbuka."
+      "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopian juga. Beritahu komunitas apa yang telah anda lakukan untuk mempromosikan proyek Open Source."
     },
     "tutorials": {
       "headline": "Tutorial",
