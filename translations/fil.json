@@ -215,12 +215,12 @@
         "rule3": "Ang pagtuturo ay maaaring nasa anumang wika.",
         "rule4": "Ang introduksyon ay laging kinakailangan na Ingles, sa itaas ng post.",
         "rule5": "Kung ang iyong pagtuturo ay may kalakip na vidyo, dapat ay Pagtuturo gamit ang vidyo na kategorya nalang ang gamitin mo.",
-        "rule6": "You must be the author of the tutorial.",
-        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "rule6": "Ikaw dapat ang may-akda ng pagtuturong ito.",
+        "rule7": "Kung hindi mo ilalagay ang kabuuan ng iyong pagtuturo dito, kailangan mong mag bigay ng pampublikong link ng iyong buong bersyon nito.",
+        "rule8": "Huwag kailanman mag po-post ng pagtuturo na naibahagi mo na noon sa steem blockchain sa pangkalahatan."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
+        "headline": "Patakaran sa paguturo gamit ang Vidyo",
         "rule1": "Video Tutorials using machine voice will be rejected.",
         "rule2": "This category is only for providing video tutorials for an Open Source project.",
         "rule3": "Video Tutorials can be in any language.",
