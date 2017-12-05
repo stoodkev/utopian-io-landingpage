@@ -210,11 +210,11 @@
       },
       "tutorials": {
         "headline": "Tutorial Rules",
-        "rule1": "Machine translated tutorials will be rejected.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
-        "rule3": "Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
+        "rule1": "Ang pagsalin ng tutorial gamit ang machine ay hindi matatangap.",
+        "rule2": "Ang kategoryang ito ay para lamang sa pag-tuturo ng isang Open Source na proyekto.",
+        "rule3": "Ang pagtuturo ay maaaring nasa anumang wika.",
+        "rule4": "Ang introduksyon ay laging kinakailangan na Ingles, sa itaas ng post.",
+        "rule5": "Kung ang iyong pagtuturo ay may kalakip na vidyo, dapat ay Pagtuturo gamit ang vidyo na kategorya nalang ang gamitin mo.",
         "rule6": "You must be the author of the tutorial.",
         "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
         "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
