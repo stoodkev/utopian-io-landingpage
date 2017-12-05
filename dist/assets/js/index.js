@@ -120,23 +120,30 @@ var app = new Vue({
     languages: [{
       code: 'en',
       label: 'English',
-      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/en.png'
+      flag: 'assets/img/flags/en.png'
     }, {
       code: 'zh',
       label: 'Chinese (simplified)',
-      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/zh-CN.png'
-    }, {
-      code: 'es',
-      label: 'Spanish',
-      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/es-ES.png'
-    }, {
-      code: 'id',
-      label: 'Indonesian',
-      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/id.png'
+      flag: 'assets/img/flags/zh.png'
+    },
+    // {
+    //   code: 'es',
+    //   label: 'Spanish',
+    //   flag: 'assets/img/flags/es.png'
+    // },
+    // {
+    //   code: 'id',
+    //   label: 'Indonesian',
+    //   flag: 'assets/img/flags/id.png'
+    // },
+    {
+      code: 'fr',
+      label: 'French',
+      flag: 'assets/img/flags/fr.png'
     }, {
       code: 'de',
       label: 'German',
-      flag: 'https://d2srrzh48sp2nh.cloudfront.net/6f27583f/images/flags/small/de.png'
+      flag: 'assets/img/flags/de.png'
     }],
     currentLang: {},
     messages: {},

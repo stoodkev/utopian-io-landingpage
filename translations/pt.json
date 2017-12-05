@@ -1,72 +1,73 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
+    "rewards": "Recompensas",
+    "rules": "Regras",
     "moderators": "Moderators",
     "faq": "FAQ",
+    "help": "Ajuda",
     "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "signup": "Cadastre-se",
+    "login": "Entrar"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "Economia Open Source",
+    "text3": "Ganhe recompensas por contribuir com seus<br>projetos Open Source favoritos!"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "Nosso mundo moderno é movido por software de <a href='https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto'>Codigo Aberto</a>. Ele é utilizado em cada computador, celular ou tablet e todos os seus aplicativos favoritos não funcionariam sem ele. Ele é desenvolvio sobretudo por voluntarios e hobbistas ao redor do mundo, estes seus amigos nerds que amam mais os seus computadores do que sair com você. Software de código aberto é gratuito, de propriedade comum e permite que qualquer um o use ou altere conforme suas necessidades. Ele baseia-se na inteligência coletiva ao invés de padrões impostos por superiores. Todo este trabalho é feito de graça! O Utopian, no entanto, recompensa todos aqueles que contribuirem com estes projetos, contanto que haja um certo padrão de qualidade.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "Olá! Eu me chamo Octocat!",
+    "text": "Eu trabalho no GitHub, como mascote! É um otimo lugar para se estar. Nós somos uma comunidade global de voluntarios e entusiastas, trabalhando juntos em milhares de projetos interessantes. O <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas ideas e muito mais.",
+    "visit": "Visite o GitHub"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Escolha um projeto..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...e comece a contribuir!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "Sugestões",
+      "text": "Tudo começa com uma ideia. Compartilhe suas ideias ou sugira novas funcionalidades e ajude a aprimorar um projeto existente."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "Subprojetos",
+      "text": "Compartilhe funcionalidades mais elaboradas ou novos conceitos que você desenvolveu para um projeto."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "Desenvolvimento",
+      "text": "Se você colocou a mão no código e enviou um pull request, compartilhe o seu trabalho com a comunidade do Utopian."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "Caça aos Bugs",
+      "text": "Ajude os desenvolvedores a achar e solucionar problemas em seus projetos compartilhando relatoriós completos e detalhados dos erros que você econtrou."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "Traduções",
+      "text": "Ajude as pessoas a usarem software em outras linguas traduzindo texto ou documentação através do <a href='https://crowdin.com/' target='_blank'>Crowdin</a> e outras ferramentas."
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "Designs",
+      "text": "Compartilhe logos, icones, backgrounds e outras artes originais que você criou para um projeto."
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "Documentação",
+      "text": "Se você escreveu documentação para um projeto (em qualquer lingua), você pode compartilhar ela com a comunidade."
     },
     "analysis": {
       "headline": "Analysis",
       "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "Visibilidade",
+      "text": "Campanhas de marketing também podem ser recompensadas através do Utopian. Conte para a comunidade o que você fez para promover um projeto Open Source."
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "Tuturiais",
+      "text": "Escreva tutoriais informativos e ajude outras pessoas a utilizar programas Open Source."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "Tuturias em Video",
+      "text": "Crie tuturiais em video para um projeto Open Source e ajude as pessoas as ensinando a utiliza-lo."
     },
     "copywriting": {
       "headline": "Copywriting",
@@ -74,27 +75,27 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "headline": "Utopian para os Donos de Projetos",
+    "text": "Com o Utopian.io, você pode fazer <b>anuncios</b> para o seu projeto e encontre rapidamente contribuidores de uma comunidade internacional de pessoas talentosas. Use o poder da inteligencia coletiva para desenvolver os seus projetos.",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "Pensadores",
+      "text": "Chame a atenção de grandes pensadores para o seu projeto, que poderão lhe ajudar a desenvolver ideias e solucionar problemas."
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "Desenvolvedores",
+      "text": "Consiga desenvolvedores talentosos para implementar novas funcionalidades ou corrigir bugs."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "Caçadores de Bugs",
+      "text": "Encoraje os usuarios a reportarem problemas ou os convide para utilizar novas funcionalidades que você esta desenvolvendo."
     },
     "translators": {
-      "headline": "Translators",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "headline": "Tradutores",
+      "text": "Alcance mais pessoas ao redor do mundo nomeando tradutores para tornar o seu projeto disponivel em diversas liguas."
     },
     "designers": {
       "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "text": "Consiga designers talentosos para criar artes únicas para o seu projeto ou sua marca."
     },
     "writers": {
       "headline": "Technical Writers",

@@ -4,9 +4,10 @@
     "rules": "Kurallar",
     "moderators": "Moderatörler",
     "faq": "SSS",
+    "help": "Yardım",
     "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "signup": "Kayıt ol",
+    "login": "Giriş Yap"
   },
   "header": {
     "text1": "Utopian.io",
@@ -65,7 +66,7 @@
       "text": "Diğer insanlara yardım etmek için, açık kaynak proje üstüne öğretici bir yazı hazırla."
     },
     "videotutorials": {
-      "headline": "Öğretici vidyolar",
+      "headline": "Video Öğreticiler",
       "text": "Açık kaynak proje üstünde 'Nasıl yaparım?' temelli bir video oluştur ve insanların öğrenip, nasıl kullanacağına yardımcı ol."
     },
     "copywriting": {
@@ -116,177 +117,177 @@
     "total_generated": "Toplam oluşturulan",
     "steem": {
       "headline": "Ödülleri ödeyen?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
+      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.<br><br> Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır. <br><br> Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına <b>3 milyondan daha fazla Steem Power</b> delege edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre <b>250 dolar</b>'dan daha fazla hale getirmiştir. <br><br> Daha fazla bilgi için <a href='#faq'>FAQ'ları inceleyiniz</a>.",
       "button": "Steem hakkında daha fazla"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
+    "step1": "Kurallarımıza <br> uyunuz!",
+    "step2": "Moderatörlerimiz tarafından<br> incelen!",
     "step3": "Utopian topluluğu tarafından oy al!",
     "step4": "7 gün sonra<br> ödemeni al!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "text": "Kaliteyi sağlamak için her katkı moderatörlerimizden biri tarafından kurallarımıza göre incelenir. Bu kurallara uymamak ya daha düşük ödüller almanıza ya da katkınızın kabul edilmesini tamamen durdurmaya sebep olacaktır. Ancak, katkınız kabul edilmezse, yine de Steem blockchain'inde paylaşılacak ve ödül kazanabilecektir. Bu durumda kendi başınızın çaresine bakmanız gerekecektir. Utopian gönderinize ödül de vermeyecektir paylaşmayacaktır da.",
     "categories": {
       "suggestions": {
         "headline": "Öneri kuralları",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
+        "rule1": "Öneriler, bir Açık Kaynak projede görmek isteyeceğiniz küçük özellikler/geliştirmelerdir.",
+        "rule2": "Öneriler, istenilen özelliklerin gerçekten yapılabilmesi için yeterince detay sunmalıdır.",
         "rule3": "Ekran paylaşımı, görüntüler ve link örnekleri bu kategoride her zaman hoş karşılanır.",
         "rule4": "Daha önceden paylaştığın veya başkası tarafından paylaşılan hiçbir öneri'yi tekrar paylaşma."
       },
       "subprojects": {
         "headline": "Alt proje kuralları",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
+        "rule1": "Bir Alt-Proje, projeye büyük bir etki sağlayacak yeni, görülmemiş özellikler dizisidir.",
+        "rule2": "Alt-Projeler, özelliklerin gerçekten yapılabilmesi için bu özelliklerin geniş kapsamlı detaylarını sağlamalıdır.",
+        "rule3": "Resimler, ekran görüntüleri, bağlantılar, akış grafikleri, maketler ve örnekler bu kategori için herzaman zorunludur.",
+        "rule4": "Bu kategoride içeriğin kalitesi, Utopian'da kabul edilmek için ana faktördür.",
+        "rule5": "Eğer düşüncenizin Alt-Proje olarak nitelendirilemeyeceğini düşünüyorsanız, bunun yerine Öneriler kategorisini kullanınız.",
         "rule6": "Daha önceden paylaştığın veya başkası tarafından paylaşılan hiçbir öneri'yi tekrar paylaşma."
       },
       "development": {
         "headline": "Geliştirici kuralları",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
+        "rule1": "Sadece birleştirilmiş (merged) 'Pull-request'ler kabul edilir ya da Utopian'da daha önce paylaşılmamış olan, sahip olduğunuz Açık Kaynak projeler, 'fork'lar, 'fork' saddece orijinalinin bir kopyası (mirror) olmadığı sürece dahildir. İş kanıtı gerekmektedir.",
+        "rule2": "Bu kategoride sadece, bir projenin gelişimine kod geliştirmiş veya katkıda bulunmuşsanız yazı paylaşabilirsiniz.",
+        "rule3": "'branch'lere, 'fork'lara, 'gist'lere ve 'pull request'lere bağlantı vermelisiniz.",
+        "rule4": "Eğer github hesabının kullanıcı adın ve utopian kullanıcı adın birbirinden farklıysa, bize github hesabını oturum açarak, ekran yakalama yöntemiyle kanıtlaman gerekir.",
+        "rule5": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
         "rule6": "Daha önceden paylaştığın veya başkası tarafından paylaşılan kod katkısını paylaşma."
       },
       "bughunting": {
         "headline": "Hata avlama kuralları",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "rule1": "Sadece açık kaynak projede bulduğun hataları raporlamak için bu kategoriyi kullan.",
+        "rule2": "Hatayı (bug) yeniden oluşturmak için gerekli olan, mümkün olan bütün detayları sağlamalısınız.",
+        "rule3": "Örnek olarak: kullanılan tarayıcılar, aygıt türleri, işletim sistemleri ve benzeri detayları dahil etmelisiniz.",
+        "rule4": "Başkası tarafından veya senin tarafından önceden paylaşılmış bir hata raporunu asla tekrar paylaşma."
       },
       "translation": {
         "headline": "Çeviri kuralları",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
+        "rule1": "Utopian'a çeviri göndermek için orta büyüklükte bir projenin en az %30'unu (500 - 1000 satır), büyük projelerin %10-15'ini (1000 satırdan fazla), küçük projelerin ise tamamını çevirmeniz gerekir (1 - 500 satır).",
+        "rule2": "Bu kategoriyi sadece çevirdiğiniz veya güncellediğiniz bir açık kaynaklı proje için kullanın.",
+        "rule3": "Çevrilmiş metnin tamamını gönderi içinde veya herkese açık bağlantılarla bulundurmalısın.",
+        "rule4": "Mümkün olduğunca detay ekleyin, ki çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
+        "rule5": "Tamamı çevrilen çeviriler her zaman tercih edilir. Eğer çevirinin bir kısmını çeviriyorsanız, tam çeviriyi değerlendirme hakkımızı saklı tutuyoruz.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule7": "Eğer kullanıcı adın CrowdIn veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
+        "rule8": "Başkası veya senin tarafından önceden gönderilmiş bir çeviriyi asla tekrar gönderme."
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "headline": "Grafik kuralları",
+        "rule1": "Eğer yapılan çalışmanın ödül alacak kadar yeterli olmadığına inanırsak, yapılan grafik katkısını reddetme hakkına sahibiz.",
+        "rule2": "Bu kategoride, sadece açık kaynaklı bir proje için yaptığın simge, ikon, arkaplanlar, videolar gibi tasarımları gönderebilirsin.",
+        "rule3": "Tasarımlarının tamamını göndermeden önce, tasarımlarının birkaç örneğini gönderine veya herkese açık bağlantılarda dahil etmen gerekir.",
+        "rule4": "Yaptığınız işi doğrulamak için olabildiğince çok ayrıntı vermelisiniz",
+        "rule5": "Düzenlenebilir kaynak dosyalarını (.psd .ai .eps .svg .cdr gibi) sağlamalısınız.",
+        "rule6": "T-shirt'ler ve giyim ürünleri genelde hoş karşılanmaz, tabi proje sahibi tarafından istenmediyse.",
+        "rule7": "Asla senin veya bir başkası tarafından paylaşılmış bir gönderiyi tekrar paylaşma."
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "headline": "Analiz kuralları",
+        "rule1": "Bu kategori sadece bir açık kaynak proje için hazırladığınız analizler içindir.",
+        "rule2": "Detaylı sonuçları dahil etmeli ve bunların arkasındaki sebepleri açıklamalısınız.",
+        "rule3": "Eğer analizinizi bütünüyle burada paylaşmıyorsanız, tamamının bulunduğu sürümlere herkese açık bağlantılar sağlamalısınız.",
+        "rule4": "Bu kategoride analiz sonuçlarının tablo veya grafikler şeklinde paylaşılması zorunludur.",
+        "rule5": "Sizin tarafınızdan veya başkası tarafından önceden paylaşılmış analizleri asla paylaşmayınız."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "headline": "Görünürlük kuralları",
+        "rule1": "Bu kategoride, bir açık kaynak projenin görürlüğünü artırmak adına yaptığınız pazarlama çalışmalarının sonuçlarını paylaşınız; sosyal medya kampanyaları, reklam çalışmaları, konferans ve buluşmalar gibi.",
+        "rule2": "Çalışmalarınızın kanıtlarını içeren bağlantılar, resimler veya videolar sağlamalısınız ve ayrıca sonuçları da paylaşmalısınız.",
+        "rule3": "Eğer çalışmalarınız, açık kaynak projeye çok az veya sıfır yeni kullanıcı/katılımcı getirdiyse bunun hakkında yazmamalısınız.",
+        "rule4": "Kimliğinizi kanıtlamanız gerekmektedir. Eğer Utopian kullanıcı adınız projeyi pazarlamakta kullandığınız platformlardaki kullanıcı adınızla aynı değilse, bu platformlarda giriş yapılmış bir oturumun ekran görüntülerini paylaşmanız gerekir.",
+        "rule5": "Asla daha önceden paylaşmış olduğunuz görünürlük çalışmalarıyla ilgili yazı yazmayınız."
       },
       "documentation": {
-        "headline": "Documentation Rules",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "headline": "Dökümantasyon kuralları",
+        "rule1": "Yalnızca resmi depodaki birleştirilmiş 'Pull request'ler kabul edilecektir ya da forklarda, fork orijinalinin sadece bir kopyası olmadığı sürece. İş kanıtı gerekmektedir.",
+        "rule2": "Bu kategoriye sadece bir açık kaynak projenin resmi belgelerinde çalışma yapıyorsanız paylaşım yapınız.",
+        "rule3": "Ya bütün belgelerin ya da belgelere uygulanmakta olan değişiklik/geliştirmelerin yazarı olmalısınız.",
+        "rule4": "Bu kategoride sadece resmi proje belge çalışmaları paylaşılabilir. Diğer herhangi bir belge için Rehberler(Tutorials) kategorisini kullanınız.",
+        "rule5": "Eğer yazdığınız bütün içeriği paylaşmıyorsanız, yazınıza herkese açık bağlantılar sağlamalısınız.",
+        "rule6": "Yaptığınız işe yeterli kanıt sağlamanız gerekmektedir.",
+        "rule7": "Mümkünse, github'da işinizi gösteren çekme isteklerinize bağlantı verin.",
+        "rule8": "Asla geçmişte paylaştığın bir dökümantasyonu tekrar gönderme."
       },
       "tutorials": {
         "headline": "Ders kuralları",
-        "rule1": "Machine translated tutorials will be rejected.",
-        "rule2": "This category is only for providing tutorials for an Open Source project.",
+        "rule1": "Makina çevirisine sahip dersler reddedilecektir.",
+        "rule2": "Bu kategori, sadece açık kaynak projelere öğretici yazılar hazırlamak içindir.",
         "rule3": "Dersler herhangi bir dilde olabilir.",
-        "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmalı.",
-        "rule5": "If your tutorial also contains a video, you should use the Video Tutorials category instead.",
+        "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmalıdır.",
+        "rule5": "Eğer öğretici yazınız vidyo içeriyorsa, öğretici vidyolar kategorisini kullanmalısınız.",
         "rule6": "Dersin sahibi sen olmak zorundasın.",
-        "rule7": "If you are not posting the entire tutorial here, you must provide public links to full versions of it.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "rule7": "Bütün dersi buraya girmiyorsanız, tüm içeriği sağlayan herkese açık bir adresi bize sunmanız gerekmektedir.",
+        "rule8": "Steem zincirbloğunda daha önceden paylaştığınız bir öğretici yazıyı, asla tekrar paylaşmayın."
       },
       "videotutorials": {
         "headline": "Öğretici vidyo kuralları",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "rule1": "Makina sesleri kullanan öğretici vidyolar reddedilecektir.",
+        "rule2": "Bu kategori, sadece açık kaynak projelere öğretici vidyolar hazırlamak içindir.",
+        "rule3": "Öğretici vidyolar herhangi bir dilde olabilir.",
+        "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmalıdır.",
+        "rule5": "Öğretici vidyo'nun sahibi sen olmak zorundasın.",
+        "rule6": "Vidyo'yu gönderinin içine gömmeniz gerekir. Bu sıralar youtube vidyoları zorunludur.",
+        "rule7": "Steem zincirbloğunda daha önceden paylaştığınız bir öğretici vidyoyu, asla tekrar paylaşmayın."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "headline": "Metin yazarlığı kuralları",
+        "rule1": "Resmi depoda yalnızca birleştirilmiş 'Pull request'ler kabul edilecektir ya da forklarda, fork orijinalinin sadece bir kopyası olmadığı sürece. İş kanıtı gerekmektedir.",
+        "rule2": "Açık kaynak projeye yaptığınız metin çalışmasını göstermek için bu kategoriyi kullanın.",
+        "rule3": "Metin yazarlığı herhangi bir dilde olabilir.",
+        "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmak zorundadır.",
+        "rule5": "Sahibi siz olmalısınız.",
+        "rule6": "Varsa, GitHub'da gönderdiğiniz, çalışmanızı içeren 'pull request'lere bağlantı verin.",
+        "rule7": "Daha önce paylaştığın hiçbir metin yazısını tekrar paylaşma."
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
-        "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "headline": "Blog yazısı kuralları",
+        "rule1": "Özgün bir formatınız olmalıdır. Özgün ve istikrarlı bir formatınız yoksa internette bulunan haberler ya da genel düşüncelerle ilgili paylaşım yapamazsınız.<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>İyi bir format örneği</a>.",
+        "rule2": "Sadece <b>açık-kaynak projeler</b> veya genel olarak <b>açık-kaynak hareketi</b> ile ilgili blog gönderileri yazabilirsiniz.",
+        "rule3": "Blog gönderileri, açık-kaynak projelerle ilgili detaylı içerik ve  genel bakışlar sağlamalıdır.",
+        "rule4": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
+        "rule5": "Yazınızın diğer kategorilere girmediğinden emin olmak için kontrol edin(örn. Rehberler(tutorials) veya Metin yazarlığı(Copywriting)).",
+        "rule6": "Daha önceden paylaştığın bir blog yazısını asla paylaşma.",
+        "rule7": "Geçmişte kötüye kötüye kullanıldığını gördüğümüz için bu kategoride özellikle daha sıkı olacağız."
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
+    "rewards": "Ödüller",
+    "pending": "Bekleyen",
+    "previous": "Önceki",
+    "meet": "Moderatörlerimizle tanış",
+    "text": "Utopian'da tüm destekçiler sıkı çalışmalarının karşılığında ödüllendirilir, buna moderatörlerimiz dahil platformu yüksek standartlarda tutan kimselerdir.",
+    "pending_payout": "Bekleyen ödeme",
+    "previous_payout": "Önceki ödeme",
     "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
+      "headline": "1. Utopian nedir?",
       "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
+      "headline": "2. Steem nedir?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
+      "headline": "3. Ödüller nereden geliyor?",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
-      "headline": "4. Where do I find my wallet?",
+      "headline": "Cüzdanımı nerede bulabilirim?",
       "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "5. STEEM'imi nasıl nakite çeviririm?",
+      "text": "<p>Cüzdanında biraz STEEM olunca, <a href='https://poloniex.com/'>Poloniex</a> veya <a href='https://bittrex.com/'>Bittrex</a> gibi sitelerden STEEM tarzı sanal para birimlerini destekleyen sitelere transfer ederek Bitcoin veya Ethereum'a çevirebilirsin, ki nakite çevrilmesi daha kolaydır (örneğin Amerikan Doları)</p><p>Yada Steemit Cüzdan arayüzüne uyumlu <a href='https://blocktrades.us/'>Blocktrades'i</a> kullanabilirsin. Sadece STEEM Bakiyene tıkla ve çıkan menüden “Sat” Tuşuna basarak Blocktrades'e yönlendirilirsin.</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "headline": "Nasıl daha çok ödül kazanabilirim?",
+      "text": "Utopian'da kalite çok büyük öneme sahip. Topluluk, projeleri ileriye taşıyabilecek ve sorunları çözecek her türlü işe yaran katkıya değer verir. Katkılar farkedilecek ve ödüllendirilecektir. Her zaman en iyi çalışmanızı sunmak, kazancınızı arttırmak için en iyi yoldur"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "daha fazlasını steemit.com'da oku"
   }
 }

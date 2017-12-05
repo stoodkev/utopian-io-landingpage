@@ -4,6 +4,7 @@
     "rules": "नियम",
     "moderators": "मध्यस्थ",
     "faq": "सामान्य प्रश्न",
+    "help": "Help",
     "blog": "ब्लॉग",
     "signup": "सिग्न उप",
     "login": "लोग इन"
@@ -89,7 +90,7 @@
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "अनुवादक",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
