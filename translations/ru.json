@@ -230,14 +230,14 @@
         "rule7": "Никогда не выкладывайте видео-уроки, которыми вы уже делились ранее на Steem blockchain в целом."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
+        "headline": "Правила Копирайтинга",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "rule2": "Используйте эту категорию только чтобы показать работу по Копирайтингу, которую вы выполнили для проекта с открытым кодом.",
+        "rule3": "Копирайтинг может быть на любом языке.",
+        "rule4": "Вводный текст на английском языке обязательно должен присутствовать в начале поста.",
+        "rule5": "Вы должны быть автором.",
+        "rule6": "Если применимо, укажите ссылки к запросам на присоединение (pull requests), созданным вами на GitHub, которые содержат вашу работу.",
+        "rule7": "Никогда не публикуйте работу по Копирайтингу, которой вы уже делились ранее."
       },
       "blog": {
         "headline": "Правила Статей Блога",
