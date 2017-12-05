@@ -14,9 +14,9 @@
     "text2": "Open Source na ekonomiya",
     "text3": "Kumita ng mga gantimpala sa pag a-ambag sa iyong <br>paboritong Open Source na proyekto!"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "Ang ating Modernong Mundo ay pinatatakbo ng <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> na Software. Ito ay gumagana sa lahat ng kompyuter, lahat ng smartphone o tablet at lahat ng iyong paboritong mga app ay hindi gagana ng wala ang mga ito. ito ay pangunahing binuo ng mga boluntaryo at ng mga naglilibang sa buong mundo, yung mga kaibigan mong mas gutso pang kasama ang kompyuter nya kesa makita ang mukha mo at makasama ka. Ang Open source na software ay libre at karaniwan ang katangian at hinahayaan ang lahat na gamitin at baguhin ito ayon sa kanilang pangangailangann. Ito ay dumidepende sa sama-samang kaalaman kesa sa pamantayan ng nakakataas. Ang lahat ng gawang ito ay nagawa ng libre! Gayunpaman ang Utopian ay binibigyan ng pabuya sa sino mang mag-aambag sa mga proyekto, hanggat ang mga kalidad na nasa pamantayan ay maibibigay.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
+    "hi": "Hay! Ako si Octocat!",
     "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
     "visit": "Visit GitHub.com!"
   },
