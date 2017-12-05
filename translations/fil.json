@@ -17,17 +17,17 @@
   "intro": "Ang ating Modernong Mundo ay pinatatakbo ng <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> na Software. Ito ay gumagana sa lahat ng kompyuter, lahat ng smartphone o tablet at lahat ng iyong paboritong mga app ay hindi gagana ng wala ang mga ito. ito ay pangunahing binuo ng mga boluntaryo at ng mga naglilibang sa buong mundo, yung mga kaibigan mong mas gutso pang kasama ang kompyuter nya kesa makita ang mukha mo at makasama ka. Ang Open source na software ay libre at karaniwan ang katangian at hinahayaan ang lahat na gamitin at baguhin ito ayon sa kanilang pangangailangann. Ito ay dumidepende sa sama-samang kaalaman kesa sa pamantayan ng nakakataas. Ang lahat ng gawang ito ay nagawa ng libre! Gayunpaman ang Utopian ay binibigyan ng pabuya sa sino mang mag-aambag sa mga proyekto, hanggat ang mga kalidad na nasa pamantayan ay maibibigay.",
   "octocat": {
     "hi": "Hay! Ako si Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "text": "Ako ay nagtatrabaho sa GitHub, bilang isang Maskot! Napaka ganda ng lugar na ito. Kami ay sumasaklaw na mundo ng mga entusyastiko at boluntaryong komunidad, magakasamang nagtatrabaho sa libo-libong astig na mga proyekto. Ang <b>Utopian.io</b> ay gagantimpalaan ka sa pag gawa mo ng kontrobusyon sa Open Source na mga proyekto, tulad ng pag aayos ng mga bug, pag ta-translate ng mga text, pag susulat ng dokyumentasyon o pag babahagi ng magagandang ideya at marami pa.",
+    "visit": "Bisitahin ang GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Pumili ng proyekto..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...at mag kontribyut!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "Mga mungkahi",
+      "text": "Lahat ay nagsisimula sa ideya. Ibahagi ang iyong ideya o menor na kahilingan para sa tampok at tumulong sa pagpapabuti ng proyekto."
     },
     "subprojects": {
       "headline": "Sub-Projects",
