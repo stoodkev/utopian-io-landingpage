@@ -117,15 +117,15 @@
     "total_generated": "Kabuuang halaga na nalikha",
     "steem": {
       "headline": "Sino ang magbabayad ng mga gantimpala?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "text": "Para mabayadan ang mga gantimpala, Ang Utopian.io ay gumagamit ng <a href='https://steem.io/'>Steem blockchain</a>. Ang pera ay ginagawa sa pamamagitan ng isang cryptocurrency na tinatawag na <b>STEEM</b>, sa pamamagitan ng boto ng komunidad. Walang sinuman ang mag babayad ng gantimpala ng direkta. Sila ay ginagawa at ipinamamahagi gamit ang algoritmo na tinatawag na <i>Proof-of-Brain</i>, na hinihikayat ang tao na gumawa at mag curate ng kalidad na nilalaman.<br><br>Sa case ng Utopian.io, ang kontribusyon mo sa Open Source na mundo ay ang kalidad na nilalaman. ang mga tao ay maari ring piliin ang mag bayad ng direkta gamit ang kanilang STEEM, kung gusto nila, subalit ito ay hindi sapilitan.<br><br>Ang halaga ng boto ng isang user ay naka base sa kanyang sariling puhunan sa plataporma at kung mas malaki ang kanilang tinaya, mas malaki ang halaga ng kanilang boto kapag sila ay bumoboto. Ang Utopian.io mismo ay maaring iboto ang iyong kontribusyon. Mahigit <b>3 na milyon ang Steem Power</b> ang inihandog sa plataporma ng Utopian.io na account, dahilan para maging mahigit <b>$250</b>, sa kasalukuyang presyo sa market.<br><br><a href='#faq'>I-check ang FAQ</a> para sa masmarami pang impormasyon.",
+      "button": "Para matuto ng higit pa tungkol sa Steem"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
-    "step3": "Get upvoted by Utopian.io and the community!",
-    "step4": "Get paid<br>after 7 days!",
+    "step1": "Sumunod sa<br>aming patakaran!",
+    "step2": "Hayaang masuri ng aming<br>Mga Moderator!",
+    "step3": "Makakuha ng upvote mula sa Utopian.io at sa komunidad!",
+    "step4": "Mabayadan<br>pagkalipas ng 7 na mga araw!",
     "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
     "categories": {
       "suggestions": {
