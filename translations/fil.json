@@ -26,28 +26,28 @@
   "contribute": {
     "headline": "...at mag kontribyut!",
     "suggestions": {
-      "headline": "Mga mungkahi",
+      "headline": "Suggestions",
       "text": "Lahat ay nagsisimula sa ideya. Ibahagi ang iyong ideya o menor na kahilingan para sa tampok at tumulong sa pagpapabuti ng proyekto."
     },
     "subprojects": {
       "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "text": "Magbahagi nang bago at mas detalyadong feature o konsepto na iyong binuo para sa isang proyekto."
     },
     "development": {
       "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "text": "Kung ikaw ay sumulat ng code at gumawa ng mga pull request, ibahagi ang iyong mga ginawa sa komunidad ng Utopian."
     },
     "bughunting": {
       "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "text": "Tulungan ang mga developer na humanap at mag ayos ng mga problema sa kanilang software sa pamamagitan ng detalyadong mga bug report."
     },
     "translation": {
       "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "text": "Tulungan ang mga tao para magamit sa ibang mga wika ang software sa pamamagitan ng pagsasalin o pag dodokumentasyon sa pamamagitan ng <a href='https://crowdin.com/' target='_blank'>Crowdin</a> at iba pang mga kagamitan."
     },
     "graphics": {
       "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "text": "Magbahagi na orihinal na mga logo, mga icon, mga background at iba pang mga graphic na ikaw ang nag desenyo para sa proyekto."
     },
     "documentation": {
       "headline": "Documentation",
