@@ -137,15 +137,15 @@
       },
       "subprojects": {
         "headline": "Mga patakaran ng mga Sub-project",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "rule1": "Ang Mga sub-project ay isang set ng bago, hindi pa nakikitang tampok na makakapag bigay ng malaking epekto sa isang proyekto.",
+        "rule2": "Ang mga sub-project ay kinakailangan mag bigay ng komprehiensibong detalye sa mga tampok na talagang itatayo.",
+        "rule3": "Mga Imahe, mga screenshot, mga link mga flow, mga mockup at mga halimbawa ay laging kinakailangan sa kategoryang ito.",
+        "rule4": "Sa kategoryang ito, ang kalidad ng nilalaman ay siyang pinakang salik para maging katangap-tanggap sa Utopian.",
+        "rule5": "Kung naniniwala ka na ang iyong ideya ay hindi papasa bilang Sub-project, gamitin nalamang ang Mga mungkahi na kategorya.",
+        "rule6": "Huwag susulat ng tungkol sa mga proyekto na naisulat mo na nuon o mga proyekto na naisulat na ng iba."
       },
       "development": {
-        "headline": "Development Rules",
+        "headline": "Mga patakaran sa development",
         "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
