@@ -205,7 +205,7 @@
         "rule4": "Только работа над Официальной Документацией проекта может публиковаться в этой категории. Для любой другой документации используйте категорию Учебники/Пособия.",
         "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
         "rule6": "Вы должны предоставить достаточные доказательства проведенной вами работы.",
-        "rule7": "Если применимо, укажите ссылки на pull requests, созданные вами на GitHub, которые содержат вашу работу.",
+        "rule7": "Если применимо, укажите ссылки к запросам на присоединение (pull requests), созданным вами на GitHub, которые содержат вашу работу.",
         "rule8": "Никогда не публикуйте работу над документацией, которой вы уже делились ранее."
       },
       "tutorials": {
@@ -240,14 +240,14 @@
         "rule7": "Never post copywriting work that you have already shared before."
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
+        "headline": "Правила Статей Блога",
+        "rule1": "Вы должны предоставить оригинальный формат. Вы не можете писать о новостях, найденных в сети, или общих мыслях, если только у вас нет уникального и согласованного формата. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'> Пример хорошего формата</a>.",
+        "rule2": "Вы можете писать сюда только статьи блога, посвященные <b>проектам с открытым исходным кодом</b> или <b>движению открытого исходного кода</b> в целом.",
+        "rule3": "Статьи блога должны предоставлять подробные материалы и обзоры, связанные с проектами с открытым исходным кодом.",
         "rule4": "Фотографии, скриншоты, ссылки и примеры являются не обязательными, но желательными.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule5": "Проверьте, чтобы убедиться, что ваш пост не подходит в другие категории (например, Учебники или Копирайтинг).",
+        "rule6": "Никогда не пишите статьи блога, которые вы уже выкладывали раньше.",
+        "rule7": "Мы будем особенно строгими в этой категории, поскольку видели здесь злоупотребления в прошлом."
       }
     }
   },
