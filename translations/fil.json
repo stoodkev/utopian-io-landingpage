@@ -76,25 +76,25 @@
   },
   "crowdsourcing": {
     "headline": "Utopian para sa mga May-ari ng Proyekto",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "text": "Sa Utipian.io, maaari kang gumawa ng <b>anunsyo</b> para sa iyong proyekto at mabilis na mapagbuha ng madami mula sa internasyonal na magkakasamang talento. Kuhain ang atensyon ng mga mahahalagang kontribyutor at gamitin ang kapangyarihan ng pinagsamang kaalaman para paunlarin ang iyong proyekto.",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "Mga Magiisip",
+      "text": "Kuhain ang atensyon ng magagaling na tagapagisip para sa iyong proyekto upang paunlarin ang mga ideya at resulbahan ang mga problema."
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "Mga developer",
+      "text": "Tumawag sa mga mahuhusay na developer para magsulat ng code o mag ayos ng mga bug."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "Mga bug hunter",
+      "text": "Hikayatin ang mga gumagami para mag report ng mga problema o imbitahin sila para subukan ang mga bagong feature na iyong dini-develop."
     },
     "translators": {
-      "headline": "Translators",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "headline": "Mga tagasalin",
+      "text": "Umabot ng maraming tao sa buong mundo sa pamamagitan ng pag-atas ng tagapagsalin para maaring magamit ang iyong proyekto sa ibat ibang lengwahe."
     },
     "designers": {
-      "headline": "Designers",
+      "headline": "Mga designer",
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
