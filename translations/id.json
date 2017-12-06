@@ -168,31 +168,31 @@
         "rule4": "Mencakup sedetail mungkin, untuk memeriksa terjemahan dan alat-alat yang telah anda gunakan untuk terjemahan.",
         "rule5": "Seluruh terjemahan selalu diutamakan. Jika Anda menulis tentang Terjemahan parsial, kami berhak untuk mengevaluasi pekerjaan yang sebenarnya.",
         "rule6": "Anda harus menjadi penulis terjemahan dan memberikan cara untuk verifikasi pekerjaan Anda.",
-        "rule7": "Jika nama pengguna Anda pada CrowdIn atau serupa platform terjemahan tidak sama dengan username yang utopis, Anda harus membuktikan bahwa Anda memiliki account dengan menyediakan screenshot dari sesi login pada platform terjemahan tersebut.",
+        "rule7": "Jika nama pengguna Anda di Crowdin atau platform penerjemahan serupa tidak sama dengan nama pengguna Utopian Anda, Anda harus membuktikan bahwa Anda memiliki akun tersebut dengan memberikan tangkapan layar sesi masuk pada platform terjemahan tersebut.",
         "rule8": "Jangan pernah memasukan terjemahan yang sudah dibagikan sebelumnya, dari kamu atau orang lain."
       },
       "graphics": {
         "headline": "Peraturan Grafis",
-        "rule1": "Kami berhak untuk menolak kontribusi grafis jika kita percaya kerja tidak cukup dihargai.",
-        "rule2": "Dalam kategori ini, hanya menyerahkan grafis seperti logo, ikon, latar belakang, video atau animasi yang telah Anda buat untuk sebuah proyek Open Source.",
-        "rule3": "Anda harus menyertakan contoh kreasi Anda langsung di posting Anda dan umum link ke desain lengkap.",
+        "rule1": "Kami berhak untuk menolak kontribusi grafis jika kita percaya pekerjaan tidak cukup untuk dihargai.",
+        "rule2": "Dalam kategori ini, hanya memasukan grafis seperti logo, ikon, latar belakang, video atau animasi yang telah Anda buat pada sebuah proyek Open Source.",
+        "rule3": "Anda harus menyertakan contoh kreasi Anda langsung di posting Anda dan tautan umum ke desain lengkap.",
         "rule4": "Anda harus memberikan sedetail mungkin untuk memverifikasi pekerjaan yang Anda lakukan.",
-        "rule5": "Anda harus memberikan file sumber diedit (seperti .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirt dan merchandising desain secara umum yang tidak selamat datang, kecuali secara eksplisit diminta oleh pemilik proyek.",
+        "rule5": "Anda harus memberikan file sumber editan (seperti .psd .ai .eps .svg .cdr).",
+        "rule6": "Kaos dan desain merchandise pada umumnya tidak diterima, kecuali jika diminta secara eksplisit oleh pemilik proyek.",
         "rule7": "Jangan pernah post tentang grafis yang sudah dibagikan sebelumnya, dari kamu atau orang lain."
       },
       "analysis": {
         "headline": "Peraturan Analisis",
-        "rule1": "Kategori ini adalah hanya untuk analisis yang sudah disediakan untuk sebuah proyek Open Source.",
-        "rule2": "Anda harus termasuk hasil rinci dan menjelaskan alasan di balik mereka.",
-        "rule3": "Jika Anda tidak posting analisis Anda secara keseluruhan di sini, Anda harus menyediakan umum link ke versi lengkap dari itu.",
+        "rule1": "Kategori ini adalah hanya untuk analisis yang sudah anda sediakan untuk sebuah proyek Open Source.",
+        "rule2": "Anda harus menyertakan hasil terperinci dan menjelaskan alasan di balik mereka.",
+        "rule3": "Jika anda tidak posting analisis anda secara keseluruhan di sini, Anda harus menyediakan tautan umum ke versi lengkap dari itu.",
         "rule4": "Hasil analisis, dalam bentuk grafik atau tabel, wajib dalam kategori ini.",
-        "rule5": "Tidak pernah mengirim analisis yang telah dibagi sebelumnya, oleh Anda atau orang lain."
+        "rule5": "Jangan pernah mengirim analisis yang telah dibagi sebelumnya, dari Anda atau orang lain."
       },
       "visibility": {
         "headline": "Peraturan Visibilitas",
-        "rule1": "Dalam kategori ini, menyerahkan hasil usaha pemasaran yang Anda buat untuk meningkatkan visibilitas proyek sumber terbuka; seperti kampanye media sosial, iklan, konferensi atau meetups.",
-        "rule2": "Anda harus memberikan link, gambar atau video dengan bukti usaha Anda, dan juga berbagi hasil.",
+        "rule1": "Dalam kategori ini, memasukan hasil usaha pemasaran yang anda buat untuk meningkatkan visibilitas proyek Open Source; seperti kampanye media sosial, iklan, konferensi atau pertemuan.",
+        "rule2": "Anda harus menyertakan tautan, gambar atau video dengan bukti usaha Anda, dan juga berbagi hasil.",
         "rule3": "Jika usaha Anda membawa hanya beberapa atau nol baru pengguna/kontributor untuk proyek Open Source, Anda tidak harus menulis tentang hal itu.",
         "rule4": "Anda harus membuktikan identitas Anda. Jika username utopis tidak sama dengan nama pada platform Anda digunakan untuk pemasaran proyek, Anda harus menyediakan screenshot dari sesi login pada platform ini.",
         "rule5": "Jangan pernah menulis tentang usaha visibilitas yang sudah dibagikan sebelumnya."
