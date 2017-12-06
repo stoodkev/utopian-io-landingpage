@@ -95,14 +95,14 @@
     },
     "designers": {
       "headline": "Desainer",
-      "text": "Memiliki desainer berbakat yang membuat unik grafis untuk proyek atau merek Anda."
+      "text": "Memiliki desainer berbakat yang membuat grafis unik untuk proyek atau merek Anda."
     },
     "writers": {
-      "headline": "Penulis teknis",
-      "text": "Mendapatkan dokumentasi yang komprehensif yang dibuat untuk proyek Anda yang benar menginformasikan pengguna dan pemangku kepentingan lainnya."
+      "headline": "Penulis Teknis",
+      "text": "Dapatkan dokumentasi komprehensif yang dibuat untuk proyek anda yang menginformasikan pengguna dan pemangku kepentingan Anda dengan benar."
     },
     "analysts": {
-      "headline": "Data analis",
+      "headline": "Data Analisis",
       "text": "Ekstrak makna dari data yang dihasilkan, menemukan tren dan membuat keputusan mengenai proyek Anda melalui bantuan data analis."
     },
     "influencers": {
@@ -217,10 +217,10 @@
         "rule5": "Jika tutorial ini juga berisi video, Anda harus menggunakan kategori Video Tutorial.",
         "rule6": "Anda harus menjadi penulis tutorial.",
         "rule7": "Jika Anda tidak posting seluruh tutorial di sini, Anda harus menyediakan umum link ke versi lengkap dari itu.",
-        "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
+        "rule8": "Jangan pernah post tutorial yang sudah kamu bagikan pada steem blockchain secara umum."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
+        "headline": "Peraturan Video Tutorial",
         "rule1": "Video tutorial menggunakan mesin suara akan ditolak.",
         "rule2": "Kategori ini adalah hanya untuk menyediakan video tutorial untuk sebuah proyek Open Source.",
         "rule3": "Tutorial video dapat dalam bahasa apapun.",
@@ -230,7 +230,7 @@
         "rule7": "Pernah posting video tutorial Anda telah berbagi sebelum pada Steem blockchain secara umum."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
+        "headline": "Peraturan Copywriting",
         "rule1": "Hanya bergabung menarik permintaan akan diterima pada repositori resmi atau garpu sebagai lama selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
         "rule2": "Menggunakan kategori ini hanya untuk menunjukkan pekerjaan copywriting bahwa Anda telah menyelesaikan untuk sebuah proyek Open Source.",
         "rule3": "Copywriting dapat dalam bahasa apapun.",
@@ -246,19 +246,19 @@
         "rule3": "Posting blog harus menyediakan konten yang rinci dan ikhtisar yang berhubungan dengan proyek-proyek open source.",
         "rule4": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
         "rule5": "Periksa untuk memastikan bahwa posting Anda tidak cocok dalam kategori lain (misalnya Tutorial atau Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
+        "rule6": "Jangan pernah menulis blog post yang sudah kamu bagikan sebelumnya.",
         "rule7": "Kami akan terutama ketat untuk kategori ini seperti yang kita lihat pelecehan di sini di masa lalu."
       }
     }
   },
   "moderators": {
     "rewards": "Penghargaan",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
+    "pending": "Tertunda",
+    "previous": "Sebelumnya",
+    "meet": "Temui moderator kami",
     "text": "Pada utopis, Semua kontributor dihargai untuk kerja keras mereka, termasuk moderator kami, yang memastikan standar kualitas tinggi yang ditegakkan pada platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
+    "pending_payout": "Pembayaran Tertunda",
+    "previous_payout": "Pembayaran Sebelumnya",
     "text2": "5% dari total kontributor penghargaan yang dihasilkan pergi ke moderator berdasarkan jumlah kontribusi mereka telah meninjau. Untuk menjadi Moderator utopis Anda harus memiliki reputasi tinggi dan sering meninjau disampaikan kontribusi."
   },
   "faq": {
@@ -279,7 +279,7 @@
       "text": "<p>Semua STEEM yang Anda peroleh pada utopis dibuat tersedia untuk account Anda ketika setiap posting individu mencapai tanggal pembayaran, yang 7 hari setelah Anda menerbitkan itu. Saat ini, imbalan tersedia bagi Anda untuk menebus saldo rekening.</p> <p>Untuk melihat saldo account Anda dan untuk memiliki akses ke dana Anda, Anda akan perlu untuk pergi ke <a href='https://steemit.com'> steemit.com</a>. Ada bagian bernama \"Dompet\" mana Anda dapat melihat berapa banyak STEEM Anda sendiri dan juga memiliki alat untuk mentransfer, antara lain. Ada aplikasi dompet STEEM mobile saat ini sedang dikembangkan oleh Steemit Inc dan setelah itu keluar, itu akan menjadi cara termudah untuk mengelola dompet Anda STEEM.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
+      "headline": "5. Bagaimana saya melakukan cash pada STEEM saya?",
       "text": "<p>Setelah Anda memiliki beberapa STEEM di dompet Anda, Anda dapat mentransfer file ke cryptocurrency asing yang mendukung STEEM seperti <a href='https://poloniex.com/'> Poloniex</a> atau <a href='https://bittrex.com/'> Bittrex</a>. Sana Anda dapat bertukar itu untuk cryptocurrencies lain seperti Bitcoin atau Ethereum, yang lebih mudah untuk pertukaran untuk fiat (USD misalnya).</p> <p>Atau Anda dapat menggunakan <a href='https://blocktrades.us/'> Blocktrades</a>, yang terintegrasi ke dalam antarmuka dompet Steemit. Cukup klik saldo STEEM dan dropdown menu akan muncul. Kemudian klik \"Menjual\" dan Anda akan diarahkan ke Blocktrades.</p>"
     },
     "q6": {
