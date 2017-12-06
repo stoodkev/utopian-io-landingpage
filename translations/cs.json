@@ -18,15 +18,15 @@
   "octocat": {
     "hi": "Ahoj! Já jsem Octocat!",
     "text": "Pracuji jako maskot v GitHubu! Je to skvělé místo. Jsme komunita nadšenců a dobrovolníků z celého světa, kteří pracují na tisících bezva projektech. <b>Utopian.io</b> odměňuje za práci na open source projektech, jako jsou opravy chyb, překlady textů, psaní dokumentace, sdílení nápadů a další.",
-    "visit": "Visit GitHub.com!"
+    "visit": "Navštivte GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Vyberte si projekt..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "... a podílejte se na něm!",
     "suggestions": {
-      "headline": "Suggestions",
+      "headline": "Nápady",
       "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
     },
     "subprojects": {
