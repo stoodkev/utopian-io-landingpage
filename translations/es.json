@@ -149,7 +149,7 @@
         "rule1": "Solo serán aceptadas solicitudes de extracción conjuntas o proyectos de Código Abierto que nunca antes hayas publicado en Utopía, incluidos los forks, siempre que no sean solo una copia del original. Pruebas de trabajo serán requeridas.",
         "rule2": "En esta categoría, solo puedes escribir si has desarrollado o contribuido en el código de un proyecto.",
         "rule3": "Debes proporcionar enlaces de las ramificaciones, forks, gists o solicitudes de extracción.",
-        "rule4": "Si tu nombre de usuario en GitHub no es el mismo que en Utopian, deberás demostrar que eres el titular de la cuenta proporcionada en la captura de pantalla de la sesión en GitHub.",
+        "rule4": "Si tu nombre de usuario en GitHub no es el mismo que en Utopian, deberás demostrar que eres el titular de la cuenta proporcionando una captura de pantalla de la sesión iniciada en GitHub.",
         "rule5": "Imágenes, capturas de pantalla, enlaces y ejemplos no son necesarios pero si recomendados.",
         "rule6": "Nunca escribas sobre contribuciones de código que ya has compartido anteriormente."
       },
