@@ -139,7 +139,7 @@
         "headline": "Peraturan Sub-Proyek",
         "rule1": "Sub-proyek adalah satu set fitur baru, gaib yang memiliki dampak besar pada proyek.",
         "rule2": "Sub-proyek harus memberikan rincian lengkap fitur yang benar-benar dibangun.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
+        "rule3": "Gambar, screenshot, tautan, flows, mockups dan contoh selalu wajib dalam kategori ini.",
         "rule4": "Dalam kategori ini, kualitas konten adalah faktor utama untuk diterima di utopis.",
         "rule5": "Jika Anda percaya ide Anda tidak memenuhi syarat sebagai sub-proyek, menggunakan saran Kategori sebagai gantinya.",
         "rule6": "Jangan pernah menulis tentang proyek-proyek yang sudah anda share sebelumnya atau proyek-proyek yang sudah dimiliki oleh orang lain."
@@ -154,7 +154,7 @@
         "rule6": "Jangan pernah menulis tentang kode kontribusi Anda telah berbagi sebelum."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
+        "headline": "Peraturan berburu bug",
         "rule1": "Hanya menggunakan kategori ini untuk melaporkan Anda telah menemukan dalam proyek sumber terbuka.",
         "rule2": "Anda harus memberikan semua rincian yang mungkin diperlukan untuk mereproduksi bug.",
         "rule3": "Anda harus memasukkan, sebagai contoh: browser yang digunakan, jenis perangkat, sistem operasi dan butir-butir serupa.",
