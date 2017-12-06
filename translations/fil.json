@@ -156,12 +156,12 @@
       "bughunting": {
         "headline": "Mga patakaran sa Bug Hunting",
         "rule1": "Gamitin lamang ang kategoryang ito sa pag report ng mga bug na iyong nakita sa isang Open Source na proyekto.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "rule2": "Kailangan mong ibigay ang lahat ng posibleng detalye na kinakailangan para maisagawa ang bug.",
+        "rule3": "Kailangan mong ilagay ang, halimbawa: mga browser na ginamin, mga tipo ng device, operating system at mga kaugnay na detalye.",
+        "rule4": "Huwag kailanman mag re-repot ng mga bug na naibahagi na noon, mo o ng iba."
       },
       "translation": {
-        "headline": "Translation Rules",
+        "headline": "Mga patakaran ng pagsasalin",
         "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
