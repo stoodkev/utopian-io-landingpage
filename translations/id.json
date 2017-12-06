@@ -142,27 +142,27 @@
         "rule3": "Gambar, screenshot, tautan, flows, mockups dan contoh selalu wajib dalam kategori ini.",
         "rule4": "Dalam kategori ini, kualitas konten adalah faktor utama untuk diterima di Utopian.",
         "rule5": "Jika Anda percaya ide Anda tidak memenuhi syarat sebagai sub-proyek, gunakan kategori Saran sebagai gantinya.",
-        "rule6": "Jangan pernah menulis tentang proyek-proyek yang sudah anda share sebelumnya atau proyek-proyek yang sudah dimiliki oleh orang lain."
+        "rule6": "Jangan pernah menulis tentang proyek yang sudah anda bagikan sebelumnya atau proyek yang sudah bagikan oleh orang lain."
       },
       "development": {
         "headline": "Peraturan Pengembangan",
         "rule1": "Hanya bergabung menarik permintaan akan diterima atau proyek sumber terbuka Anda mempertahankan pernah diposting pada utopis sebelumnya, garpu termasuk selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
-        "rule2": "Pada kategori ini, Anda hanya boleh menuliskan proyek yang sudah Anda kembangkan atau kode yang telah Anda kontribusikan dalam pengembangan sebuah proyek.",
+        "rule2": "Dalam kategori ini, anda hanya bisa menulis jika Anda mengembangkan atau memberi kode untuk pengembangan sebuah proyek.",
         "rule3": "Anda harus menyediakan tautan ke *branches*, *forks*, *gists* atau *pull requests*.",
         "rule4": "Jika nama pengguna Anda di Github tidak sama dengan nama pengguna di Utopian, Anda harus membuktikan bahwa Anda adalah pemilik akun dengan memberikan tangkapan layar sesi masuk di Github.",
-        "rule5": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
-        "rule6": "Jangan pernah menulis tentang kode kontribusi Anda telah berbagi sebelum."
+        "rule5": "Gambar, tangkapan layar, tautan dan contoh yang tidak diinginkan tetapi diperlukan.",
+        "rule6": "Jangan pernah menulis tentang kontribusi kode yang sudah anda bagikan sebelumnya."
       },
       "bughunting": {
         "headline": "Peraturan berburu bug",
-        "rule1": "Hanya menggunakan kategori ini untuk melaporkan Anda telah menemukan dalam proyek sumber terbuka.",
+        "rule1": "Hanya menggunakan kategori ini untuk melaporkan bug yang telah anda temukan dalam proyek Open Source.",
         "rule2": "Anda harus memberikan semua rincian yang mungkin diperlukan untuk mereproduksi bug.",
-        "rule3": "Anda harus memasukkan, sebagai contoh: browser yang digunakan, jenis perangkat, sistem operasi dan butir-butir serupa.",
+        "rule3": "Anda harus memasukkan, sebagai contoh: browser yang digunakan, jenis perangkat, sistem operasi dan serupa.",
         "rule4": "Jangan pernah melapor bug yang sudah dibagikan sebelumnya, dari kamu atau orang lain."
       },
       "translation": {
         "headline": "Peraturan Terjemahan",
-        "rule1": "Mengirimkan suatu terjemahan dalam utopis Anda harus telah diterjemahkan setidaknya 30% proyek menengah ukuran proyek (500-1000 string), 10-15% untuk proyek-proyek besar (1000 dan atas), 100% untuk proyek-proyek kecil (1-500).",
+        "rule1": "Untuk mengirimkan terjemahan di Utopian, Anda harus menerjemahkan setidaknya 30% untuk proyek berukuran sedang (500-1000 senar), 10-15% untuk proyek besar (1000 dan lebih tinggi), 100% untuk proyek kecil (1 - 500).",
         "rule2": "Menggunakan kategori ini hanya untuk terjemahan Anda menulis atau diperbarui untuk sebuah proyek Open Source.",
         "rule3": "Anda juga harus mencakup seluruh teks diterjemahkan dalam posting atau menyertakan umum link ke versi lengkap.",
         "rule4": "Mencakup sedetail mungkin, untuk memeriksa terjemahan dan alat-alat yang Anda telah digunakan untuk menerjemahkan.",
