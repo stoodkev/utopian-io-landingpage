@@ -1,9 +1,9 @@
 {
   "nav": {
     "rewards": "Hadiah",
-    "rules": "Aturan",
-    "moderators": "Moderators",
-    "faq": "FAQ",
+    "rules": "Peraturan",
+    "moderators": "Moderator",
+    "faq": "Pertanyaan Umum",
     "help": "Bantuan",
     "blog": "Blog",
     "signup": "Registrasi",
@@ -148,7 +148,7 @@
         "headline": "Peraturan Pengembangan",
         "rule1": "Hanya bergabung menarik permintaan akan diterima atau proyek sumber terbuka Anda mempertahankan pernah diposting pada utopis sebelumnya, garpu termasuk selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
         "rule2": "Dalam kategori ini, Anda hanya bisa menulis jika Anda mengembangkan atau memberi kode untuk pengembangan sebuah proyek.",
-        "rule3": "Anda harus menyediakan tautan ke cabang, garpu, gerbang atau permintaan tarik.",
+        "rule3": "Anda harus menyediakan tautan ke *branches*, *forks*, *gists* atau *pull requests*.",
         "rule4": "Jika nama pengguna Anda di Github tidak sama dengan nama pengguna Utopian Anda, Anda harus membuktikan bahwa Anda adalah pemilik akun dengan memberikan tangkapan layar sesi masuk di Github.",
         "rule5": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
         "rule6": "Jangan pernah menulis tentang kode kontribusi Anda telah berbagi sebelum."
