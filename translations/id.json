@@ -7,7 +7,7 @@
     "help": "Bantuan",
     "blog": "Blog",
     "signup": "Registrasi",
-    "login": "Log In"
+    "login": "Masuk"
   },
   "header": {
     "text1": "Utopian.io",
@@ -16,7 +16,7 @@
   },
   "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Ini berjalan pada setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang kutu di antara teman-teman Anda bahwa cinta komputer mereka lebih dari bergaul dengan Anda. Open Source perangkat lunak adalah milik umum dan gratis dan memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu bergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Utopis namun penghargaan setiap orang yang memberikan kontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu terpenuhi.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
+    "hi": "Hi! Aku Octocat!",
     "text": "Saya bekerja di GitHub, sebagai maskot! Ini adalah tempat yang sangat tepat. Kami adalah komunitas dunia-mencakup penggemar dan sukarelawan, bekerja sama untuk ribuan proyek yang keren. <b>Utopian.io</b> menghargai Anda untuk membuat kontribusi ke proyek Open Source seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau berbagi ide-ide bagus dan banyak lagi.",
     "visit": "Kunjungi GitHub.com!"
   },
@@ -24,7 +24,7 @@
     "headline": "Pilih sebuah projek..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...dan berkontribusi!",
     "suggestions": {
       "headline": "Saran",
       "text": "Semuanya dimulai dengan sebuah ide. Bagikan Ide anda atau permintaan fitur kecil dan membantu meningkatkan proyek."
@@ -38,11 +38,11 @@
       "text": "Jika Anda telah menulis kode dan membuat permintaan tarik, bagikan pekerjaan Anda dengan komunitas utopian."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
+      "headline": "Berburu Bug",
       "text": "Membantu pengembang menemukan dan memperbaiki masalah dengan perangkat lunak mereka dengan berbagi laporan bug yang rinci."
     },
     "translation": {
-      "headline": "Translation",
+      "headline": "Terjemahan",
       "text": "Membantu orang-orang yang menggunakan perangkat lunak dalam bahasa lain dengan menerjemahkan teks atau dokumentasi melalui <a href='https://crowdin.com/' target='_blank'> Crowdin</a> dan alat-alat lain."
     },
     "graphics": {
@@ -50,7 +50,7 @@
       "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah anda rancang untuk sebuah proyek."
     },
     "documentation": {
-      "headline": "Documentation",
+      "headline": "Dokumentasi",
       "text": "Jika Anda memiliki dokumentasi untuk sebuah proyek (dalam bahasa apa pun), Anda dapat membagikannya dengan komunitas."
     },
     "analysis": {
@@ -58,7 +58,7 @@
       "text": "Mungkin Anda telah menganalisis kumpulan data proyek tertentu dan mengambil informasi yang berguna darinya. Anda juga bisa berbagi dengan komunitas."
     },
     "visibility": {
-      "headline": "Visibility",
+      "headline": "Visibilitas",
       "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopian juga. Beritahu komunitas apa yang telah anda lakukan untuk mempromosikan proyek Open Source."
     },
     "tutorials": {
