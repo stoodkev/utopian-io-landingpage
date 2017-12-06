@@ -158,7 +158,7 @@
         "rule1": "Solo utiliza esta categoría para reportar los errores que hayas encontrado en algún proyecto de Código Abierto.",
         "rule2": "Debes proporcionar todos los detalles posibles para reproducir el error.",
         "rule3": "Deberás incluir por ejemplo: navegador utilizado, tipos de dispositivos, sistema operativo y detalles similares.",
-        "rule4": "Nunca informes de errores que ya han sido compartidos, por ti o por alguien mas."
+        "rule4": "Nunca informes de errores que ya han sido compartidos, por ti o por algún otro."
       },
       "translation": {
         "headline": "Reglas para Traducciones",
@@ -166,9 +166,9 @@
         "rule2": "Utiliza esta categoría solo para traducciones que hayas realizado o actualizado para un proyecto de Código Abierto.",
         "rule3": "Deberás incluir el texto completo que has traducido en la publicación o incluir enlaces públicos a las versiones completas.",
         "rule4": "Incluye tantos detalles como sea posible, para que puedan ser revisadas tus traducciones y las herramientas que has utilizado para traducir.",
-        "rule5": "Las traducciones completas siempre son preferidas. Si vas a escribir sobre una traducción parcial, nos reservamos el derecho a evaluar el trabajo real.",
+        "rule5": "Las traducciones completas siempre son preferidas. Si vas a escribir sobre una traducción parcial, nos reservamos el derecho a evaluar el trabajo realizado.",
         "rule6": "Debes ser el autor de la traducción y proporcionar una forma de verificar tu trabajo.",
-        "rule7": "Si tu nombre de usuario en Crowdin o en plataformas de traducción similares no es el mismo nombre de usuario de Utopian, debes demostrar que eres el dueño de la cuenta proporcionando una captura de pantalla con tu sesión abierta en la plataforma de traducción.",
+        "rule7": "Si tu nombre de usuario en Crowdin o en plataformas de traducción similares no es el mismo nombre de usuario de Utopian, debes demostrar que eres el dueño de la cuenta proporcionando una captura de pantalla con tu sesión iniciada en la plataforma de traducción.",
         "rule8": "Nunca envíes traducciones que ya han sido compartidas por ti, o por algún otro."
       },
       "graphics": {
@@ -176,7 +176,7 @@
         "rule1": "Nos reservamos el derecho a rechazar una contribución gráfica si creemos que el trabajo realizado no es suficiente para ser recompensado.",
         "rule2": "En esta categoría, solo se presentan gráficos como logotipos, iconos, fondos, videos o animaciones que hayan sido creados para un proyecto de Código Abierto.",
         "rule3": "Debes incluir muestras de tu creación directamente en la publicación y publicar enlaces para los diseños completos.",
-        "rule4": "Deberás ofrecer tantos detalles como sea posible para verificar el trabajo que hiciste.",
+        "rule4": "Deberás ofrecer tantos detalles como sea posible para verificar el trabajo que realizaste.",
         "rule5": "Deberás proporcionar los archivos de fuente editable (tales como .psd .ai .eps .svg .cdr).",
         "rule6": "Camisetas y diseños para merchandising en general no son bienvenidos, a menos que haya sido solicitado explícitamente por el propietario del proyecto.",
         "rule7": "Nunca publiques sobre gráficos que ya han sido compartidos, por ti o por algún otro."
@@ -194,7 +194,7 @@
         "rule1": "En esta categoría se presentan los resultados del esfuerzo en marketing que has realizado para mejorar la visibilidad de un proyecto de Código Abierto; tales como campañas de social media, publicidad, conferencias, encuentros.",
         "rule2": "Deberás proporcionar enlaces, imágenes o vídeos que den prueba de tus esfuerzos, y también para compartir los resultados.",
         "rule3": "Si tus esfuerzos trajeron solo unos pocos o ningún nuevo usuario/colaborador para el proyecto de Código Abierto, no deberías escribir sobre él.",
-        "rule4": "Deberás probar tu identidad. Si tu nombre de usuario en Utopian no es el mismo que tienes en las plataformas que utilizas para el marketing del proyecto, debes proporcionar capturas de pantalla de tu sesión abierta en estas plataformas.",
+        "rule4": "Deberás probar tu identidad. Si tu nombre de usuario en Utopian no es el mismo que tienes en las plataformas que utilizas para el marketing del proyecto, debes proporcionar capturas de pantalla de tu sesión iniciada en estas plataformas.",
         "rule5": "Nunca escribas sobre esfuerzos de visibilidad que hayas compartido anteriormente."
       },
       "documentation": {
@@ -205,7 +205,7 @@
         "rule4": "Solo trabajos de la documentación oficial pueden ser presentados en esta categoría. Utilice la categoría Tutoriales para todos los demás documentos.",
         "rule5": "Si no es publicado el contenido completo que escribió, debe proporcionar los enlaces públicos para que el mismo pueda ser visto.",
         "rule6": "Deberás proporcionar suficientes evidencias del trabajo que has realizado.",
-        "rule7": "En caso de que aplique, en enlace de la solicitud de extracción presentado en GitHub que contiene su trabajo.",
+        "rule7": "En caso de que aplique, el enlace de la solicitud de extracción presentado en GitHub que contiene su trabajo.",
         "rule8": "Nunca publique un trabajo de documentación que haya compartido anteriormente."
       },
       "tutorials": {
@@ -233,10 +233,10 @@
         "headline": "Reglas para Redacción",
         "rule1": "Solo serán aceptadas solicitudes de extracción conjuntas del repositorio oficial o de un fork, siempre que no sean solo una copia del original. Pruebas de trabajo serán requeridas.",
         "rule2": "Utiliza esta categoría solo para mostrar el trabajo de redacción que has completado para un proyecto de Código Abierto.",
-        "rule3": "Redacciones pueden ser realizadas en cualquier idioma.",
+        "rule3": "Las redacciones pueden ser realizadas en cualquier idioma.",
         "rule4": "Una introducción de texto en inglés en la parte superior de la publicación, siempre será obligatoria.",
         "rule5": "Debes ser el autor.",
-        "rule6": "En caso de que aplique, en enlace de la solicitud de extracción presentado en GitHub que contiene su trabajo.",
+        "rule6": "En caso de que aplique, el enlace de la solicitud de extracción presentado en GitHub que contiene su trabajo.",
         "rule7": "Nunca publiques trabajos de redacción que hayas compartido anteriormente."
       },
       "blog": {
