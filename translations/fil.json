@@ -1,0 +1,293 @@
+{
+  "nav": {
+    "rewards": "Mga gantimpala",
+    "rules": "Mga Patakaran",
+    "moderators": "Mga tagapayo",
+    "faq": "FAQ",
+    "help": "Tulong",
+    "blog": "Blog",
+    "signup": "Mag-sign Up",
+    "login": "Mag-log In"
+  },
+  "header": {
+    "text1": "Utopian.io",
+    "text2": "Open Source na ekonomiya",
+    "text3": "Kumita ng mga gantimpala sa pag a-ambag sa iyong <br>paboritong Open Source na proyekto!"
+  },
+  "intro": "Ang ating Modernong Mundo ay pinatatakbo ng <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> na Software. Ito ay gumagana sa lahat ng kompyuter, lahat ng smartphone o tablet at lahat ng iyong paboritong mga app ay hindi gagana ng wala ang mga ito. ito ay pangunahing binuo ng mga boluntaryo at ng mga naglilibang sa buong mundo, yung mga kaibigan mong mas gutso pang kasama ang kompyuter nya kesa makita ang mukha mo at makasama ka. Ang Open source na software ay libre at karaniwan ang katangian at hinahayaan ang lahat na gamitin at baguhin ito ayon sa kanilang pangangailangann. Ito ay dumidepende sa sama-samang kaalaman kesa sa pamantayan ng nakakataas. Ang lahat ng gawang ito ay nagawa ng libre! Gayunpaman ang Utopian ay binibigyan ng pabuya sa sino mang mag-aambag sa mga proyekto, hanggat ang mga kalidad na nasa pamantayan ay maibibigay.",
+  "octocat": {
+    "hi": "Hay! Ako si Octocat!",
+    "text": "Ako ay nagtatrabaho sa GitHub, bilang isang Maskot! Napaka ganda ng lugar na ito. Kami ay sumasaklaw na mundo ng mga entusyastiko at boluntaryong komunidad, magakasamang nagtatrabaho sa libo-libong astig na mga proyekto. Ang <b>Utopian.io</b> ay gagantimpalaan ka sa pag gawa mo ng kontrobusyon sa Open Source na mga proyekto, tulad ng pag aayos ng mga bug, pag ta-translate ng mga text, pag susulat ng dokyumentasyon o pag babahagi ng magagandang ideya at marami pa.",
+    "visit": "Bisitahin ang GitHub.com!"
+  },
+  "projects": {
+    "headline": "Pumili ng proyekto..."
+  },
+  "contribute": {
+    "headline": "...at mag kontribyut!",
+    "suggestions": {
+      "headline": "Suggestions",
+      "text": "Lahat ay nagsisimula sa ideya. Ibahagi ang iyong ideya o menor na kahilingan para sa tampok at tumulong sa pagpapabuti ng proyekto."
+    },
+    "subprojects": {
+      "headline": "Sub-Projects",
+      "text": "Magbahagi nang bago at mas detalyadong feature o konsepto na iyong binuo para sa isang proyekto."
+    },
+    "development": {
+      "headline": "Development",
+      "text": "Kung ikaw ay sumulat ng code at gumawa ng mga pull request, ibahagi ang iyong mga ginawa sa komunidad ng Utopian."
+    },
+    "bughunting": {
+      "headline": "Bug Hunting",
+      "text": "Tulungan ang mga developer na humanap at mag ayos ng mga problema sa kanilang software sa pamamagitan ng detalyadong mga bug report."
+    },
+    "translation": {
+      "headline": "Translation",
+      "text": "Tulungan ang mga tao para magamit sa ibang mga wika ang software sa pamamagitan ng pagsasalin o pag dodokumentasyon sa pamamagitan ng <a href='https://crowdin.com/' target='_blank'>Crowdin</a> at iba pang mga kagamitan."
+    },
+    "graphics": {
+      "headline": "Graphics",
+      "text": "Magbahagi na orihinal na mga logo, mga icon, mga background at iba pang mga graphic na ikaw ang nag desenyo para sa proyekto."
+    },
+    "documentation": {
+      "headline": "Dokumentasyon",
+      "text": "Kung ikaw ay sumulat ng dokumentasyon para sa isang proyekto (sa anumang wika), maari mong ibahagi ang mga ito sa komunidad."
+    },
+    "analysis": {
+      "headline": "Pagsusuri",
+      "text": "Marahil ay sinuri mo ang partikular na data set at in-extract ang mga kagamit gamit na impormasyon mula sa proyekto. maari mo ring ibahagi ang mga ito sa komunidad."
+    },
+    "visibility": {
+      "headline": "Visibility",
+      "text": "Ang pagsisikap sa pakiki pagkalakal ay maaari ding kumita sa pamamagitan ng Utopian. saibihin sa komunidad ang iyong ginawa para maisulong ang Open Source na proyekto."
+    },
+    "tutorials": {
+      "headline": "Pagtuturo",
+      "text": "Magsulat ng nagbibigay-kaalaman na pagtuturo at tumulong sa ibang tao para gamitin ang mga Open Source na produkto."
+    },
+    "videotutorials": {
+      "headline": "Pagtuturo gamit ang Vidyo",
+      "text": "Lumikha ng mga paano-gawin na Vidyo para sa mga produktong Open Source at tumulong sa mga tao kung paano ito gagamitin."
+    },
+    "copywriting": {
+      "headline": "Copywriting",
+      "text": "Magsulat ng makatawag pansin at nakakapagbigay kaalamang kopya para sa mga Open Source na proyekto, at pabutihin ang lakas ng kanilang brand."
+    }
+  },
+  "crowdsourcing": {
+    "headline": "Utopian para sa mga May-ari ng Proyekto",
+    "text": "Sa Utipian.io, maaari kang gumawa ng <b>anunsyo</b> para sa iyong proyekto at mabilis na mapagbuha ng madami mula sa internasyonal na magkakasamang talento. Kuhain ang atensyon ng mga mahahalagang kontribyutor at gamitin ang kapangyarihan ng pinagsamang kaalaman para paunlarin ang iyong proyekto.",
+    "thinkers": {
+      "headline": "Mga Magiisip",
+      "text": "Kuhain ang atensyon ng magagaling na tagapagisip para sa iyong proyekto upang paunlarin ang mga ideya at resulbahan ang mga problema."
+    },
+    "developers": {
+      "headline": "Mga developer",
+      "text": "Tumawag sa mga mahuhusay na developer para magsulat ng code o mag ayos ng mga bug."
+    },
+    "bughunters": {
+      "headline": "Mga bug hunter",
+      "text": "Hikayatin ang mga gumagami para mag report ng mga problema o imbitahin sila para subukan ang mga bagong feature na iyong dini-develop."
+    },
+    "translators": {
+      "headline": "Mga tagasalin",
+      "text": "Umabot ng maraming tao sa buong mundo sa pamamagitan ng pag-atas ng tagapagsalin para maaring magamit ang iyong proyekto sa ibat ibang lengwahe."
+    },
+    "designers": {
+      "headline": "Mga designer",
+      "text": "Magkaroon ng mga mahuhusay na designer para gumawa ng mga natatanging grapika para sa iyong proyekto o brand."
+    },
+    "writers": {
+      "headline": "Teknikal na manunulat",
+      "text": "Kumuha ng komprehensibong dokumentasyon na gawa mula sa iyong proyekto na maayos na pinag bibigay alam sa iyong mga user at iba pang stakeholder."
+    },
+    "analysts": {
+      "headline": "Mga Analyst ng datos",
+      "text": "I-exteact ang resulta ng ibigsabihin ng iyong data, tuklasin ang mga uso at gumawa ng desisyon tungkol sa iyong proyekto sa tulong ng mga analyst ng datos."
+    },
+    "influencers": {
+      "headline": "Taga-impluwensya",
+      "text": "Maipabatid ang epektibong online o offline na marketing sa tulong ng taga-impluwensya sa buong mundo at kuhaan ang iyong proyekto ng atensyon na nararapat dito."
+    }
+  },
+  "rewards": {
+    "contributor_rewards": "Gantimpala ng mga Kontribyutor",
+    "curator_rewards": "Gantimpala ng mga Curator",
+    "pending_rewards": "Hindi pa tapos na gantimpala",
+    "total_generated": "Kabuuang halaga na nalikha",
+    "steem": {
+      "headline": "Sino ang magbabayad ng mga gantimpala?",
+      "text": "Para mabayadan ang mga gantimpala, Ang Utopian.io ay gumagamit ng <a href='https://steem.io/'>Steem blockchain</a>. Ang pera ay ginagawa sa pamamagitan ng isang cryptocurrency na tinatawag na <b>STEEM</b>, sa pamamagitan ng boto ng komunidad. Walang sinuman ang mag babayad ng gantimpala ng direkta. Sila ay ginagawa at ipinamamahagi gamit ang algoritmo na tinatawag na <i>Proof-of-Brain</i>, na hinihikayat ang tao na gumawa at mag curate ng kalidad na nilalaman.<br><br>Sa case ng Utopian.io, ang kontribusyon mo sa Open Source na mundo ay ang kalidad na nilalaman. ang mga tao ay maari ring piliin ang mag bayad ng direkta gamit ang kanilang STEEM, kung gusto nila, subalit ito ay hindi sapilitan.<br><br>Ang halaga ng boto ng isang user ay naka base sa kanyang sariling puhunan sa plataporma at kung mas malaki ang kanilang tinaya, mas malaki ang halaga ng kanilang boto kapag sila ay bumoboto. Ang Utopian.io mismo ay maaring iboto ang iyong kontribusyon. Mahigit <b>3 na milyon ang Steem Power</b> ang inihandog sa plataporma ng Utopian.io na account, dahilan para maging mahigit <b>$250</b>, sa kasalukuyang presyo sa market.<br><br><a href='#faq'>I-check ang FAQ</a> para sa masmarami pang impormasyon.",
+      "button": "Para matuto ng higit pa tungkol sa Steem"
+    }
+  },
+  "rules": {
+    "step1": "Sumunod sa<br>aming patakaran!",
+    "step2": "Hayaang masuri ng aming<br>Mga Moderator!",
+    "step3": "Makakuha ng upvote mula sa Utopian.io at sa komunidad!",
+    "step4": "Mabayadan<br>pagkalipas ng 7 na mga araw!",
+    "text": "Para masigurado ang kalidad, bawat kontribusyon ay sinusuri ng isa sa aming mga moderator, ayon sa aming mga patakaran. Ang hindi pag respeto sa mga patakarang ito ay maaring magdulot para mabigyan ka ng mababang boto o hindi matanggap ang iyong kontribusyon. Gayunpaman, kung ang iyong kontribusyon ay hindi matangap ito ay ma ilalathala parin sa steem blockchain, at maaari itong kumita ng mga pabuya. sa ganitong kaso, nakabahala na ito sa iyong sarili. ang Utopian ay hindi bibigyan ng pabuya ang iyong kontribusyon o ibabahagi manlang.",
+    "categories": {
+      "suggestions": {
+        "headline": "Mga patakaran sa mungkahi",
+        "rule1": "Ang mga mungkahi ay mga menor na tampok/pagpapahusay na gusto mong magkaroon sa isang Open Source na proyekto.",
+        "rule2": "Ang mga mungkahi ay dapat magbigay ng sapat na mga detalye para sa pag hiling sa mga tampok na itatayo.",
+        "rule3": "Mga Imahe, Mga screenshot, mga link at mga halimbawa ay laging tinatangap sa kategoryang ito.",
+        "rule4": "Huwag sumulat ng mungkahi na naisulat mo na noon o mungkahi na naibahagi na ng iba."
+      },
+      "subprojects": {
+        "headline": "Mga patakaran ng mga Sub-project",
+        "rule1": "Ang Mga sub-project ay isang set ng bago, hindi pa nakikitang tampok na makakapag bigay ng malaking epekto sa isang proyekto.",
+        "rule2": "Ang mga sub-project ay kinakailangan mag bigay ng komprehiensibong detalye sa mga tampok na talagang itatayo.",
+        "rule3": "Mga Imahe, mga screenshot, mga link mga flow, mga mockup at mga halimbawa ay laging kinakailangan sa kategoryang ito.",
+        "rule4": "Sa kategoryang ito, ang kalidad ng nilalaman ay siyang pinakang salik para maging katangap-tanggap sa Utopian.",
+        "rule5": "Kung naniniwala ka na ang iyong ideya ay hindi papasa bilang Sub-project, gamitin nalamang ang Mga mungkahi na kategorya.",
+        "rule6": "Huwag susulat ng tungkol sa mga proyekto na naisulat mo na nuon o mga proyekto na naisulat na ng iba."
+      },
+      "development": {
+        "headline": "Mga patakaran sa development",
+        "rule1": "Yung na-merge lamang na mga pull request ang tatangapin o Open Source na proyekto na iyong ipinapanatili na hindi pa nai po-post sa Utipian noon, kasama ang mga fork hanggat ang fork ay hindi lamang salamin ng orihinal. Patunay ng pag gawa ay kinakailangan.",
+        "rule2": "Sa kategoryang ito, maaari kalamang sumulat kung ikaw ay nag develop o nag kontribyut ng code sa development na proyekto.",
+        "rule3": "Kailangan mong mag bigay ng link para sa mga branch, mga fork, mga git o mga pull request.",
+        "rule4": "Kung ang iyong username sa GitHub ay hindi parehas ng iyong username sa Utopian, kailangan mong mag bigay ng patunay na ikaw ang may-ari ng account sa pamamagitan ng screenshot na ikaw ay naka login sa Github.",
+        "rule5": "Mga imahe, mga screenshot, mga link at mga halimbawa ay hindi kinakailangan subalit mas mainam.",
+        "rule6": "Wag kang susulat ng kontibusyon na tungkol sa code na naisulat mo na noon."
+      },
+      "bughunting": {
+        "headline": "Mga patakaran sa Bug Hunting",
+        "rule1": "Gamitin lamang ang kategoryang ito sa pag report ng mga bug na iyong nakita sa isang Open Source na proyekto.",
+        "rule2": "Kailangan mong ibigay ang lahat ng posibleng detalye na kinakailangan para maisagawa ang bug.",
+        "rule3": "Kailangan mong ilagay ang, halimbawa: mga browser na ginamin, mga tipo ng device, operating system at mga kaugnay na detalye.",
+        "rule4": "Huwag kailanman mag re-repot ng mga bug na naibahagi na noon, mo o ng iba."
+      },
+      "translation": {
+        "headline": "Mga patakaran ng pagsasalin",
+        "rule1": "Upang makapag sumite ng pagsasalin sa Utopian kailangan mong mag salin ng kahit 30% ng buong proyekto para sa medyun na sukat ng mga proyekto(500-1000 strings), 10-15% para naman sa malalaking proyekto (1000 pataas), 100% para sa maliliit na proyekto(1 - 500).",
+        "rule2": "Gamitin lamang ang kategoryang ito para sa pagsasalin na ikaw ang sumulat o nag-update para sa isang Open Source na proyekto.",
+        "rule3": "Maaari mo ring isama ang buo mong sinalin na text sa iyong post o magsama ng publikong mga link para sa buong bersyon.",
+        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
+        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
+        "rule6": "You must be the author of the translation and provide a way to verify your work.",
+        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
+        "rule8": "Never submit translations that have already been shared, by you or someone else."
+      },
+      "graphics": {
+        "headline": "Graphics Rules",
+        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
+        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
+        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
+        "rule4": "You must give as much detail as possible to verify the work you did.",
+        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
+        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
+        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+      },
+      "analysis": {
+        "headline": "Analysis Rules",
+        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
+        "rule2": "You must include detailed results and explain the reasons behind them.",
+        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
+        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
+        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+      },
+      "visibility": {
+        "headline": "Visibility Rules",
+        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
+        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
+        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
+        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
+        "rule5": "Never write about visibility efforts you have already shared before."
+      },
+      "documentation": {
+        "headline": "Documentation Rules",
+        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
+        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
+        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
+        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
+        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
+        "rule8": "Never submit documentation work that you have already shared in the past."
+      },
+      "tutorials": {
+        "headline": "Tutorial Rules",
+        "rule1": "Ang pagsalin ng tutorial gamit ang machine ay hindi matatangap.",
+        "rule2": "Ang kategoryang ito ay para lamang sa pag-tuturo ng isang Open Source na proyekto.",
+        "rule3": "Ang pagtuturo ay maaaring nasa anumang wika.",
+        "rule4": "Ang introduksyon ay laging kinakailangan na Ingles, sa itaas ng post.",
+        "rule5": "Kung ang iyong pagtuturo ay may kalakip na vidyo, dapat ay Pagtuturo gamit ang vidyo na kategorya nalang ang gamitin mo.",
+        "rule6": "Ikaw dapat ang may-akda ng pagtuturong ito.",
+        "rule7": "Kung hindi mo ilalagay ang kabuuan ng iyong pagtuturo dito, kailangan mong mag bigay ng pampublikong link ng iyong buong bersyon nito.",
+        "rule8": "Huwag kailanman mag po-post ng pagtuturo na naibahagi mo na noon sa steem blockchain sa pangkalahatan."
+      },
+      "videotutorials": {
+        "headline": "Patakaran sa paguturo gamit ang Vidyo",
+        "rule1": "Ang Pagtuturo sa Vidyo gamit ang machine na boses ay hindi tatanggapin.",
+        "rule2": "Ang kategoryang ito ay para lamang sa pagtuturo gamit ang vidyo sa isang Open Source na proyekto.",
+        "rule3": "Ang pagtuturo gamit ang vidyo ay maaari sa anumang wika.",
+        "rule4": "Ang introduksyon ay kinakailangang Ingles, sa itaas ng iyong post.",
+        "rule5": "Kinakailangang ikaw ang gumawa ng pagtuturo sa vidyo.",
+        "rule6": "Kailangang mong i-embed ang vidyo direkta sa post. Sa kasalukuyan, ang vidyo sa YouTube ang iminumungkahi.",
+        "rule7": "Huwag kang mag po-post ng pagtuturo sa vidyo na naibahagi mo na noon sa Steem blockchain sa pangkalahatan."
+      },
+      "copywriting": {
+        "headline": "Mga patakaran sa Copywriting",
+        "rule1": "Yung na-merge na mga Pull Requests lamang ang tatangapin sa opisyal na repository o sa fork hanggat ang fork ay hindi lang salamin ng orihinal. Patunay sa gawain ay kinakailangan.",
+        "rule2": "Gamitin lamang ang kategoryang ito para maipakita ang iyong gawa sa copywriting na iyong nakompleto para sa isang Open Source na proyekto.",
+        "rule3": "Ang Copywriting ay maaaring nasa anumang lengwahe.",
+        "rule4": "Ang introduksyon ay laging kinakailangan na Ingles, sa itaas ng post.",
+        "rule5": "Dapat ikaw ang gumawa.",
+        "rule6": "Kung naaangkop, i-link ang mga pull request na iyong isinumite sa GitHub na naglalaman ng iyong mga gawain.",
+        "rule7": "Huwag mag po-post ng copywritng na naibahagi mo na noon."
+      },
+      "blog": {
+        "headline": "Mga patakaran sa Blog Post",
+        "rule1": "Kinakailangang magbigay ng orighinal na (mga)format. Hindi ka maaring mag post ng mga balita na nakalap mo lang mula sa internet o kathang isip, maliban nalamang kung ikaw ay may natatangi at hindi pabago bagong format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Halimbawa ng magandang format</a>.",
+        "rule2": "Maari mo lamang isulat ang mga blog post na may kinalaman sa <b>mga open source na proyekto</b> o ang<b>pag kilos sa Open Source</b> sa pangkalahatan.",
+        "rule3": "Sa Blog post ay kinakailangang magbigay ng detalyadong nilalaman at mga pangkalahatang ideya na angkop sa mga open-source na proyekto.",
+        "rule4": "Mga imahe, mga screenshot, mga link at mga halimbawa ay hindi kinakailangan ngunit mainam.",
+        "rule5": "I-check upang matiyak na ang iyong post ay hindi nababagay sa ibang kategorya (hal. Pagtuturo o Copywriting).",
+        "rule6": "Huwag kang susulat ng mga blog post na naibahagi mo na noon.",
+        "rule7": "Kami ay magiging lalong mahigpit sa kategoryang ito dahil marami na kaming nakitang pag-abuso dito noon."
+      }
+    }
+  },
+  "moderators": {
+    "rewards": "Mga gamtimpala",
+    "pending": "Nakabinbin",
+    "previous": "Nakaraan",
+    "meet": "Kilalanin ang aming mga moderator",
+    "text": "Sa Utopian, lahat ng mga kontribyutor ay gagantimpalaan sa kanilang kasipagan sa paggawa, kabilang ang aming mga moderator, na sinisigurado ang matataas na kalidad at mga pamantayan na aming ipinatutupad sa plataporma.",
+    "pending_payout": "Nakabinbin na Payout",
+    "previous_payout": "Nakaraang Payout",
+    "text2": "5% ng kabuuang pabuya ng kontribyutor ay napupunta sa mga moderator base sa halaga ng kontribusyon na kanilang nerepaso. Para maging moderator ng Utopian kailangan mo ng mataas na reputasyon at laging nag nagsusuri ng mga isinumiteng kontribusyon."
+  },
+  "faq": {
+    "q1": {
+      "headline": "1. Ano ang Utopian?",
+      "text": "<p>ay isang Open Source na software na laging nauugnay sa boluntaryong paggawa ng mga tao sa buong mundo na hindi binabayadan sa kanilang masigasig na pag ta trabaho. Ang software ay gumagana sa mga device, website at application na maaari mong maisip. Ito ay kadalasang ginawa ng mga boluntaryo, mga mahihilig, mga masisigasig na buong pusong inialay ang kanilang panahon at pagsisikap sa adhikain.</p><p>Ang Utopoan ay ang pagbubuo ng open source na ekonomiya, kung saan na ang mga tao ay gumagawa ng mga mayhalagang kontribusyon sa open source software na proyekto at ginagantimpalaan ang kanilang masigasig na pagtatrabaho. Ginawa sa ibabaw ng Steem blockchain, Ang Utopian ay ginagamit ang talino ng mga tao para magantimpalaan ang mga mahahalagang kontribusyon. Ang May-ari ng proyekto at ibang mga kontributor ay mag dedesisyon kung paanong ang pabuya ay ipinamamahagi sa pamamagitan ng pag boto at pagkagusto sa indibidwal na kontribusyon, at maaari silang pumili na suportahan ang kontributor sa pamamagitan ng pag babayad ng derekta ng cryptocurrency na tinatawag na STEEM, na napakadaling ipalit sa ibang cryptocurrencies katulad ng Bitcoin ay Ethereum.</p>"
+    },
+    "q2": {
+      "headline": "2. What is Steem?",
+      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+    },
+    "q3": {
+      "headline": "3. Where do the rewards come from?",
+      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+    },
+    "q4": {
+      "headline": "4. Where do I find my wallet?",
+      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+    },
+    "q5": {
+      "headline": "5. How do I cash in my STEEM?",
+      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+    },
+    "q6": {
+      "headline": "6. How do I earn more rewards?",
+      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+    }
+  },
+  "blog": {
+    "readmore": "read more on steemit.com"
+  }
+}

@@ -12,7 +12,7 @@
   "header": {
     "text1": "Utopian.io",
     "text2": "Open Source Ökonomie",
-    "text3": "Leiste Beiträge zu Open Source Projekten<br>und werde dafür bezahlt."
+    "text3": "Leiste Beiträge zu Open Source Projekten<br>und werde dafür bezahlt!"
   },
   "intro": "Unsere moderne Welt wäre ohne <a href='https://de.wikipedia.org/wiki/Open_Source'>Open Source Software</a> undenkbar. Sie läuft auf jedem Computer, jedem Smartphone oder Tablet und all deine Lieblings-Apps kommen nicht ohne sie aus. Sie wird hauptsächlich von Freiwilligen auf der ganzen Welt entwickelt. Open Source Software ist ein freies Allgemeingut und erlaubt jedem, sie zu benutzen und an die eigenen Bedürfnisse anzupassen. Sie basiert auf der Expertise einzelner und der Schwarmintelligenz einer riesigen Community anstatt auf Vorgaben von Vorgesetzen. All diese wertvolle Arbeit wird nicht bezahlt! Utopian.io ändert das und entlohnt jeden der zu solchen Projekten beiträgt, solange ein gewisser Qualitätsstandard eingehalten wird.",
   "octocat": {
@@ -59,7 +59,7 @@
     },
     "visibility": {
       "headline": "Sichtbarkeit",
-      "text": "Auch Marketingaufwand wird belohnt. Berichte der Community, was du für die Bekanntheit eines Open Source Projekts getan hast."
+      "text": "Auch Marketingaufwand wird belohnt. Berichte der Community, was du für die Bekanntheit eines Open Source Projekts geleistet hast."
     },
     "tutorials": {
       "headline": "Anleitungen",

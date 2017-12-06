@@ -4,7 +4,7 @@
     "rules": "নিয়ম",
     "moderators": "মডারেটর",
     "faq": "FAQ",
-    "help": "Help",
+    "help": "সাহায্য",
     "blog": "ব্লগ",
     "signup": "সাইন আপ করুন",
     "login": "লগ ইন করুন"
@@ -178,23 +178,23 @@
         "rule3": "আপনার ডিজাইনের সরাসরি নমুনা এবং সম্পূর্ণ ডিজাইনের পাবলিক লিংকগুলি আপনার পোস্টে অন্তর্ভুক্ত করতে হবে।",
         "rule4": "আপনার কাজটি যাচাই করার জন্য আপনাকে যতটা সম্ভব বিস্তারিত বিবরন দিতে হবে।",
         "rule5": "আপনাকে অবশ্যই সম্পাদনাযোগ্য উৎস ফাইল সরবরাহ করতে হবে (যেমন .psd .ai .eps .svg .cdr)।",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule6": "সাধারণভাবে টি-শার্ট এবং মার্কেটিং ডিজাইনগুলি স্বাগত নয়, স্পষ্টভাবে প্রকল্পের মালিক কর্তৃক অনুরোধ না করা পর্যন্ত।",
+        "rule7": "কখনো আপনি বা অন্য কেউ দ্বারা শেয়ার করা হয়েছে এমন গ্রাফিক্স সম্পর্কে পোস্ট করবেন না।"
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "headline": "বিশ্লেষণের নিয়ম",
+        "rule1": "এই বিভাগটি শুধুমাত্র একটি বিশ্লেষণের জন্য যা আপনি একটি ওপেন সোর্স প্রকল্পের জন্য প্রস্তুত করেছেন।",
+        "rule2": "আপনার বিস্তারিত ফলাফল অন্তর্ভুক্ত এবং তাদের পিছনে কারণ ব্যাখ্যা করা আবশ্যক।",
+        "rule3": "আপনার যদি এখানে সম্পূর্ণরূপে আপনার বিশ্লেষণ পোস্ট না করা হয় , তবে আপনাকে পূর্ণ সংস্করণের পাবলিক লিংক প্রদান করতে হবে।",
+        "rule4": "বিশ্লেষণ ফলাফল, চার্ট বা টেবিল আকারে, এই বিষয়শ্রেণীতে মধ্যে বাধ্যতামূলক।",
+        "rule5": "কখনো আপনার দ্বারা বা অন্য কারো দ্বারা শেয়ার করা হয়েছে এমন বিশ্লেষণ জমা দেবেন না"
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
+        "headline": "দৃশ্যমানতা নিয়ম",
+        "rule1": "এই বিভাগে, আপনি একটি ওপেন সোর্স প্রকল্পের দৃশ্যমানতা উন্নত করতে তৈরি মার্কেটিং প্রচেষ্টা ফলাফল জমা দিতে পারবেন; যেমন সোশ্যাল মিডিয়া প্রচারাভিযান, বিজ্ঞাপন, কনফারেন্স বা মিলিত হন এমন কিছু।",
+        "rule2": "আপনি আপনার প্রচেষ্টার প্রমাণ সহ লিঙ্ক, ছবি বা ভিডিও সরবরাহ করতে হবে, এবং ফলাফলগুলিও শেয়ার করে নিতে পারেন।",
+        "rule3": "যদি আপনার প্রচেষ্টায় ওপেন সোর্স প্রোজেক্টের কয়েকটি নতুন বা শূন্য নতুন ব্যবহারকারী / অবদানকারী আনা হয়, তাহলে আপনাকে এটি সম্পর্কে লিখতে হবে না।",
+        "rule4": "আপনাকে আপনার পরিচয় প্রমাণ করতে হবে আপনার ইউটোপিয়ান ব্যবহারকারী নামটি যদি প্রকল্পের মার্কেটিং করার জন্য ব্যবহার করা প্ল্যাটফর্মে ব্যবহারকারীর নাম হিসাবে একই হয় তবে আপনাকে এই প্ল্যাটফর্মে একটি লগ ইন সেশনের স্ক্রিনশট প্রদান করতে হবে।",
         "rule5": "Never write about visibility efforts you have already shared before."
       },
       "documentation": {

@@ -1,81 +1,81 @@
 {
   "nav": {
-    "rewards": "इनाम",
-    "rules": "नियम",
-    "moderators": "मध्यस्थ",
-    "faq": "सामान्य प्रश्न",
-    "help": "सहायता",
-    "blog": "ब्लॉग",
-    "signup": "सिग्न उप",
-    "login": "लोग इन"
+    "rewards": "Odměny",
+    "rules": "Pravidla",
+    "moderators": "Moderátoři",
+    "faq": "FAQ",
+    "help": "Nápověda",
+    "blog": "Blog",
+    "signup": "Registrace",
+    "login": "Přihlásit se"
   },
   "header": {
-    "text1": "यूटोपियन. ऑय o",
-    "text2": "ओपन सोर्स इकॉनमी",
-    "text3": "पोरोस्कार कमाओ अपने ओपन <br> सोर्स प्रोजेक्ट में योगदान देक"
+    "text1": "Utopian.io",
+    "text2": "Open Source Economy",
+    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
   },
-  "intro": "हमारा मॉडर्न जमाना चलता है <a href='https://en.wikipedia.org/wiki/Open-source_model'> ओपन सोर्स </a> सॉफ्टवेयर. ये हर कंप्यूटर पर  चलता है, सारे स्मार्टफोन्स या  टेबलेट और आपके पसंदीदा अप्प्स इसके बिना नहीं चल सकती. ये ज्यादातर  पूरी दुनिया के स्वयंसेवक द्वारा और शौकिया लोगों द्वारा बनायीं जाती हैं. ये उन आपके उन पादको दोस्तों के द्वारा बनायीं जाती है जो अपने दोस्तों से न मिल के कंप्यूटर पर समय बिताते हैं. ओपन सोर्स सॉफ्टवेयर मुफ्त है और सबकी सम्पति है और ये सब इससे अपने जरूरत के हिसाब से ढाल सकते हैं. ये सबकी सामूहिक बुद्धि पर निर्भर करता है न की उप्पेर वाले लोगों की मर्ज़ी पर. और ये सारा काम मुफ्त होता है ! यूटोपियन सब उन लोगों को इनाम देता है जो उसके काम में सहता करते हैं जब तक की उनका काम ाचा हो.",
+  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
   "octocat": {
-    "hi": "नमस्ते! मैं ऑक्टोकैत!",
-    "text": "मैं गिटहब में काम करती हूँ,शुभंकर की तरह! ये बहुत अछि जगह है. हम दुनिया में फैले हुए उत्साही और स्वयंसेवकों हैं  जो एक साथ काम करते हैं हजाररों बढ़िया प्रोजेक्ट्स पर. </b>यूटोपियन.ीो</b> आपको इनाम भी मिलता है आपके योदान करने के लिए प्रोजेक्ट्स में, जैसे गलतियां ठीक करना, शब्दों का \nअनुवाद करना, प्रलेखन करना या अपने अचे विचारों को औरों के बीच रखना और बहुत कुछ और.",
-    "visit": "आइए गिटहब.कॉम पर"
+    "hi": "Hi! I'm Octocat!",
+    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
+    "visit": "Visit GitHub.com!"
   },
   "projects": {
-    "headline": "परियोजना चुने..."
+    "headline": "Choose a project..."
   },
   "contribute": {
-    "headline": "...और योगदान करें",
+    "headline": "...and contribute!",
     "suggestions": {
-      "headline": "सुझाव",
-      "text": "हर चीज़ एक विचार से शुरू होती है. आप अपना विचार हमसे बाटें या कोई छोटी सी अपनी इच्जा और मद्दत करें हमे परियोजना सुधारने में."
+      "headline": "Suggestions",
+      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
     },
     "subprojects": {
-      "headline": "उप परियोजना",
-      "text": "अपने नए और बड़ी विशेषताएं या अवधारणाओं जो आपने बनाये हो किसी परियोजनाओं के लिए."
+      "headline": "Sub-Projects",
+      "text": "Share new and more elaborate features or concepts that you have developed for a project."
     },
     "development": {
-      "headline": "विकास",
-      "text": "अगर आपने कोड लीकें हो और पुल्ल रिक्वेस्ट बनाये हूँ, तो अपना काम यूटोपियन समुदाय के साथ बाटें."
+      "headline": "Development",
+      "text": "If you've written code and created pull requests, share your work with the Utopian community."
     },
     "bughunting": {
-      "headline": "समस्या ढूंढना",
-      "text": "सॉफ्टवेयर बनाने वालों की सहायता करना और समस्यां का हल निकलना उनको समस्यां बता के."
+      "headline": "Bug Hunting",
+      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
     },
     "translation": {
-      "headline": "अनुवाद",
-      "text": "लोगों की सयता करना दूसरी भाषाओं में अनुवाद करके या प्रलेखन\n में <a href='https://crowdin.com/' target='_blank'>क्रोडिन</a>और दुसरे तरीकों से."
+      "headline": "Translation",
+      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
-      "headline": "ग्रफिक्स",
-      "text": "अपने मूल बनाये प्रतीक चिन्ह, पीछे डली तसफ़ीरें और दूसरी तसफ़ीरें जो आपने अपने परियोजना के लिए बनायीं हूँ हमारे साथ शेयर करें."
+      "headline": "Graphics",
+      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
     },
     "documentation": {
-      "headline": "प्रलेखन",
-      "text": "अगर आपके पास अपना परियोजना है किसी प्रलेखन का(किसी भी भाषा में), आप समुदाय के साथ बाँट सकते हैं."
+      "headline": "Documentation",
+      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
     },
     "analysis": {
-      "headline": "विश्लेषण",
-      "text": "शायद आपने किसी परियोजना के लिए विश्लेषण किया हो और उससे कुछ जरूरी जानकारी निकली हो. वह आप समुदाय से बाँट सकते हैं."
+      "headline": "Analysis",
+      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
-      "headline": "दृश्यता",
-      "text": "विपणन प्रयासों को भी पुरस्कृत किया जा सकता है. आप समुदाय को बताएं की आपने क्या किया है और ओपन सोर्स परियोजनाओं को बढ़ावा दें."
+      "headline": "Visibility",
+      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
     },
     "tutorials": {
-      "headline": "ट्यूटोरियल",
-      "text": "जानकारीपूर्ण टुटोरिअल्स लिखें और लोगों की सहायता करें ओपन सोर्स के उत्पादों का प्रयोग करने में."
+      "headline": "Tutorials",
+      "text": "Write informative tutorials and help other people to use Open Source products."
     },
     "videotutorials": {
-      "headline": "वीडियो टुटोरिअल्स",
-      "text": "आप हाउ तो वीडियोस बना सकते हैं ओपन सोर्स उत्पाद के लिए और लॉगिन की सहायता कर सकते हैं की उन्हें कैसे उपयोग में लाएं."
+      "headline": "Video Tutorials",
+      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
     },
     "copywriting": {
-      "headline": "कोप्यवरिटिंग",
-      "text": "आप मनमोहित और जानकारी प्रतिलिपि लिख सकते हैं ओपन सोर्स के लिए, और उनके पब्रांड की मजबूती बड़ा सकते हैं."
+      "headline": "Copywriting",
+      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
     }
   },
   "crowdsourcing": {
-    "headline": "यूटोपियन परियोजना मालिकों के लिए.",
+    "headline": "Utopian for Project Owners",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
       "headline": "Thinkers",
@@ -90,7 +90,7 @@
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "अनुवादक",
+      "headline": "Translators",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
