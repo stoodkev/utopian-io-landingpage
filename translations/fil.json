@@ -166,15 +166,15 @@
         "rule2": "Gamitin lamang ang kategoryang ito para sa pagsasalin na ikaw ang sumulat o nag-update para sa isang Open Source na proyekto.",
         "rule3": "Maaari mo ring isama ang buo mong sinalin na text sa iyong post o magsama ng publikong mga link para sa buong bersyon.",
         "rule4": "Magsama ng maraming mga detalye hangga't maaari, para matingnan ang pagsasalin at mga gamit na iyong ginamit sa pagsasalin.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule5": "Ang buong pagsasalin ang aming iminumungkahi. kung ikaw ay susulat ng paunti unting pagsalin, kami ay karapatang suriin ang iyong aktwal na trabaho.",
+        "rule6": "Ikay dapat ang sumulat ng pagsasalin at magbigay ng paraan para matiyak ang iyong ginawa.",
+        "rule7": "Kung ang iyong username sa Crowdin o kaparehong plataporma ay hindi pareho sa username mo sa Utopian, kailangan mong magbigay ng katibayan na ikaw ang may ari ng account sa pamamagitan ng pagbibigay ng screenshot na ikaw ay naka login sa plataporma ng pagsasalin.",
+        "rule8": "Huwag kailanganmang magsumite ng pagsasalin na naibahagi mo na, o nang iba."
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
+        "headline": "Mga patakaran sa Graphics",
+        "rule1": "Meron kaming karapatan na tanggihan ang isang kontribusyon sa graphic kung kami ay naniniwalang ang gawa mo ay hindi sapat para gantimpalaan.",
+        "rule2": "Sa kategoryang ito, ang dapat lang isumite ay mga graphic na tulad ng mga logo, mga icon, mga background, mga Video o animation na iyong ginawa para sa Open Source na proyekto.",
         "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
         "rule4": "You must give as much detail as possible to verify the work you did.",
         "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
