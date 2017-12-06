@@ -96,7 +96,6 @@ a
     .active > .nav-link,
     .nav-link.active,
     .nav-link.show,
-    .nav-link:focus,
     .nav-link:hover,
     .show > .nav-link
       color: #4b7dc0
@@ -127,16 +126,19 @@ a
 
 #header
   background: #252525
-  height: 768px
+  height: 850px
   position: relative
 
   #header-content
+    position: relative
+    z-index: 999
     padding-top: 200px
     h1
       font-size: 4rem
 
   .parallax-wave
     position: absolute
+    z-index: 99
     bottom: 0
     left: 0
     right: 0
