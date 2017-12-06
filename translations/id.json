@@ -224,24 +224,24 @@
         "rule1": "Video Tutorial menggunakan suara mesin akan ditolak.",
         "rule2": "Kategori ini hanya untuk menyediakan video tutorial untuk sebuah proyek Open Source.",
         "rule3": "Video Tutorial dapat dalam bahasa apapun.",
-        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas posting.",
+        "rule4": "Teks intro dalam bahasa Inggris selalu wajib, di bagian atas posting.",
         "rule5": "Anda harus menjadi penulis video tutorial.",
         "rule6": "Anda harus embed video langsung di posting. Saat ini, YouTube video wajib.",
-        "rule7": "Pernah posting video tutorial Anda telah berbagi sebelum pada Steem blockchain secara umum."
+        "rule7": "Jangan pernah posting video tutorial yang anda bagikan sebelumnya pada Steem blockchain secara umum."
       },
       "copywriting": {
         "headline": "Peraturan Copywriting",
-        "rule1": "Hanya bergabung menarik permintaan akan diterima pada repositori resmi atau garpu sebagai lama selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
-        "rule2": "Menggunakan kategori ini hanya untuk menunjukkan pekerjaan copywriting bahwa Anda telah menyelesaikan untuk sebuah proyek Open Source.",
+        "rule1": "Hanya gabungan permintaan tarik akan diterima pada repositori resmi atau garpu asalkan garpu bukan hanya cermin dari yang asli. Bukti kerja yang dibutuhkan.",
+        "rule2": "Gunakan kategori ini hanya untuk menunjukkan pekerjaan copywriting yang telah anda selesaikan untuk sebuah proyek Open Source.",
         "rule3": "Copywriting dapat dalam bahasa apapun.",
-        "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas posting.",
+        "rule4": "Teks intro dalam bahasa Inggris selalu wajib, di bagian atas posting.",
         "rule5": "Anda harus menjadi penulis.",
-        "rule6": "Jika berlaku, link untuk menarik permintaan yang telah Anda kirimkan pada GitHub yang berisi pekerjaan Anda.",
-        "rule7": "Pernah posting copywriting pekerjaan yang Anda telah berbagi sebelum."
+        "rule6": "Jika berlaku, tautan untuk permintaan tarik yang telah Anda kirimkan pada GitHub yang berisi pekerjaan Anda.",
+        "rule7": "Jangan pernah posting copywriting pekerjaan yang telah anda bagikan sebelumnya."
       },
       "blog": {
-        "headline": "Aturan posting blog",
-        "rule1": "Anda harus memberikan format asli/s. Anda tidak dapat memposting tentang berita yang ditemukan di web atau pikiran umum, kecuali jika Anda memiliki format yang unik dan konsisten. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'> contoh format yang baik</a>.",
+        "headline": "Peraturan Blog Post",
+        "rule1": "Anda harus menyediakan format asli / s. Anda tidak dapat memposting tentang berita yang ditemukan di web atau pemikiran umum, kecuali Anda memiliki format yang unik dan konsisten.<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Contoh sebuah format yang bagus</a>.",
         "rule2": "Anda hanya dapat menulis posting blog yang terkait dengan <b>proyek sumber terbuka</b> atau <b>open source gerakan</b> secara umum.",
         "rule3": "Posting blog harus menyediakan konten yang rinci dan ikhtisar yang berhubungan dengan proyek-proyek open source.",
         "rule4": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
