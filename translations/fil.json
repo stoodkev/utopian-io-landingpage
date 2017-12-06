@@ -149,13 +149,13 @@
         "rule1": "Yung na-merge lamang na mga pull request ang tatangapin o Open Source na proyekto na iyong ipinapanatili na hindi pa nai po-post sa Utipian noon, kasama ang mga fork hanggat ang fork ay hindi lamang salamin ng orihinal. Patunay ng pag gawa ay kinakailangan.",
         "rule2": "Sa kategoryang ito, maaari kalamang sumulat kung ikaw ay nag develop o nag kontribyut ng code sa development na proyekto.",
         "rule3": "Kailangan mong mag bigay ng link para sa mga branch, mga fork, mga git o mga pull request.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "rule4": "Kung ang iyong username sa GitHub ay hindi parehas ng iyong username sa Utopian, kailangan mong mag bigay ng patunay na ikaw ang may-ari ng account sa pamamagitan ng screenshot na ikaw ay naka login sa Github.",
+        "rule5": "Mga imahe, mga screenshot, mga link at mga halimbawa ay hindi kinakailangan subalit mas mainam.",
+        "rule6": "Wag kang susulat ng kontibusyon na tungkol sa code na naisulat mo na noon."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
+        "headline": "Mga patakaran sa Bug Hunting",
+        "rule1": "Gamitin lamang ang kategoryang ito sa pag report ng mga bug na iyong nakita sa isang Open Source na proyekto.",
         "rule2": "You must provide all possible details required to reproduce the bug.",
         "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
         "rule4": "Never report bugs that have already been shared before, by you or someone else."
