@@ -146,7 +146,7 @@
       },
       "development": {
         "headline": "Mga patakaran sa development",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "Yung na-merge lamang na mga pull request ang tatangapin o Open Source na proyekto na iyong ipinapanatili na hindi pa nai po-post sa Utipian noon, kasama ang mga fork hanggat ang fork ay hindi lamang salamin ng orihinal. Patunay ng pag gawa ay kinakailangan.",
         "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
         "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
