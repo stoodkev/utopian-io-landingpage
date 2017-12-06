@@ -221,16 +221,16 @@
       },
       "videotutorials": {
         "headline": "Patakaran sa paguturo gamit ang Vidyo",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "rule1": "Ang Pagtuturo sa Vidyo gamit ang machine na boses ay hindi tatanggapin.",
+        "rule2": "Ang kategoryang ito ay para lamang sa pagtuturo gamit ang vidyo sa isang Open Source na proyekto.",
+        "rule3": "Ang pagtuturo gamit ang vidyo ay maaari sa anumang wika.",
+        "rule4": "Ang introduksyon ay kinakailangang Ingles, sa itaas ng iyong post.",
+        "rule5": "Kinakailangang ikaw ang gumawa ng pagtuturo sa vidyo.",
+        "rule6": "Kailangang mong i-embed ang vidyo direkta sa post. Sa kasalukuyan, ang vidyo sa YouTube ang iminumungkahi.",
+        "rule7": "Huwag kang mag po-post ng pagtuturo sa vidyo na naibahagi mo na noon sa Steem blockchain sa pangkalahatan."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
+        "headline": "Mga patakaran sa Copywriting",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
         "rule3": "Copywriting can be in any language.",
