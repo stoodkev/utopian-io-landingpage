@@ -21,7 +21,7 @@
     "visit": "Kunjungi GitHub.com!"
   },
   "projects": {
-    "headline": "Pilih sebuah proyek..."
+    "headline": "Pilih sebuah projek..."
   },
   "contribute": {
     "headline": "... dan berkontribusi!",
@@ -82,7 +82,7 @@
       "text": "Dapatkan perhatian dari pemikir hebat tentang proyek Anda untuk mengembangkan ide dan memecahkan masalah."
     },
     "developers": {
-      "headline": "Pengembang",
+      "headline": "Para pengembang",
       "text": "Hubungi pengembang berbakat untuk menulis kode atau memperbaiki bug."
     },
     "bughunters": {
@@ -145,7 +145,7 @@
         "rule6": "Jangan pernah menulis tentang proyek yang telah Anda bagikan sebelumnya atau proyek yang telah dibagikan oleh orang lain."
       },
       "development": {
-        "headline": "Aturan Pengembangan",
+        "headline": "Peraturan Pengembangan",
         "rule1": "Hanya bergabung menarik permintaan akan diterima atau proyek sumber terbuka Anda mempertahankan pernah diposting pada utopis sebelumnya, garpu termasuk selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
         "rule2": "Dalam kategori ini, Anda hanya bisa menulis jika Anda mengembangkan atau memberi kode untuk pengembangan sebuah proyek.",
         "rule3": "Anda harus menyediakan tautan ke cabang, garpu, gerbang atau permintaan tarik.",
