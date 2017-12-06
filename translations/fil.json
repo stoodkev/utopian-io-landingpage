@@ -193,13 +193,13 @@
         "headline": "Mga patakaran sa Visibility",
         "rule1": "Sa kategoryang ito, isumite ang resulta ng iyong pagsisikap na maialakal para mapabuti ang visibility ng isang Open Source na proyekto; katulad ng pag kampanya sa social medya, pag a-advertise, comperensya o pakikipagkita.",
         "rule2": "Kinakailangan mong magbigay ng mga link, mga imahe o mga vidyo na may pagpapatunay ng iyong pagsisikap, at ipakita rin dapat ang resulta.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule3": "Kung ang pagsisikap mo ay nagdala ng wala o kakaunti lamang na bagong user/kontributor sa isang Open Source, Hindi mo na dapat itong isulat pa.",
+        "rule4": "Kailangan mong patunayan ang iyong pagkatao. Kung ang iyong username sa Utopian ay hindi kapareha ng iyong username sa plataporma na iyong ginamit para i-market ang proyekto, kailangan mong magbigay ng mga screenshot na ikaw ay naka login sa sesyon ng nasabing plataporma.",
+        "rule5": "Huwag magsulat ng tungkol sa pagsisikat sa visibility na iyong naibahagi na noon."
       },
       "documentation": {
-        "headline": "Documentation Rules",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "headline": "Mga patakaran sa Dokumentasyon",
+        "rule1": "Yun lamang na na-merge na mga Pull Request sa opisyal na repository ang matatangap o sa fork basta ito ay hindi lang salamin ng orihinal. Patunay sa gawain ay kinakailangan.",
         "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
         "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
