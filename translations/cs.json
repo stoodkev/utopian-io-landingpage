@@ -1,13 +1,13 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
+    "rewards": "Odměny",
+    "rules": "Pravidla",
+    "moderators": "Moderátoři",
     "faq": "FAQ",
-    "help": "Help",
+    "help": "Nápověda",
     "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "signup": "Registrace",
+    "login": "Přihlásit se"
   },
   "header": {
     "text1": "Utopian.io",
