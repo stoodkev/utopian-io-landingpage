@@ -118,25 +118,25 @@
     "steem": {
       "headline": "Yang membayar penghargaan?",
       "text": "Untuk membayar imbalan, Utopian.io menggunakan <a href='https://steem.io/'> Steem blockchain</a>. Uang yang dibuat dalam bentuk cryptocurrency yang disebut <b>STEEM</b>, melalui masyarakat pemungutan suara. Tidak ada yang harus membayar untuk hadiah langsung. Mereka dihasilkan dan didistribusikan menggunakan algoritma yang disebut <i>Bukti dari otak</i>, yang mendorong orang untuk membuat dan pendeta pembantu kualitas konten. <br><br>Dalam kasus Utopian.io, kontribusi Anda untuk dunia Open Source adalah kualitas konten. Dengan upvoting kontribusi Anda, masyarakat menciptakan uang untuk menghargai Anda untuk pekerjaan Anda. Orang juga dapat memilih untuk membayar satu sama lain secara langsung menggunakan STEEM mereka sendiri, jika mereka ingin, tapi itu opsional. <br><br>Nilai pengguna suara didasarkan pada investasi-nya sendiri dalam platform dan semakin besar saham mereka, semakin suara mereka adalah layak ketika curating. Utopian.io itu sendiri dapat memberikan suara pada kontribusi Anda. Lebih dari <b>3 juta Steem Power</b> didelegasikan ke account Utopian.io platform, membuat suara yang penuh senilai lebih dari <b>$250</b>, pada harga pasar. <br><br><a href='#faq'> memeriksa FAQ</a> untuk informasi lebih lanjut.",
-      "button": "Learn more about Steem"
+      "button": "Pelajari selengkapnya tentang steem"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
+    "step1": "Mematuhi<br>aturan kita!",
     "step2": "Mendapatkan ditinjau oleh moderator <br>kami!",
     "step3": "Dapatkan upvoted oleh Utopian.io dan masyarakat!",
-    "step4": "Get paid<br>after 7 days!",
+    "step4": "Mendapat bayaran<br>setelah 7 hari!",
     "text": "Untuk memastikan kualitas, kontribusi masing-masing ini ditinjau oleh salah satu moderator kami, sesuai peraturan kami. Tidak menghormati aturan-aturan ini akan membuat Anda lebih rendah imbalan atau berhenti kontribusi Anda diterima sama sekali. Namun, jika sumbangan Anda tidak diterima, itu masih akan diterbitkan pada Steem blockchain, dan itu bisa mendapatkan imbalan. Dalam hal ini, Anda akan Anda sendiri. Utopis tidak akan menghargai kontribusi Anda atau berbagi.",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
+        "headline": "Peraturan Saran",
         "rule1": "Saran are fitur kecil/tambahan yang Anda akan ingin memiliki dalam proyek sumber terbuka.",
         "rule2": "Saran harus memberikan perincian yang cukup untuk fitur yang diminta akan benar-benar dibangun.",
         "rule3": "Gambar, tangkapan layar, tautan dan contoh selalu dipersilahkan dalam kategori ini.",
         "rule4": "Jangan pernah menulis saran yang telah Anda bagikan sebelumnya atau saran yang telah dibagikan oleh orang lain."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
+        "headline": "Peraturan Sub-Proyek",
         "rule1": "Sub-proyek adalah satu set fitur baru, gaib yang memiliki dampak besar pada proyek.",
         "rule2": "Sub-proyek harus memberikan rincian lengkap fitur yang benar-benar dibangun.",
         "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
