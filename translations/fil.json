@@ -147,7 +147,7 @@
       "development": {
         "headline": "Mga patakaran sa development",
         "rule1": "Yung na-merge lamang na mga pull request ang tatangapin o Open Source na proyekto na iyong ipinapanatili na hindi pa nai po-post sa Utipian noon, kasama ang mga fork hanggat ang fork ay hindi lamang salamin ng orihinal. Patunay ng pag gawa ay kinakailangan.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
+        "rule2": "Sa kategoryang ito, maaari kalamang sumulat kung ikaw ay nag develop o nag kontribyut ng code sa development na proyekto.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
         "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
         "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
