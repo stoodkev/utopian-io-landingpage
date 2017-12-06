@@ -200,16 +200,16 @@
       "documentation": {
         "headline": "Mga patakaran sa Dokumentasyon",
         "rule1": "Yun lamang na na-merge na mga Pull Request sa opisyal na repository ang matatangap o sa fork basta ito ay hindi lang salamin ng orihinal. Patunay sa gawain ay kinakailangan.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "rule2": "Mag sumite lamang sa kategoryang ito kung ikaw ay gumagawa ng opisyal na dokumentasyon sa isang Open Source na proyekto.",
+        "rule3": "Ikaw dapat ang sumulat ng alinmang buong dokumentasyon o pagbabago/pagpapahusay na nailapat sa mga dokumento.",
+        "rule4": "Tanging opisyal na gawaing dokumentasyon ng proyekto ang pwedeng isumite sa kategoryang ito. Gamitin ang pagtuturo sa ibang dokumento.",
+        "rule5": "Kung hindi mo ipo-post ang kabuuan ng nilalaman sa sinulat mo, dapat mong ibigay ang pangpublikong link nito.",
+        "rule6": "Kailangan mong magbigay ng sapat na katibayan sa trabahong iyong ginawa.",
+        "rule7": "Kung naaangkop, i-link ang pull request na iyong isinumite sa GitHub na naglalaman ng iyong gawain.",
+        "rule8": "Wag kailan mang magsumite ng gawaing dokumentasyon na naibahagi mo na noon."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
+        "headline": "Patakaran sa Pagtuturo",
         "rule1": "Ang pagsalin ng tutorial gamit ang machine ay hindi matatangap.",
         "rule2": "Ang kategoryang ito ay para lamang sa pag-tuturo ng isang Open Source na proyekto.",
         "rule3": "Ang pagtuturo ay maaaring nasa anumang wika.",
@@ -267,7 +267,7 @@
       "text": "<p>ay isang Open Source na software na laging nauugnay sa boluntaryong paggawa ng mga tao sa buong mundo na hindi binabayadan sa kanilang masigasig na pag ta trabaho. Ang software ay gumagana sa mga device, website at application na maaari mong maisip. Ito ay kadalasang ginawa ng mga boluntaryo, mga mahihilig, mga masisigasig na buong pusong inialay ang kanilang panahon at pagsisikap sa adhikain.</p><p>Ang Utopoan ay ang pagbubuo ng open source na ekonomiya, kung saan na ang mga tao ay gumagawa ng mga mayhalagang kontribusyon sa open source software na proyekto at ginagantimpalaan ang kanilang masigasig na pagtatrabaho. Ginawa sa ibabaw ng Steem blockchain, Ang Utopian ay ginagamit ang talino ng mga tao para magantimpalaan ang mga mahahalagang kontribusyon. Ang May-ari ng proyekto at ibang mga kontributor ay mag dedesisyon kung paanong ang pabuya ay ipinamamahagi sa pamamagitan ng pag boto at pagkagusto sa indibidwal na kontribusyon, at maaari silang pumili na suportahan ang kontributor sa pamamagitan ng pag babayad ng derekta ng cryptocurrency na tinatawag na STEEM, na napakadaling ipalit sa ibang cryptocurrencies katulad ng Bitcoin ay Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
+      "headline": "2. Ano ang Steem?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
