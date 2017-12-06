@@ -186,12 +186,12 @@
         "rule1": "Ang kategoryang ito ay para lamang sa pagsusuri na iyong inihanda para sa isang Open Source na proyekto.",
         "rule2": "Kailangan mong isama ang mga detalye ng resulta at ipaliwanag ang mga rason na nasalikod nito.",
         "rule3": "Kung hindi mo ipo-post ang kabuuan ng iyong pagsusuri dito, kailangan mong magbigay ng pangpublikong link ng buong bersyon nito.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule4": "Ang mga resulta ng pagsusuri, sa pamamagitan ng mga chart o mga talahanayan, ay sapilitan sa kategoryang ito.",
+        "rule5": "Huwag kailanman mag sumite ng pagsusuri na naibahagi mo na noon, o ng sino man."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
+        "headline": "Mga patakaran sa Visibility",
+        "rule1": "Sa kategoryang ito, isumite ang resulta ng iyong pagsisikap na maialakal para mapabuti ang visibility ng isang Open Source na proyekto; katulad ng pag kampanya sa social medya, pag a-advertise, comperensya o pakikipagkita.",
         "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
         "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
         "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
