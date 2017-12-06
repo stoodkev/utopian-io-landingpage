@@ -117,8 +117,8 @@
     "total_generated": "Total Generado",
     "steem": {
       "headline": "¿Quién paga las recompensas?",
-      "text": "Para pagar las recompensas, Utopian.io utiliza el <a href='https://steem.io/'> Steem blockchain</a>. El dinero es creado en la forma de una criptomoneda llamada <b>STEEM</b>, a través de la votación de la comunidad. Nadie tiene que pagar directamente las recompensas. Estas son generadas y distribuidas mediante un algoritmo llamado <i>Proof-of-Brain</i>, que estimula a los usuarios para que creen y hagan curación en contenidos de calidad. <br><br>En el caso de Utopian.io, su aportación al mundo del Código Abierto es la calidad del contenido. Al votar sus contribuciones, la comunidad crea dinero para recompensarle por su trabajo. Las personas también pueden optar por pagarse unos a otros utilizando directamente su propio STEEM, si ellos quieren, pero es algo opcional. <br><br>El valor del voto de un usuario se basa en su propia inversión en la plataforma, mientras más grande sea su participación, mayor valor tendrá el mismo al momento de la curación. Utopian.io podrá votar en sus contribuciones. Con más de <b>3 millones de Steem Power</b> delegado a la cuenta de la plataforma Utopian.io, un voto por su valor completo vale más que <b>250 dólares</b>, al precio corriente dentro del mercado. <br><br><a href='#faq'> Revise las preguntas frecuentes</a> para poder obtener más información.",
-      "button": "Conocer más acerca de Steem"
+      "text": "Para pagar las recompensas, Utopian.io utiliza el <a href='https://steem.io/'> Steem blockchain</a>. El dinero es creado en la forma de una criptomoneda llamada <b>STEEM</b>, a través de la votación de la comunidad. Nadie tiene que pagar directamente las recompensas. Las mismas son generadas y distribuidas mediante un algoritmo llamado <i>Proof-of-Brain</i>, que estimula a los usuarios para que creen y hagan curación en contenidos de calidad. <br><br>En el caso de Utopian.io, su aportación al mundo del Código Abierto es la calidad del contenido. Al votar sus contribuciones, la comunidad crea dinero para recompensarle por su trabajo. Las personas también pueden optar por pagarse unos a otros utilizando directamente su propio STEEM, si ellos quieren, pero es algo opcional. <br><br>El valor del voto de un usuario se basa en su propia inversión en la plataforma, mientras más grande sea su participación, mayor valor tendrá el mismo al momento de la curación. Utopian.io podrá votar en sus contribuciones. Con más de <b>3 millones de Steem Power</b> delegado a la cuenta de la plataforma Utopian.io, un voto por su valor completo vale más que <b>250 dólares</b>, al precio corriente dentro del mercado. <br><br><a href='#faq'> Revise las preguntas frecuentes</a> para poder obtener más información.",
+      "button": "Conoce más acerca de Steem"
     }
   },
   "rules": {
@@ -140,7 +140,7 @@
         "rule1": "Un subproyecto es un conjunto de novedosas características que tendrán un gran impacto en el proyecto.",
         "rule2": "Los subproyectos deben proporcionar información detallada de las características que serán construidas.",
         "rule3": "Imágenes, capturas de pantalla, enlaces, flujos y ejemplos serán siempre obligatorios en esta categoría.",
-        "rule4": "En esta categoría, la calidad del contenido es el factor principal para poder ser aceptada en Utopian.",
+        "rule4": "En esta categoría, la calidad del contenido es el factor principal para que pueda ser aceptado en Utopian.",
         "rule5": "Si crees que tu idea no califica como un subproyecto, usa la categoría sugerencias en su lugar.",
         "rule6": "Nunca escribas sobre proyectos que ya habías compartido anteriormente o que ya habían sido compartidos por algún otro."
       },
