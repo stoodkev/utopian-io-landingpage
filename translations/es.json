@@ -267,27 +267,27 @@
       "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
+      "headline": "2. ¿Qué es Steem?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
+      "headline": "3. ¿De dónde provienen las recompensas?",
       "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
     },
     "q4": {
-      "headline": "4. Where do I find my wallet?",
+      "headline": "4. ¿Dónde puedo encontrar mi Monedero?",
       "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
+      "headline": "5. ¿Cómo convierto mi STEEM en dinero efectivo?",
       "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
+      "headline": "6. ¿Cómo puedo ganar más recompensas?",
       "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "puedes leer más en steemit.com"
   }
 }
