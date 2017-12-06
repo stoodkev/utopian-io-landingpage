@@ -103,20 +103,20 @@
     },
     "analysts": {
       "headline": "Data Analisis",
-      "text": "Ekstrak makna dari data yang dihasilkan, menemukan tren dan membuat keputusan mengenai proyek Anda melalui bantuan data analis."
+      "text": "Ekstrak makna dari data yang Anda hasilkan, temukan tren dan buat keputusan yang tepat mengenai proyek Anda melalui bantuan data analisis."
     },
     "influencers": {
       "headline": "Influencers",
-      "text": "Mengkoordinasikan pemasaran online atau offline yang efektif dengan bantuan influencer di seluruh dunia dan mendapatkan proyek Anda perhatian yang layak."
+      "text": "Mengkoordinasikan pemasaran online atau offline yang efektif dengan bantuan influencer di seluruh dunia dan dapatkan perhatian yang pantas pada proyek Anda."
     }
   },
   "rewards": {
-    "contributor_rewards": "Kontributor penghargaan",
-    "curator_rewards": "Upah Kurasi",
-    "pending_rewards": "Imbalan tertunda",
+    "contributor_rewards": "Imbilan Kontributor",
+    "curator_rewards": "Imbalan Kurasi",
+    "pending_rewards": "Imbalan Tertunda",
     "total_generated": "Total yang dihasilkan",
     "steem": {
-      "headline": "Yang membayar penghargaan?",
+      "headline": "Siapa yang membayar Imbalan?",
       "text": "Untuk membayar imbalan, Utopian.io menggunakan <a href='https://steem.io/'> Steem blockchain</a>. Uang yang dibuat dalam bentuk cryptocurrency yang disebut <b>STEEM</b>, melalui masyarakat pemungutan suara. Tidak ada yang harus membayar untuk hadiah langsung. Mereka dihasilkan dan didistribusikan menggunakan algoritma yang disebut <i>Bukti dari otak</i>, yang mendorong orang untuk membuat dan pendeta pembantu kualitas konten. <br><br>Dalam kasus Utopian.io, kontribusi Anda untuk dunia Open Source adalah kualitas konten. Dengan upvoting kontribusi Anda, masyarakat menciptakan uang untuk menghargai Anda untuk pekerjaan Anda. Orang juga dapat memilih untuk membayar satu sama lain secara langsung menggunakan STEEM mereka sendiri, jika mereka ingin, tapi itu opsional. <br><br>Nilai pengguna suara didasarkan pada investasi-nya sendiri dalam platform dan semakin besar saham mereka, semakin suara mereka adalah layak ketika curating. Utopian.io itu sendiri dapat memberikan suara pada kontribusi Anda. Lebih dari <b>3 juta Steem Power</b> didelegasikan ke account Utopian.io platform, membuat suara yang penuh senilai lebih dari <b>$250</b>, pada harga pasar. <br><br><a href='#faq'> memeriksa FAQ</a> untuk informasi lebih lanjut.",
       "button": "Pelajari selengkapnya tentang steem"
     }
