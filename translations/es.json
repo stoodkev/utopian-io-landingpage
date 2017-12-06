@@ -6,7 +6,7 @@
     "faq": "Preguntas Frecuentes",
     "help": "Ayuda",
     "blog": "Blog",
-    "signup": "Sign Up",
+    "signup": "Registrarse",
     "login": "Entrar"
   },
   "header": {
@@ -259,11 +259,11 @@
     "text": "En Utopian, todos los contribuyentes son recompensados por su arduo trabajo, incluidos nuestros moderadores, quienes se aseguran de que se cumplan altos estándares de calidad dentro de la plataforma.",
     "pending_payout": "Pago Pendiente",
     "previous_payout": "Pago Anterior",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "text2": "El 5% del total de las recompensas generadas por los contribuyentes está destinada a los Moderadores en función de la cantidad de contribuciones que hayan revisado. Para ser un Moderador de Utopian debes tener una gran reputación y hacer revisiones continuas de las contribuciones enviadas."
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
+      "headline": "1. ¿Qué es Utopian?",
       "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
     },
     "q2": {
