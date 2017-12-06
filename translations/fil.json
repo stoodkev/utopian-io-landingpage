@@ -178,14 +178,14 @@
         "rule3": "Kailangan mong maglagay ng mga halimbawa sa iyong mga ginawa direkta sa iyong post at pampublikong mga link ng kabuuang design.",
         "rule4": "Kailangan mong mag bigay ng mga detalye hangat maaari para aming malaman ang iyong trabahong ginawa.",
         "rule5": "Kailangan mong magbigay ng maaaring i-edit na source file (tulad ng .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule6": "Mga T-shirt at pangangalakal na mga design ay hindi namin malugod na tinatangap, maliban nalamang kung ito ay hiniling ng may-ari ng proyekto.",
+        "rule7": "Huwag kailanmang mag post ng tungkil sa mga Graphic na naibahago mo na noon, at ng iba."
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
+        "headline": "Mga patakaran sa pagsusuri",
+        "rule1": "Ang kategoryang ito ay para lamang sa pagsusuri na iyong inihanda para sa isang Open Source na proyekto.",
+        "rule2": "Kailangan mong isama ang mga detalye ng resulta at ipaliwanag ang mga rason na nasalikod nito.",
+        "rule3": "Kung hindi mo ipo-post ang kabuuan ng iyong pagsusuri dito, kailangan mong magbigay ng pangpublikong link ng buong bersyon nito.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
       },
