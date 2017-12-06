@@ -158,31 +158,31 @@
         "rule1": "Hanya menggunakan kategori ini untuk melaporkan Anda telah menemukan dalam proyek sumber terbuka.",
         "rule2": "Anda harus memberikan semua rincian yang mungkin diperlukan untuk mereproduksi bug.",
         "rule3": "Anda harus memasukkan, sebagai contoh: browser yang digunakan, jenis perangkat, sistem operasi dan butir-butir serupa.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "rule4": "Jangan pernah melapor bug yang sudah dibagikan sebelumnya, dari kamu atau orang lain."
       },
       "translation": {
-        "headline": "Translation Rules",
+        "headline": "Peraturan Terjemahan",
         "rule1": "Mengirimkan suatu terjemahan dalam utopis Anda harus telah diterjemahkan setidaknya 30% proyek menengah ukuran proyek (500-1000 string), 10-15% untuk proyek-proyek besar (1000 dan atas), 100% untuk proyek-proyek kecil (1-500).",
         "rule2": "Menggunakan kategori ini hanya untuk terjemahan Anda menulis atau diperbarui untuk sebuah proyek Open Source.",
         "rule3": "Anda juga harus mencakup seluruh teks diterjemahkan dalam posting atau menyertakan umum link ke versi lengkap.",
         "rule4": "Mencakup sedetail mungkin, untuk memeriksa terjemahan dan alat-alat yang Anda telah digunakan untuk menerjemahkan.",
         "rule5": "Seluruh terjemahan selalu lebih disukai. Jika Anda menulis tentang Terjemahan parsial, kami berhak untuk mengevaluasi pekerjaan yang sebenarnya.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
+        "rule6": "Anda harus menjadi penulis terjemahan dan memberikan cara untuk verifikasi pekerjaan Anda.",
         "rule7": "Jika nama pengguna Anda pada CrowdIn atau serupa platform terjemahan tidak sama dengan username yang utopis, Anda harus membuktikan bahwa Anda memiliki account dengan menyediakan screenshot dari sesi login pada platform terjemahan tersebut.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule8": "Jangan pernah memasukan terjemahan yang sudah dibagikan sebelumnya, dari kamu atau orang lain."
       },
       "graphics": {
-        "headline": "Graphics Rules",
+        "headline": "Peraturan Grafis",
         "rule1": "Kami berhak untuk menolak kontribusi grafis jika kita percaya kerja tidak cukup dihargai.",
         "rule2": "Dalam kategori ini, hanya menyerahkan grafis seperti logo, ikon, latar belakang, video atau animasi yang telah Anda buat untuk sebuah proyek Open Source.",
         "rule3": "Anda harus menyertakan contoh kreasi Anda langsung di posting Anda dan umum link ke desain lengkap.",
         "rule4": "Anda harus memberikan sedetail mungkin untuk memverifikasi pekerjaan yang Anda lakukan.",
         "rule5": "Anda harus memberikan file sumber diedit (seperti .psd .ai .eps .svg .cdr).",
         "rule6": "T-shirt dan merchandising desain secara umum yang tidak selamat datang, kecuali secara eksplisit diminta oleh pemilik proyek.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule7": "Jangan pernah post tentang grafis yang sudah dibagikan sebelumnya, dari kamu atau orang lain."
       },
       "analysis": {
-        "headline": "Analysis Rules",
+        "headline": "Peraturan Analisis",
         "rule1": "Kategori ini adalah hanya untuk analisis yang sudah disediakan untuk sebuah proyek Open Source.",
         "rule2": "Anda harus termasuk hasil rinci dan menjelaskan alasan di balik mereka.",
         "rule3": "Jika Anda tidak posting analisis Anda secara keseluruhan di sini, Anda harus menyediakan umum link ke versi lengkap dari itu.",
@@ -190,12 +190,12 @@
         "rule5": "Tidak pernah mengirim analisis yang telah dibagi sebelumnya, oleh Anda atau orang lain."
       },
       "visibility": {
-        "headline": "Visibility Rules",
+        "headline": "Peraturan Visibilitas",
         "rule1": "Dalam kategori ini, menyerahkan hasil usaha pemasaran yang Anda buat untuk meningkatkan visibilitas proyek sumber terbuka; seperti kampanye media sosial, iklan, konferensi atau meetups.",
         "rule2": "Anda harus memberikan link, gambar atau video dengan bukti usaha Anda, dan juga berbagi hasil.",
         "rule3": "Jika usaha Anda membawa hanya beberapa atau nol baru pengguna/kontributor untuk proyek Open Source, Anda tidak harus menulis tentang hal itu.",
         "rule4": "Anda harus membuktikan identitas Anda. Jika username utopis tidak sama dengan nama pada platform Anda digunakan untuk pemasaran proyek, Anda harus menyediakan screenshot dari sesi login pada platform ini.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule5": "Jangan pernah menulis tentang usaha visibilitas yang sudah dibagikan sebelumnya."
       },
       "documentation": {
         "headline": "Dokumentasi peraturan",
@@ -209,13 +209,13 @@
         "rule8": "Tidak pernah mengirimkan dokumentasi pekerjaan yang telah Anda berbagi di masa lalu."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
-        "rule1": "Machine translated tutorials will be rejected.",
+        "headline": "Peraturan Tutorial",
+        "rule1": "Tutorial terjemahan mesin akan di tolak.",
         "rule2": "Kategori ini adalah hanya untuk menyediakan tutorial untuk sebuah proyek Open Source.",
         "rule3": "Tutorial dapat dalam bahasa apapun.",
         "rule4": "Intro teks dalam bahasa Inggris selalu wajib, di bagian atas posting.",
         "rule5": "Jika tutorial ini juga berisi video, Anda harus menggunakan kategori Video Tutorial.",
-        "rule6": "You must be the author of the tutorial.",
+        "rule6": "Anda harus menjadi penulis tutorial.",
         "rule7": "Jika Anda tidak posting seluruh tutorial di sini, Anda harus menyediakan umum link ke versi lengkap dari itu.",
         "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
       },
