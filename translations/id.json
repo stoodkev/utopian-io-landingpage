@@ -242,36 +242,36 @@
       "blog": {
         "headline": "Peraturan Blog Post",
         "rule1": "Anda harus menyediakan format asli / s. Anda tidak dapat memposting tentang berita yang ditemukan di web atau pemikiran umum, kecuali Anda memiliki format yang unik dan konsisten.<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Contoh sebuah format yang bagus</a>.",
-        "rule2": "Anda hanya dapat menulis posting blog yang terkait dengan <b>proyek sumber terbuka</b> atau <b>open source gerakan</b> secara umum.",
-        "rule3": "Posting blog harus menyediakan konten yang rinci dan ikhtisar yang berhubungan dengan proyek-proyek open source.",
-        "rule4": "Gambar, screenshot, link dan contoh yang tidak diinginkan tetapi diperlukan.",
-        "rule5": "Periksa untuk memastikan bahwa posting Anda tidak cocok dalam kategori lain (misalnya Tutorial atau Copywriting).",
+        "rule2": "Anda hanya dapat menulis posting blog yang terkait dengan <b>proyek open-source</b> atau <b>pergerakan open source</b> secara umum.",
+        "rule3": "Posting blog harus menyediakan konten yang rinci dan ikhtisar yang berhubungan dengan proyek open source.",
+        "rule4": "Gambar, tangkapan layar, tautan dan contoh yang tidak diinginkan tetapi diperlukan.",
+        "rule5": "Periksa untuk memastikan bahwa posting anda tidak cocok dalam kategori lain (misalnya Tutorial atau Copywriting).",
         "rule6": "Jangan pernah menulis blog post yang sudah kamu bagikan sebelumnya.",
-        "rule7": "Kami akan terutama ketat untuk kategori ini seperti yang kita lihat pelecehan di sini di masa lalu."
+        "rule7": "Kami akan sangat ketat untuk kategori ini karena kami telah melihat pelecehan di sini di masa lalu."
       }
     }
   },
   "moderators": {
-    "rewards": "Penghargaan",
+    "rewards": "Imbalan",
     "pending": "Tertunda",
     "previous": "Sebelumnya",
     "meet": "Temui moderator kami",
-    "text": "Pada utopis, Semua kontributor dihargai untuk kerja keras mereka, termasuk moderator kami, yang memastikan standar kualitas tinggi yang ditegakkan pada platform.",
+    "text": "Pada Utopian, semua kontributor diberi imbalan atas kerja keras mereka, termasuk moderator kami, yang memastikan standar kualitas tinggi ditegakkan pada platform.",
     "pending_payout": "Pembayaran Tertunda",
     "previous_payout": "Pembayaran Sebelumnya",
-    "text2": "5% dari total kontributor penghargaan yang dihasilkan pergi ke moderator berdasarkan jumlah kontribusi mereka telah meninjau. Untuk menjadi Moderator utopis Anda harus memiliki reputasi tinggi dan sering meninjau disampaikan kontribusi."
+    "text2": "5% dari total imbalan kontribusi yang dihasilkan diberikan kepada Moderator berdasarkan jumlah kontribusi yang telah mereka ulas. Untuk menjadi seorang Moderator Utopian Anda harus memiliki reputasi tinggi dan sering meninjau kontribusi yang diajukan."
   },
   "faq": {
     "q1": {
-      "headline": "1. apa itu utopis?",
-      "text": "Perangkat lunak open Source <p>selalu dikaitkan dengan pekerjaan sukarela oleh individu-individu di seluruh dunia yang tidak harus dibayar untuk semua kerja keras mereka. Perangkat lunak ini berjalan pada setiap perangkat, website dan aplikasi yang dapat Anda pikirkan. Hal ini sering dibuat oleh relawan, penggemar dan penggemar yang tanpa pamrih mendedikasikan waktu dan tenaga mereka untuk penyebab.</p> <p>Utopis adalah membangun ekonomi sumber terbuka, di mana orang-orang yang membuat kontribusi yang berharga untuk membuka sumber proyek perangkat lunak mendapatkan imbalan untuk kerja keras mereka. Dibangun ontop Steem blockchain, utopis menggunakan kebijaksanaan orang-orang untuk menghargai kontribusi yang berharga. Pemilik proyek dan kontributor lainnya semua mendapatkan untuk memutuskan bagaimana imbalan didistribusikan melalui voting atau keinginan individu kontribusi, dan mereka juga memiliki pilihan untuk mendukung kontributor langsung dengan membayar mereka di cryptocurrency disebut STEEM, yang dapat dengan mudah diperdagangkan untuk cryptocurrencies lain seperti Bitcoin dan Ethereum.</p>"
+      "headline": "1. Apa itu Utopian?",
+      "text": "<p>Perangkat lunak Open Source selalu dikaitkan dengan kerja sukarela oleh individu di seluruh dunia yang tidak harus dibayar untuk semua kerja keras mereka. Perangkat lunak ini berjalan di setiap perangkat, situs web dan aplikasi yang dapat Anda pikirkan. Hal ini sering diciptakan oleh relawan, penggemar dan antusiasme yang tanpa pamrih mempersembahkan waktu dan usaha mereka untuk tujuan tersebut. </p> <p>Utopian membangun ekonomi open source, di mana orang-orang yang memberikan kontribusi berharga pada proyek perangkat lunak open source mendapatkan imbalan atas kerja keras mereka. Dibangun di atas Steem Blockchain, Utopian menggunakan kebijaksanaan orang banyak untuk memberi penghargaan atas kontribusi yang berharga. Pemilik proyek dan kontributor lainnya semua dapat memutuskan bagaimana imbalan didistribusikan melalui pemungutan suara atau keinginan kontribusi individual, dan mereka juga memiliki opsi untuk mendukung kontributor secara langsung dengan membayarnya dalam kripto yang disebut STEEM, yang dapat dengan mudah diperdagangkan untuk kripto yang lain seperti Bitcoin dan Ethereum. </p>"
     },
     "q2": {
-      "headline": "2. apa yang dimaksud dengan Steem?",
-      "text": "<p>Steem adalah blockchain generasi berikutnya aplikasi sosial media dan konten mereka mendukung. Menggunakan mekanisme bukti dari otak yang unik yang memanfaatkan kebijaksanaan dari kerumunan pahala orang-orang yang membuat kontribusi yang berharga untuk komunitas mereka masing-masing. Mata uang asli disebut STEEM dan itu adalah mata uang utopis kontributor yang dihargai in.</p> <p><a href='https://steem.io'> Pelajari lebih lanjut tentang Steem</a></p>"
+      "headline": "2. Apa itu Steem?",
+      "text": "<p> Steem adalah blockchain generasi berikutnya yang mendukung aplikasi media sosial dan isinya. menggunakan mekanisme Proof-of-Brain unik yang memanfaatkan kebijaksanaan orang banyak untuk memberi penghargaan kepada orang-orang yang memberikan kontribusi berharga bagi komunitas mereka masing-masing. Mata uang aslinya disebut STEEM dan itu adalah mata uang yang diberikan oleh kontributor Utopian. </p> <p> <a href='https://steem.io'> Pelajari lebih lanjut tentang Steem </a> </p>"
     },
     "q3": {
-      "headline": "3. di mana imbalan datang dari?",
+      "headline": "3. Dari mana Imbalan akan datang?",
       "text": "<p>Steem model ekonomi yang memungkinkan untuk penciptaan baru Token (atau satuan Valas) pada tingkat inflasi yang telah ditetapkan sekitar 9,5% per tahun, turun sekitar 0,5% setiap tahun selama dua puluh satu setengah tahun, hingga mencapai inflasi tahunan 0,95% tingkat. Bukti baru ini didistribusikan secara terus menerus kepada orang-orang yang melakukan tindakan yang dianggap bernilai oleh komunitas mereka melalui masyarakat pemungutan suara. Dalam kasus masyarakat utopis, sebagai pemilik proyek, sesama kontributor dan orang lain dengan kepentingan pribadi dalam pengembangan perangkat lunak sumber terbuka \"upvote\" atau \"seperti\" kontribusi, mereka memiliki mengatakan dalam bagaimana bukti baru ini didistribusikan, dalam hubungan langsung saham mereka dalam ekosistem Steem (yaitu, berapa banyak Steem kekuatan mereka memiliki). Steem semakin besar kekuatan yang mereka miliki, lebih banyak penghargaan yang mereka dapat memberikan kepada kontributor.</p> <p>Kontributor mampu menebus hadiah mereka tujuh hari setelah posting atau kontribusi telah dipublikasikan.</p> <p><a href='https://steem.io'> Pelajari lebih lanjut tentang ekosistem Steem</a></p>"
     },
     "q4": {
