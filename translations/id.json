@@ -148,7 +148,7 @@
         "headline": "Peraturan Pengembangan",
         "rule1": "Hanya bergabung menarik permintaan akan diterima atau proyek sumber terbuka Anda mempertahankan pernah diposting pada utopis sebelumnya, garpu termasuk selama garpu ini tidak hanya cermin yang asli. Bukti pekerjaan yang diperlukan.",
         "rule2": "Dalam kategori ini, anda hanya bisa menulis jika Anda mengembangkan atau memberi kode untuk pengembangan sebuah proyek.",
-        "rule3": "Anda harus menyediakan tautan ke *branches*, *forks*, *gists* atau *pull requests*.",
+        "rule3": "Anda harus menyertakan tautan ke *branches*, *forks*, *gists* atau *pull requests*.",
         "rule4": "Jika nama pengguna Anda di Github tidak sama dengan nama pengguna di Utopian, Anda harus membuktikan bahwa Anda adalah pemilik akun dengan memberikan tangkapan layar sesi masuk di Github.",
         "rule5": "Gambar, tangkapan layar, tautan dan contoh yang tidak diinginkan tetapi diperlukan.",
         "rule6": "Jangan pernah menulis tentang kontribusi kode yang sudah anda bagikan sebelumnya."
@@ -276,15 +276,15 @@
     },
     "q4": {
       "headline": "4. Dimana menemukan dompet saya?",
-      "text": "<p>Semua STEEM yang Anda peroleh pada utopis dibuat tersedia untuk account Anda ketika setiap posting individu mencapai tanggal pembayaran, yang 7 hari setelah Anda menerbitkan itu. Saat ini, imbalan tersedia bagi Anda untuk menebus saldo rekening.</p> <p>Untuk melihat saldo account Anda dan untuk memiliki akses ke dana Anda, Anda akan perlu untuk pergi ke <a href='https://steemit.com'> steemit.com</a>. Ada bagian bernama \"Dompet\" mana Anda dapat melihat berapa banyak STEEM Anda sendiri dan juga memiliki alat untuk mentransfer, antara lain. Ada aplikasi dompet STEEM mobile saat ini sedang dikembangkan oleh Steemit Inc dan setelah itu keluar, itu akan menjadi cara termudah untuk mengelola dompet Anda STEEM.</p>"
+      "text": "<p>Semua STEEM yang Anda dapatkan di Utopian tersedia untuk akun Anda saat masing-masing pos mencapai tanggal pembayarannya, yaitu 7 hari setelah Anda menerbitkannya. Pada saat ini, penghargaan tersedia bagi Anda untuk menukarkan ke saldo akun Anda. </p> <p> Untuk melihat saldo akun Anda dan memiliki akses ke dana Anda, Anda harus pergi ke <a href = 'https: //steemit.com'> steemit.com </a>. Ada bagian bernama \"Dompet\" di mana Anda dapat melihat berapa banyak STEEM yang Anda miliki dan juga memiliki alat untuk mentransfernya, antara lain. Ada aplikasi dompet STEEM mobile yang saat ini dikembangkan oleh Steemit Inc. dan setelah selesai, ini akan menjadi cara termudah untuk mengelola dompet STEEM Anda.</p>"
     },
     "q5": {
       "headline": "5. Bagaimana saya melakukan cash pada STEEM saya?",
-      "text": "<p>Setelah Anda memiliki beberapa STEEM di dompet Anda, Anda dapat mentransfer file ke cryptocurrency asing yang mendukung STEEM seperti <a href='https://poloniex.com/'> Poloniex</a> atau <a href='https://bittrex.com/'> Bittrex</a>. Sana Anda dapat bertukar itu untuk cryptocurrencies lain seperti Bitcoin atau Ethereum, yang lebih mudah untuk pertukaran untuk fiat (USD misalnya).</p> <p>Atau Anda dapat menggunakan <a href='https://blocktrades.us/'> Blocktrades</a>, yang terintegrasi ke dalam antarmuka dompet Steemit. Cukup klik saldo STEEM dan dropdown menu akan muncul. Kemudian klik \"Menjual\" dan Anda akan diarahkan ke Blocktrades.</p>"
+      "text": "<p>Setelah Anda memiliki beberapa STEEM di dompet Anda, Anda dapat mentransfernya ke pertukaran cryptocurrency yang mendukung STEEM seperti <a href='https://poloniex.com/'> Poloniex </a> atau <a href = ' https://bittrex.com/'>Bittrex</a>. Di sana Anda bisa menukarkannya dengan kripto yang lain seperti Bitcoin atau Ethereum, yang lebih mudah ditukar dengan fiat (USD misalnya).</p><p>Atau Anda dapat menggunakan <a href = 'https: //blocktrades.us/'>Blocktrades</a>, yang diintegrasikan ke dalam antarmuka dompet Steemit. Cukup klik saldo STEEM Anda dan menu dropdown akan muncul. Kemudian klik \"Jual\" dan Anda akan dibawa ke Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. Bagaimana saya memperoleh lebih banyak penghargaan?",
-      "text": "<p>Kualitas adalah yang paling penting pada utopis. Masyarakat menghargai kontribusi yang berguna yang memecahkan masalah dan memindahkan proyek ke depan, sehingga kontribusi berkualitas akan mendapatkan melihat dan dihargai. Selalu mengirimkan karya terbaik Anda adalah cara paling pasti untuk memposisikan diri Anda untuk mendapatkan lebih banyak atas kontribusi Anda.</p>"
+      "headline": "6. Bagaimana saya memperoleh lebih banyak imbalan?",
+      "text": "<p>Kualitas adalah yang paling penting bagi Utopian. Komunitas menghargai kontribusi bermanfaat yang memecahkan masalah dan memindahkan proyek ke depan, sehingga kontribusi kualitas akan diperhatikan dan dihargai. Selalu mengirimkan karya terbaik Anda adalah cara yang paling pasti untuk memposisikan diri Anda untuk mendapatkan lebih banyak kontribusi Anda.</p>"
     }
   },
   "blog": {
