@@ -96,7 +96,8 @@ a {
       #navbar .text-right #language .dropdown-toggle:after {
         display: none; }
     #navbar .text-right #language .dropdown-menu {
-      min-width: 70px; }
+      min-width: 70px;
+      text-transform: none; }
   #navbar.scrolled {
     background: rgba(0, 0, 0, 0.8) !important;
     margin-top: 10px; }

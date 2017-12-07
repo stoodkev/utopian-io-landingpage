@@ -123,13 +123,21 @@ var app = new Vue({
       flag: 'assets/img/flags/en.png'
     }, {
       code: 'zh',
-      label: 'Chinese (simplified)',
+      label: '中文',
       flag: 'assets/img/flags/zh.png'
+    }, {
+      code: 'ru',
+      label: 'Pусский',
+      flag: 'assets/img/flags/ru.png'
+    }, {
+      code: 'es',
+      label: 'Español',
+      flag: 'assets/img/flags/es.png'
     },
     // {
-    //   code: 'es',
-    //   label: 'Spanish',
-    //   flag: 'assets/img/flags/es.png'
+    //   code: 'ar',
+    //   label: 'العربية',
+    //   flag: 'assets/img/flags/ar.png'
     // },
     // {
     //   code: 'id',
@@ -138,11 +146,11 @@ var app = new Vue({
     // },
     {
       code: 'fr',
-      label: 'French',
+      label: 'Français',
       flag: 'assets/img/flags/fr.png'
     }, {
       code: 'de',
-      label: 'German',
+      label: 'Deutsch',
       flag: 'assets/img/flags/de.png'
     }],
     currentLang: {},
