@@ -11,23 +11,23 @@
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "Open Source Ekonomika",
+    "text3": "Získejte odměnu za práci na vámi<br>oblíbených open source projektech!"
   },
   "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "Ahoj! Já jsem Octocat!",
+    "text": "Pracuji jako maskot v GitHubu! Je to skvělé místo. Jsme komunita nadšenců a dobrovolníků z celého světa, kteří pracují na tisících bezva projektech. <b>Utopian.io</b> odměňuje za práci na open source projektech, jako jsou opravy chyb, překlady textů, psaní dokumentace, sdílení nápadů a další.",
+    "visit": "Navštivte GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Vyberte si projekt..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "... a podílejte se na něm!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "Nápady",
+      "text": "Vše začíná zrozením myšlenky. Sdílejte své nápady a žádosti na funkce a pomozte tak vylepšit projekt."
     },
     "subprojects": {
       "headline": "Sub-Projects",

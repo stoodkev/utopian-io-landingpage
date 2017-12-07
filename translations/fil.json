@@ -2,7 +2,7 @@
   "nav": {
     "rewards": "Mga gantimpala",
     "rules": "Mga Patakaran",
-    "moderators": "Mga tagapayo",
+    "moderators": "Mga moderator",
     "faq": "FAQ",
     "help": "Tulong",
     "blog": "Blog",
@@ -26,7 +26,7 @@
   "contribute": {
     "headline": "...at mag kontribyut!",
     "suggestions": {
-      "headline": "Suggestions",
+      "headline": "Mga Suggestion",
       "text": "Lahat ay nagsisimula sa ideya. Ibahagi ang iyong ideya o menor na kahilingan para sa tampok at tumulong sa pagpapabuti ng proyekto."
     },
     "subprojects": {
@@ -42,7 +42,7 @@
       "text": "Tulungan ang mga developer na humanap at mag ayos ng mga problema sa kanilang software sa pamamagitan ng detalyadong mga bug report."
     },
     "translation": {
-      "headline": "Translation",
+      "headline": "Paglilimbag",
       "text": "Tulungan ang mga tao para magamit sa ibang mga wika ang software sa pamamagitan ng pagsasalin o pag dodokumentasyon sa pamamagitan ng <a href='https://crowdin.com/' target='_blank'>Crowdin</a> at iba pang mga kagamitan."
     },
     "graphics": {
@@ -59,15 +59,15 @@
     },
     "visibility": {
       "headline": "Visibility",
-      "text": "Ang pagsisikap sa pakiki pagkalakal ay maaari ding kumita sa pamamagitan ng Utopian. saibihin sa komunidad ang iyong ginawa para maisulong ang Open Source na proyekto."
+      "text": "Ang pagsisikap sa pakiki pag-mamarket ay maaari ding kumita sa pamamagitan ng Utopian. saibihin sa komunidad ang iyong ginawa para maisulong ang Open Source na proyekto."
     },
     "tutorials": {
       "headline": "Pagtuturo",
       "text": "Magsulat ng nagbibigay-kaalaman na pagtuturo at tumulong sa ibang tao para gamitin ang mga Open Source na produkto."
     },
     "videotutorials": {
-      "headline": "Pagtuturo gamit ang Vidyo",
-      "text": "Lumikha ng mga paano-gawin na Vidyo para sa mga produktong Open Source at tumulong sa mga tao kung paano ito gagamitin."
+      "headline": "Pagtuturo gamit ang Video",
+      "text": "Lumikha ng mga paano-gawin na Video para sa mga produktong Open Source at tumulong sa mga tao kung paano ito gagamitin."
     },
     "copywriting": {
       "headline": "Copywriting",
@@ -87,7 +87,7 @@
     },
     "bughunters": {
       "headline": "Mga bug hunter",
-      "text": "Hikayatin ang mga gumagami para mag report ng mga problema o imbitahin sila para subukan ang mga bagong feature na iyong dini-develop."
+      "text": "Hikayatin ang mga user para mag report ng mga problema o imbitahin sila para subukan ang mga bagong feature na iyong dini-develop."
     },
     "translators": {
       "headline": "Mga tagasalin",
@@ -162,7 +162,7 @@
       },
       "translation": {
         "headline": "Mga patakaran ng pagsasalin",
-        "rule1": "Upang makapag sumite ng pagsasalin sa Utopian kailangan mong mag salin ng kahit 30% ng buong proyekto para sa medyun na sukat ng mga proyekto(500-1000 strings), 10-15% para naman sa malalaking proyekto (1000 pataas), 100% para sa maliliit na proyekto(1 - 500).",
+        "rule1": "Upang makapag sumite ng pagsasalin sa Utopian kailangan mong mag salin ng kahit 30% ng buong proyekto para sa medyun na sukat ng mga proyekto(500-1000 strings), 10-15% para naman sa malalaking proyekto (1000 pataas), 100% para sa maliliit na proyekto(1-500).",
         "rule2": "Gamitin lamang ang kategoryang ito para sa pagsasalin na ikaw ang sumulat o nag-update para sa isang Open Source na proyekto.",
         "rule3": "Maaari mo ring isama ang buo mong sinalin na text sa iyong post o magsama ng publikong mga link para sa buong bersyon.",
         "rule4": "Magsama ng maraming mga detalye hangga't maaari, para matingnan ang pagsasalin at mga gamit na iyong ginamit sa pagsasalin.",
@@ -186,30 +186,30 @@
         "rule1": "Ang kategoryang ito ay para lamang sa pagsusuri na iyong inihanda para sa isang Open Source na proyekto.",
         "rule2": "Kailangan mong isama ang mga detalye ng resulta at ipaliwanag ang mga rason na nasalikod nito.",
         "rule3": "Kung hindi mo ipo-post ang kabuuan ng iyong pagsusuri dito, kailangan mong magbigay ng pangpublikong link ng buong bersyon nito.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule4": "Ang mga resulta ng pagsusuri, sa pamamagitan ng mga chart o mga talahanayan, ay sapilitan sa kategoryang ito.",
+        "rule5": "Huwag kailanman mag sumite ng pagsusuri na naibahagi mo na noon, o ng sino man."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "headline": "Mga patakaran sa Visibility",
+        "rule1": "Sa kategoryang ito, isumite ang resulta ng iyong pagsisikap na maialakal para mapabuti ang visibility ng isang Open Source na proyekto; katulad ng pag kampanya sa social medya, pag a-advertise, comperensya o pakikipagkita.",
+        "rule2": "Kinakailangan mong magbigay ng mga link, mga imahe o mga vidyo na may pagpapatunay ng iyong pagsisikap, at ipakita rin dapat ang resulta.",
+        "rule3": "Kung ang pagsisikap mo ay nagdala ng wala o kakaunti lamang na bagong user/kontributor sa isang Open Source, Hindi mo na dapat itong isulat pa.",
+        "rule4": "Kailangan mong patunayan ang iyong pagkatao. Kung ang iyong username sa Utopian ay hindi kapareha ng iyong username sa plataporma na iyong ginamit para i-market ang proyekto, kailangan mong magbigay ng mga screenshot na ikaw ay naka login sa sesyon ng nasabing plataporma.",
+        "rule5": "Huwag magsulat ng tungkol sa pagsisikat sa visibility na iyong naibahagi na noon."
       },
       "documentation": {
-        "headline": "Documentation Rules",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
-        "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule8": "Never submit documentation work that you have already shared in the past."
+        "headline": "Mga patakaran sa Dokumentasyon",
+        "rule1": "Yun lamang na na-merge na mga Pull Request sa opisyal na repository ang matatangap o sa fork basta ito ay hindi lang salamin ng orihinal. Patunay sa gawain ay kinakailangan.",
+        "rule2": "Mag sumite lamang sa kategoryang ito kung ikaw ay gumagawa ng opisyal na dokumentasyon sa isang Open Source na proyekto.",
+        "rule3": "Ikaw dapat ang sumulat ng alinmang buong dokumentasyon o pagbabago/pagpapahusay na nailapat sa mga dokumento.",
+        "rule4": "Tanging opisyal na gawaing dokumentasyon ng proyekto ang pwedeng isumite sa kategoryang ito. Gamitin ang pagtuturo sa ibang dokumento.",
+        "rule5": "Kung hindi mo ipo-post ang kabuuan ng nilalaman sa sinulat mo, dapat mong ibigay ang pangpublikong link nito.",
+        "rule6": "Kailangan mong magbigay ng sapat na katibayan sa trabahong iyong ginawa.",
+        "rule7": "Kung naaangkop, i-link ang pull request na iyong isinumite sa GitHub na naglalaman ng iyong gawain.",
+        "rule8": "Wag kailan mang magsumite ng gawaing dokumentasyon na naibahagi mo na noon."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
+        "headline": "Patakaran sa Pagtuturo",
         "rule1": "Ang pagsalin ng tutorial gamit ang machine ay hindi matatangap.",
         "rule2": "Ang kategoryang ito ay para lamang sa pag-tuturo ng isang Open Source na proyekto.",
         "rule3": "Ang pagtuturo ay maaaring nasa anumang wika.",
@@ -267,27 +267,27 @@
       "text": "<p>ay isang Open Source na software na laging nauugnay sa boluntaryong paggawa ng mga tao sa buong mundo na hindi binabayadan sa kanilang masigasig na pag ta trabaho. Ang software ay gumagana sa mga device, website at application na maaari mong maisip. Ito ay kadalasang ginawa ng mga boluntaryo, mga mahihilig, mga masisigasig na buong pusong inialay ang kanilang panahon at pagsisikap sa adhikain.</p><p>Ang Utopoan ay ang pagbubuo ng open source na ekonomiya, kung saan na ang mga tao ay gumagawa ng mga mayhalagang kontribusyon sa open source software na proyekto at ginagantimpalaan ang kanilang masigasig na pagtatrabaho. Ginawa sa ibabaw ng Steem blockchain, Ang Utopian ay ginagamit ang talino ng mga tao para magantimpalaan ang mga mahahalagang kontribusyon. Ang May-ari ng proyekto at ibang mga kontributor ay mag dedesisyon kung paanong ang pabuya ay ipinamamahagi sa pamamagitan ng pag boto at pagkagusto sa indibidwal na kontribusyon, at maaari silang pumili na suportahan ang kontributor sa pamamagitan ng pag babayad ng derekta ng cryptocurrency na tinatawag na STEEM, na napakadaling ipalit sa ibang cryptocurrencies katulad ng Bitcoin ay Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "headline": "2. Ano ang Steem?",
+      "text": "<p>Ang steem ay ang susunod na henerasyon ng blockchain na sinusuportahan ang mga social medya application at ang kanilang nilalaman. itoy gumagamit ng natatanging Proof-of-Brain na mekanismo na gumagamit ng talino ng mga tao para pabuyaan ang mga taong gumagawa ng mayhalagang kontribusyon sa kanikanilang komunidad. ang salaping ito ay tinatawag na STEEM at ito ang salapi na ipinapabuya sa mga kontributor ng Utopian.</p><p><a href='https://steem.io'>Pagaralan ang marame pa tungkol sa Steem</a></p>"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
-      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+      "headline": "3. Saan nagmumula ang mga pabuya?",
+      "text": "<p>Ang modelo ng ekonomiya ng steem ay hinahayaan ang gumawa ng bagong token(o mga yunit ng pera) sa pagtukoy ng implasyon na nasa 9.5 na porsyento kada taon, bumababa ng mga 0.5 na porsyento kada taon sa loob ng bente at kalahating taon, hangang maabot nito ang 0.95 na porsyento ng taunang rate ng implamasyon. Ang mga bagong token na ito ay ibinabahagi ng tuloy tuloy sa mga tao na gumagawa ng pagkilos na mayhalaga sa kanilang komunidad sa pamamagitan ng pagboto ng komunidad. Sa kaso naman ng komunidad ng Utopian bilang may-ari ng proyekto, mga ka kontibutor at ibang mga tao na may mga interes sa open source na software developent ay ina \"upvote\" o nila \"like\" ang mga kontribusyon, sila ay mga sinasabi kung papaanong ang bagong token na ito ay ipinamamahagi, sa kanilang direktang relasyon sa steem ecosystem (hal. kung gaano karaming Steem power ang mayroon sila). Mas maraming steem power ang meron sila, mas maraming pabuya ang pwede nilang ibigay sa mga kontributor.</p><p>Ang mga kontributor ay pwedeng mag-redeem ng kanilang mga pabuya 7 na araw pagkatapos na ang post ay maisulat.</p><p><a href='https://steem.io'>Matuto ng higit pa tungkol sa Steem ecosystem</a></p>"
     },
     "q4": {
-      "headline": "4. Where do I find my wallet?",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "headline": "4. Saan ko makikita ang aking wallet?",
+      "text": "<p>Ang lahat ng STEEM na iyong kinita sa Utopian ay magagamit sa iyong account kung ang bawat isa ay naabot na ang araw ng payout, sa makatuwid ay 7 na araw pagkatapos na ito ay maisapubliko. Sa ganitong oras, ang mga pabuya ay maaari mo nang i-redeem sa balanse ng iyong account.</p><p>Para makita mo ang balanse ng iyong account at magkaroon ng access sa iyong pondo, kailangan mong pumunta rito <a href='https://steemit.com'>steemit.com</a>. Merong section doon na ang pangalan ay \"Wallet\" kung saan maaari mong makita kung magkanong STEEM na ang pag aari mo at maari mo itong i-transfer, sa ibang mga bagay. Mayroong isang mobile app na para sa wallet ng STEEM na kasalukuyang dini-develop ng steemit inc. at kapag ito ay nailabas na, magiging napakadali ng pamahalaan ang iyong Steem wallet.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "Paano mapepera ang aking STEEM?",
+      "text": "<p>Sa sandaling ikaw ay mayroon ng STEEM sa iyong wallet, maari kang mag transfer nito sa isang palitan ng cryptocurrency na may suporta ang STEEM tulad ng <a href='https://poloniex.com/'><a href='https://poloniex.com/'>Poloniex</a> o <a href='https://bittrex.com/'>Bittrex</a>. Doon maaari mong ipalit ito sa ibang cryptocurrencies tulad ng Bitcoin o Ethereum, na mas madaling ipalit sa perang (USD halimbawa).</p><p>O maari mong gamitin ang <a href='https://blocktrades.us/'>Blocktrades</a>, na isinama sa interface ng Steem wallet. I-click mo lamang ang iyong STEEM balance and ang drop down na menu ay lilitaw. at i-click ang \"sell\" at ikaw ay dadalhin nito sa Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "headline": "6. Paani ako kikita ng mas maraming pabuya?",
+      "text": "<p>Ang kalidad ang pinakamahalaga sa Utopian. Ang komunidad ay pinasasalamatan ang mga kagamitgamit na mga kontribusyon na nakakapag resulba sa mga problema at nai-susulong ang mga proyekto pa abante, kaya ang may kalidad na kontribusyon ay madaling mapapansin at mabibigyan ng pabuya. Ang pag sumite mo ng iyong pinakamagandang gawa ay ang pinaka siguradong paraan para ikaw ay mas kumita ng malaki sa iyong mga kontribusyon.</p>"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "magbasa ng marami pa sa steemit.com"
   }
 }
