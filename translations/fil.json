@@ -2,7 +2,7 @@
   "nav": {
     "rewards": "Mga gantimpala",
     "rules": "Mga Patakaran",
-    "moderators": "Mga tagapayo",
+    "moderators": "Mga moderator",
     "faq": "FAQ",
     "help": "Tulong",
     "blog": "Blog",
@@ -26,7 +26,7 @@
   "contribute": {
     "headline": "...at mag kontribyut!",
     "suggestions": {
-      "headline": "Suggestions",
+      "headline": "Mga Suggestion",
       "text": "Lahat ay nagsisimula sa ideya. Ibahagi ang iyong ideya o menor na kahilingan para sa tampok at tumulong sa pagpapabuti ng proyekto."
     },
     "subprojects": {
@@ -42,7 +42,7 @@
       "text": "Tulungan ang mga developer na humanap at mag ayos ng mga problema sa kanilang software sa pamamagitan ng detalyadong mga bug report."
     },
     "translation": {
-      "headline": "Translation",
+      "headline": "Paglilimbag",
       "text": "Tulungan ang mga tao para magamit sa ibang mga wika ang software sa pamamagitan ng pagsasalin o pag dodokumentasyon sa pamamagitan ng <a href='https://crowdin.com/' target='_blank'>Crowdin</a> at iba pang mga kagamitan."
     },
     "graphics": {
@@ -59,7 +59,7 @@
     },
     "visibility": {
       "headline": "Visibility",
-      "text": "Ang pagsisikap sa pakiki pagkalakal ay maaari ding kumita sa pamamagitan ng Utopian. saibihin sa komunidad ang iyong ginawa para maisulong ang Open Source na proyekto."
+      "text": "Ang pagsisikap sa pakiki pag-mamarket ay maaari ding kumita sa pamamagitan ng Utopian. saibihin sa komunidad ang iyong ginawa para maisulong ang Open Source na proyekto."
     },
     "tutorials": {
       "headline": "Pagtuturo",
@@ -279,15 +279,15 @@
       "text": "<p>Ang lahat ng STEEM na iyong kinita sa Utopian ay magagamit sa iyong account kung ang bawat isa ay naabot na ang araw ng payout, sa makatuwid ay 7 na araw pagkatapos na ito ay maisapubliko. Sa ganitong oras, ang mga pabuya ay maaari mo nang i-redeem sa balanse ng iyong account.</p><p>Para makita mo ang balanse ng iyong account at magkaroon ng access sa iyong pondo, kailangan mong pumunta rito <a href='https://steemit.com'>steemit.com</a>. Merong section doon na ang pangalan ay \"Wallet\" kung saan maaari mong makita kung magkanong STEEM na ang pag aari mo at maari mo itong i-transfer, sa ibang mga bagay. Mayroong isang mobile app na para sa wallet ng STEEM na kasalukuyang dini-develop ng steemit inc. at kapag ito ay nailabas na, magiging napakadali ng pamahalaan ang iyong Steem wallet.</p>"
     },
     "q5": {
-      "headline": "Paani o mapepera ang aking STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "Paano mapepera ang aking STEEM?",
+      "text": "<p>Sa sandaling ikaw ay mayroon ng STEEM sa iyong wallet, maari kang mag transfer nito sa isang palitan ng cryptocurrency na may suporta ang STEEM tulad ng <a href='https://poloniex.com/'><a href='https://poloniex.com/'>Poloniex</a> o <a href='https://bittrex.com/'>Bittrex</a>. Doon maaari mong ipalit ito sa ibang cryptocurrencies tulad ng Bitcoin o Ethereum, na mas madaling ipalit sa perang (USD halimbawa).</p><p>O maari mong gamitin ang <a href='https://blocktrades.us/'>Blocktrades</a>, na isinama sa interface ng Steem wallet. I-click mo lamang ang iyong STEEM balance and ang drop down na menu ay lilitaw. at i-click ang \"sell\" at ikaw ay dadalhin nito sa Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "headline": "6. Paani ako kikita ng mas maraming pabuya?",
+      "text": "<p>Ang kalidad ang pinakamahalaga sa Utopian. Ang komunidad ay pinasasalamatan ang mga kagamitgamit na mga kontribusyon na nakakapag resulba sa mga problema at nai-susulong ang mga proyekto pa abante, kaya ang may kalidad na kontribusyon ay madaling mapapansin at mabibigyan ng pabuya. Ang pag sumite mo ng iyong pinakamagandang gawa ay ang pinaka siguradong paraan para ikaw ay mas kumita ng malaki sa iyong mga kontribusyon.</p>"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "magbasa ng marami pa sa steemit.com"
   }
 }
