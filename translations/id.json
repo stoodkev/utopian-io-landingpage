@@ -2,16 +2,16 @@
   "nav": {
     "rewards": "Penghasilan",
     "rules": "Peraturan",
-    "moderators": "Moderators",
+    "moderators": "Pelarai",
     "faq": "Pertanyaan Umum",
     "help": "Bantuan",
     "blog": "Blog",
-    "signup": "Registrasi",
+    "signup": "Daftar",
     "login": "Masuk"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Ekonomi Open Source",
+    "text2": "Ekonomi Sumber Terbuka",
     "text3": "Dapatkan penghasilan dengan berkontribusi pada proyek Open Source<br> favorit Anda!"
   },
   "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Ini berjalan pada setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang kutu di antara teman-teman Anda bahwa cinta komputer mereka lebih dari bergaul dengan Anda. Open Source perangkat lunak adalah milik umum dan gratis dan memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu bergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Utopis namun penghargaan setiap orang yang memberikan kontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu terpenuhi.",
