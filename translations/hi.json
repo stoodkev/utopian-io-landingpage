@@ -87,15 +87,15 @@
     },
     "bughunters": {
       "headline": "बग हन्टर्स",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "text": "उपयोगकर्ताओं को समस्याओं की सूचना देने के लिए प्रोत्साहित करें और नयी विषेशताएं जो आप विकसित कर रहे हैं परखने के लिए आमंत्रित करें |"
     },
     "translators": {
       "headline": "अनुवादक",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "text": "अपनी परियोजना को एकाधिक भाषाओं में उपलब्ध कराने के लिए अनुवादक असाइन करके दुनिया भर में अधिक लोगों तक पहुँचें |"
     },
     "designers": {
-      "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "headline": "रूपकार",
+      "text": "अपने प्रोजेक्ट या ब्रांड के लिए अद्वितीय ग्राफ़िक्स बनवाने हेतु प्रतिभाशाली रूपकार पाएं |"
     },
     "writers": {
       "headline": "Technical Writers",
