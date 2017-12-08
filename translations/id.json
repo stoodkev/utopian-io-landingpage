@@ -1,8 +1,8 @@
 {
   "nav": {
-    "rewards": "Penghasilan",
+    "rewards": "Upah",
     "rules": "Peraturan",
-    "moderators": "Pelarai",
+    "moderators": "Moderator",
     "faq": "Pertanyaan Umum",
     "help": "Bantuan",
     "blog": "Blog",
@@ -21,7 +21,7 @@
     "visit": "Kunjungi GitHub.com!"
   },
   "projects": {
-    "headline": "Pilih sebuah projek..."
+    "headline": "Pilih sebuah proyek..."
   },
   "contribute": {
     "headline": "...dan berkontribusi!",
@@ -62,7 +62,7 @@
       "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopian juga. Beritahu komunitas apa yang telah anda lakukan untuk mempromosikan proyek Open Source."
     },
     "tutorials": {
-      "headline": "Panduan",
+      "headline": "Tutorial",
       "text": "Menulis tutorial informatif dan membantu orang lain untuk menggunakan produk Open Source."
     },
     "videotutorials": {
