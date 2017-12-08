@@ -75,7 +75,7 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopis untuk pemilik proyek",
+    "headline": "Utopian untuk Pemilik Proyek",
     "text": "Dengan Utopian.io, Anda bisa membuat <b> pengumuman </b> untuk proyek Anda dan secara cepat mengumpulkan banyak sumber dari kolam bakat internasional. Dapatkan perhatian kontributor yang berharga dan gunakan kekuatan kecerdasan kolektif untuk mengembangkan proyek Anda.",
     "thinkers": {
       "headline": "Pemikir",
@@ -102,7 +102,7 @@
       "text": "Dapatkan dokumentasi komprehensif yang dibuat untuk proyek anda yang menginformasikan pengguna dan pemangku kepentingan Anda dengan benar."
     },
     "analysts": {
-      "headline": "Data Analisis",
+      "headline": "Analisis Data",
       "text": "Ekstrak makna dari data yang Anda hasilkan, temukan tren dan buat keputusan yang tepat mengenai proyek Anda melalui bantuan data analisis."
     },
     "influencers": {
@@ -111,8 +111,8 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Imbilan Kontributor",
-    "curator_rewards": "Imbalan Kurasi",
+    "contributor_rewards": "Upah Kontributor",
+    "curator_rewards": "Upah Kurasi",
     "pending_rewards": "Imbalan Tertunda",
     "total_generated": "Total yang dihasilkan",
     "steem": {
