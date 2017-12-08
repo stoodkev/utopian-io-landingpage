@@ -12,7 +12,7 @@
   "header": {
     "text1": "Utopian.io",
     "text2": "Ekonomi Sumber Terbuka",
-    "text3": "Dapatkan penghasilan dengan berkontribusi pada proyek Open Source<br> favorit Anda!"
+    "text3": "Dapatkan upah melalui kontribusi pada proyek Sumber Terbuka<br>favorit Anda!"
   },
   "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Yang bekerja pada setiap komputer, ponsel pintar atau tablet dan semua aplikasi favorit anda tidak akan berkerja tanpa hal tersebut. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang tekun di antara teman-teman anda lebih mencintai komputer mereka ketimbang bergaul dengan Anda.  Perangkat lunak Open Source adalah milik umum dan gratis serta memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu tergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Bagaimana pun itu Utopian memberikan penghargaan kepada setiap orang yang berkontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu yang terpenuhi.",
   "octocat": {
@@ -27,7 +27,7 @@
     "headline": "...dan berkontribusi!",
     "suggestions": {
       "headline": "Saran",
-      "text": "Semuanya dimulai dengan sebuah ide. Bagikan Ide anda atau permintaan fitur kecil dan membantu meningkatkan proyek."
+      "text": "Semua dimulai dengan sebuah ide. Bagikan ide Anda atau permintaan fitur kecil akan membantu mengembangkan proyek."
     },
     "subprojects": {
       "headline": "Sub-Proyek",
@@ -47,7 +47,7 @@
     },
     "graphics": {
       "headline": "Grafis",
-      "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah anda rancang untuk sebuah proyek."
+      "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah Anda rancang untuk sebuah proyek."
     },
     "documentation": {
       "headline": "Dokumentasi",
@@ -66,7 +66,7 @@
       "text": "Menulis tutorial informatif dan membantu orang lain untuk menggunakan produk Open Source."
     },
     "videotutorials": {
-      "headline": "Tutorial Video",
+      "headline": "Video Tutorial",
       "text": "Buat how-to video untuk produk Open Source dan membantu orang belajar bagaimana menggunakannya."
     },
     "copywriting": {
