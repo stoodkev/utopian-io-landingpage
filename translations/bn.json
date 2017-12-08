@@ -221,53 +221,53 @@
       },
       "videotutorials": {
         "headline": "ভিডিও টিউটরিয়াল নিয়ম",
-        "rule1": "Video Tutorials using machine voice will be rejected.",
-        "rule2": "This category is only for providing video tutorials for an Open Source project.",
-        "rule3": "Video Tutorials can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author of the video tutorial.",
-        "rule6": "You must embed the video directly in the post. At the moment, YouTube videos are mandatory.",
-        "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
+        "rule1": "মেশিন ভয়েস ব্যবহার করে ভিডিও টিউটোরিয়াল প্রত্যাখ্যান করা হবে।",
+        "rule2": "এই বিভাগটি শুধুমাত্র একটি ওপেন সোর্স প্রকল্পের জন্য ভিডিও টিউটোরিয়াল প্রদানের জন্য।",
+        "rule3": "ভিডিও টিউটোরিয়াল কোন ভাষায় হতে পারে।",
+        "rule4": "ইংরেজিতে একটি টেক্সট ইন্ট্রোস্ট সবসময় বাধ্যতামূলক, পোস্টের শীর্ষে।",
+        "rule5": "অবশ্যই আপনাকে ভিডিও টিউটোরিয়াল লেখক হতে হবে।",
+        "rule6": "আপনাকে সরাসরি পোস্টে ভিডিও এম্বেড করতে হবে, এই মুহূর্তে YouTube ভিডিওগুলি বাধ্যতামূলক।",
+        "rule7": "আপনি আগেই Steem blockchainএ পোস্ট করেছেন এমন ভিডিও টিউটোরিয়াল পোস্ট করবেন না।"
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "headline": "কপিরাইটিং নিয়মাবলী",
+        "rule1": "শুধু মার্জ চালাতে অনুরোধ অফিসিয়াল রিপোজিটরি ওপর স্থাপন করা বা ফর্ক যতদিন যতদিন ফর্ক আয়না, মূল নয়। প্রয়োজনীয় কাজের প্রমাণ।",
+        "rule2": "আপনি কেবলমাত্র একটি ওপেন সোর্স প্রোজেক্টের জন্য সম্পন্ন করেছেন এমন কপিরাইটিং কাজের জন্য এই বিভাগটি ব্যবহার করুন।",
+        "rule3": "Copywriting যেকোনো ভাষায় হতে পারে।",
+        "rule4": "ইংরেজিতে একটি টেক্সট ইন্ট্রোস্ট সবসময় বাধ্যতামূলক, পোস্টের শীর্ষে।",
+        "rule5": "অবশ্যই আপনাকে লেখক হতে হবে",
+        "rule6": "যদি প্রযোজ্য হয়, আপনার কাজগুলি GitHub- এ জমা দেওয়া অনুরোধগুলিকে টানতে লিঙ্ক যা আপনার কাজকে অন্তর্ভুক্ত করে।",
+        "rule7": "আপনি ইতিমধ্যে ইতিমধ্যে করেছেন এমন কপিরাইট কাজ পোস্ট করবেন না।"
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
-        "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
-        "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
-        "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
-        "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "headline": "ব্লগ পোস্টের নিয়মাবলী",
+        "rule1": "আপনি মূল ফরম্যাট/s প্রদান করতে হবে। না আপনি অনন্য এবং এর ফরম্যাট নিয়ে নিউজ ওয়েব বা সাধারণ চিন্তা, পাঠানো যাবে না। <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'> ভাল বিন্যাস উদাহরণ</a>।",
+        "rule2": "আপনি শুধু <b>ওপেন সোর্স প্রকল্প</b> বা <b>ওপেন সোর্স আন্দোলনের</b> সাথে সাধারণ সম্পর্কিত ব্লগ পোস্ট লিখতে পারে।",
+        "rule3": "ব্লগ পোস্টে বিস্তারিত বিষয়বস্তু এবং ওপেন সোর্স প্রকল্প করা সংক্রান্ত overviews প্রদান করতে হবে।",
+        "rule4": "চিত্র, স্ক্রিনশট, লিঙ্ক এবং উদাহরণগুলি প্রয়োজনীয় নয় কিন্তু পছন্দসই।",
+        "rule5": "আপনার লেখায় অন্য বিভাগে (যেমন: টিউটোরিয়াল বা Copywriting) মিলে না তা নিশ্চিত করতে পরীক্ষা করুন।",
+        "rule6": "ব্লগ পোস্টগুলো আপনি ইতিমধ্যে পূর্বে শেয়ার করেছি না লিখতে।",
+        "rule7": "আমরা এই বিভাগের জন্য বিশেষভাবে কঠোর হতে হবে যেমন আমরা অতীতে এখানে অপব্যবহার দেখলাম।"
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "পুরস্কার",
+    "pending": "অনিষ্পন্ন",
+    "previous": "পূর্ববর্তী ধাপ",
+    "meet": "আমাদের মডারেটরকে দেখুন",
+    "text": "Utopian এ, সকল সমবায়ীকে তাদের কঠোর পরিশ্রমের জন্য পুরস্কৃত করা হয়, আমাদের মধ্যপন্থী সহ, যারা নিশ্চিত করে যে উচ্চ মানের মানগুলি প্ল্যাটফর্মের উপরে তুলে ধরা হয়েছে।",
+    "pending_payout": "মুলতুবী পেইআউট",
+    "previous_payout": "পূর্ববর্তী পেইআউট",
+    "text2": "উত্পাদিত মোট অবদানকারী পুরষ্কারের 5% তারা পর্যালোচনা করেছেন তার অবদানগুলির উপর ভিত্তি করে মডারেটরগুলিতে যান। একটি আদর্শবাদী মডারেটর হওয়ার জন্য আপনার উচ্চ খ্যাতি থাকা আবশ্যক এবং প্রায়ই জমা দেওয়া অবদানগুলি পর্যালোচনা করা হয়।"
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "headline": "1. Utopian কি?",
+      "text": "<p> ওপেন সোর্স সফটওয়্যার সর্বদা বিশ্বব্যাপী ব্যক্তিদের দ্বারা স্বেচ্ছাসেবী কাজে যুক্ত হয়েছে যারা অগত্যা তাদের সমস্ত কঠোর পরিশ্রমের জন্য অর্থ প্রদান করে না। এই সফ্টওয়্যারটি প্রত্যেক ডিভাইস, ওয়েবসাইট এবং অ্যাপ্লিকেশন যা আপনি চিন্তা করতে পারেন। এটি প্রায়ই স্বেচ্ছাসেবক, শখ এবং উত্সাহীদের দ্বারা নির্মিত হয় যারা নিঃস্বার্থভাবে তাদের সময় এবং প্রচেষ্টাকে উৎসর্গ করার জন্য প্রচেষ্টা করে। </p><p> ইউটোপিয়ান একটি ওপেন সোর্স অর্থনীতি গড়ে তুলছে, যেখানে লোকেরা উৎস সফ্টওয়্যার প্রকল্পগুলি খুলতে মূল্যবান অবদান তৈরি করে তাদের কঠোর পরিশ্রমের জন্য পুরস্কৃত স্টিভ ব্লককয়েনের উপর নির্মিত, ইউটোপিয়ান মূল্যবান অবদানগুলি পুরণ করার জন্য ভিড়ের প্রজ্ঞা ব্যবহার করে। প্রকল্পের মালিকরা এবং অন্যান্য অবদানকারীরা ভোটের মাধ্যমে বা পৃথক অবদান পছন্দ করে কিভাবে পুরস্কৃত করা হয় তা সিদ্ধান্ত নিতে থাকে, এবং STEEM নামে একটি ক্রিপ্টোকুরেন্সে তাদের অর্থ প্রদান করে সরাসরি সমর্থনকারীর বিকল্পও রয়েছে, যা বিটকয়েন যেমন অন্যান্য ক্রিপ্টোক্রেনিয়ার জন্য সহজেই ব্যবসা করতে পারে এবং এটরেম। </p>\n "
     },
     "q2": {
-      "headline": "2. What is Steem?",
+      "headline": "2. Steem কি?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
