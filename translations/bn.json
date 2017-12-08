@@ -195,10 +195,10 @@
         "rule2": "আপনি আপনার প্রচেষ্টার প্রমাণ সহ লিঙ্ক, ছবি বা ভিডিও সরবরাহ করতে হবে, এবং ফলাফলগুলিও শেয়ার করে নিতে পারেন।",
         "rule3": "যদি আপনার প্রচেষ্টায় ওপেন সোর্স প্রোজেক্টের কয়েকটি নতুন বা শূন্য নতুন ব্যবহারকারী / অবদানকারী আনা হয়, তাহলে আপনাকে এটি সম্পর্কে লিখতে হবে না।",
         "rule4": "আপনাকে আপনার পরিচয় প্রমাণ করতে হবে আপনার ইউটোপিয়ান ব্যবহারকারী নামটি যদি প্রকল্পের মার্কেটিং করার জন্য ব্যবহার করা প্ল্যাটফর্মে ব্যবহারকারীর নাম হিসাবে একই হয় তবে আপনাকে এই প্ল্যাটফর্মে একটি লগ ইন সেশনের স্ক্রিনশট প্রদান করতে হবে।",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "rule5": "আগে শেয়ার করা হয়েছে এমন দৃশ্যমানতা প্রচেষ্টা সম্পর্কে কখন লিখিয়েন না।"
       },
       "documentation": {
-        "headline": "Documentation Rules",
+        "headline": "ডকুমেন্টেশন নিয়ম",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
