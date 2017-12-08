@@ -111,7 +111,7 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
+    "contributor_rewards": "योगदानकर्ता पुरस्कार",
     "curator_rewards": "Curator Rewards",
     "pending_rewards": "Pending Rewards",
     "total_generated": "Total Generated",
