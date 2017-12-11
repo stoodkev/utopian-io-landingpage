@@ -3,15 +3,15 @@
     "rewards": "Ödüller",
     "rules": "Kurallar",
     "moderators": "Moderatörler",
-    "faq": "SSS",
+    "faq": "Sıkça Sorulan Sorular",
     "help": "Yardım",
-    "blog": "Blog",
+    "blog": "Günce",
     "signup": "Kayıt ol",
     "login": "Giriş Yap"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Açık kaynak ekonomi",
+    "text2": "Açık kaynak ekonomisi",
     "text3": "Favori açık kaynak projelerine katkıda bulunarak<br>ödül kazan!"
   },
   "intro": "Modern dünya <a href='https://en.wikipedia.org/wiki/Open-source_model'>Açık kaynak</a> yazılımlarla bilgisayarlarda, akıllı telefonlarda yani heryerde! Favori uygulamalarınız açık kaynak yazılımlar olmadan olmazdı. Dünya çapında gönüllüler ve hobi olarak yapan kimseler tarafından geliştiriliyor. Bu kimseler sizinle dışarıya çıkmaktansa bilgisayarı tercih eden arkadaşlarınız... Açık kaynak yazılımlar bedava ve herkesin malı olarak ihtiyaçlarınızı karşılamanızı sağlıyor. Otoritenin standartlara uygun empozesi yerine kollektif zekaya dayalıdır ve bütün bu yapılanlar bedava! Bu projeler için yapılan katkıları utopian, kalite standartlarına uyduğu sürece ödüllendiriyor.",
@@ -38,12 +38,12 @@
       "text": "Eğer bir kod yazıp, çekme talebinde bulunduysan, çalışmanı Utopian topluluğu ile paylaş."
     },
     "bughunting": {
-      "headline": "Hata avlama",
-      "text": "Geliştiricilere, yazılımlarının hatalarını bulup, detaylı bir hata raporlama ile yardım et."
+      "headline": "Hata avı",
+      "text": "Geliştiricilere, yazılımlarının hatalarını bulup, detaylı bir hata raporlama için yardım et."
     },
     "translation": {
       "headline": "Çeviri",
-      "text": "İnsanlara yazılımları kullanabilmeleri için diğer dillere <a href='https://crowdin.com/' target='_blank'>Crowdin</a> veya başka araçlar kullanarak çeviriler yap."
+      "text": "İnsanlara yazılımları kullanabilmeleri için <a href='https://crowdin.com/' target='_blank'>Crowdin</a> veya başka araçlar kullanarak çeviriler yaparak yardım et."
     },
     "graphics": {
       "headline": "Grafikler",
@@ -55,19 +55,19 @@
     },
     "analysis": {
       "headline": "Analiz",
-      "text": "Belki belirli bir projenin verilerini analiz ettikten sonra buradan faydalı bir bilgi edindiniz. Bunu toplulukla da paylaşabilirsiniz."
+      "text": "Belki belirli bir projenin veri kümesini analiz ettiniz ve bundan faydalı bilgiler elde ettiniz. Bunları da toplulukla paylaşabilirsiniz."
     },
     "visibility": {
       "headline": "Görünürlük",
-      "text": "Pazarlama çalışmaları da utopian tarafından ödüllendiriliyor. Topluluğa açık kaynak proje için neler yaptığını ve desteklediğini göster."
+      "text": "Pazarlama çalışmaları da utopian tarafından ödüllendiriliyor. Topluluğa açık kaynak proje için neler yaptığını ve nasıl desteklediğini göster."
     },
     "tutorials": {
-      "headline": "Öğretici içerik",
-      "text": "Diğer insanlara yardım etmek için, açık kaynak proje üstüne öğretici bir yazı hazırla."
+      "headline": "Eğitimler",
+      "text": "Diğer insanlara yardım etmek için, açık kaynak ürünler üstüne eğitici bir yazı hazırla."
     },
     "videotutorials": {
-      "headline": "Video Öğreticiler",
-      "text": "Açık kaynak proje üstünde 'Nasıl yaparım?' temelli bir video oluştur ve insanların öğrenip, nasıl kullanacağına yardımcı ol."
+      "headline": "Video Eğitimler",
+      "text": "Açık kaynak ürünler üstüne 'Nasıl yaparım?' temelli bir video oluştur ve insanların öğrenip, nasıl kullanacağına yardımcı ol."
     },
     "copywriting": {
       "headline": "Metin yazarlığı",
@@ -79,11 +79,11 @@
     "text": "Utopian.io ile projeleriniz için <b>duyuru</b> yapabilir, hızlıca uluslararası yetenek havuzuna erişebilirsiniz. Değerli katılımcıların dikkatini üstünüze çekip, kolektif zekanın gücünü kullanarak projelerinizi geliştirin.",
     "thinkers": {
       "headline": "Düşünürler",
-      "text": "Harika düşünürlerin ilgisini üstünüze toplayarak, projenize fikir ve çözüm üretin."
+      "text": "Büyük düşünürlerin fikirlerini geliştirmek ve sorunları çözmek için projenizde dikkatini."
     },
     "developers": {
       "headline": "Geliştiriciler",
-      "text": "Yetenekli geliştiricileri kod yazmak ve hata çözümlemek için projenize çağırın."
+      "text": "Yetenekli geliştiricileri projenizi geliştirmek ve hataları çözümlemek için projenize çağırın."
     },
     "bughunters": {
       "headline": "Hata avcıları",

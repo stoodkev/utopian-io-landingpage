@@ -78,45 +78,45 @@
     "headline": "यूटोपियन परियोजना मालिकों के लिए.",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "विचारक",
+      "text": "अपनी परियोजना का विकास और समस्याओं के समाधान के महान विचारकों का ध्यान आकर्षित करें |"
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "डिवेलपर",
+      "text": "कंप्यूटर को क्षति पहुंचने वाले सॉफ्टवेयर (बग्स) और नए कोड को विकसित करने के लिए डेवेलपर्स को आमंत्रित करें |"
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "बग हन्टर्स",
+      "text": "उपयोगकर्ताओं को समस्याओं की सूचना देने के लिए प्रोत्साहित करें और नयी विषेशताएं जो आप विकसित कर रहे हैं परखने के लिए आमंत्रित करें |"
     },
     "translators": {
       "headline": "अनुवादक",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "text": "अपनी परियोजना को एकाधिक भाषाओं में उपलब्ध कराने के लिए अनुवादक असाइन करके दुनिया भर में अधिक लोगों तक पहुँचें |"
     },
     "designers": {
-      "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "headline": "रूपकार",
+      "text": "अपने प्रोजेक्ट या ब्रांड के लिए अद्वितीय ग्राफ़िक्स बनवाने हेतु प्रतिभाशाली रूपकार पाएं |"
     },
     "writers": {
-      "headline": "Technical Writers",
-      "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
+      "headline": "तकनीकी लेखक",
+      "text": "अपनी परियोजना के लिए व्यापक दस्तावेज़ीकरण बनवाएं जो आपके उपयोगकर्ताओं और बाकि हिस्सेदारों को ठीक तरह से सूचित करे |"
     },
     "analysts": {
-      "headline": "Data Analysts",
-      "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
+      "headline": "डेटा विश्लेषक",
+      "text": "अपने जेनरेट किए गए डेटा से अर्थ निकालें, रुझानों की खोज करें और डेटा विश्लेषकों की सहायता से अपनी परियोजना के बारे में सूचित निर्णय लें ।"
     },
     "influencers": {
-      "headline": "Influencers",
-      "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
+      "headline": "प्रभावक",
+      "text": "विश्व भर में प्रभवकों की मदद से प्रभावी ऑनलाइन या ऑफलाइन मार्केटिंग का संयोजन करें और अपनी परियोजना की ओर उसके हक़ का ध्यान आकर्षित करें |"
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "योगदानकर्ता पुरस्कार",
+    "curator_rewards": "निरीक्षक पुरस्कार",
+    "pending_rewards": "लंबित पुरस्कार",
+    "total_generated": "कुल उत्पंन",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "पुरस्कार कौन देता है?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
       "button": "Learn more about Steem"
     }

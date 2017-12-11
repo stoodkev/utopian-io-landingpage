@@ -1,8 +1,8 @@
 {
   "nav": {
-    "rewards": "Penghasilan",
+    "rewards": "Upah",
     "rules": "Peraturan",
-    "moderators": "Pelarai",
+    "moderators": "Moderator",
     "faq": "Pertanyaan Umum",
     "help": "Bantuan",
     "blog": "Blog",
@@ -12,7 +12,7 @@
   "header": {
     "text1": "Utopian.io",
     "text2": "Ekonomi Sumber Terbuka",
-    "text3": "Dapatkan penghasilan dengan berkontribusi pada proyek Open Source<br> favorit Anda!"
+    "text3": "Dapatkan upah melalui kontribusi pada proyek Sumber Terbuka<br>favorit Anda!"
   },
   "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Yang bekerja pada setiap komputer, ponsel pintar atau tablet dan semua aplikasi favorit anda tidak akan berkerja tanpa hal tersebut. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang tekun di antara teman-teman anda lebih mencintai komputer mereka ketimbang bergaul dengan Anda.  Perangkat lunak Open Source adalah milik umum dan gratis serta memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu tergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Bagaimana pun itu Utopian memberikan penghargaan kepada setiap orang yang berkontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu yang terpenuhi.",
   "octocat": {
@@ -21,13 +21,13 @@
     "visit": "Kunjungi GitHub.com!"
   },
   "projects": {
-    "headline": "Pilih sebuah projek..."
+    "headline": "Pilih sebuah proyek..."
   },
   "contribute": {
     "headline": "...dan berkontribusi!",
     "suggestions": {
       "headline": "Saran",
-      "text": "Semuanya dimulai dengan sebuah ide. Bagikan Ide anda atau permintaan fitur kecil dan membantu meningkatkan proyek."
+      "text": "Semua dimulai dengan sebuah ide. Bagikan ide Anda atau permintaan fitur kecil akan membantu mengembangkan proyek."
     },
     "subprojects": {
       "headline": "Sub-Proyek",
@@ -47,7 +47,7 @@
     },
     "graphics": {
       "headline": "Grafis",
-      "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah anda rancang untuk sebuah proyek."
+      "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah Anda rancang untuk sebuah proyek."
     },
     "documentation": {
       "headline": "Dokumentasi",
@@ -62,11 +62,11 @@
       "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopian juga. Beritahu komunitas apa yang telah anda lakukan untuk mempromosikan proyek Open Source."
     },
     "tutorials": {
-      "headline": "Panduan",
+      "headline": "Tutorial",
       "text": "Menulis tutorial informatif dan membantu orang lain untuk menggunakan produk Open Source."
     },
     "videotutorials": {
-      "headline": "Tutorial Video",
+      "headline": "Video Tutorial",
       "text": "Buat how-to video untuk produk Open Source dan membantu orang belajar bagaimana menggunakannya."
     },
     "copywriting": {
@@ -75,7 +75,7 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopis untuk pemilik proyek",
+    "headline": "Utopian untuk Pemilik Proyek",
     "text": "Dengan Utopian.io, Anda bisa membuat <b> pengumuman </b> untuk proyek Anda dan secara cepat mengumpulkan banyak sumber dari kolam bakat internasional. Dapatkan perhatian kontributor yang berharga dan gunakan kekuatan kecerdasan kolektif untuk mengembangkan proyek Anda.",
     "thinkers": {
       "headline": "Pemikir",
@@ -102,7 +102,7 @@
       "text": "Dapatkan dokumentasi komprehensif yang dibuat untuk proyek anda yang menginformasikan pengguna dan pemangku kepentingan Anda dengan benar."
     },
     "analysts": {
-      "headline": "Data Analisis",
+      "headline": "Analisis Data",
       "text": "Ekstrak makna dari data yang Anda hasilkan, temukan tren dan buat keputusan yang tepat mengenai proyek Anda melalui bantuan data analisis."
     },
     "influencers": {
@@ -111,8 +111,8 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Imbilan Kontributor",
-    "curator_rewards": "Imbalan Kurasi",
+    "contributor_rewards": "Upah Kontributor",
+    "curator_rewards": "Upah Kurasi",
     "pending_rewards": "Imbalan Tertunda",
     "total_generated": "Total yang dihasilkan",
     "steem": {
@@ -252,7 +252,7 @@
     }
   },
   "moderators": {
-    "rewards": "Imbalan",
+    "rewards": "Upah",
     "pending": "Tertunda",
     "previous": "Sebelumnya",
     "meet": "Temui moderator kami",
