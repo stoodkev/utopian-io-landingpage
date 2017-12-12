@@ -10,7 +10,7 @@
     "login": "Entrar"
   },
   "header": {
-    "text1": "Utopian.io",
+    "text1": "Utopian.Io",
     "text2": "Economia Open Source",
     "text3": "Ganhe recompensas por contribuir com seus<br>projetos Open Source favoritos!"
   },
@@ -54,8 +54,8 @@
       "text": "Se você escreveu documentação para um projeto (em qualquer lingua), você pode compartilhar ela com a comunidade."
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "Análise",
+      "text": "Talvez você analisou o conjunto de dados de um determinado projeto e extraiu informações úteis. Você pode compartilhá-lo com a Comunidade também."
     },
     "visibility": {
       "headline": "Visibilidade",
@@ -70,8 +70,8 @@
       "text": "Crie tuturiais em video para um projeto Open Source e ajude as pessoas as ensinando a utiliza-lo."
     },
     "copywriting": {
-      "headline": "Copywriting",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "headline": "Informativo publicitário",
+      "text": "Escreva um informativo publicitário envolvente para projetos Open Source, e aumente a força da marca."
     }
   },
   "crowdsourcing": {
@@ -106,19 +106,19 @@
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "Influenciadores",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "Recompensas de contribuinte",
+    "curator_rewards": "Recompensas de curador",
+    "pending_rewards": "Recompensas pendentes",
+    "total_generated": "Total gerado",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "Quem paga as recompensas?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "button": "Aprenda mais sobre o Steem"
     }
   },
   "rules": {
