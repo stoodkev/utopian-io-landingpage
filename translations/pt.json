@@ -122,11 +122,11 @@
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
+    "step1": "Siga<br>nossas regras!",
+    "step2": "Seja avaliado por nossos<br>moderadores!",
     "step3": "Seja votado por Utopian.io e pela comunidade!",
     "step4": "Seja pago<br>após 7 dias!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "text": "Para garantir a qualidade, cada contribuição é revisada por um de nossos moderadores, de acordo com nossas regras. Não respeitar essas regras irá de dar menos recompensas ou impedir que suas contribuições sejam aceitas por completo. Entretanto, se a sua contribuição não for aceita, ela ainda será publicada na blockchain do Steem, e poderá receber recompensas. Nesse caso, você estará por você mesmo. Utopian não irá recompensar ou compartilhar sua contribuição.",
     "categories": {
       "suggestions": {
         "headline": "Regras de Sugestão",
@@ -145,16 +145,16 @@
         "rule6": "Nunca escreva sobre projetos que você já compartilhou antes ou projetos que já foram compartilhadas por outra pessoa."
       },
       "development": {
-        "headline": "Development Rules",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "headline": "Regras de Desenvolvimento",
+        "rule1": "Apenas merger Pull Requests serão aceitos ou projetos Open Source que voce mantém nunca enviados antes para o Utopian, incluindo forks desde que o fork seja apenas um espelho do original. Prova de trabalho é necessária.",
         "rule2": "Nesta categoria, você pode escrever apenas se você tiver desenvolvido ou contribuído com código para o desenvolvimento de um projeto.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
+        "rule3": "Você deverá fornecer links para os branches, forks, gists ou pull requests.",
         "rule4": "Se seu nome de usuário no Github não é o mesmo que seu nome de usuário no Utopian, você deve provar que você é o proprietário da conta, fornecendo uma captura de tela da sessão logada no Github.",
         "rule5": "Imagens, capturas de tela, links e exemplos não são necessárias, mas preferíveis.",
         "rule6": "Nunca escreva sobre contribuições de código que você ja compartilhou antes."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
+        "headline": "Regra de Caça aos bugs",
         "rule1": "Só use esta categoria para relatar bugs que você encontrou em um projeto Open Source.",
         "rule2": "Você deve fornecer todos os detalhes possíveis necessários para reproduzir o bug.",
         "rule3": "Você deve incluir, por exemplo: os navegadores utilizados, tipos de dispositivos, sistemas operacionais e detalhes semelhantes.",
@@ -172,7 +172,7 @@
         "rule8": "Nunca envie traduções que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "graphics": {
-        "headline": "Graphics Rules",
+        "headline": "Regras de Design",
         "rule1": "Nos reservamos ao direito de rejeitar uma contribuição gráfica se acreditarmos que o trabalho não é o suficiente para ser recompensado.",
         "rule2": "Nesta categoria, apenas envie gráficos, como logotipos, ícones, fundos, vídeos ou animações que você criou para um projeto Open Source.",
         "rule3": "Você deve incluir amostras de suas criações diretamente no seu post e links públicos para os projetos completos.",
@@ -182,9 +182,9 @@
         "rule7": "Nunca envie sobre gráficos que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
+        "headline": "Regras de Análise",
+        "rule1": "Essa categoria é apenas para análises que você criou para projetos Open Source.",
+        "rule2": "Você deve incluir resultados detalhados e explicar a lógica por trás deles.",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
