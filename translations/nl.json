@@ -46,27 +46,27 @@
       "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
-      "headline": "Graphics",
+      "headline": "Afbeeldingen",
       "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
     },
     "documentation": {
-      "headline": "Documentation",
+      "headline": "Documentatie",
       "text": "If you have authored documentation for a project (in any language), you can share it with the community."
     },
     "analysis": {
-      "headline": "Analysis",
+      "headline": "Analyse",
       "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
-      "headline": "Visibility",
+      "headline": "Zichtbaarheid",
       "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
     },
     "tutorials": {
-      "headline": "Tutorials",
+      "headline": "Handleidingen",
       "text": "Write informative tutorials and help other people to use Open Source products."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
+      "headline": "Video Handleiding",
       "text": "Create how-to videos for an Open Source product and help people learn how to use it."
     },
     "copywriting": {
@@ -78,7 +78,7 @@
     "headline": "Utopian for Project Owners",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
-      "headline": "Thinkers",
+      "headline": "Denkers",
       "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
     },
     "developers": {
@@ -90,39 +90,39 @@
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "Vertalers",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
-      "headline": "Designers",
+      "headline": "Ontwerpers",
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
-      "headline": "Technical Writers",
+      "headline": "Technische schrijvers",
       "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
     },
     "analysts": {
-      "headline": "Data Analysts",
+      "headline": "Data-analisten",
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "Beïnvloeders",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },
   "rewards": {
     "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
+    "curator_rewards": "Beloning voor schrijvers",
     "pending_rewards": "Pending Rewards",
     "total_generated": "Total Generated",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "Wie betaalt de beloningen?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$250</b>, at current market prices.<br><br><a href='#faq'>Check the FAQs</a> for more information.",
-      "button": "Learn more about Steem"
+      "button": "Meer informatie over Steem"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
+    "step1": "Houd je aan<br>onze regels!",
     "step2": "Get reviewed by our<br>moderators!",
     "step3": "Get upvoted by Utopian.io and the community!",
     "step4": "Get paid<br>after 7 days!",
