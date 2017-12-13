@@ -142,41 +142,41 @@
         "rule3": "Imagens, capturas de tela, links, fluxos, modelos e exemplos são sempre bem vindos nessa categoria.",
         "rule4": "Nesta categoria, a qualidade do conteúdo é o principal fator para ser aceito no Utopian.",
         "rule5": "Se você acredita que sua ideia não se qualifica como um Sub-projeto, use a categoria de Sugestões.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "rule6": "Nunca escreva sobre projetos que você já compartilhou antes ou projetos que já foram compartilhadas por outra pessoa."
       },
       "development": {
         "headline": "Development Rules",
         "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
+        "rule2": "Nesta categoria, você pode escrever apenas se você tiver desenvolvido ou contribuído com código para o desenvolvimento de um projeto.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "rule4": "Se seu nome de usuário no Github não é o mesmo que seu nome de usuário no Utopian, você deve provar que você é o proprietário da conta, fornecendo uma captura de tela da sessão logada no Github.",
+        "rule5": "Imagens, capturas de tela, links e exemplos não são necessárias, mas preferíveis.",
+        "rule6": "Nunca escreva sobre contribuições de código que você ja compartilhou antes."
       },
       "bughunting": {
         "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "rule1": "Só use esta categoria para relatar bugs que você encontrou em um projeto Open Source.",
+        "rule2": "Você deve fornecer todos os detalhes possíveis necessários para reproduzir o bug.",
+        "rule3": "Você deve incluir, por exemplo: os navegadores utilizados, tipos de dispositivos, sistemas operacionais e detalhes semelhantes.",
+        "rule4": "Nunca reporte bugs que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "translation": {
-        "headline": "Translation Rules",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "headline": "Regras de tradução",
+        "rule1": "Para enviar uma tradução no Utopian você deve ter traduzido pelo menos 30% do projeto, se este for de porte médio (500-1000 strings), 10-15% para grandes projetos (mais de 1000), 100% para pequenos projetos (1-500).",
+        "rule2": "Use esta categoria apenas para traduções você criou ou atualizou para um projeto Open Source.",
+        "rule3": "Você deve incluir todo o texto traduzido ou incluir links públicos de versões completas.",
+        "rule4": "Inclua o máximo de detalhes possível, para verificar as traduções e as ferramentas que você usou para traduzir.",
+        "rule5": "Traduções completas são sempre preferidas. Se você esta escrevendo sobre uma tradução parcial, nós nos reservamos ao direito de avaliar o trabalho real.",
+        "rule6": "Você deve ser o autor da tradução e fornecer uma maneira para verificar seu trabalho.",
+        "rule7": "Se seu nome de usuário no CrowdIn ou plataformas semelhantes de tradução não é o mesmo que seu nome de usuário no Utopian, você deverá provar que você é dono da conta, fornecendo uma captura de tela da sessão logada nessa plataforma de tradução.",
+        "rule8": "Nunca envie traduções que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "graphics": {
         "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
+        "rule1": "Nos reservamos ao direito de rejeitar uma contribuição gráfica se acreditarmos que o trabalho não é o suficiente para ser recompensado.",
+        "rule2": "Nesta categoria, apenas envie gráficos, como logotipos, ícones, fundos, vídeos ou animações que você criou para um projeto Open Source.",
+        "rule3": "Você deve incluir amostras de suas criações diretamente no seu post e links públicos para os projetos completos.",
+        "rule4": "Você deve dar o máximo de detalhes possível, para verificar o trabalho que você fez.",
         "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
         "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
         "rule7": "Never post about graphics that have been shared before, by you or someone else."
