@@ -17,7 +17,7 @@
   "intro": "Onze moderne wereld wordt gedreven door<a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. Het draait op elke computer, elke telefoon of tablet en all uw favoriete apps zouden niet kunnen werken zonder het. Het wordt ontwikelt hooftzakelijk door vrijwilligers en door hobbyisten over de hele wereld, die geeks in jouw vriendengroep die meer houden van hun computer dan van jouw gezelschap. Open Source software is gratis en van iedereen en laat iedereen het gebruiken en veranderen naar hun nooden. Het baseert op collectieve intelligencie in plaats van de standaard opgedragen door basen. Dat wordt allemaal gratis gedaan! Utopian beloont iedereen wie bijdraagt aan sulke projecten, so lang het qualiteitvol is.",
   "octocat": {
     "hi": "Hallo! Ik ben Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
+    "text": "Ik werk bij GitHub, als een mascote! Het is een goede plaats om te zijn. We zijn een wereldwijde gemeenschap van enthusiasten en vrijwilligers, wij werken aan duizenden coole projecten.<b>Utopian.io</b> beloont je om contributies te maken aan Open Source projecten, zoals bugs fixen, texten vertalen, documenten schrijven of goede ideeën delen en meer.",
     "visit": "Bezoek GitHub.com!"
   },
   "projects": {
@@ -42,7 +42,7 @@
       "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
     },
     "translation": {
-      "headline": "Translation",
+      "headline": "Vertaling",
       "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
