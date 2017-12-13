@@ -200,11 +200,11 @@
       "documentation": {
         "headline": "Regras de Documentação",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
-        "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
-        "rule4": "Only official project documentation work can be submitted in this category. Use the Tutorials category for any other documentation.",
-        "rule5": "If you are not posting the complete content you authored, then you must provide public links to it.",
-        "rule6": "You must provide sufficient proof of the work you've done.",
+        "rule2": "Envie nesta categoria somente quando você está trabalhando na documentação oficial de um projeto Open Source.",
+        "rule3": "Você deve ser o autor de toda a documentação ou das alterações/melhorias aplicadas para a documentação.",
+        "rule4": "Apenas trabalho de documentação oficial do projeto pode ser enviado nesta categoria. Use a categoria tutoriais para qualquer outra documentação.",
+        "rule5": "Se você não está postando o conteúdo completo que você criou, então você deve fornecer links públicos para ele.",
+        "rule6": "Você deve fornecer prova suficiente do trabalho que você fez.",
         "rule7": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
         "rule8": "Never submit documentation work that you have already shared in the past."
       },
