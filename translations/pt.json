@@ -276,18 +276,18 @@
     },
     "q4": {
       "headline": "4. Aonde encontro minha carteira?",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "text": "<p>Todo STEEM que você receve na Utopian é disponibilizada na sua conta, quando cada post individual alcança a data de pagamento, que é de 7 dias após a sua publicação. Nesse tempo, as recompensas estarão disponíveis para resgate no seu saldo de conta.</p><p> Para ver o saldo da sua conta e para acessas os seus fundos, você deve ir para <a href='https://steemit.com'>steemid.com</a>. Existe uma seção chamada \"Wallet\" aonde você poderá ver quanto STEEM você possui e também as ferramentas para transferência, entre outras coisas. Existe um app de carteira STEEM sendo desenvolvido atualmente por Steemit Inc. e quanto for lançado, será a maneira mais fácil de gerenciar sua carteira STEEM.</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "5. Como eu saco meu STEEM?",
+      "text": "<p>Quando você tiver algum STEEM na sua carteira, você pode transferir para uma exchange de criptomoedas que suporta STEEM como <a href='https://poloniex.com/'>Poloniex</a> ou <a href='https://bittrex.com/'>Bittrex</a>. Lá você poderá troca-las por outras criptomoedas como Bitcoin ou Ethereum, que são mais fáceis de trocar por dinheiro (Dólar por exemplo). </p><p>Ou você pode usar <a href='https://blocktrades.us/'>Blocktrades</a>, que é integrado à interface da carteira Steemit. Basta clicar no seu saldo STEEM e um menu irá aparecer. Então clique \"Sell\" e você será enviado para Blocktrades.</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "headline": "6. Como faço para ganhar mais recompensas?",
+      "text": "<p>Qualidade é o que importa para a maioria dos Utopians. A comunidade aprecia contribuições úteis que resolvam problemas e avançam os projetos, então contribuições de qualidade serão notadas e recompensadas. Sempre enviar o seu melhor trabalho é a maneira mais garantida de se posicionar de forma a receber mais contribuições.</p>"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "leia mais no steemit.com"
   }
 }
