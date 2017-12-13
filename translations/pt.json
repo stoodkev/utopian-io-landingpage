@@ -199,7 +199,7 @@
       },
       "documentation": {
         "headline": "Regras de Documentação",
-        "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "Apenas Pull Requests mesclados no repositório oficial serão aceitou ou em um fork desde que o fork não seja apenas um espelho do original. Prova de trabalho é necessária.",
         "rule2": "Envie nesta categoria somente quando você está trabalhando na documentação oficial de um projeto Open Source.",
         "rule3": "Você deve ser o autor de toda a documentação ou das alterações/melhorias aplicadas para a documentação.",
         "rule4": "Apenas trabalho de documentação oficial do projeto pode ser enviado nesta categoria. Use a categoria tutoriais para qualquer outra documentação.",
@@ -231,7 +231,7 @@
       },
       "copywriting": {
         "headline": "Regras de Copywriting",
-        "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
+        "rule1": "Apenas Pull Requests mesclados serão aceitos no repositório oficial ou em um fork, desde que o fork não seja apenas um espelho do original. Prova de trabalho é necessária.",
         "rule2": "Use esta categoria apenas para mostrar o trabalho de Copywriting que você tenha concluído para um projeto Open Source.",
         "rule3": "Copywritings podem ser em qualquer idioma.",
         "rule4": "Uma introdução de texto em inglês é sempre obrigatória, no topo do post.",
@@ -259,15 +259,15 @@
     "text": "Na Utopian, todos os colaboradores são recompensados pelo seu trabalho árduo, incluindo nossos moderadores, que garantem altos padrões de qualidade são garantidos na plataforma.",
     "pending_payout": "Pagamento pendente",
     "previous_payout": "Pagamento anterior",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "text2": "5% das recompensas de contribuição totais que são geradas vão para os moderadores baseado na quantidade de contribuições que analisamos. Para se tornar um moderador Utopian, você deve ter a reputação alta e muitas vezes revisar contribuições enviadas."
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "headline": "1. O que é Utopian?",
+      "text": "<p>Software Open Source sempre foram associados com trabalho voluntário de indivíduos ao redor do mundo que não necessáriamente são pagos por todo o seu trabalho. Este software roda em todos os dispositivos, websites e aplicação que você pode imaginar. Geralmente é criado por voluntários, hobistas e entusiastas que dedicam altruísticamente seu tempo e esforço para a causa.</p> <p>Utopian está construindo uma economia open source, na qual as pessoas que fazem contribuições valiosas para projetos de software open source são recompensadas pelo seu trabalho árduo. Construído sobre a blockchain do Steem, Utopian usa a sabedoria das massas para recompensar contribuições valiosas. Donos de projetos e outros contribuintes decidem como as recompensas são distribuídas votando ou dando likes nas contribuições individuais, e tambem tem a opção de apoiar contribuintes diretamente pagando-os na criptomoeda chamada STEEM, que pode ser trocada facilmente por outras criptomoedas como Bicoin e Ethereum.</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
+      "headline": "2. O que é Steem?",
       "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
     },
     "q3": {
