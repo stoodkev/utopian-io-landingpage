@@ -18,7 +18,7 @@
   "octocat": {
     "hi": "Olá! Eu me chamo Octocat!",
     "text": "Eu trabalho no GitHub, como mascote! É um otimo lugar para se estar. Nós somos uma comunidade global de voluntarios e entusiastas, trabalhando juntos em milhares de projetos interessantes. O <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas ideas e muito mais.",
-    "visit": "Visite o GitHub"
+    "visit": "Visite o GitHub.com!"
   },
   "projects": {
     "headline": "Escolha um projeto..."
@@ -30,7 +30,7 @@
       "text": "Tudo começa com uma ideia. Compartilhe suas ideias ou sugira novas funcionalidades e ajude a aprimorar um projeto existente."
     },
     "subprojects": {
-      "headline": "Subprojetos",
+      "headline": "Sub-projetos",
       "text": "Compartilhe funcionalidades mais elaboradas ou novos conceitos que você desenvolveu para um projeto."
     },
     "development": {
@@ -47,7 +47,7 @@
     },
     "graphics": {
       "headline": "Designs",
-      "text": "Compartilhe logos, icones, backgrounds e outras artes originais que você criou para um projeto."
+      "text": "Compartilhe logos, ícones, backgrounds e outras artes originais que você criou para um projeto."
     },
     "documentation": {
       "headline": "Documentação",
@@ -62,12 +62,12 @@
       "text": "Campanhas de marketing também podem ser recompensadas através do Utopian. Conte para a comunidade o que você fez para promover um projeto Open Source."
     },
     "tutorials": {
-      "headline": "Tuturiais",
+      "headline": "Tutoriais",
       "text": "Escreva tutoriais informativos e ajude outras pessoas a utilizar programas Open Source."
     },
     "videotutorials": {
-      "headline": "Tuturias em Video",
-      "text": "Crie tuturiais em video para um projeto Open Source e ajude as pessoas as ensinando a utiliza-lo."
+      "headline": "Tutoriais em Video",
+      "text": "Crie tutoriais em video para um projeto Open Source e ajude as pessoas as ensinando a utiliza-lo."
     },
     "copywriting": {
       "headline": "Informativo publicitário",
@@ -177,9 +177,9 @@
         "rule2": "Nesta categoria, apenas envie gráficos, como logotipos, ícones, fundos, vídeos ou animações que você criou para um projeto Open Source.",
         "rule3": "Você deve incluir amostras de suas criações diretamente no seu post e links públicos para os projetos completos.",
         "rule4": "Você deve dar o máximo de detalhes possível, para verificar o trabalho que você fez.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "rule5": "Você deverá fornecer os arquivos de fonte editável (como psd ai. .eps .svg .cdr).",
+        "rule6": "Camisetas e projetos de merchandising em geral não são bem-vindos, a menos que explicitamente solicitada pelo dono do projeto.",
+        "rule7": "Nunca envie sobre gráficos que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "analysis": {
         "headline": "Analysis Rules",
