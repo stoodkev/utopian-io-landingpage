@@ -18,5 +18,8 @@
   "babel": {
     "presets": ["env"],
     "ignore": ["assets/js/vendor.js"]
+  },
+  "scripts": {
+    "build": "babel assets/js/index.js -d dist"
   }
 }
