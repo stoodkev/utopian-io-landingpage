@@ -185,20 +185,20 @@
         "headline": "Regras de Análise",
         "rule1": "Essa categoria é apenas para análises que você criou para projetos Open Source.",
         "rule2": "Você deve incluir resultados detalhados e explicar a lógica por trás deles.",
-        "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
-        "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
-        "rule5": "Never submit analysis that has been shared before, by you or someone else."
+        "rule3": "Se você não está publicando a análise completa por aqui, você deverá fornecer o link público com a versão completa.",
+        "rule4": "Resultados da análise, em forma de gráficos ou tabelas, são obrigatórios nessa categoria.",
+        "rule5": "Nunca envie uma análise que já foi compartilhada antes, por você ou por outra pessoa."
       },
       "visibility": {
-        "headline": "Visibility Rules",
-        "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
-        "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
-        "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
-        "rule4": "You must prove your identity. If your Utopian username is not the same as the username on the platforms you used for marketing the project, you must provide screenshots of a logged in session on these platforms.",
-        "rule5": "Never write about visibility efforts you have already shared before."
+        "headline": "Regras de Visibilidade",
+        "rule1": "Nesta categoria, envie os resultados dos esforços de marketing que fez para melhorar a visibilidade de um projeto de código aberto; como campanhas de mídia social, publicidade, conferências ou encontros.",
+        "rule2": "Você deve fornecer os links, imagens ou vídeos com a prova de seus esforços e também compartilhar os resultados.",
+        "rule3": "Se seus esforços trouxeram poucos ou nenhum novos usuários/colaboradores para o projeto de código aberto, você não deve escrever sobre isso.",
+        "rule4": "Você deve provar a sua identidade. Se seu nome de usuário Utopian não é o mesmo que o nome do usuário sobre as plataformas que você usou para o projeto de marketing, você deve fornecer screenshots de uma sessão de login nessas plataformas.",
+        "rule5": "Nunca escreva sobre os esforços de visibilidade que você ja compartilhou antes."
       },
       "documentation": {
-        "headline": "Documentation Rules",
+        "headline": "Regras de Documentação",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
