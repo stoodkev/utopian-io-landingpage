@@ -233,15 +233,15 @@
         "headline": "Regras de Copywriting",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Use esta categoria apenas para mostrar o trabalho de Copywriting que você tenha concluído para um projeto Open Source.",
-        "rule3": "Copywriting can be in any language.",
-        "rule4": "A text intro in English is always mandatory, at the top of the post.",
-        "rule5": "You must be the author.",
-        "rule6": "If applicable, link to pull requests you have submitted on GitHub that contain your work.",
-        "rule7": "Never post copywriting work that you have already shared before."
+        "rule3": "Copywritings podem ser em qualquer idioma.",
+        "rule4": "Uma introdução de texto em inglês é sempre obrigatória, no topo do post.",
+        "rule5": "Você deve ser o autor.",
+        "rule6": "Se for o caso, link para o pull request que você enviou no GitHub que contêm o seu trabalho.",
+        "rule7": "Nunca envie um trabalho de copywriting que você já compartilhou antes."
       },
       "blog": {
-        "headline": "Blog Post Rules",
-        "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
+        "headline": "Regras de Post em Blog",
+        "rule1": "Você deve fornecer um formato(s) original(is). Você não pode postar sobre novidades encontradas na web ou pensamentos gerais, a menos que tenha um formato único e coerente. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'> exemplo de um bom formato</a>.",
         "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
         "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
         "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
