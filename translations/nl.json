@@ -18,15 +18,15 @@
   "octocat": {
     "hi": "Hallo! Ik ben Octocat!",
     "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "visit": "Bezoek GitHub.com!"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Kies een project..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...en draag bij!",
     "suggestions": {
-      "headline": "Suggestions",
+      "headline": "Suggesties",
       "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
     },
     "subprojects": {
