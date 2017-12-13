@@ -20,6 +20,6 @@
     "ignore": ["assets/js/vendor.js"]
   },
   "scripts": {
-    "build": "babel assets/js/index.js -d dist"
+    "build": "babel assets/js/index.js -d dist --source-maps --presets env"
   }
 }
