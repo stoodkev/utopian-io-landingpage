@@ -71,12 +71,12 @@
     },
     "copywriting": {
       "headline": "Informativo",
-      "text": "Escreva um informativo publicitário envolvente para projetos Open Source, e aumente a força da marca."
+      "text": "Escreva um informativo publicitário envolvente para projetos de Códio Aberto, e aumente a força da marca."
     }
   },
   "crowdsourcing": {
     "headline": "Utopian para Donos de Projetos",
-    "text": "Com o Utopian.io, você pode fazer <b>anúncios</b> para o seu projeto e encontrar rapidamente colaboradores de uma comunidade internacional de pessoas talentosas. Use o poder da inteligência coletiva para desenvolver os seus projetos.",
+    "text": "Com o Utopian.io, você pode fazer <b>anúncios</b> para o seu projeto e encontrar rapidamente colaboradores em uma comunidade internacional de pessoas talentosas. Use o poder da inteligência coletiva para desenvolver os seus projetos.",
     "thinkers": {
       "headline": "Pensadores",
       "text": "Chame a atenção de grandes pensadores para o seu projeto para que eles desenvolvam idéias e solucionem problemas."
@@ -107,17 +107,17 @@
     },
     "influencers": {
       "headline": "Influenciadores",
-      "text": "Coordene maketing online e offline com a ajuda de influenciadores ao redor do mundo, e obtenha atenção que o seu projeto merece."
+      "text": "Coordene um efetivo marketing online e offline com a ajuda de influenciadores ao redor do mundo, e obtenha atenção que o seu projeto merece."
     }
   },
   "rewards": {
-    "contributor_rewards": "Recompensas de contribuinte",
-    "curator_rewards": "Recompensas de curador",
-    "pending_rewards": "Recompensas pendentes",
-    "total_generated": "Total gerado",
+    "contributor_rewards": "Recompensas de contribuição",
+    "curator_rewards": "Recompensas de Curador",
+    "pending_rewards": "Recompensas Pendentes",
+    "total_generated": "Total Gerado",
     "steem": {
       "headline": "Quem paga as recompensas?",
-      "text": "Para pagar as recompensas, Utopian.io a <a href='https://steem.io/'>blockchain do Steem</a>. O dinheiro é criado em forma de uma criptomoeda chamada <b>STEEM</b>, através da votação da comunidade. Ninguém precisa pagar as recompensas diretamente. Elas são geradas e distribuídas usando um algoritmo chamado <i>Proof-of-Brain</i>, que encoraja as pessoas a criar e indicar conteúdo de qualidade. <br><br> No caso do Utopian.io, suas contribuições para o mundo do Open Source são o contaúdo de qualidade. Através da votação das suas contibuições, a comunidade cria dinheiro para recompensar pelo seu trabalho. As pessoas também podem escolher pagar uns aos outros diretamente usando o próprio STEEM, se quiserem, mas é opcional. <br><br> O valor do voto de um usuário é baseado no seu próprio investimento na plataforma quanto mais moedas ele tiver, maior é o valor do voto. Utopian.io pode votar nas suas contribuições. Mais de <b>3 milhões de Poder Steem</b> foi delegado para a conta da plataforma Utopian.io, fazendo com que o seu voto completo valha mais de <b>$250</b>, nos preços atuais do mercado.<br><br><a href='#faq'>Leia o FAQ</a> para mais informações.",
+      "text": "Para pagar as recompensas, Utopian.io usa a <a href='https://steem.io/'>blockchain do Steem</a>. O dinheiro é criado em forma de uma criptomoeda chamada <b>STEEM</b>, através da votação da comunidade. Ninguém precisa pagar as recompensas diretamente. Elas são geradas e distribuídas usando um algoritmo chamado <i>Prova-de-cérebro</i>, que encoraja as pessoas a criar e indicar conteúdo de qualidade. <br><br> No caso do Utopian.io, suas contribuições para o mundo do Open Source são o conteúdo de qualidade. Através da votação das suas contribuições, a comunidade cria dinheiro para recompensar pelo seu trabalho. As pessoas também podem escolher pagar uns aos outros diretamente usando o próprio STEEM, se quiserem, mas é opcional. <br><br> O valor do voto de um usuário é baseado no seu próprio investimento na plataforma quanto mais moedas ele tiver, maior é o valor do voto. Utopian.io pode votar nas suas contribuições. Mais de <b>3 milhões de Poder Steem</b> foi delegado para a conta da plataforma Utopian.io, fazendo com que o seu voto completo valha mais de <b>$250</b>, nos preços atuais do mercado.<br><br><a href='#faq'>Leia o FAQ</a> para mais informações.",
       "button": "Aprenda mais sobre o Steem"
     }
   },
@@ -146,7 +146,7 @@
       },
       "development": {
         "headline": "Regras de Desenvolvimento",
-        "rule1": "Apenas merger Pull Requests serão aceitos ou projetos Open Source que voce mantém nunca enviados antes para o Utopian, incluindo forks desde que o fork seja apenas um espelho do original. Prova de trabalho é necessária.",
+        "rule1": "Apenas Pull Requests mesclados serão aceitos ou projetos Open Source que você mantém nunca enviados antes para o Utopian, incluindo forks desde que o fork seja apenas um espelho do original. Prova de trabalho é necessária.",
         "rule2": "Nesta categoria, você pode escrever apenas se você tiver desenvolvido ou contribuído com código para o desenvolvimento de um projeto.",
         "rule3": "Você deverá fornecer links para os branches, forks, gists ou pull requests.",
         "rule4": "Se seu nome de usuário no Github não é o mesmo que seu nome de usuário no Utopian, você deve provar que você é o proprietário da conta, fornecendo uma captura de tela da sessão logada no Github.",
@@ -161,7 +161,7 @@
         "rule4": "Nunca reporte bugs que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "translation": {
-        "headline": "Regras de tradução",
+        "headline": "Regras de Tradução",
         "rule1": "Para enviar uma tradução no Utopian você deve ter traduzido pelo menos 30% do projeto, se este for de porte médio (500-1000 strings), 10-15% para grandes projetos (mais de 1000), 100% para pequenos projetos (1-500).",
         "rule2": "Use esta categoria apenas para traduções você criou ou atualizou para um projeto Open Source.",
         "rule3": "Você deve incluir todo o texto traduzido ou incluir links públicos de versões completas.",
@@ -177,15 +177,15 @@
         "rule2": "Nesta categoria, apenas envie gráficos, como logotipos, ícones, fundos, vídeos ou animações que você criou para um projeto Open Source.",
         "rule3": "Você deve incluir amostras de suas criações diretamente no seu post e links públicos para os projetos completos.",
         "rule4": "Você deve dar o máximo de detalhes possível, para verificar o trabalho que você fez.",
-        "rule5": "Você deverá fornecer os arquivos de fonte editável (como psd ai. .eps .svg .cdr).",
+        "rule5": "Você deverá fornecer os arquivos de fonte editável (como .psd .ai .eps .svg .cdr).",
         "rule6": "Camisetas e projetos de merchandising em geral não são bem-vindos, a menos que explicitamente solicitada pelo dono do projeto.",
         "rule7": "Nunca envie sobre gráficos que já foram compartilhadas antes, por você ou por outra pessoa."
       },
       "analysis": {
         "headline": "Regras de Análise",
-        "rule1": "Essa categoria é apenas para análises que você criou para projetos Open Source.",
+        "rule1": "Essa categoria é apenas para análises que você criou para projetos de Código Aberto.",
         "rule2": "Você deve incluir resultados detalhados e explicar a lógica por trás deles.",
-        "rule3": "Se você não está publicando a análise completa por aqui, você deverá fornecer o link público com a versão completa.",
+        "rule3": "Se você não está publicando a análise completa aqui, você deverá fornecer o link público com a versão completa.",
         "rule4": "Resultados da análise, em forma de gráficos ou tabelas, são obrigatórios nessa categoria.",
         "rule5": "Nunca envie uma análise que já foi compartilhada antes, por você ou por outra pessoa."
       },
