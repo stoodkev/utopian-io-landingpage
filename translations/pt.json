@@ -3,7 +3,7 @@
     "rewards": "Recompensas",
     "rules": "Regras",
     "moderators": "Moderadores",
-    "faq": "Perguntas Frequentes",
+    "faq": "FAQ",
     "help": "Ajuda",
     "blog": "Blog",
     "signup": "Cadastre-se",
@@ -14,10 +14,10 @@
     "text2": "Economia Open Source",
     "text3": "Ganhe recompensas por contribuir com seus<br>projetos Open Source favoritos!"
   },
-  "intro": "Nosso mundo moderno é movido por software de <a href='https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto'>Codigo Aberto</a>. Ele é utilizado em cada computador, celular ou tablet e todos os seus aplicativos favoritos não funcionariam sem ele. Ele é desenvolvio sobretudo por voluntarios e hobbistas ao redor do mundo, estes seus amigos nerds que amam mais os seus computadores do que sair com você. Software de código aberto é gratuito, de propriedade comum e permite que qualquer um o use ou altere conforme suas necessidades. Ele baseia-se na inteligência coletiva ao invés de padrões impostos por superiores. Todo este trabalho é feito de graça! O Utopian, no entanto, recompensa todos aqueles que contribuirem com estes projetos, contanto que haja um certo padrão de qualidade.",
+  "intro": "Nosso mundo moderno é movido por software de <a href='https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto'>Codigo Aberto</a>. Ele é utilizado em cada computador, celular ou tablet e todos os seus aplicativos favoritos não funcionariam sem ele. Ele é desenvolvido sobretudo por voluntários e hobbistas ao redor do mundo, aqueles seus amigos nerds que amam mais os seus computadores do que sair com você. Software de código aberto é gratuito, de propriedade comum e permite que qualquer um o use ou altere conforme suas necessidades. Ele baseia-se na inteligência coletiva ao invés de padrões impostos por superiores. Todo este trabalho é feito de graça! O Utopian, no entanto, recompensa todos aqueles que contribuirem com estes projetos, contanto que haja um certo padrão de qualidade.",
   "octocat": {
     "hi": "Olá! Eu me chamo Octocat!",
-    "text": "Eu trabalho no GitHub, como mascote! É um otimo lugar para se estar. Nós somos uma comunidade global de voluntarios e entusiastas, trabalhando juntos em milhares de projetos interessantes. O <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas ideas e muito mais.",
+    "text": "Eu trabalho no GitHub, como mascote! É um ótimo lugar para se estar. Nós somos uma comunidade global de voluntários e entusiastas, trabalhando juntos em milhares de projetos interessantes. O <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas idéias e muito mais.",
     "visit": "Visite o GitHub.com!"
   },
   "projects": {
@@ -27,7 +27,7 @@
     "headline": "...e comece a contribuir!",
     "suggestions": {
       "headline": "Sugestões",
-      "text": "Tudo começa com uma ideia. Compartilhe suas ideias ou sugira novas funcionalidades e ajude a aprimorar um projeto existente."
+      "text": "Tudo começa com uma idéia. Compartilhe suas ideias ou sugira novas funcionalidades e ajude a aprimorar um projeto existente."
     },
     "subprojects": {
       "headline": "Sub-projetos",
@@ -39,11 +39,11 @@
     },
     "bughunting": {
       "headline": "Caça aos Bugs",
-      "text": "Ajude os desenvolvedores a achar e solucionar problemas em seus projetos compartilhando relatoriós completos e detalhados dos erros que você econtrou."
+      "text": "Ajude os desenvolvedores a achar e solucionar problemas em seus projetos compartilhando relatórios completos e detalhados dos erros que você encontrou."
     },
     "translation": {
       "headline": "Traduções",
-      "text": "Ajude as pessoas a usarem software em outras linguas traduzindo texto ou documentação através do <a href='https://crowdin.com/' target='_blank'>Crowdin</a> e outras ferramentas."
+      "text": "Ajude as pessoas a usarem software em outras línguas traduzindo texto ou documentação através do <a href='https://crowdin.com/' target='_blank'>Crowdin</a> e outras ferramentas."
     },
     "graphics": {
       "headline": "Designs",
@@ -51,7 +51,7 @@
     },
     "documentation": {
       "headline": "Documentação",
-      "text": "Se você escreveu documentação para um projeto (em qualquer lingua), você pode compartilhar ela com a comunidade."
+      "text": "Se você escreveu uma documentação para um projeto (em qualquer lingua), você pode compartilhar ela com a comunidade."
     },
     "analysis": {
       "headline": "Análise",
@@ -59,27 +59,27 @@
     },
     "visibility": {
       "headline": "Visibilidade",
-      "text": "Campanhas de marketing também podem ser recompensadas através do Utopian. Conte para a comunidade o que você fez para promover um projeto Open Source."
+      "text": "Campanhas de marketing também podem ser recompensadas através do Utopian. Conte para a comunidade o que você fez para promover um projeto de Código Aberto."
     },
     "tutorials": {
       "headline": "Tutoriais",
-      "text": "Escreva tutoriais informativos e ajude outras pessoas a utilizar programas Open Source."
+      "text": "Escreva tutoriais informativos e ajude outras pessoas a utilizar programas de Código Aberto."
     },
     "videotutorials": {
       "headline": "Tutoriais em Video",
-      "text": "Crie tutoriais em video para um projeto Open Source e ajude as pessoas as ensinando a utiliza-lo."
+      "text": "Crie tutoriais em video para um projeto Open Source e ajude as pessoas ensinando a utiliza-lo."
     },
     "copywriting": {
-      "headline": "Informativo publicitário",
+      "headline": "Informativo",
       "text": "Escreva um informativo publicitário envolvente para projetos Open Source, e aumente a força da marca."
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian para os Donos de Projetos",
-    "text": "Com o Utopian.io, você pode fazer <b>anúncios</b> para o seu projeto e encontrar rapidamente contribuidores de uma comunidade internacional de pessoas talentosas. Use o poder da inteligência coletiva para desenvolver os seus projetos.",
+    "headline": "Utopian para Donos de Projetos",
+    "text": "Com o Utopian.io, você pode fazer <b>anúncios</b> para o seu projeto e encontrar rapidamente colaboradores de uma comunidade internacional de pessoas talentosas. Use o poder da inteligência coletiva para desenvolver os seus projetos.",
     "thinkers": {
       "headline": "Pensadores",
-      "text": "Chame a atenção de grandes pensadores para o seu projeto, que poderão lhe ajudar a desenvolver ideias e solucionar problemas."
+      "text": "Chame a atenção de grandes pensadores para o seu projeto para que eles desenvolvam idéias e solucionem problemas."
     },
     "developers": {
       "headline": "Desenvolvedores",
@@ -91,7 +91,7 @@
     },
     "translators": {
       "headline": "Tradutores",
-      "text": "Alcance mais pessoas ao redor do mundo nomeando tradutores para tornar o seu projeto disponivel em diversas liguas."
+      "text": "Alcance mais pessoas ao redor do mundo nomeando tradutores para tornar o seu projeto disponivel em diversas línguas."
     },
     "designers": {
       "headline": "Designers",
