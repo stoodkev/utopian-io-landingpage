@@ -35,7 +35,7 @@
     },
     "development": {
       "headline": "Desenvolvimento",
-      "text": "Se você colocou a mão no código e enviou um pull request, compartilhe o seu trabalho com a comunidade do Utopian."
+      "text": "Se você escreveu o código e criou um pull request, compartilhe o seu trabalho com a comunidade do Utopian."
     },
     "bughunting": {
       "headline": "Caça aos Bugs",
@@ -76,7 +76,7 @@
   },
   "crowdsourcing": {
     "headline": "Utopian para os Donos de Projetos",
-    "text": "Com o Utopian.io, você pode fazer <b>anuncios</b> para o seu projeto e encontre rapidamente contribuidores de uma comunidade internacional de pessoas talentosas. Use o poder da inteligencia coletiva para desenvolver os seus projetos.",
+    "text": "Com o Utopian.io, você pode fazer <b>anúncios</b> para o seu projeto e encontrar rapidamente contribuidores de uma comunidade internacional de pessoas talentosas. Use o poder da inteligência coletiva para desenvolver os seus projetos.",
     "thinkers": {
       "headline": "Pensadores",
       "text": "Chame a atenção de grandes pensadores para o seu projeto, que poderão lhe ajudar a desenvolver ideias e solucionar problemas."
@@ -87,7 +87,7 @@
     },
     "bughunters": {
       "headline": "Caçadores de Bugs",
-      "text": "Encoraje os usuarios a reportarem problemas ou os convide para utilizar novas funcionalidades que você esta desenvolvendo."
+      "text": "Encoraje os usuários a reportarem problemas ou os convide para utilizar novas funcionalidades que você esta desenvolvendo."
     },
     "translators": {
       "headline": "Tradutores",
