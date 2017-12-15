@@ -47,7 +47,7 @@
     },
     "graphics": {
       "headline": "Grafis",
-      "text": "Berbagi logo asli, ikon, latar belakang dan grafis lain yang sudah Anda rancang untuk sebuah proyek."
+      "text": "Berbagi asli logo, ikon, latar belakang dan grafis lain yang Anda dirancang untuk sebuah proyek."
     },
     "documentation": {
       "headline": "Dokumentasi",
@@ -59,14 +59,14 @@
     },
     "visibility": {
       "headline": "Visibilitas",
-      "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopian juga. Beritahu komunitas apa yang telah anda lakukan untuk mempromosikan proyek Open Source."
+      "text": "Upaya pemasaran dapat juga diberi imbalan melalui utopis juga. Memberitahu masyarakat apa yang telah Anda lakukan untuk mempromosikan proyek sumber terbuka."
     },
     "tutorials": {
       "headline": "Tutorial",
       "text": "Menulis tutorial informatif dan membantu orang lain untuk menggunakan produk Open Source."
     },
     "videotutorials": {
-      "headline": "Video Tutorial",
+      "headline": "Tutorial video",
       "text": "Buat how-to video untuk produk Open Source dan membantu orang belajar bagaimana menggunakannya."
     },
     "copywriting": {
@@ -75,18 +75,18 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian untuk Pemilik Proyek",
-    "text": "Dengan Utopian.io, Anda bisa membuat <b> pengumuman </b> untuk proyek Anda dan secara cepat mengumpulkan banyak sumber dari kolam bakat internasional. Dapatkan perhatian kontributor yang berharga dan gunakan kekuatan kecerdasan kolektif untuk mengembangkan proyek Anda.",
+    "headline": "Utopian untuk pemilik proyek",
+    "text": "Dengan Utopian.io, Anda dapat membuat <b>pengumuman</b> untuk proyek Anda dan cepat crowdsource dari kolam bakat internasional. Mendapatkan perhatian dari kontributor berharga dan menggunakan kekuatan kecerdasan kolektif untuk mengembangkan proyek-proyek Anda.",
     "thinkers": {
       "headline": "Pemikir",
-      "text": "Dapatkan perhatian dari pemikir hebat tentang proyek Anda untuk mengembangkan ide dan memecahkan masalah."
+      "text": "Mendapatkan perhatian dari pemikir besar pada proyek Anda untuk mengembangkan ide-ide dan memecahkan masalah."
     },
     "developers": {
       "headline": "Para pengembang",
       "text": "Hubungi pengembang berbakat untuk menulis kode atau memperbaiki bug."
     },
     "bughunters": {
-      "headline": "Berburu bug",
+      "headline": "Berburu Bug",
       "text": "Mendorong pengguna untuk melaporkan masalah atau mengundang mereka untuk mencoba fitur baru Anda mengembangkan."
     },
     "translators": {
@@ -95,15 +95,15 @@
     },
     "designers": {
       "headline": "Desainer",
-      "text": "Memiliki desainer berbakat yang membuat grafis unik untuk proyek atau merek Anda."
+      "text": "Memiliki desainer berbakat yang membuat unik grafis untuk proyek atau merek Anda."
     },
     "writers": {
-      "headline": "Penulis Teknis",
-      "text": "Dapatkan dokumentasi komprehensif yang dibuat untuk proyek anda yang menginformasikan pengguna dan pemangku kepentingan Anda dengan benar."
+      "headline": "Penulis teknis",
+      "text": "Mendapatkan dokumentasi yang komprehensif yang dibuat untuk proyek Anda yang benar menginformasikan pengguna dan pemangku kepentingan lainnya."
     },
     "analysts": {
-      "headline": "Analisis Data",
-      "text": "Ekstrak makna dari data yang Anda hasilkan, temukan tren dan buat keputusan yang tepat mengenai proyek Anda melalui bantuan data analisis."
+      "headline": "Data analis",
+      "text": "Ekstrak makna dari data yang dihasilkan, menemukan tren dan membuat keputusan mengenai proyek Anda melalui bantuan data analis."
     },
     "influencers": {
       "headline": "Influencers",
