@@ -117,7 +117,7 @@
     "total_generated": "奖励总额",
     "steem": {
       "headline": "谁来支付这些奖励？",
-      "text": "Utopian.io 使用 <a href='https://steem.io/'>Steem 区块链</a>支付奖励。这笔钱是通过社区投票以<b> STEEM </ b>这种加密货币形成的。没有人需要直接支付奖励。它们通过一种称为<i>Proof-of-Brain</i>的算法来生成和分发，这个算法鼓励人们创建和审核高质量的内容。在 Utopian.io，高质量内容指的是你对开源世界的贡献。通过点赞你的贡献，社区创造金钱来奖励你的工作。人们也可以选择直接使用他们自己的STEEM奖励彼此，但这不是必需的。用户投票的价值是基于他/她自己在平台上的投资，股权越高投票的价值就越高。 Utopian.io 本身可以对你的贡献进行投票。超过<b> 300万的Steem Power </b>被委托给 Utopian.io 平台的账户，使它的全力投票价值在当前市场价格下价值<b>250美元</b>以上。<br><br><a href='#faq'>查看常见问题</a>了解更多信息。",
+      "text": "Utopian.io 使用 <a href='https://steem.io/'>Steem 区块链</a>支付奖励。这笔钱是通过社区投票以<b> STEEM </b>这种加密货币形成的。没有人需要直接支付奖励。它们通过一种称为<i>Proof-of-Brain</i>的算法来生成和分发，这个算法鼓励人们创建和审核高质量的内容。在 Utopian.io，高质量内容指的是你对开源世界的贡献。通过点赞你的贡献，社区创造金钱来奖励你的工作。人们也可以选择直接使用他们自己的STEEM奖励彼此，但这不是必需的。用户投票的价值是基于他/她自己在平台上的投资，股权越高投票的价值就越高。 Utopian.io 本身可以对你的贡献进行投票。超过<b> 300万的Steem Power </b>被委托给 Utopian.io 平台的账户，使它的全力投票价值在当前市场价格下价值<b>500美元</b>以上。<br><br><a href='https://github.com/imwatsi/utopian.io-help_center'>查看常见问题</a>了解更多信息。",
       "button": "了解更多关于Steem的信息"
     }
   },
