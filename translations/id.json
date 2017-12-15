@@ -1,6 +1,6 @@
 {
   "nav": {
-    "rewards": "Upah",
+    "rewards": "Hadiah / Imbalan",
     "rules": "Peraturan",
     "moderators": "Moderator",
     "faq": "Pertanyaan Umum",
@@ -12,12 +12,12 @@
   "header": {
     "text1": "Utopian.io",
     "text2": "Ekonomi Sumber Terbuka",
-    "text3": "Dapatkan upah melalui kontribusi pada proyek Sumber Terbuka<br>favorit Anda!"
+    "text3": "Mendapatkan penghargaan dengan memberikan kontribusi untuk proyek Open Source <br>Anda favorit!"
   },
-  "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Yang bekerja pada setiap komputer, ponsel pintar atau tablet dan semua aplikasi favorit anda tidak akan berkerja tanpa hal tersebut. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang tekun di antara teman-teman anda lebih mencintai komputer mereka ketimbang bergaul dengan Anda.  Perangkat lunak Open Source adalah milik umum dan gratis serta memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu tergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Bagaimana pun itu Utopian memberikan penghargaan kepada setiap orang yang berkontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu yang terpenuhi.",
+  "intro": "Dunia modern kita didorong oleh perangkat lunak <a href='https://en.wikipedia.org/wiki/Open-source_model'> Open Source</a>. Ini berjalan pada setiap komputer, setiap smartphone atau tablet dan semua aplikasi favorit Anda tidak akan berjalan tanpa itu. Hal ini dikembangkan terutama oleh relawan dan penggemar di seluruh dunia, orang-orang kutu di antara teman-teman Anda bahwa cinta komputer mereka lebih dari bergaul dengan Anda. Open Source perangkat lunak adalah milik umum dan gratis dan memungkinkan setiap orang untuk menggunakan dan mengubahnya untuk kebutuhan mereka. Hal itu bergantung pada kecerdasan kolektif daripada standar-standar yang dipaksakan oleh atasan. Semua pekerjaan ini dilakukan secara gratis! Utopis namun penghargaan setiap orang yang memberikan kontribusi untuk proyek-proyek tersebut, sebagai standar kualitas tertentu terpenuhi.",
   "octocat": {
     "hi": "Hai! Aku Octocat!",
-    "text": "Saya bekerja di GitHub, sebagai maskot! Ini adalah tempat yang sangat tepat. Kami adalah komunitas dunia-mencakup penggemar dan sukarelawan, bekerja sama untuk ribuan proyek yang keren. <b>Utopian.io</b> menghargai Anda untuk membuat kontribusi ke proyek Open Source seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau berbagi ide-ide bagus dan banyak lagi.",
+    "text": "Saya bekerja di GitHub, sebagai maskot! Ini adalah tempat yang sangat tepat untuk menjadi. Kami adalah komunitas dunia-mencakup penggemar dan sukarelawan, bekerja sama untuk ribuan proyek-proyek yang sejuk. <b>Utopian.io</b> penghargaan Anda untuk membuat kontribusi ke proyek-proyek Open Source seperti memperbaiki bug, menerjemahkan teks, menulis dokumentasi atau berbagi ide-ide bagus dan banyak lagi.",
     "visit": "Kunjungi GitHub.com!"
   },
   "projects": {
@@ -27,15 +27,15 @@
     "headline": "...dan berkontribusi!",
     "suggestions": {
       "headline": "Saran",
-      "text": "Semua dimulai dengan sebuah ide. Bagikan ide Anda atau permintaan fitur kecil akan membantu mengembangkan proyek."
+      "text": "Semuanya dimulai dengan sebuah ide. Berbagi ide-ide atau permintaan fitur kecil dan membantu meningkatkan proyek."
     },
     "subprojects": {
       "headline": "Sub-Proyek",
-      "text": "Berbagi fitur baru dan lebih rumit atau konsep yang telah anda kembangkan pada sebuah proyek."
+      "text": "Berbagi fitur baru dan lebih rumit atau konsep yang Anda telah mengembangkan sebuah proyek."
     },
     "development": {
       "headline": "Pengembang",
-      "text": "Jika Anda telah menulis kode dan membuat permintaan tarik, bagikan pekerjaan Anda dengan komunitas utopian."
+      "text": "Jika Anda telah menulis kode dan menciptakan permintaan tarik, berbagi pekerjaan Anda dengan masyarakat utopis."
     },
     "bughunting": {
       "headline": "Berburu Bug",
