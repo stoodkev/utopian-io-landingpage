@@ -38,7 +38,7 @@
       "text": "If you've written code and created pull requests, share your work with the Utopian community."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
+      "headline": "Hledání chyb",
       "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
     },
     "translation": {
@@ -86,33 +86,33 @@
       "text": "Call on talented developers to write code or fix bugs."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
+      "headline": "Hledači chyb",
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "Překladatelé",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
-      "headline": "Designers",
+      "headline": "Designéři",
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
-      "headline": "Technical Writers",
+      "headline": "Dokumentaristé",
       "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
     },
     "analysts": {
-      "headline": "Data Analysts",
+      "headline": "Analytici dat",
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "Činitelé",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },
   "rewards": {
     "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
+    "curator_rewards": "Kurátorské odměny",
     "pending_rewards": "Pending Rewards",
     "total_generated": "Total Generated",
     "steem": {
