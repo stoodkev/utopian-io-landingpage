@@ -83,14 +83,14 @@
     },
     "developers": {
       "headline": "開発者",
-      "text": "Call on talented developers to write code or fix bugs."
+      "text": "コードを書いたりバグを修正するために、才能のある開発者を呼び出す。"
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "バグハンター",
+      "text": "ユーザーが問題を報告したり、開発中の新機能を試してみるようユーザーに促してください。"
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "翻訳者",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
@@ -166,25 +166,25 @@
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
         "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "rule5": "全体の翻訳は常に優先されます。翻訳の一部について書いている場合は、実際の作業を評価する権利があります。",
+        "rule6": "あなたは翻訳の著者で、あなたの仕事を検証する方法を提供する必要があります。",
+        "rule7": "CrowdInまたは類似の翻訳プラットフォームのユーザー名があなたのユートピアのユーザー名と同じでない場合は、その翻訳プラットフォームでログインしたセッションのスクリーンショットを提供することでアカウントを所有していることを証明する必要があります。",
+        "rule8": "あなたや他の人が既に共有している翻訳を提出しないでください。"
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "headline": "グラフィックルール",
+        "rule1": "我々は、作品が報酬を得るには十分ではないと考えている場合、グラフィック寄稿を拒否する権利を留保します。",
+        "rule2": "このカテゴリでは、オープンソースプロジェクト用に作成したロゴ、アイコン、背景、ビデオ、アニメーションなどのグラフィックのみを提出します。",
+        "rule3": "あなたの作品のサンプルをあなたのポストに直接添付し、完全なデザインへの公開リンクを含める必要があります。",
+        "rule4": "あなたは、あなたがした作業を確認するためにできるだけ詳細を与える必要があります。",
+        "rule5": "編集可能なソースファイル（.psd .ai .eps .svg .cdrなど）を指定する必要があります。",
+        "rule6": "Tシャツとマーチャンダイジングデザインは、プロジェクトオーナーが明示的に要求しない限り一般的に歓迎されません。",
+        "rule7": "あなたや他の人が以前に共有したグラフィックスについては、決して投稿しないでください。"
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
+        "headline": "分析ルール",
+        "rule1": "このカテゴリは、オープンソースプロジェクトのために準備した分析用です。",
+        "rule2": "詳細な結果を記載し、その理由を説明する必要があります。",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
