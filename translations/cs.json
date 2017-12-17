@@ -30,11 +30,11 @@
       "text": "Vše začíná zrozením myšlenky. Sdílejte své nápady a žádosti na funkce a pomozte tak vylepšit projekt."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
+      "headline": "Podprojekty",
       "text": "Share new and more elaborate features or concepts that you have developed for a project."
     },
     "development": {
-      "headline": "Development",
+      "headline": "Vývoj",
       "text": "If you've written code and created pull requests, share your work with the Utopian community."
     },
     "bughunting": {
@@ -42,31 +42,31 @@
       "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
     },
     "translation": {
-      "headline": "Translation",
+      "headline": "Překlad",
       "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
     },
     "graphics": {
-      "headline": "Graphics",
+      "headline": "Grafika",
       "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
     },
     "documentation": {
-      "headline": "Documentation",
+      "headline": "Dokumentace",
       "text": "If you have authored documentation for a project (in any language), you can share it with the community."
     },
     "analysis": {
-      "headline": "Analysis",
+      "headline": "Analýza",
       "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
-      "headline": "Visibility",
+      "headline": "Viditelnost",
       "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
     },
     "tutorials": {
-      "headline": "Tutorials",
+      "headline": "Návody",
       "text": "Write informative tutorials and help other people to use Open Source products."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
+      "headline": "Video návody",
       "text": "Create how-to videos for an Open Source product and help people learn how to use it."
     },
     "copywriting": {
@@ -75,14 +75,14 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
+    "headline": "Utopian pro vlastníky projektů",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
-      "headline": "Thinkers",
+      "headline": "Myslitelé",
       "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
     },
     "developers": {
-      "headline": "Developers",
+      "headline": "Vývojáři",
       "text": "Call on talented developers to write code or fix bugs."
     },
     "bughunters": {
