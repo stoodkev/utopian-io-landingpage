@@ -111,19 +111,19 @@
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
+    "contributor_rewards": "Přispěvatelské odměny",
     "curator_rewards": "Kurátorské odměny",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "pending_rewards": "Očekávané odměny",
+    "total_generated": "Celkově generováno",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "Kdo vyplácí odměny?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3.5 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$500</b>, at current market prices.<br><br><a href='https://github.com/imwatsi/utopian.io-help_center'>Check our Help Center</a> for more information.",
-      "button": "Learn more about Steem"
+      "button": "Více informací o Steemu"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
+    "step1": "Řiďte se<br>našimi pravidly!",
+    "step2": "Překontrolují vás<br>naši moderátoři!",
     "step3": "Get upvoted by Utopian.io and the community!",
     "step4": "Get paid<br>after 7 days!",
     "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
