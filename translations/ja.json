@@ -1,88 +1,88 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
-    "faq": "FAQ",
-    "help": "Help",
-    "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "rewards": "報酬",
+    "rules": "ルール",
+    "moderators": "モデレーター",
+    "faq": "よくある質問",
+    "help": "助けて",
+    "blog": "ブログ",
+    "signup": "サインアップ",
+    "login": "ログイン"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "オープンソース経済",
+    "text3": "あなたに貢献することで報酬を獲得<BR>お気に入りのオープンソースプロジェクト！"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "私たちの現代の世界は、<a href='https://en.wikipedia.org/wiki/Open-source_model'>オープンソース</a>ソフトウェアによって推進されています。それはすべてのコンピュータ、すべてのスマートフォンまたはタブレットで実行され、お気に入りのアプリはすべてそれなしでは実行されません。主にボランティアや世界中の愛好家によって開発されています。あなたのお友達の中には、あなたのコンピュータが大好きなオタクが、あなたと仲良くなるよりももっと成長しています。オープンソースソフトウェアは無料で共通の財産であり、誰もがオープンソースソフトウェアを使用してニーズに合わせて変更することができます。上司によって課された基準ではなく、集団知能に依存しています。この作業はすべて無料で行われます！しかしながら、ユートピアンは、一定の品質基準が満たされている限り、そのようなプロジェクトに貢献するすべての人に報酬を与えます。",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "こんにちは！私はオクトカットです！",
+    "text": "私はGitHubでマスコットとして働いています！それは非常に素晴らしい場所です。私たちは熱狂的な人とボランティアの世界的なコミュニティであり、何千ものクールなプロジェクトに協力しています。<b> Utopian.io </ b>は、バグの修正、テキストの翻訳、ドキュメントの作成や良いアイデアの共有など、オープンソースプロジェクトに貢献したことを報奨します。",
+    "visit": "GitHub.comにアクセス！"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "プロジェクトを選択..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...そして貢献する！",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "提案",
+      "text": "すべてがアイデアから始まります。あなたのアイデアやマイナーな機能リクエストを共有し、プロジェクトを改善するのに役立ちます。"
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "サブプロジェクト",
+      "text": "プロジェクトのために開発した新しくより精巧な機能や概念を共有します。"
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "開発",
+      "text": "コードを書いてプルリクエストを作成した場合は、ユートピアのコミュニティと仕事を共有してください。"
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "バグハンティング",
+      "text": "開発者が詳細なバグレポートを共有することにより、ソフトウェアの問題を見つけて解決するのを手伝ってください。"
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "翻訳",
+      "text": "<a href='https://crowdin.com/' target='_blank'> Crowdin </a>やその他のツールを使用してテキストやドキュメントを翻訳することにより、他の言語のソフトウェアを使用するのを助けます。"
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "グラフィックス",
+      "text": "オリジナルのロゴ、アイコン、背景、およびプロジェクト用に設計したその他のグラフィックを共有します。"
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "ドキュメンテーション",
+      "text": "プロジェクトのドキュメントを任意の言語で作成している場合は、コミュニティと共有することができます。"
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "分析",
+      "text": "特定のプロジェクトのデータセットを分析し、そこから有用な情報を抽出した可能性があります。コミュニティと共有することもできます。"
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "可視性",
+      "text": "マーケティング活動はユートピアを通じても報われることができます。あなたがオープンソースプロジェクトを促進するために行ったことをコミュニティに伝えてください。"
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "チュートリアル",
+      "text": "有益なチュートリアルを作成し、他の人々がオープンソース製品を使用するのを助ける。"
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "ビデオチュートリアル",
+      "text": "オープンソース製品のハウツービデオを作成し、人々がその使い方を学ぶのを助ける。"
     },
     "copywriting": {
-      "headline": "Copywriting",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "headline": "コピーライティング",
+      "text": "オープンソースプロジェクトのための魅力的で有益なコピーを作成し、ブランドの強みを向上させる。"
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "headline": "プロジェクトオーナーのユートピア",
+    "text": "Utopian.ioを使用すると、プロジェクトの<b>お知らせ</ b>を行うことができ、国際的な人材プールから迅速にクラウドソーシングできます。貴重な貢献者の注目を集め、集団知能の力を使ってプロジェクトを開発してください。",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "思想家",
+      "text": "アイデアを開発し、問題を解決するために、偉大な思想家の注目をプロジェクトで得る。"
     },
     "developers": {
-      "headline": "Developers",
+      "headline": "開発者",
       "text": "Call on talented developers to write code or fix bugs."
     },
     "bughunters": {
