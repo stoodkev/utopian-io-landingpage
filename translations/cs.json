@@ -35,19 +35,19 @@
     },
     "development": {
       "headline": "Vývoj",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "text": "Pokud jste napsali kód a vytvořili Pull Request, podělte se o svoji práci s komunitou na Utopianu."
     },
     "bughunting": {
       "headline": "Hledání chyb",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "text": "Pomozte vývojářům odhalit a opravit problémy se softwarem napsáním podrobné zprávy o chybách."
     },
     "translation": {
       "headline": "Překlad",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "text": "Zpřístupněte software v ostatních jazycích tím, že přeložíte texty nebo dokumentaci přes <a href='https://crowdin.com/' target='_blank'>Crowdin</a> nebo jiný nástroj."
     },
     "graphics": {
       "headline": "Grafika",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "text": "Sdílejte originální loga, ikony, tapety nebo jiná grafická díla, která jste navrhli pro projekt."
     },
     "documentation": {
       "headline": "Dokumentace",
