@@ -142,30 +142,30 @@
         "rule3": "このカテゴリでは、イメージ、スクリーンショット、リンク、フロー、モックアップ、サンプルは常に必須です。",
         "rule4": "このカテゴリでは、コンテンツの品質がユートピアで受け入れられる主な要因です。",
         "rule5": "自分のアイデアがサブプロジェクトの資格ではないと思われる場合は、代わりに「候補」カテゴリを使用してください。",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "rule6": "既に共有していたプロジェクトや既に他の人が共有しているプロジェクトは書かないでください。"
       },
       "development": {
-        "headline": "Development Rules",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "headline": "開発ルール",
+        "rule1": "フォークがオリジナルのミラーではない限り、結合されたプルリクエストのみが受け入れられます。仕事の証明が必要です。",
+        "rule2": "このカテゴリでは、プロジェクトの開発にコードを開発した場合、または貢献した場合にのみ書き込むことができます。",
+        "rule3": "支店、フォーク、要点、またはプルリクエストへのリンクを提供する必要があります。",
+        "rule4": "Githubのユーザー名がユートピアのユーザー名と同じでない場合は、ログインしたセッションのスクリーンショットをGithubで提供して、アカウントの所有者であることを証明する必要があります。",
+        "rule5": "画像、スクリーンショット、リンク、および例は必須ではありませんが、好ましいものです。",
+        "rule6": "これまでに共有したコードの投稿については、絶対に書いてください。"
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "バグハンティングルール",
+        "rule1": "このカテゴリのみを使用して、オープンソースプロジェクトで見つかったバグを報告してください。",
+        "rule2": "バグを再現するのに必要なすべての詳細を提供する必要があります。",
+        "rule3": "たとえば、使用されているブラウザ、デバイスの種類、オペレーティングシステムなどの詳細を含める必要があります。",
+        "rule4": "以前に共有されたバグは、あなたや他の誰かによって報告されません。"
       },
       "translation": {
-        "headline": "Translation Rules",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
+        "headline": "翻訳ルール",
+        "rule1": "ユートピア語で翻訳を提出するには、中規模プロジェクト(500-1000文字列) の場合はプロジェクトの30％以上を、大プロジェクト(1000以上) の場合は10-15％、小規模プロジェクトの場合は100％(1 - 500)。",
+        "rule2": "このカテゴリは、オープンソースプロジェクト用に作成または更新した翻訳にのみ使用してください。",
+        "rule3": "翻訳されたテキスト全体を投稿に含めるか、フルバージョンへのパブリックリンクを含める必要があります。",
+        "rule4": "翻訳に使用した翻訳やツールを確認するために、できるだけ詳細を含めてください。",
         "rule5": "全体の翻訳は常に優先されます。翻訳の一部について書いている場合は、実際の作業を評価する権利があります。",
         "rule6": "あなたは翻訳の著者で、あなたの仕事を検証する方法を提供する必要があります。",
         "rule7": "CrowdInまたは類似の翻訳プラットフォームのユーザー名があなたのユートピアのユーザー名と同じでない場合は、その翻訳プラットフォームでログインしたセッションのスクリーンショットを提供することでアカウントを所有していることを証明する必要があります。",
@@ -247,19 +247,19 @@
         "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
         "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
         "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule7": "過去に悪用されているように、私たちはこのカテゴリーに特に厳しいものになります。"
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "報酬",
+    "pending": "保留中",
+    "previous": "前",
+    "meet": "モデレーターを見る",
+    "text": "ユートピアンでは、すべてのコントリビュータが、プラットフォーム上で高い品質基準が維持されていることを確認する司会者を含め、勤勉の報酬を得ています。",
+    "pending_payout": "保留中の支払い",
+    "previous_payout": "以前の支払い",
+    "text2": "生成された貢献者報酬の5％は、彼らが検討した貢献額に基づいてモデレーターに送られます。ユートピアの司会者になるためには、高い評価を得なければならず、投稿された投稿を頻繁に見直す必要があります。"
   },
   "faq": {
     "q1": {
