@@ -263,31 +263,31 @@
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "headline": "1. ユートピアとは何ですか？",
+      "text": "<p>オープンソースソフトウェアは、必ずしもすべての労力を費やすことなく、世界中の個人による自発的な仕事と常に関連しています。このソフトウェアは、あなたが考えることができるすべてのデバイス、ウェブサイト、およびアプリケーション上で動作します。自発的に自分の時間と労力を原因に捧げているボランティア、愛好家、愛好家によって作成されることがよくあります。</p> <p>ユートピアはオープンソース経済を構築しており、オープンソースソフトウェアプロジェクトに価値ある貢献をした人々が彼らの勤勉さに報いを受ける。ユートピアンはSteem blockchainの上に構築され、貴重な貢献に報いるために群衆の知恵を使用します。プロジェクトの所有者やその他の貢献者は、個々の寄付を投票したり寄付したりすることで報酬がどのように分配されるかを決定し、寄付者をSTEEMと呼ばれる暗号化方式で支払うことで直接サポートすることもできます. STEEMはBitcoinおよびEthereum。</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "headline": "2. Steemとは何ですか？",
+      "text": "<p> Steemは、ソーシャルメディアアプリケーションとそのコンテンツをサポートする次世代のブロックチェーンです。それは群集の知恵を利用してそれぞれのコミュニティに貴重な貢献をする人々に報いるユニークなProof-of-Brainメカニズムを使用しています。その本来の通貨はSTEEMと呼ばれ、ユートピアの貢献者が報酬を受けるのは通貨です。</p> <p> <a href='https://steem.io'> Steemについてもっと学ぶ</a> </p >"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
-      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+      "headline": "3. 報酬はどこから来ますか？",
+      "text": "<p>Steemの経済モデルでは、毎年約9.5％の定義済みのインフレ率で新しいトークン(または通貨単位)を作成することができます。これは、次の20年半に毎年約0.5％毎年0.95％のインフレ率に達する。これらの新しいトークンは、地域社会の投票を通じてコミュニティが貴重な行動を行っている人々に継続的に配布されます。ユートピアコミュニティの場合、プロジェクトの所有者、仲間の貢献者、オープンソースソフトウェア開発に関心のある他の人々が「アップヴォート」や「それに類する」寄付金として、これらの新しいトークンがどのように配布されているか、 Steemエコシステムのステーク(Steem Powerがどれだけ持っているか)。彼らが持っているより多くのSteem Power、</p><p>投稿者は、投稿または投稿が公開されてから7日後に報酬を引き換えることができます。</p><p><a href='https://steem.io'> Steemエコシステムの詳細をご覧ください</a></p>"
     },
     "q4": {
-      "headline": "4. Where do I find my wallet?",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "headline": "4. 私の財布はどこにありますか？",
+      "text": "<p>ユートピアンで獲得したすべてのSTEEMは、個々の投稿が払い出し日（出版後7日）に達すると、アカウントで利用可能になります。現時点では、あなたのアカウントの残高に払い戻すことができます。</p><p>アカウントの残高を確認し、資金にアクセスするには、<a href='https://steemit.com'> steemit.com </a>にアクセスする必要があります。「Wallet」という名前のセクションがあります。そこにはあなたが所有しているSTEEMの量と、それを転送するツールなどが表示されます。現在Steemit Inc.が開発しているモバイルSTEEMウォレットアプリがあります。いったん終了すると、STEEMウォレットを管理する最も簡単な方法になります。</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "5. STEEMでどのように現金を払うのですか？",
+      "text": "<p>ウォレットにSTEEMがあれば、<a href='https://poloniex.com/'> Poloniex </a>や<a href = 'のようなSTEEMをサポートする暗号化交換に転送することができます。https://bittrex.com/'> Bittrex </a>を。そこでは、BitcoinやEthereumのような他のcryptocurrenciesのために交換することができます。</p><p>また、<a href='https://blocktrades.us/'> Blocktrades </a>を使用することもできます。これはSteemitウォレットインターフェイスに統合されています。STEEM天びんをクリックすると、ドロップダウンメニューが表示されます。それから(売る)をクリックし、ブロックトレードに連れて行くでしょう。</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "headline": "6. どのようにしてより多くの報酬を得ることができますか？",
+      "text": "<p>品質はユートピアで最も重要です。コミュニティは、問題を解決してプロジェクトを進めるための有益な貢献を感謝します。そのため、質の高い貢献が注目され、報われるでしょう。最高の仕事を常に提出することは、あなたの貢献に対してより多くを得るために自分自身を位置づける最も確実な方法です。</p>"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "steemit.comでもっと読む"
   }
 }
