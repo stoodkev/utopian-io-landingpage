@@ -112,24 +112,24 @@
   },
   "rewards": {
     "contributor_rewards": "Katılımcı ödülleri",
-    "curator_rewards": "Küratör ödülleri",
+    "curator_rewards": "Müdür ödülleri",
     "pending_rewards": "Bekleyen ödüller",
     "total_generated": "Toplam oluşturulan",
     "steem": {
-      "headline": "Ödülleri ödeyen?",
-      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.<br><br> Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır. <br><br> Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına <b>3,5 milyondan daha fazla Steem Power</b> delege edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre <b>500 dolar</b>'dan daha fazla hale getirmiştir. <br><br> Daha fazla bilgi için <a href='https://github.com/imwatsi/utopian.io-help_center'>Help Center'ları inceleyiniz</a>.",
-      "button": "Steem hakkında daha fazla"
+      "headline": "Ödülleri veren kim?",
+      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır.  Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına  3,5 milyondan daha fazla Steem Power adapte edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre 500 dolar'dan daha fazla hale getirmiştir. Daha fazla bilgi için <a href='https://github.com/imwatsi/utopian.io-help_center'>Help Center'ları inceleyiniz</a>.",
+      "button": "Steem hakkında daha fazla bilgi"
     }
   },
   "rules": {
     "step1": "Kurallarımıza <br> uyunuz!",
-    "step2": "Moderatörlerimiz tarafından<br> incelen!",
+    "step2": "Moderatörlerimiz tarafından<br> incelenicek!",
     "step3": "Utopian topluluğu tarafından oy al!",
-    "step4": "7 gün sonra<br> ödemeni al!",
+    "step4": "7 gün sonra<br> ödemeni alabilirsin!",
     "text": "Kaliteyi sağlamak için her katkı moderatörlerimizden biri tarafından kurallarımıza göre incelenir. Bu kurallara uymamak ya daha düşük ödüller almanıza ya da katkınızın kabul edilmesini tamamen durdurmaya sebep olacaktır. Ancak, katkınız kabul edilmezse, yine de Steem blockchain'inde paylaşılacak ve ödül kazanabilecektir. Bu durumda kendi başınızın çaresine bakmanız gerekecektir. Utopian gönderinize ödül de vermeyecektir paylaşmayacaktır da.",
     "categories": {
       "suggestions": {
-        "headline": "Öneri kuralları",
+        "headline": "Öneri kurallar",
         "rule1": "Öneriler, bir Açık Kaynak projede görmek isteyeceğiniz küçük özellikler/geliştirmelerdir.",
         "rule2": "Öneriler, istenilen özelliklerin gerçekten yapılabilmesi için yeterince detay sunmalıdır.",
         "rule3": "Ekran paylaşımı, görüntüler ve link örnekleri bu kategoride her zaman hoş karşılanır.",
@@ -165,7 +165,7 @@
         "rule1": "Utopian'a çeviri göndermek için orta büyüklükte bir projenin en az %30'unu (500 - 1000 satır), büyük projelerin %10-15'ini (1000 satırdan fazla), küçük projelerin ise tamamını çevirmeniz gerekir (1 - 500 satır).",
         "rule2": "Bu kategoriyi sadece çevirdiğiniz veya güncellediğiniz bir açık kaynaklı proje için kullanın.",
         "rule3": "Çevrilmiş metnin tamamını gönderi içinde veya herkese açık bağlantılarla bulundurmalısın.",
-        "rule4": "Mümkün olduğunca detay ekleyin, ki çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
+        "rule4": "Mümkün olduğunca detay ekleyin ki, çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
         "rule5": "Tamamı çevrilen çeviriler her zaman tercih edilir. Eğer çevirinin bir kısmını çeviriyorsanız, tam çeviriyi değerlendirme hakkımızı saklı tutuyoruz.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
         "rule7": "Eğer kullanıcı adın CrowdIn veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
