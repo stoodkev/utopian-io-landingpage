@@ -1,190 +1,190 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
-    "moderators": "Moderators",
-    "faq": "FAQ",
-    "help": "Help",
-    "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "rewards": "報酬",
+    "rules": "ルール",
+    "moderators": "モデレーター",
+    "faq": "よくある質問",
+    "help": "助けて",
+    "blog": "ブログ",
+    "signup": "サインアップ",
+    "login": "ログイン"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "オープンソース経済",
+    "text3": "あなたに貢献することで報酬を獲得<BR>お気に入りのオープンソースプロジェクト！"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "私たちの現代の世界は、<a href='https://en.wikipedia.org/wiki/Open-source_model'>オープンソース</a>ソフトウェアによって推進されています。それはすべてのコンピュータ、すべてのスマートフォンまたはタブレットで実行され、お気に入りのアプリはすべてそれなしでは実行されません。主にボランティアや世界中の愛好家によって開発されています。あなたのお友達の中には、あなたのコンピュータが大好きなオタクが、あなたと仲良くなるよりももっと成長しています。オープンソースソフトウェアは無料で共通の財産であり、誰もがオープンソースソフトウェアを使用してニーズに合わせて変更することができます。上司によって課された基準ではなく、集団知能に依存しています。この作業はすべて無料で行われます！しかしながら、ユートピアンは、一定の品質基準が満たされている限り、そのようなプロジェクトに貢献するすべての人に報酬を与えます。",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "こんにちは！私はオクトカットです！",
+    "text": "私はGitHubでマスコットとして働いています！それは非常に素晴らしい場所です。私たちは熱狂的な人とボランティアの世界的なコミュニティであり、何千ものクールなプロジェクトに協力しています。<b> Utopian.io </ b>は、バグの修正、テキストの翻訳、ドキュメントの作成や良いアイデアの共有など、オープンソースプロジェクトに貢献したことを報奨します。",
+    "visit": "GitHub.comにアクセス！"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "プロジェクトを選択..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...そして貢献する！",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "headline": "提案",
+      "text": "すべてがアイデアから始まります。あなたのアイデアやマイナーな機能リクエストを共有し、プロジェクトを改善するのに役立ちます。"
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "サブプロジェクト",
+      "text": "プロジェクトのために開発した新しくより精巧な機能や概念を共有します。"
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "開発",
+      "text": "コードを書いてプルリクエストを作成した場合は、ユートピアのコミュニティと仕事を共有してください。"
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "バグハンティング",
+      "text": "開発者が詳細なバグレポートを共有することにより、ソフトウェアの問題を見つけて解決するのを手伝ってください。"
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "翻訳",
+      "text": "<a href='https://crowdin.com/' target='_blank'> Crowdin </a>やその他のツールを使用してテキストやドキュメントを翻訳することにより、他の言語のソフトウェアを使用するのを助けます。"
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "グラフィックス",
+      "text": "オリジナルのロゴ、アイコン、背景、およびプロジェクト用に設計したその他のグラフィックを共有します。"
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "ドキュメンテーション",
+      "text": "プロジェクトのドキュメントを任意の言語で作成している場合は、コミュニティと共有することができます。"
     },
     "analysis": {
-      "headline": "Analysis",
-      "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
+      "headline": "分析",
+      "text": "特定のプロジェクトのデータセットを分析し、そこから有用な情報を抽出した可能性があります。コミュニティと共有することもできます。"
     },
     "visibility": {
-      "headline": "Visibility",
-      "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
+      "headline": "可視性",
+      "text": "マーケティング活動はユートピアを通じても報われることができます。あなたがオープンソースプロジェクトを促進するために行ったことをコミュニティに伝えてください。"
     },
     "tutorials": {
-      "headline": "Tutorials",
-      "text": "Write informative tutorials and help other people to use Open Source products."
+      "headline": "チュートリアル",
+      "text": "有益なチュートリアルを作成し、他の人々がオープンソース製品を使用するのを助ける。"
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
-      "text": "Create how-to videos for an Open Source product and help people learn how to use it."
+      "headline": "ビデオチュートリアル",
+      "text": "オープンソース製品のハウツービデオを作成し、人々がその使い方を学ぶのを助ける。"
     },
     "copywriting": {
-      "headline": "Copywriting",
-      "text": "Write engaging and informative copy for Open Source projects, and improve the strength of their brand."
+      "headline": "コピーライティング",
+      "text": "オープンソースプロジェクトのための魅力的で有益なコピーを作成し、ブランドの強みを向上させる。"
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
-    "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
+    "headline": "プロジェクトオーナーのユートピア",
+    "text": "Utopian.ioを使用すると、プロジェクトの<b>お知らせ</ b>を行うことができ、国際的な人材プールから迅速にクラウドソーシングできます。貴重な貢献者の注目を集め、集団知能の力を使ってプロジェクトを開発してください。",
     "thinkers": {
-      "headline": "Thinkers",
-      "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
+      "headline": "思想家",
+      "text": "アイデアを開発し、問題を解決するために、偉大な思想家の注目をプロジェクトで得る。"
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "開発者",
+      "text": "コードを書いたりバグを修正するために、才能のある開発者を呼び出す。"
     },
     "bughunters": {
-      "headline": "Bug Hunters",
-      "text": "Encourage users to report problems or invite them to try out new features you're developing."
+      "headline": "バグハンター",
+      "text": "ユーザーが問題を報告したり、開発中の新機能を試してみるようユーザーに促してください。"
     },
     "translators": {
-      "headline": "Translators",
-      "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
+      "headline": "翻訳者",
+      "text": "プロジェクトを複数の言語で利用できるように翻訳者を割り当てることにより、世界中の多くの人々にアプローチすることができます。"
     },
     "designers": {
-      "headline": "Designers",
-      "text": "Have talented designers create unique graphics for your project or brand."
+      "headline": "デザイナー",
+      "text": "才能のあるデザイナーにあなたのプロジェクトやブランドのユニークなグラフィックを作成させる。"
     },
     "writers": {
-      "headline": "Technical Writers",
-      "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
+      "headline": "テクニカルライター",
+      "text": "ユーザーや他のステークホルダーに適切な情報を提供する、プロジェクト用に作成された包括的なドキュメントを入手してください。"
     },
     "analysts": {
-      "headline": "Data Analysts",
-      "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
+      "headline": "データアナリスト",
+      "text": "生成されたデータから意味を抽出し、傾向を発見し、データアナリストの助けを借りてプロジェクトに関する情報に基づいた意思決定を行います。"
     },
     "influencers": {
-      "headline": "Influencers",
-      "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
+      "headline": "インフルエンザ",
+      "text": "世界中のインフルエンサーの助けを借りて効果的なオンラインまたはオフラインのマーケティングを調整し、プロジェクトにふさわしい注意を喚起してください。"
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "貢献者報酬",
+    "curator_rewards": "キュレーター報酬",
+    "pending_rewards": "保留中の報酬",
+    "total_generated": "生成された合計",
     "steem": {
-      "headline": "Who pays the rewards?",
-      "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3.5 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$500</b>, at current market prices.<br><br><a href='https://github.com/imwatsi/utopian.io-help_center'>Check our Help Center</a> for more information.",
-      "button": "Learn more about Steem"
+      "headline": "誰が報酬を支払うのですか？",
+      "text": "報酬を支払うため、Utopian.ioは<a href='https://steem.io/'> Steem blockchain</a>を使用します。お金は、コミュニティの投票を通じて、<b>STEEM</b>という暗号侵害の形で作成されます。誰も報酬を直接支払う必要はありません。それらは、<i>Proof-of-Brain</ i>というアルゴリズムを使用して生成され、配信されます。これにより、人々は質の高いコンテンツを作成し、管理します。<br><br>Utopian.ioの場合、オープンソースの世界への貢献は質の高いコンテンツです。あなたの貢献をアップして、コミュニティはあなたの仕事のためにあなたに報酬を与えるお金を作成します。また、必要に応じて自分のSTEEMを使ってお金を直接支払うこともできますが、オプションです。<br><br>ユーザーの投票の価値は、プラットフォームへの自分の投資に基づいており、株式の規模が大きいほど、選別時の投票はより価値があります。Utopian.io自体があなたの貢献に投票することができます。上で<B>350万Steemパワー</B>以上、完全な投票が価値が作る、Utopian.ioプラットフォームのアカウントに委任された<B> 500 $ </b>を、現在の市場価格で。<詳細については <a href='https://github.com/imwatsi/utopian.io-help_center'>ヘルプセンター</a>をご覧ください。",
+      "button": "Steemの詳細情報"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
-    "step3": "Get upvoted by Utopian.io and the community!",
-    "step4": "Get paid<br>after 7 days!",
-    "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
+    "step1": "遵守<br>たちのルールを！",
+    "step2": "当社による審査を受けるの<br>モデレーター！",
+    "step3": "Utopian.ioとコミュニティによってupvotedを取得してください！",
+    "step4": "支払いを受ける<br> 7日後に！",
+    "text": "品質を保証するために、私たちのルールに従って各執行者が査定を行います。これらのルールを尊重しないと、報酬を引き下げるか、またはあなたの貢献がまったく受け入れられなくなります。ただし、あなたの投稿が受け入れられない場合、Steemのブロックチェーンに投稿され、報酬を得ることができます。その場合、あなたはあなた自身になります。ユートピアンはあなたの貢献に報いも分かち合いません。",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
-        "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
-        "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
-        "rule3": "Images, screenshots, links and examples are always welcome in this category.",
-        "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
+        "headline": "提案ルール",
+        "rule1": "提案は、オープンソースプロジェクトでご希望の軽微な機能/拡張機能です。",
+        "rule2": "提案は、要求された機能が実際に構築されるのに十分な詳細を提供しなければならない。",
+        "rule3": "このカテゴリーでは、画像、スクリーンショット、リンク、例をいつでも歓迎します。",
+        "rule4": "既に共有している提案や他の人が既に共有している提案については、絶対に書き留めてはいけません。"
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
-        "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
-        "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
-        "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
-        "rule4": "In this category, quality of the content is the main factor for being accepted in Utopian.",
-        "rule5": "If you believe your idea does not qualify as a Sub-Project, use the Suggestions category instead.",
-        "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
+        "headline": "サブプロジェクトルール",
+        "rule1": "サブプロジェクトとは、プロジェクトに大きな影響を与える、目に見えない新しい機能のセットです。",
+        "rule2": "サブプロジェクトは、実際に構築される機能の包括的な詳細を提供しなければならない。",
+        "rule3": "このカテゴリでは、イメージ、スクリーンショット、リンク、フロー、モックアップ、サンプルは常に必須です。",
+        "rule4": "このカテゴリでは、コンテンツの品質がユートピアで受け入れられる主な要因です。",
+        "rule5": "自分のアイデアがサブプロジェクトの資格ではないと思われる場合は、代わりに「候補」カテゴリを使用してください。",
+        "rule6": "既に共有していたプロジェクトや既に他の人が共有しているプロジェクトは書かないでください。"
       },
       "development": {
-        "headline": "Development Rules",
-        "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
-        "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
-        "rule3": "You must provide links to the branches, forks, gists or pull requests.",
-        "rule4": "If your username on Github is not the same as your Utopian username, you must prove that you are the account owner by providing a screenshot of the logged in session in Github.",
-        "rule5": "Images, screenshots, links and examples are not necessary but preferred.",
-        "rule6": "Never write about code contributions you have already shared before."
+        "headline": "開発ルール",
+        "rule1": "フォークがオリジナルのミラーではない限り、結合されたプルリクエストのみが受け入れられます。仕事の証明が必要です。",
+        "rule2": "このカテゴリでは、プロジェクトの開発にコードを開発した場合、または貢献した場合にのみ書き込むことができます。",
+        "rule3": "支店、フォーク、要点、またはプルリクエストへのリンクを提供する必要があります。",
+        "rule4": "Githubのユーザー名がユートピアのユーザー名と同じでない場合は、ログインしたセッションのスクリーンショットをGithubで提供して、アカウントの所有者であることを証明する必要があります。",
+        "rule5": "画像、スクリーンショット、リンク、および例は必須ではありませんが、好ましいものです。",
+        "rule6": "これまでに共有したコードの投稿については、絶対に書いてください。"
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
-        "rule1": "Only use this category to report bugs you have found in an Open Source project.",
-        "rule2": "You must provide all possible details required to reproduce the bug.",
-        "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
-        "rule4": "Never report bugs that have already been shared before, by you or someone else."
+        "headline": "バグハンティングルール",
+        "rule1": "このカテゴリのみを使用して、オープンソースプロジェクトで見つかったバグを報告してください。",
+        "rule2": "バグを再現するのに必要なすべての詳細を提供する必要があります。",
+        "rule3": "たとえば、使用されているブラウザ、デバイスの種類、オペレーティングシステムなどの詳細を含める必要があります。",
+        "rule4": "以前に共有されたバグは、あなたや他の誰かによって報告されません。"
       },
       "translation": {
-        "headline": "Translation Rules",
-        "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
-        "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
-        "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
-        "rule4": "Include as much detail as possible, to check the translations and the tools you have used to translate.",
-        "rule5": "Entire translations are always preferred. If you are writing about a partial translation, we reserve the right to evaluate the actual work.",
-        "rule6": "You must be the author of the translation and provide a way to verify your work.",
-        "rule7": "If your username on CrowdIn or similar translation platforms is not the same as your Utopian username, you must prove that you own the account by providing a screenshot of the logged in session on that translation platform.",
-        "rule8": "Never submit translations that have already been shared, by you or someone else."
+        "headline": "翻訳ルール",
+        "rule1": "ユートピア語で翻訳を提出するには、中規模プロジェクト(500-1000文字列) の場合はプロジェクトの30％以上を、大プロジェクト(1000以上) の場合は10-15％、小規模プロジェクトの場合は100％(1 - 500)。",
+        "rule2": "このカテゴリは、オープンソースプロジェクト用に作成または更新した翻訳にのみ使用してください。",
+        "rule3": "翻訳されたテキスト全体を投稿に含めるか、フルバージョンへのパブリックリンクを含める必要があります。",
+        "rule4": "翻訳に使用した翻訳やツールを確認するために、できるだけ詳細を含めてください。",
+        "rule5": "全体の翻訳は常に優先されます。翻訳の一部について書いている場合は、実際の作業を評価する権利があります。",
+        "rule6": "あなたは翻訳の著者で、あなたの仕事を検証する方法を提供する必要があります。",
+        "rule7": "CrowdInまたは類似の翻訳プラットフォームのユーザー名があなたのユートピアのユーザー名と同じでない場合は、その翻訳プラットフォームでログインしたセッションのスクリーンショットを提供することでアカウントを所有していることを証明する必要があります。",
+        "rule8": "あなたや他の人が既に共有している翻訳を提出しないでください。"
       },
       "graphics": {
-        "headline": "Graphics Rules",
-        "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
-        "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
-        "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
-        "rule4": "You must give as much detail as possible to verify the work you did.",
-        "rule5": "You must provide the editable source files (such as .psd .ai .eps .svg .cdr).",
-        "rule6": "T-shirts and merchandising designs in general are not welcome, unless explicitly requested by the project owner.",
-        "rule7": "Never post about graphics that have been shared before, by you or someone else."
+        "headline": "グラフィックルール",
+        "rule1": "我々は、作品が報酬を得るには十分ではないと考えている場合、グラフィック寄稿を拒否する権利を留保します。",
+        "rule2": "このカテゴリでは、オープンソースプロジェクト用に作成したロゴ、アイコン、背景、ビデオ、アニメーションなどのグラフィックのみを提出します。",
+        "rule3": "あなたの作品のサンプルをあなたのポストに直接添付し、完全なデザインへの公開リンクを含める必要があります。",
+        "rule4": "あなたは、あなたがした作業を確認するためにできるだけ詳細を与える必要があります。",
+        "rule5": "編集可能なソースファイル（.psd .ai .eps .svg .cdrなど）を指定する必要があります。",
+        "rule6": "Tシャツとマーチャンダイジングデザインは、プロジェクトオーナーが明示的に要求しない限り一般的に歓迎されません。",
+        "rule7": "あなたや他の人が以前に共有したグラフィックスについては、決して投稿しないでください。"
       },
       "analysis": {
-        "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
-        "rule2": "You must include detailed results and explain the reasons behind them.",
+        "headline": "分析ルール",
+        "rule1": "このカテゴリは、オープンソースプロジェクトのために準備した分析用です。",
+        "rule2": "詳細な結果を記載し、その理由を説明する必要があります。",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
@@ -247,47 +247,47 @@
         "rule4": "Images, screenshots, links and examples are not necessary but preferred.",
         "rule5": "Check to make sure your post does not fit in other categories (e.g. Tutorials or Copywriting).",
         "rule6": "Never write blog posts you have already shared before.",
-        "rule7": "We will be especially stringent for this category as we have seen abuse here in the past."
+        "rule7": "過去に悪用されているように、私たちはこのカテゴリーに特に厳しいものになります。"
       }
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
-    "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
-    "pending_payout": "Pending Payout",
-    "previous_payout": "Previous Payout",
-    "text2": "5% of the total contributor rewards that are generated go to the Moderators based on the amount of contributions they have reviewed. To become an Utopian Moderator you must have high reputation and often review submitted contributions."
+    "rewards": "報酬",
+    "pending": "保留中",
+    "previous": "前",
+    "meet": "モデレーターを見る",
+    "text": "ユートピアンでは、すべてのコントリビュータが、プラットフォーム上で高い品質基準が維持されていることを確認する司会者を含め、勤勉の報酬を得ています。",
+    "pending_payout": "保留中の支払い",
+    "previous_payout": "以前の支払い",
+    "text2": "生成された貢献者報酬の5％は、彼らが検討した貢献額に基づいてモデレーターに送られます。ユートピアの司会者になるためには、高い評価を得なければならず、投稿された投稿を頻繁に見直す必要があります。"
   },
   "faq": {
     "q1": {
-      "headline": "1. What is Utopian?",
-      "text": "<p>Open Source software has always been associated with voluntary work by individuals across the world who don't necessarily get paid for all their hard work. This software runs on every device, website and application you can think of. It is often created by volunteers, hobbyists and enthusiasts who selflessly dedicate their time and effort to the cause.</p><p>Utopian is building an open source economy, in which the people who make valuable contributions to open source software projects get rewarded for their hard work. Built ontop of the Steem blockchain, Utopian uses the wisdom of the crowd to reward valuable contributions. Project owners and other contributors all get to decide how rewards are distributed through voting or liking individual contributions, and they also have the option to support contributors directly by paying them in a cryptocurrency called STEEM, which can easily be traded for other cryptocurrencies such as Bitcoin and Ethereum.</p>"
+      "headline": "1. ユートピアとは何ですか？",
+      "text": "<p>オープンソースソフトウェアは、必ずしもすべての労力を費やすことなく、世界中の個人による自発的な仕事と常に関連しています。このソフトウェアは、あなたが考えることができるすべてのデバイス、ウェブサイト、およびアプリケーション上で動作します。自発的に自分の時間と労力を原因に捧げているボランティア、愛好家、愛好家によって作成されることがよくあります。</p> <p>ユートピアはオープンソース経済を構築しており、オープンソースソフトウェアプロジェクトに価値ある貢献をした人々が彼らの勤勉さに報いを受ける。ユートピアンはSteem blockchainの上に構築され、貴重な貢献に報いるために群衆の知恵を使用します。プロジェクトの所有者やその他の貢献者は、個々の寄付を投票したり寄付したりすることで報酬がどのように分配されるかを決定し、寄付者をSTEEMと呼ばれる暗号化方式で支払うことで直接サポートすることもできます. STEEMはBitcoinおよびEthereum。</p>"
     },
     "q2": {
-      "headline": "2. What is Steem?",
-      "text": "<p>Steem is a next-generation blockchain that supports social media applications and their content. It uses a unique Proof-of-Brain mechanism that utilizes the wisdom of the crowd to reward people who make valuable contributions to their respective communities. Its native currency is called STEEM and it is the currency that Utopian contributors are rewarded in.</p><p><a href='https://steem.io'>Learn more about Steem</a></p>"
+      "headline": "2. Steemとは何ですか？",
+      "text": "<p> Steemは、ソーシャルメディアアプリケーションとそのコンテンツをサポートする次世代のブロックチェーンです。それは群集の知恵を利用してそれぞれのコミュニティに貴重な貢献をする人々に報いるユニークなProof-of-Brainメカニズムを使用しています。その本来の通貨はSTEEMと呼ばれ、ユートピアの貢献者が報酬を受けるのは通貨です。</p> <p> <a href='https://steem.io'> Steemについてもっと学ぶ</a> </p >"
     },
     "q3": {
-      "headline": "3. Where do the rewards come from?",
-      "text": "<p>Steem's economic model allows for the creation of new tokens (or units of currency) at a predefined inflation rate of around 9.5% per year, going down by approximately 0.5% every year over the next twenty and a half years, until it reaches a 0.95% yearly inflation rate . These new tokens are distributed continuously to people performing actions deemed valuable by their communities through community voting. In the case of the Utopian community, as project owners, fellow contributors and other people with vested interests in open source software development \"upvote\" or \"like\" contributions, they have a say in how these new tokens are distributed, in direct relation to their stake in the Steem ecosystem (i.e. how much Steem Power they have). The more Steem Power they have, the more rewards they can give to contributors.</p><p>Contributors are able to redeem their rewards seven days after the post or contribution has been published.</p><p><a href='https://steem.io'>Learn more about the Steem ecosystem</a></p>"
+      "headline": "3. 報酬はどこから来ますか？",
+      "text": "<p>Steemの経済モデルでは、毎年約9.5％の定義済みのインフレ率で新しいトークン(または通貨単位)を作成することができます。これは、次の20年半に毎年約0.5％毎年0.95％のインフレ率に達する。これらの新しいトークンは、地域社会の投票を通じてコミュニティが貴重な行動を行っている人々に継続的に配布されます。ユートピアコミュニティの場合、プロジェクトの所有者、仲間の貢献者、オープンソースソフトウェア開発に関心のある他の人々が「アップヴォート」や「それに類する」寄付金として、これらの新しいトークンがどのように配布されているか、 Steemエコシステムのステーク(Steem Powerがどれだけ持っているか)。彼らが持っているより多くのSteem Power、</p><p>投稿者は、投稿または投稿が公開されてから7日後に報酬を引き換えることができます。</p><p><a href='https://steem.io'> Steemエコシステムの詳細をご覧ください</a></p>"
     },
     "q4": {
-      "headline": "4. Where do I find my wallet?",
-      "text": "<p>All the STEEM you earn on Utopian is made available to your account when each individual post reaches its payout date, which is 7 days after you published it. At this time, the rewards are available for you to redeem to your account balance.</p><p>To see your account balance and to have access to your funds, you will need to go to <a href='https://steemit.com'>steemit.com</a>. There is a section named “Wallet” where you can see how much STEEM you own and also have the tools to transfer it, among other things. There is a mobile STEEM wallet app currently being developed by Steemit Inc. and once it is out, it will be the easiest way to manage your STEEM wallet.</p>"
+      "headline": "4. 私の財布はどこにありますか？",
+      "text": "<p>ユートピアンで獲得したすべてのSTEEMは、個々の投稿が払い出し日（出版後7日）に達すると、アカウントで利用可能になります。現時点では、あなたのアカウントの残高に払い戻すことができます。</p><p>アカウントの残高を確認し、資金にアクセスするには、<a href='https://steemit.com'> steemit.com </a>にアクセスする必要があります。「Wallet」という名前のセクションがあります。そこにはあなたが所有しているSTEEMの量と、それを転送するツールなどが表示されます。現在Steemit Inc.が開発しているモバイルSTEEMウォレットアプリがあります。いったん終了すると、STEEMウォレットを管理する最も簡単な方法になります。</p>"
     },
     "q5": {
-      "headline": "5. How do I cash in my STEEM?",
-      "text": "<p>Once you have some STEEM in your wallet, you can transfer it to a cryptocurrency exchange that supports STEEM like <a href='https://poloniex.com/'>Poloniex</a> or <a href='https://bittrex.com/'>Bittrex</a>. There you can exchange it for other cryptocurrencies like Bitcoin or Ethereum, which are easier to exchange for fiat (USD for example).</p><p>Or you can use <a href='https://blocktrades.us/'>Blocktrades</a>, which is integrated into the Steemit wallet interface. Just click your STEEM balance and a dropdown menu will appear. Then click “Sell” and you'll be taken to Blocktrades.</p>"
+      "headline": "5. STEEMでどのように現金を払うのですか？",
+      "text": "<p>ウォレットにSTEEMがあれば、<a href='https://poloniex.com/'> Poloniex </a>や<a href = 'のようなSTEEMをサポートする暗号化交換に転送することができます。https://bittrex.com/'> Bittrex </a>を。そこでは、BitcoinやEthereumのような他のcryptocurrenciesのために交換することができます。</p><p>また、<a href='https://blocktrades.us/'> Blocktrades </a>を使用することもできます。これはSteemitウォレットインターフェイスに統合されています。STEEM天びんをクリックすると、ドロップダウンメニューが表示されます。それから(売る)をクリックし、ブロックトレードに連れて行くでしょう。</p>"
     },
     "q6": {
-      "headline": "6. How do I earn more rewards?",
-      "text": "<p>Quality is what matters most on Utopian. The community appreciates useful contributions that solve problems and move projects forward, so quality contributions will get noticed and rewarded. Always submitting your best work is the surest way to position yourself to earn more for your contributions.</p>"
+      "headline": "6. どのようにしてより多くの報酬を得ることができますか？",
+      "text": "<p>品質はユートピアで最も重要です。コミュニティは、問題を解決してプロジェクトを進めるための有益な貢献を感謝します。そのため、質の高い貢献が注目され、報われるでしょう。最高の仕事を常に提出することは、あなたの貢献に対してより多くを得るために自分自身を位置づける最も確実な方法です。</p>"
     }
   },
   "blog": {
-    "readmore": "read more on steemit.com"
+    "readmore": "steemit.comでもっと読む"
   }
 }

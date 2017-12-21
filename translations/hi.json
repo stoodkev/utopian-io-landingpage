@@ -183,7 +183,7 @@
       },
       "analysis": {
         "headline": "Analysis Rules",
-        "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
+        "rule1": "यह श्रेणी केवल विश्लेषण के लिए है जिसे आपने किसी खुले स्रोत प्रोजेक्ट के लिए तैयार किया है ।",
         "rule2": "You must include detailed results and explain the reasons behind them.",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
         "rule4": "Results of the analysis, in the form of charts or tables, are mandatory in this category.",

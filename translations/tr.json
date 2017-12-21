@@ -5,33 +5,33 @@
     "moderators": "Moderatörler",
     "faq": "Sıkça Sorulan Sorular",
     "help": "Yardım",
-    "blog": "Günce",
+    "blog": "Günlük",
     "signup": "Kayıt ol",
-    "login": "Giriş Yap"
+    "login": "Oturum Aç"
   },
   "header": {
     "text1": "Utopian.io",
     "text2": "Açık kaynak ekonomisi",
-    "text3": "Favori açık kaynak projelerine katkıda bulunarak<br>ödül kazan!"
+    "text3": "En sevdiğiniz açık kaynak kodlu projelerine katkıda bulunarak ödül kazan!"
   },
   "intro": "Modern dünya <a href='https://en.wikipedia.org/wiki/Open-source_model'>Açık kaynak</a> yazılımlarla bilgisayarlarda, akıllı telefonlarda yani heryerde! Favori uygulamalarınız açık kaynak yazılımlar olmadan olmazdı. Dünya çapında gönüllüler ve hobi olarak yapan kimseler tarafından geliştiriliyor. Bu kimseler sizinle dışarıya çıkmaktansa bilgisayarı tercih eden arkadaşlarınız... Açık kaynak yazılımlar bedava ve herkesin malı olarak ihtiyaçlarınızı karşılamanızı sağlıyor. Otoritenin standartlara uygun empozesi yerine kollektif zekaya dayalıdır ve bütün bu yapılanlar bedava! Bu projeler için yapılan katkıları utopian, kalite standartlarına uyduğu sürece ödüllendiriyor.",
   "octocat": {
     "hi": "Merhaba! Ben Octocat!",
     "text": "Github'da maskot olarak çalışıyorum! Burada bulunmak harika. Bizler, binlerce proje için birlikte çalışan, meraklı ve gönüllülerden oluşan dünya çapında bir topluluğuz.<b>Utopian.io</b> Hata çözümleme, çevirmenlik, dökümantasyon yazarlığı veya fikir paylaşımları gibi Açık kaynaklara verdiğiniz katkılar için sizi ödüllendiriyor.",
-    "visit": "GitHub.com'u ziyaret et!"
+    "visit": "GitHub.com'u ziyaret edin!"
   },
   "projects": {
     "headline": "Bir proje seç..."
   },
   "contribute": {
-    "headline": "...ve katkıda bulun!",
+    "headline": "...katkıda bulun!",
     "suggestions": {
       "headline": "Öneriler",
       "text": "Herşey bir fikir ile başlar. Projeye katkıda bulunmak için fikirlerini veya yenilik için isteklerini paylaş."
     },
     "subprojects": {
       "headline": "Alt projeler",
-      "text": "Proje için geliştirdiğin, yeni ve ayrıntıyla donatılmış özellikleri ya da konsepti paylaş."
+      "text": "Bir proje için geliştirdiğiniz yeni ve daha ayrıntılı özellikler veya kavramları paylaşın.\n"
     },
     "development": {
       "headline": "Geliştirme",
@@ -62,7 +62,7 @@
       "text": "Pazarlama çalışmaları da utopian tarafından ödüllendiriliyor. Topluluğa açık kaynak proje için neler yaptığını ve nasıl desteklediğini göster."
     },
     "tutorials": {
-      "headline": "Eğitimler",
+      "headline": "rehber",
       "text": "Diğer insanlara yardım etmek için, açık kaynak ürünler üstüne eğitici bir yazı hazırla."
     },
     "videotutorials": {
@@ -71,15 +71,15 @@
     },
     "copywriting": {
       "headline": "Metin yazarlığı",
-      "text": "Açık kaynaklı proje için, çekici ve bilgilendirici bir metin yazarak, markalarının güçlenmesini sağla."
+      "text": "Açık Kaynak projeleri için ilgi çekici ve bilgilendirici kopyalar yazın ve markalarının gücünü artırın."
     }
   },
   "crowdsourcing": {
     "headline": "Proje sahipleri için Utopian",
-    "text": "Utopian.io ile projeleriniz için <b>duyuru</b> yapabilir, hızlıca uluslararası yetenek havuzuna erişebilirsiniz. Değerli katılımcıların dikkatini üstünüze çekip, kolektif zekanın gücünü kullanarak projelerinizi geliştirin.",
+    "text": "Utopian.io ile projeleriniz için yapabilir, hızlıca uluslararası yetenek havuzuna erişebilirsiniz. Değerli katılımcıların dikkatini üstünüze çekip, kolektif zekanın gücünü kullanarak projelerinizi geliştirin.",
     "thinkers": {
       "headline": "Düşünürler",
-      "text": "Büyük düşünürlerin fikirlerini geliştirmek ve sorunları çözmek için projenizde dikkatini."
+      "text": "Projenizde,fikir edinmek ve sorunları çözmek için büyük düşünürlerin dikkatini çekin."
     },
     "developers": {
       "headline": "Geliştiriciler",
@@ -106,30 +106,30 @@
       "text": "Veri analistleri yardımıyla üretilmiş verilerden anlam çıkartın, eğilimleri keşfedin ve projeniz ile ilgili bilinçli kararlar alın."
     },
     "influencers": {
-      "headline": "Nufüzlu kişiler",
-      "text": "Dünyanın her bir yanından söz sahibi kişiler yardımıyla etkin çevrimiçi veya çevrimdışı pazarlamayı kordine ederek, projenizin hak ettiği ilgiyi sağlayın."
+      "headline": "Etkileyen",
+      "text": "Dünyanın her bir yanından söz sahibi kişiler yardımıyla etkin çevrimiçi veya çevrimdışı pazarlamayı koordine ederek, projenizin hak ettiği ilgiyi sağlayın."
     }
   },
   "rewards": {
     "contributor_rewards": "Katılımcı ödülleri",
-    "curator_rewards": "Küratör ödülleri",
+    "curator_rewards": "Müdür ödülleri",
     "pending_rewards": "Bekleyen ödüller",
     "total_generated": "Toplam oluşturulan",
     "steem": {
-      "headline": "Ödülleri ödeyen?",
-      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.<br><br> Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır. <br><br> Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına <b>3,5 milyondan daha fazla Steem Power</b> delege edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre <b>500 dolar</b>'dan daha fazla hale getirmiştir. <br><br> Daha fazla bilgi için <a href='https://github.com/imwatsi/utopian.io-help_center'>Help Center'ları inceleyiniz</a>.",
-      "button": "Steem hakkında daha fazla"
+      "headline": "Ödülleri veren kim?",
+      "text": "Utopian.io, ödülleri ödemek için <a href='https://steem.io/'> Steem blockchain</a>'ini kullanmaktadır. Para, <b>STEEM</b> adı verilen kripto para birimi şeklinde, topluluk oylamaları aracılığıyla oluşturulmaktadır. Ödülleri kimsenin direkt olarak karşılaması gerekmemektedir. Paralar, <i>Proof-of-Brain</i> adı verilen algoritma kullanılarak üretilmekte ve dağıtılmaktadır, bu ise insanları üretmeye ve kürasyona teşvik eder.Utopian.io'da ise Açık Kaynak dünyasına katlılarınız kaliteli içerik olmaktadır. Katkılarınızı oylayarak topluluk, yaptığınız iş için sizi ödüllendirmekte kullanılacak parayı oluşturmuş olur. Insanlar birbirlerine ödeme yapmak için kendi STEEM'lerini de kullanmayı da seçebilirler, tabii isterlerse, ama bu, tercihe bağlıdır.  Bir kullanıcının oyu onun platformdaki kendi yatırımına dayalıdır ve hisseleri ne kadar büyükse kürasyonda oylarının değeri o kadar fazla olur. Sizin katkılarınıza Utopian.i'nun kendisi de oy verebilir. Utopian.io platformunun hesabına  3,5 milyondan daha fazla Steem Power adapte edilmiştir, bu ise tam güç oy değerini şu anki market fiyatlarına göre 500 dolar'dan daha fazla hale getirmiştir. Daha fazla bilgi için <a href='https://github.com/imwatsi/utopian.io-help_center'>Help Center'ları inceleyiniz</a>.",
+      "button": "Steem hakkında daha fazla bilgi"
     }
   },
   "rules": {
     "step1": "Kurallarımıza <br> uyunuz!",
-    "step2": "Moderatörlerimiz tarafından<br> incelen!",
+    "step2": "Moderatörlerimiz tarafından<br> incelenicek!",
     "step3": "Utopian topluluğu tarafından oy al!",
-    "step4": "7 gün sonra<br> ödemeni al!",
+    "step4": "7 gün sonra<br> ödemeni alabilirsin!",
     "text": "Kaliteyi sağlamak için her katkı moderatörlerimizden biri tarafından kurallarımıza göre incelenir. Bu kurallara uymamak ya daha düşük ödüller almanıza ya da katkınızın kabul edilmesini tamamen durdurmaya sebep olacaktır. Ancak, katkınız kabul edilmezse, yine de Steem blockchain'inde paylaşılacak ve ödül kazanabilecektir. Bu durumda kendi başınızın çaresine bakmanız gerekecektir. Utopian gönderinize ödül de vermeyecektir paylaşmayacaktır da.",
     "categories": {
       "suggestions": {
-        "headline": "Öneri kuralları",
+        "headline": "Öneri kurallar",
         "rule1": "Öneriler, bir Açık Kaynak projede görmek isteyeceğiniz küçük özellikler/geliştirmelerdir.",
         "rule2": "Öneriler, istenilen özelliklerin gerçekten yapılabilmesi için yeterince detay sunmalıdır.",
         "rule3": "Ekran paylaşımı, görüntüler ve link örnekleri bu kategoride her zaman hoş karşılanır.",
@@ -165,10 +165,10 @@
         "rule1": "Utopian'a çeviri göndermek için orta büyüklükte bir projenin en az %30'unu (500 - 1000 satır), büyük projelerin %10-15'ini (1000 satırdan fazla), küçük projelerin ise tamamını çevirmeniz gerekir (1 - 500 satır).",
         "rule2": "Bu kategoriyi sadece çevirdiğiniz veya güncellediğiniz bir açık kaynaklı proje için kullanın.",
         "rule3": "Çevrilmiş metnin tamamını gönderi içinde veya herkese açık bağlantılarla bulundurmalısın.",
-        "rule4": "Mümkün olduğunca detay ekleyin, ki çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
+        "rule4": "Mümkün olduğunca detay ekleyin ki, çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
         "rule5": "Tamamı çevrilen çeviriler her zaman tercih edilir. Eğer çevirinin bir kısmını çeviriyorsanız, tam çeviriyi değerlendirme hakkımızı saklı tutuyoruz.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
-        "rule7": "Eğer kullanıcı adın CrowdIn veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
+        "rule7": "Eğer kullanıcı adın Crowdin veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
         "rule8": "Başkası veya senin tarafından önceden gönderilmiş bir çeviriyi asla tekrar gönderme."
       },
       "graphics": {
@@ -176,7 +176,7 @@
         "rule1": "Eğer yapılan çalışmanın ödül alacak kadar yeterli olmadığına inanırsak, yapılan grafik katkısını reddetme hakkına sahibiz.",
         "rule2": "Bu kategoride, sadece açık kaynaklı bir proje için yaptığın simge, ikon, arkaplanlar, videolar gibi tasarımları gönderebilirsin.",
         "rule3": "Tasarımlarının tamamını göndermeden önce, tasarımlarının birkaç örneğini gönderine veya herkese açık bağlantılarda dahil etmen gerekir.",
-        "rule4": "Yaptığınız işi doğrulamak için olabildiğince çok ayrıntı vermelisiniz",
+        "rule4": "Yaptığınız işi doğrulamak için olabildiğince çok ayrıntı vermelisiniz.",
         "rule5": "Düzenlenebilir kaynak dosyalarını (.psd .ai .eps .svg .cdr gibi) sağlamalısınız.",
         "rule6": "T-shirt'ler ve giyim ürünleri genelde hoş karşılanmaz, tabi proje sahibi tarafından istenmediyse.",
         "rule7": "Asla senin veya bir başkası tarafından paylaşılmış bir gönderiyi tekrar paylaşma."
@@ -232,7 +232,7 @@
       "copywriting": {
         "headline": "Metin yazarlığı kuralları",
         "rule1": "Resmi depoda yalnızca birleştirilmiş 'Pull request'ler kabul edilecektir ya da forklarda, fork orijinalinin sadece bir kopyası olmadığı sürece. İş kanıtı gerekmektedir.",
-        "rule2": "Açık kaynak projeye yaptığınız metin çalışmasını göstermek için bu kategoriyi kullanın.",
+        "rule2": "Açık kaynak projeye yaptığınız metin çalışmasını göstermek için.",
         "rule3": "Metin yazarlığı herhangi bir dilde olabilir.",
         "rule4": "Yazı girişi her zaman gönderinin başında ingilizce olarak yazılmak zorundadır.",
         "rule5": "Sahibi siz olmalısınız.",
@@ -243,7 +243,7 @@
         "headline": "Blog yazısı kuralları",
         "rule1": "Özgün bir formatınız olmalıdır. Özgün ve istikrarlı bir formatınız yoksa internette bulunan haberler ya da genel düşüncelerle ilgili paylaşım yapamazsınız.<a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>İyi bir format örneği</a>.",
         "rule2": "Sadece <b>açık-kaynak projeler</b> veya genel olarak <b>açık-kaynak hareketi</b> ile ilgili blog gönderileri yazabilirsiniz.",
-        "rule3": "Blog gönderileri, açık-kaynak projelerle ilgili detaylı içerik ve  genel bakışlar sağlamalıdır.",
+        "rule3": "Blog gönderileri, açık-kaynak projelerle ilgili detaylı içerik ve genel bakışlar sağlamalıdır.",
         "rule4": "Görüntüler, ekran paylaşımları, adresler ve örnekler şart değil ancak tercih edilir.",
         "rule5": "Yazınızın diğer kategorilere girmediğinden emin olmak için kontrol edin(örn. Rehberler(tutorials) veya Metin yazarlığı(Copywriting)).",
         "rule6": "Daha önceden paylaştığın bir blog yazısını asla paylaşma.",

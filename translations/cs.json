@@ -30,43 +30,43 @@
       "text": "Vše začíná zrozením myšlenky. Sdílejte své nápady a žádosti na funkce a pomozte tak vylepšit projekt."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "Podprojekty",
+      "text": "Sdílejte nové, vypracované funkce a koncepty, které jste vytvořili pro projekt."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "Vývoj",
+      "text": "Pokud jste napsali kód a vytvořili Pull Request, podělte se o svoji práci s komunitou na Utopianu."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "Hledání chyb",
+      "text": "Pomozte vývojářům odhalit a opravit problémy se softwarem napsáním podrobné zprávy o chybách."
     },
     "translation": {
-      "headline": "Translation",
-      "text": "Help people use software in other languages by translating text or documentation via <a href='https://crowdin.com/' target='_blank'>Crowdin</a> and other tools."
+      "headline": "Překlad",
+      "text": "Zpřístupněte software v ostatních jazycích tím, že přeložíte texty nebo dokumentaci přes <a href='https://crowdin.com/' target='_blank'>Crowdin</a> nebo jiný nástroj."
     },
     "graphics": {
-      "headline": "Graphics",
-      "text": "Share original logos, icons, backgrounds and other graphics that you have designed for a project."
+      "headline": "Grafika",
+      "text": "Sdílejte originální loga, ikony, tapety nebo jiná grafická díla, která jste navrhli pro projekt."
     },
     "documentation": {
-      "headline": "Documentation",
-      "text": "If you have authored documentation for a project (in any language), you can share it with the community."
+      "headline": "Dokumentace",
+      "text": "Jestliže jste sepsali projektovou dokumentaci (v libovolném jazyce), můžete se o ni podělit s komunitou."
     },
     "analysis": {
-      "headline": "Analysis",
+      "headline": "Analýza",
       "text": "Maybe you've analyzed a particular project's data set and extracted useful information from it. You can share it with the community too."
     },
     "visibility": {
-      "headline": "Visibility",
+      "headline": "Viditelnost",
       "text": "Marketing efforts can also be rewarded through Utopian as well. Tell the community what you've done to promote an Open Source project."
     },
     "tutorials": {
-      "headline": "Tutorials",
+      "headline": "Návody",
       "text": "Write informative tutorials and help other people to use Open Source products."
     },
     "videotutorials": {
-      "headline": "Video Tutorials",
+      "headline": "Video návody",
       "text": "Create how-to videos for an Open Source product and help people learn how to use it."
     },
     "copywriting": {
@@ -75,68 +75,68 @@
     }
   },
   "crowdsourcing": {
-    "headline": "Utopian for Project Owners",
+    "headline": "Utopian pro vlastníky projektů",
     "text": "With Utopian.io, you can make <b>announcements</b> for your projects and quickly crowdsource from an international talent pool. Get the attention of valuable contributors and use the power of collective intelligence to develop your projects.",
     "thinkers": {
-      "headline": "Thinkers",
+      "headline": "Myslitelé",
       "text": "Get the attention of great thinkers on your project to develop ideas and solve problems."
     },
     "developers": {
-      "headline": "Developers",
-      "text": "Call on talented developers to write code or fix bugs."
+      "headline": "Vývojáři",
+      "text": "Vyzvěte nadané vývojáře k programování a opravám chyb."
     },
     "bughunters": {
-      "headline": "Bug Hunters",
+      "headline": "Hledači chyb",
       "text": "Encourage users to report problems or invite them to try out new features you're developing."
     },
     "translators": {
-      "headline": "Translators",
+      "headline": "Překladatelé",
       "text": "Reach more people around the world by assigning translators to make your project available in multiple languages."
     },
     "designers": {
-      "headline": "Designers",
+      "headline": "Designéři",
       "text": "Have talented designers create unique graphics for your project or brand."
     },
     "writers": {
-      "headline": "Technical Writers",
+      "headline": "Dokumentaristé",
       "text": "Get comprehensive documentation created for your project that properly informs your users and other stakeholders."
     },
     "analysts": {
-      "headline": "Data Analysts",
+      "headline": "Analytici dat",
       "text": "Extract meaning from your generated data, discover trends and make informed decisions regarding your project through the help of data analysts."
     },
     "influencers": {
-      "headline": "Influencers",
+      "headline": "Činitelé",
       "text": "Coordinate effective online or offline marketing with the help of influencers around the world and get your project the attention it deserves."
     }
   },
   "rewards": {
-    "contributor_rewards": "Contributor Rewards",
-    "curator_rewards": "Curator Rewards",
-    "pending_rewards": "Pending Rewards",
-    "total_generated": "Total Generated",
+    "contributor_rewards": "Přispěvatelské odměny",
+    "curator_rewards": "Kurátorské odměny",
+    "pending_rewards": "Očekávané odměny",
+    "total_generated": "Celkově generováno",
     "steem": {
-      "headline": "Who pays the rewards?",
+      "headline": "Kdo vyplácí odměny?",
       "text": "To pay the rewards, Utopian.io uses the <a href='https://steem.io/'>Steem blockchain</a>. The money is created in the form of a cryptocurrency called <b>STEEM</b>, through community voting. Nobody has to pay for the rewards directly. They are generated and distributed using an algorithm called <i>Proof-of-Brain</i>, which encourages people to create and curate quality content.<br><br>In the case of Utopian.io, your contributions to the Open Source world are the quality content. By upvoting your contributions, the community creates money to reward you for your work. People can also choose to pay each other directly using their own STEEM, if they want to, but it's optional.<br><br>The worth of a user's vote is based on his/her own investment in the platform and the larger their stake, the more their vote is worth when curating. Utopian.io itself can vote on your contributions. Over <b>3.5 million Steem Power</b> was delegated to the Utopian.io platform's account, making its full vote worth more than <b>$500</b>, at current market prices.<br><br><a href='https://github.com/imwatsi/utopian.io-help_center'>Check our Help Center</a> for more information.",
-      "button": "Learn more about Steem"
+      "button": "Více informací o Steemu"
     }
   },
   "rules": {
-    "step1": "Abide by<br>our rules!",
-    "step2": "Get reviewed by our<br>moderators!",
+    "step1": "Řiďte se<br>našimi pravidly!",
+    "step2": "Překontrolují vás<br>naši moderátoři!",
     "step3": "Get upvoted by Utopian.io and the community!",
     "step4": "Get paid<br>after 7 days!",
     "text": "To ensure quality, each contribution is reviewed by one of our moderators, according to our rules. Not respecting these rules will either get you lower rewards or stop your contribution from being accepted at all. However, if your contribution is not accepted, it will still be published on the Steem blockchain, and it can earn rewards. In that case, you will be on your own. Utopian will not reward your contribution nor share it.",
     "categories": {
       "suggestions": {
-        "headline": "Suggestion Rules",
+        "headline": "Pravidla pro nápady",
         "rule1": "Suggestions are minor features/enhancements that you would like to have in an Open Source project.",
         "rule2": "Suggestions must provide sufficient details for the requested features to be actually built.",
         "rule3": "Images, screenshots, links and examples are always welcome in this category.",
         "rule4": "Never write about suggestions you have already shared before or suggestions already shared by someone else."
       },
       "subprojects": {
-        "headline": "Sub-Project Rules",
+        "headline": "Pravidla pro podprojekty",
         "rule1": "A Sub-Project is a set of new, unseen features having a great impact on the project.",
         "rule2": "Sub-Projects must provide comprehensive details of the features to be actually built.",
         "rule3": "Images, screenshots, links, flows, mockups and examples are always mandatory in this category.",
@@ -145,7 +145,7 @@
         "rule6": "Never write about projects you have already shared before or projects already shared by someone else."
       },
       "development": {
-        "headline": "Development Rules",
+        "headline": "Pravidla pro vývoj",
         "rule1": "Only merged Pull Requests will be accepted or Open Source projects you maintain never posted on Utopian before, forks included as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "In this category, you can only write if you have developed or contributed code to the development of a project.",
         "rule3": "You must provide links to the branches, forks, gists or pull requests.",
@@ -154,14 +154,14 @@
         "rule6": "Never write about code contributions you have already shared before."
       },
       "bughunting": {
-        "headline": "Bug Hunting Rules",
+        "headline": "Pravidla pro hledání chyb",
         "rule1": "Only use this category to report bugs you have found in an Open Source project.",
         "rule2": "You must provide all possible details required to reproduce the bug.",
         "rule3": "You must include, for example: browsers used, device types, operating systems and similar details.",
         "rule4": "Never report bugs that have already been shared before, by you or someone else."
       },
       "translation": {
-        "headline": "Translation Rules",
+        "headline": "Pravidla pro překlad",
         "rule1": "In order to submit a translation in Utopian you must have translated at least 30% of the project for medium sized projects (500-1000 strings), 10-15% for big projects (1000 and up), 100% for small projects (1 - 500).",
         "rule2": "Use this category only for translations you have authored or updated for an Open Source project.",
         "rule3": "You must either include your entire translated text in the post or include public links to the full versions.",
@@ -172,7 +172,7 @@
         "rule8": "Never submit translations that have already been shared, by you or someone else."
       },
       "graphics": {
-        "headline": "Graphics Rules",
+        "headline": "Pravidla pro grafiku",
         "rule1": "We reserve the right to reject a graphic contribution if we believe the work is not enough to be rewarded.",
         "rule2": "In this category, only submit graphics like logos, icons, backgrounds, videos or animations that you have created for an Open Source project.",
         "rule3": "You must include samples of your creations directly in your post and public links to the complete designs.",
@@ -182,7 +182,7 @@
         "rule7": "Never post about graphics that have been shared before, by you or someone else."
       },
       "analysis": {
-        "headline": "Analysis Rules",
+        "headline": "Pravidla pro analýzu",
         "rule1": "This category is only for analysis that you have prepared for an Open Source project.",
         "rule2": "You must include detailed results and explain the reasons behind them.",
         "rule3": "If you are not posting your analysis in its entirety here, you must provide public links to full versions of it.",
@@ -190,7 +190,7 @@
         "rule5": "Never submit analysis that has been shared before, by you or someone else."
       },
       "visibility": {
-        "headline": "Visibility Rules",
+        "headline": "Pravidla pro viditelnost",
         "rule1": "In this category, submit the results of marketing efforts you made to improve the visibility of an Open Source project; such as social media campaigns, advertising, conferences or meetups.",
         "rule2": "You must provide links, images or videos with proof of your efforts, and also share the results.",
         "rule3": "If your efforts brought just a few or zero new users/contributors to the Open Source project, you should not write about it.",
@@ -198,7 +198,7 @@
         "rule5": "Never write about visibility efforts you have already shared before."
       },
       "documentation": {
-        "headline": "Documentation Rules",
+        "headline": "Pravidla pro dokumentaci",
         "rule1": "Only merged Pull Requests on the official repository will be accepted or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Submit to this category only when you're working on the Official Documentation of an Open Source project.",
         "rule3": "You must be the author of either the entire documentation or of the changes/enhancements being applied to the documentation.",
@@ -209,7 +209,7 @@
         "rule8": "Never submit documentation work that you have already shared in the past."
       },
       "tutorials": {
-        "headline": "Tutorial Rules",
+        "headline": "Pravidla pro návody",
         "rule1": "Machine translated tutorials will be rejected.",
         "rule2": "This category is only for providing tutorials for an Open Source project.",
         "rule3": "Tutorials can be in any language.",
@@ -220,7 +220,7 @@
         "rule8": "Never post tutorials you have already shared before on the Steem blockchain in general."
       },
       "videotutorials": {
-        "headline": "Video Tutorial Rules",
+        "headline": "Pravidla pro video návody",
         "rule1": "Video Tutorials using machine voice will be rejected.",
         "rule2": "This category is only for providing video tutorials for an Open Source project.",
         "rule3": "Video Tutorials can be in any language.",
@@ -230,7 +230,7 @@
         "rule7": "Never post video tutorials you have already shared before on the Steem blockchain in general."
       },
       "copywriting": {
-        "headline": "Copywriting Rules",
+        "headline": "Pravidla pro copywriting",
         "rule1": "Only merged Pull Requests will be accepted on the official repository or on a fork as long as long as the fork is not just a mirror of the original one. Proof of work required.",
         "rule2": "Use this category only to show copywriting work that you have completed for an Open Source project.",
         "rule3": "Copywriting can be in any language.",
@@ -240,7 +240,7 @@
         "rule7": "Never post copywriting work that you have already shared before."
       },
       "blog": {
-        "headline": "Blog Post Rules",
+        "headline": "Pravidla pro blog",
         "rule1": "You must provide an original format/s. You can't post about news found in the web or general thoughts, unless you have a unique and consistent format. <a href='https://utopian.io/utopian-io/@utopian-io/2xqdoa-utopian-weekly-1-the-weekly-open-source-newsletter'>Example of a good format</a>.",
         "rule2": "You may only write blog posts that are related to <b>open-source projects</b> or the <b>open-source movement</b> in general.",
         "rule3": "Blog posts must provide detailed content and overviews related to the open-source projects.",
@@ -252,10 +252,10 @@
     }
   },
   "moderators": {
-    "rewards": "Rewards",
-    "pending": "Pending",
-    "previous": "Previous",
-    "meet": "Meet our moderators",
+    "rewards": "Odměny",
+    "pending": "Očekávaná",
+    "previous": "Předchozí",
+    "meet": "Seznamte se s moderátory",
     "text": "On Utopian, all contributors are rewarded for their hard work, including our moderators, who ensure high quality standards are upheld on the platform.",
     "pending_payout": "Pending Payout",
     "previous_payout": "Previous Payout",
