@@ -12,26 +12,26 @@
   "header": {
     "text1": "Utopian.io",
     "text2": "Açık kaynak ekonomisi",
-    "text3": "Favori açık kaynak projelerine katkıda bulunarak<br>ödül kazan!"
+    "text3": "En sevdiğiniz açık kaynak kodlu projelerine katkıda bulunarak ödül kazan!"
   },
   "intro": "Modern dünya <a href='https://en.wikipedia.org/wiki/Open-source_model'>Açık kaynak</a> yazılımlarla bilgisayarlarda, akıllı telefonlarda yani heryerde! Favori uygulamalarınız açık kaynak yazılımlar olmadan olmazdı. Dünya çapında gönüllüler ve hobi olarak yapan kimseler tarafından geliştiriliyor. Bu kimseler sizinle dışarıya çıkmaktansa bilgisayarı tercih eden arkadaşlarınız... Açık kaynak yazılımlar bedava ve herkesin malı olarak ihtiyaçlarınızı karşılamanızı sağlıyor. Otoritenin standartlara uygun empozesi yerine kollektif zekaya dayalıdır ve bütün bu yapılanlar bedava! Bu projeler için yapılan katkıları utopian, kalite standartlarına uyduğu sürece ödüllendiriyor.",
   "octocat": {
     "hi": "Merhaba! Ben Octocat!",
     "text": "Github'da maskot olarak çalışıyorum! Burada bulunmak harika. Bizler, binlerce proje için birlikte çalışan, meraklı ve gönüllülerden oluşan dünya çapında bir topluluğuz.<b>Utopian.io</b> Hata çözümleme, çevirmenlik, dökümantasyon yazarlığı veya fikir paylaşımları gibi Açık kaynaklara verdiğiniz katkılar için sizi ödüllendiriyor.",
-    "visit": "GitHub.com'u ziyaret et!"
+    "visit": "GitHub.com'u ziyaret edin!"
   },
   "projects": {
     "headline": "Bir proje seç..."
   },
   "contribute": {
-    "headline": "...ve katkıda bulun!",
+    "headline": "...katkıda bulun!",
     "suggestions": {
       "headline": "Öneriler",
       "text": "Herşey bir fikir ile başlar. Projeye katkıda bulunmak için fikirlerini veya yenilik için isteklerini paylaş."
     },
     "subprojects": {
       "headline": "Alt projeler",
-      "text": "Proje için geliştirdiğin, yeni ve ayrıntıyla donatılmış özellikleri ya da konsepti paylaş."
+      "text": "Bir proje için geliştirdiğiniz yeni ve daha ayrıntılı özellikler veya kavramları paylaşın.\n"
     },
     "development": {
       "headline": "Geliştirme",
@@ -62,7 +62,7 @@
       "text": "Pazarlama çalışmaları da utopian tarafından ödüllendiriliyor. Topluluğa açık kaynak proje için neler yaptığını ve nasıl desteklediğini göster."
     },
     "tutorials": {
-      "headline": "Eğitimler",
+      "headline": "rehber",
       "text": "Diğer insanlara yardım etmek için, açık kaynak ürünler üstüne eğitici bir yazı hazırla."
     },
     "videotutorials": {
@@ -71,15 +71,15 @@
     },
     "copywriting": {
       "headline": "Metin yazarlığı",
-      "text": "Açık kaynaklı proje için, çekici ve bilgilendirici bir metin yazarak, markalarının güçlenmesini sağla."
+      "text": "Açık Kaynak projeleri için ilgi çekici ve bilgilendirici kopyalar yazın ve markalarının gücünü artırın."
     }
   },
   "crowdsourcing": {
     "headline": "Proje sahipleri için Utopian",
-    "text": "Utopian.io ile projeleriniz için <b>duyuru</b> yapabilir, hızlıca uluslararası yetenek havuzuna erişebilirsiniz. Değerli katılımcıların dikkatini üstünüze çekip, kolektif zekanın gücünü kullanarak projelerinizi geliştirin.",
+    "text": "Utopian.io ile projeleriniz için yapabilir, hızlıca uluslararası yetenek havuzuna erişebilirsiniz. Değerli katılımcıların dikkatini üstünüze çekip, kolektif zekanın gücünü kullanarak projelerinizi geliştirin.",
     "thinkers": {
       "headline": "Düşünürler",
-      "text": "Büyük düşünürlerin fikirlerini geliştirmek ve sorunları çözmek için projenizde dikkatini."
+      "text": "Projenizde,fikir edinmek ve sorunları çözmek için büyük düşünürlerin dikkatini çekin."
     },
     "developers": {
       "headline": "Geliştiriciler",
@@ -106,8 +106,8 @@
       "text": "Veri analistleri yardımıyla üretilmiş verilerden anlam çıkartın, eğilimleri keşfedin ve projeniz ile ilgili bilinçli kararlar alın."
     },
     "influencers": {
-      "headline": "Nufüzlu kişiler",
-      "text": "Dünyanın her bir yanından söz sahibi kişiler yardımıyla etkin çevrimiçi veya çevrimdışı pazarlamayı kordine ederek, projenizin hak ettiği ilgiyi sağlayın."
+      "headline": "Etkileyen",
+      "text": "Dünyanın her bir yanından söz sahibi kişiler yardımıyla etkin çevrimiçi veya çevrimdışı pazarlamayı koordine ederek, projenizin hak ettiği ilgiyi sağlayın."
     }
   },
   "rewards": {
