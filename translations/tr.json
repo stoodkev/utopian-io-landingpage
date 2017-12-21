@@ -168,7 +168,7 @@
         "rule4": "Mümkün olduğunca detay ekleyin ki, çevirileri ve çeviri için kullandığınız programları kontrol edebilelim.",
         "rule5": "Tamamı çevrilen çeviriler her zaman tercih edilir. Eğer çevirinin bir kısmını çeviriyorsanız, tam çeviriyi değerlendirme hakkımızı saklı tutuyoruz.",
         "rule6": "Çevirinin sahibi sen olmalısın ve yaptığın işin kanıtlaman gerekli.",
-        "rule7": "Eğer kullanıcı adın CrowdIn veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
+        "rule7": "Eğer kullanıcı adın Crowdin veya benzeri bir çeviri platformuyla benzerlik gösteriyorsa, giriş yaptığın hesabın ekran görüntüsünü bize göndererek kanıtlamalısın.",
         "rule8": "Başkası veya senin tarafından önceden gönderilmiş bir çeviriyi asla tekrar gönderme."
       },
       "graphics": {
