@@ -356,7 +356,7 @@ var app = new Vue({
           categoryLabel += ' Request';
         }
 
-        return '<div class="contribution"><div class="contribution-inner">\n    <div class="category ' + contribution.json_metadata.type + '">\n        <i class="anticon icon-' + icon + '"></i>\n        ' + categoryLabel + '\n    </div>\n    <div class="user clearfix">\n        <img class="profile-image" src="https://img.busy.org/@' + contribution.author + '?s=30"/>\n        <a class="username" href="https://utopian.io/@' + contribution.author + '">' + contribution.author + '</a>\n        <span class="reputation">' + calculateReputation(contribution.author_reputation) + '</span>\n        <span class="date">' + moment.utc(contribution.created).from(moment.utc().format('YYYY-MM-DD HH:mm:ss')) + '</span>\n    </div>\n    <div class="title">\n        <a href="https://utopian.io' + contribution.url + '">' + contribution.title + '</a>\n    </div>\n    <div class="stats clearfix">\n        <div class="float-left mr-2">\n            <i class="anticon icon-like1"></i>\n            ' + contribution.net_votes + '\n        </div>\n        <div class="float-left">\n            <i class="anticon icon-message1"></i>\n            ' + contribution.children + '        \n        </div>\n        <div class="float-right">\n            $' + getPostPayout(contribution) + '        \n        </div>\n    </div>\n</div></div>';
+        return '<div class="contribution"><div class="contribution-inner">\n    <div class="category ' + contribution.json_metadata.type + '">\n        <i class="anticon icon-' + icon + '"></i>\n        ' + categoryLabel + '\n    </div>\n    <div class="user clearfix">\n        <img class="profile-image" src="https://img.busy.org/@' + contribution.author + '?s=30"/>\n        <a class="username" href="https://utopian.io/@' + contribution.author + '">' + contribution.author + '</a>\n        <span class="reputation">' + calculateReputation(contribution.author_reputation) + '</span>\n        <span class="date">' + moment.utc(contribution.created).from(moment.utc().format('YYYY-MM-DD HH:mm:ss')) + '</span>\n    </div>\n    <div class="title">\n        <a href="https://utopian.io' + contribution.url + '">' + contribution.title + '</a>\n    </div>\n    <div class="stats clearfix">\n        <div class="float-left mr-2">\n            <i class="anticon icon-like1"></i>\n            ' + contribution.net_votes + '\n        </div>\n        <div class="float-left">\n            <i class="anticon icon-message1"></i>\n            ' + contribution.children + '\n        </div>\n        <div class="float-right">\n            $' + getPostPayout(contribution) + '\n        </div>\n    </div>\n</div></div>';
       }
     },
     getRewards: function getRewards() {
@@ -397,7 +397,7 @@ var app = new Vue({
           _this3.moderators = data.results;
           for (var i = 0; i < _this3.moderators.length; i++) {
             _this3.rewards.moderators.pending += _this3.moderators[i].should_receive_rewards;
-            _this3.rewards.moderators.previous += _this3.moderators[i].total_paid_rewards;
+            _this3.rewards.moderators.previous += _this3.moderators[i].total_paid_rewards_steem;
           }
         }
       });

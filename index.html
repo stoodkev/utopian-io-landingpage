@@ -671,13 +671,8 @@
                                         <div class="container caption">
                                             <span v-html="trans('messages.moderators.rewards')"></span>
                                             <div class="row">
-                                                <div class="col-6">
-                                                    <div class="payout">{{ moderator.should_receive_rewards | currency }} SBD</div>
-                                                    <small v-html="trans('messages.moderators.pending')"></small>
-                                                </div>
-                                                <div class="col-6">
-                                                    <div class="payout">{{ moderator.total_paid_rewards | currency }} SBD</div>
-                                                    <small v-html="trans('messages.moderators.previous')"></small>
+                                                <div class="col-12">
+                                                    <div class="payout">{{ moderator.total_paid_rewards_steem | currency }} STEEM</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -710,12 +705,8 @@
                         <p class="lead" v-html="trans('messages.moderators.text')"></p>
                         <div class="container">
                             <div class="row">
-                                <div class="col col-6">
-                                    <h3 class="mb-2">{{ rewards.moderators.pending | currency }}<br><small>SBD</small></h3>
-                                    <p class="lead" v-html="trans('messages.moderators.pending_payout')"></p>
-                                </div>
-                                <div class="col col-6">
-                                    <h3 class="mb-2">{{ rewards.moderators.previous | currency }}<br><small>SBD</small></h3>
+                                <div class="col col-12">
+                                    <h3 class="mb-2">{{ rewards.moderators.previous | currency }} <small>STEEM</small></h3>
                                     <p class="lead" v-html="trans('messages.moderators.previous_payout')"></p>
                                 </div>
                             </div>

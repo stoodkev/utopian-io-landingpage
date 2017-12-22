@@ -338,7 +338,7 @@ let app = new Vue({
           });
         }
       });
-      
+
       function getContributionHtml(contribution) {
         let categoryLabel = '',
             icon = '';
@@ -425,10 +425,10 @@ let app = new Vue({
         </div>
         <div class="float-left">
             <i class="anticon icon-message1"></i>
-            ${contribution.children}        
+            ${contribution.children}
         </div>
         <div class="float-right">
-            $${getPostPayout(contribution)}        
+            $${getPostPayout(contribution)}
         </div>
     </div>
 </div></div>`;
@@ -468,7 +468,7 @@ let app = new Vue({
           this.moderators = data.results;
           for (let i = 0; i < this.moderators.length; i++) {
             this.rewards.moderators.pending += this.moderators[i].should_receive_rewards;
-            this.rewards.moderators.previous += this.moderators[i].total_paid_rewards;
+            this.rewards.moderators.previous += this.moderators[i].total_paid_rewards_steem;
           }
         },
       });
