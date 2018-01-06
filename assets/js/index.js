@@ -133,6 +133,7 @@ $(function () {
     .staggerTo('.upvote', 2, {bottom: "+=25", opacity: 0, ease: Power1.easeInOut}, 1, '-=5');
 
   // blog
+  steem.api.setOptions({ url: 'https://api.steemit.com' });
   steemitWidgets.blog({
     element: 'utopian-steemit-blog',
     user: 'utopian-io',
