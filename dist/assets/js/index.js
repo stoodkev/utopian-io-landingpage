@@ -15,6 +15,14 @@ $(function () {
       scrollTop: $(hash).offset().top - 115
     }, 1000);
   });
+  $('.proceed_modal').on('click',function(e){
+    window.location.href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&response_type=code&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=vote,comment,comment_delete,comment_options,custom_json,claim_reward_balance,offline";
+  });
+  $('#loginModal').on('shown.bs.modal', function (e) {
+    setTimeout(function(){
+      window.location.href="https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&response_type=code&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=vote,comment,comment_delete,comment_options,custom_json,claim_reward_balance,offline";
+    },6000);
+})
 
   // navbar animation when scrolling down
   $(window).on('scroll', function () {
