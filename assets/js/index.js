@@ -493,6 +493,23 @@ let app = new Vue({
   }
 });
 
+// displaying cookie policy banner 
+(function () {
+  if (!!Cookies.get('isCookiePolicyAccepted') !== true) {
+    $('#cookie-policy-banner').show();
+  }
+
+  $('#proceed-button').click(function () {
+    console.log('lappa');
+    Cookies.set('isCookiePolicyAccepted', true, {
+      expires: 3650, // ten years from now 
+      domain: 'utopian.io'
+    });
+
+    $('#cookie-policy-banner').hide();
+  });
+})(); 
+
 function getPostPayout(post) {
   if (post.last_payout === '1970-01-01T00:00:00') {
     let payout = post.pending_payout_value.replace(' SBD', '');
