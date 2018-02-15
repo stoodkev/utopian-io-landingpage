@@ -12,6 +12,16 @@ $(function () {
     }, 1000);
   });
 
+  $('.proceed_modal').on('click', function (e) {
+    window.location.href = "https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&response_type=code&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=vote,comment,comment_delete,comment_options,custom_json,claim_reward_balance,offline";
+  });
+
+  $('#loginModal').on('shown.bs.modal', function (e) {
+    setTimeout(function () {
+      window.location.href = "https://v2.steemconnect.com/oauth2/authorize?client_id=utopian.app&response_type=code&redirect_uri=https%3A%2F%2Futopian.io%2Fcallback&scope=vote,comment,comment_delete,comment_options,custom_json,claim_reward_balance,offline";
+    }, 6000);
+  });
+
   // navbar animation when scrolling down
   $(window).on('scroll', function () {
     let nav = $('#navbar');
@@ -493,6 +503,22 @@ let app = new Vue({
   }
 });
 
+// displaying cookie policy banner 
+(function () {
+  if (!!Cookies.get('isCookiePolicyAccepted') !== true) {
+    $('#cookie-policy-banner').show();
+  }
+
+  $('#proceed-button').click(function () {
+    Cookies.set('isCookiePolicyAccepted', true, {
+      expires: 3650, // ten years from now 
+      domain: 'utopian.io'
+    });
+
+    $('#cookie-policy-banner').hide();
+  });
+})(); 
+
 function getPostPayout(post) {
   if (post.last_payout === '1970-01-01T00:00:00') {
     let payout = post.pending_payout_value.replace(' SBD', '');
@@ -512,5 +538,5 @@ function calculateReputation(rep) {
 }
 
 function randomNumberBetween(min,max) {
-  return min + Math.random() * (max-min)
+  return min + Math.random() * (max-min);
 }
