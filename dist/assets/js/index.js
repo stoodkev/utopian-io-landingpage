@@ -443,6 +443,7 @@ var app = new Vue({
   }
 
   $('#proceed-button').click(function () {
+    console.log('lappa');
     Cookies.set('isCookiePolicyAccepted', true, {
       expires: 3650, // ten years from now
       domain: 'utopian.io'
@@ -473,4 +474,3 @@ function calculateReputation(rep) {
 function randomNumberBetween(min, max) {
   return min + Math.random() * (max - min);
 }
-//# sourceMappingURL=index.js.map
